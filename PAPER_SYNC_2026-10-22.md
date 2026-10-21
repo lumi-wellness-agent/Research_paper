@@ -1,23 +1,41 @@
 # LUMI paper sync — 2026-10-22
 
-기준: 첨부 논문 목록 P01–P34에서 GitHub `main`의 PDF와 파일명이 대응하지 않는 8편.
+## Actual import status
 
-**주의:** 아래 항목들은 모두 연구 식별자/원문 링크이며, 이 문서를 추가했다고 PDF가 저장소에 업로드된 것은 아닙니다. 원문을 무료 열람할 수 있는 것과 GitHub에 재배포할 수 있는 것은 다릅니다. 저작권·라이선스가 허용된 경우에만 PDF를 저장합니다.
+Four of the eight previously missing PDFs have been imported and validated. The other four are still missing. A bibliography entry is not a PDF upload.
 
-| ID | Target folder | Title | DOI / source | PDF location or access | Redistribution status |
-|---|---|---|---|---|---|
-| P12 | ReST | Building mindfulness bottom-up: Meditation in natural settings supports open monitoring and attention restoration — Lymeus et al. (2018) | https://doi.org/10.1016/j.concog.2018.01.008 | https://www.sciencedirect.com/science/article/pii/S1053810017303690 | Elsevier: reuse authorization not verified; link only |
-| P13 | ReST | A natural meditation setting improves compliance with mindfulness training — Lymeus et al. (2019) | https://doi.org/10.1016/j.jenvp.2019.05.008 | https://www.sciencedirect.com/science/article/abs/pii/S0272494419300258 | Elsevier: reuse authorization not verified; link only |
-| P21 | Mindfulness | Nature experience reduces rumination and subgenual prefrontal cortex activation — Bratman et al. (2015) | https://doi.org/10.1073/pnas.1510459112 | https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/ | Free full text, specific redistribution license not verified; link only |
-| P30 | color | Mechanisms of Anxiety Reduction During Adult Coloring: Mindfulness, Flow, Enjoyment, and Distraction — Flicker et al. (2025) | https://doi.org/10.1007/s12671-025-02586-9 | https://scholars.csus.edu/esploro/outputs/journalArticle/Mechanisms-of-Anxiety-Reduction-During-Adult/99258223309401671 | Springer exclusive licence: link only |
-| P31 | color | Cognitive and Affective Benefits of Coloring: Two Randomized Controlled Crossover Studies — Holt et al. (2019) | https://doi.org/10.1080/07421656.2019.1645498 | https://uwe-repository.worktribe.com/output/848019 | Accepted manuscript available; repository marks all-rights-reserved; link only |
-| P32 | color | Colouring-in, a Distraction Technique? — Drew (2018, thesis) | https://ore.exeter.ac.uk/repository/handle/10871/34176 | https://ore.exeter.ac.uk/repository/bitstream/handle/10871/34176/DrewN.pdf?sequence=1 | Public dissertation PDF; redistribution rights not verified; link only |
-| P33 | color | An Experimental Exploration of the Effects of Exposure to Images of Nature on Rumination — Golding et al. (2018) | https://doi.org/10.3390/ijerph15020300 | https://www.mdpi.com/1660-4601/15/2/300/pdf | CC BY 4.0, author attribution required; PDF redistributable |
-| P34 | color | Effect of the “Art Coloring” Online Coloring Game on Subjective Well-Being Increase and Anxiety Reduction During the COVID-19 Pandemic — Xi et al. (2022) | https://doi.org/10.2196/37026 | https://games.jmir.org/2022/3/e37026/PDF | CC BY 4.0, author attribution required; PDF redistributable |
+| ID | Result | Title | Source / remaining blocker |
+|---|---|---|---|
+| P12 | Missing | Building mindfulness bottom-up: Meditation in natural settings supports open monitoring and attention restoration | https://doi.org/10.1016/j.concog.2018.01.008 — publisher subscription; author-hosted Academia download returned HTTP 403. |
+| P13 | Missing | A natural meditation setting improves compliance with mindfulness training | https://doi.org/10.1016/j.jenvp.2019.05.008 — publisher subscription; DiVA has no full text; author-hosted Academia download returned HTTP 403. |
+| P21 | Imported | Nature experience reduces rumination and subgenual prefrontal cortex activation | https://europepmc.org/articles/PMC4507237?pdf=render — 6 pages, 712,963 bytes. |
+| P30 | Missing | Mechanisms of Anxiety Reduction During Adult Coloring: Mindfulness, Flow, Enjoyment, and Distraction | https://doi.org/10.1007/s12671-025-02586-9 — subscription article; CSUS record and ResearchGate preview do not provide the complete paper. |
+| P31 | Missing | Cognitive and Affective Benefits of Coloring: Two Randomized Controlled Crossover Studies | https://uwe-repository.worktribe.com/OutputFile/848030 — accepted manuscript exists, but download returns HTTP 403. |
+| P32 | Imported | Colouring-in, a Distraction Technique? | https://api.figshare.com/v2/articles/29747162 — migrated Exeter repository; DrewN.pdf, 130 pages, 1,509,172 bytes (complete thesis containing the study). |
+| P33 | Imported | An Experimental Exploration of the Effects of Exposure to Images of Nature on Rumination | https://mdpi-res.com/d_attachment/ijerph/ijerph-15-00300/article_deploy/ijerph-15-00300.pdf — 19 pages, 2,032,615 bytes. |
+| P34 | Imported | Effect of the Art Coloring Online Coloring Game on Subjective Well-Being Increase and Anxiety Reduction During the COVID-19 Pandemic | https://games.jmir.org/2022/3/e37026/PDF — 13 pages, 1,829,029 bytes. Correct article PMCID: PMC9273045. |
 
-## Attribution for redistributable articles
-- **P33:** Golding, S. E., Gatersleben, B., & Cropley, M. (2018). *International Journal of Environmental Research and Public Health*, 15(2), 300. https://doi.org/10.3390/ijerph15020300. © Authors 2018. CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. No changes to original PDF.
-- **P34:** Xi, J., et al. (2022). *JMIR Serious Games*, 10(3), e37026. https://doi.org/10.2196/37026. © Authors 2022. CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. No changes to original PDF.
+The imported files retain the authors' original contents and copyright notices. Availability in this private research repository does not grant further redistribution rights.
 
-## Pending identity check
-Existing `ART/Attention Restoration Theory.pdf` and `ART/Journal of Environmental Psychology.pdf` have generic filenames. They should be inspected before asserting whether P04 and P06 PDF versions are absent.
+### Attribution
+
+- P21: Bratman, G. N., Hamilton, J. P., Hahn, K. S., Daily, G. C., & Gross, J. J. (2015). PNAS, 112(28), 8567–8572. https://doi.org/10.1073/pnas.1510459112
+- P32: Drew, Neil (2018). Doctor of Clinical Psychology thesis, University of Exeter. https://hdl.handle.net/10871/34176
+- P33: Golding, S. E., Gatersleben, B., & Cropley, M. (2018). IJERPH, 15(2), 300. https://doi.org/10.3390/ijerph15020300 — CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+- P34: Xi, J., et al. (2022). JMIR Serious Games, 10(3), e37026. https://doi.org/10.2196/37026 — CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+## What was fixed
+
+The old workflow listed only two papers, used an incorrect PMC fallback for P34, and swallowed every download failure. Consequently, the original runs reported success with zero added PDFs.
+
+The replacement checks all eight targets, rejects HTML and PDFs with a mismatched DOI/title, preserves successful partial imports, and fails the final check until all eight PDFs exist. Each run provides a per-paper summary and a JSON artifact. The workflow also runs when a PDF is added to the relevant folders, allowing manually supplied originals to be verified.
+
+Some public download servers reject GitHub-hosted runner requests. P21 and P34 were therefore downloaded and validated separately, then committed directly. Retrying the same blocked URL is not a guarantee of completion.
+
+## Completing the four outstanding imports
+
+Obtain the complete PDFs for P12, P13, P30 and P31 through an available publisher, institutional or author-provided route, and place them at the exact target paths listed in `.github/scripts/import_lumi_papers.py`. The workflow will validate them on the next run.
+
+## Pending identity check from the original comparison
+
+Existing `ART/Attention Restoration Theory.pdf` and `ART/Journal of Environmental Psychology.pdf` have generic filenames. Their correspondence to P04/P06 was not audited as part of this workflow repair.

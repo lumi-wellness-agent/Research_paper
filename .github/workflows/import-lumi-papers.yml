@@ -7,6 +7,9 @@ on:
     paths:
       - '.github/workflows/import-lumi-papers.yml'
       - '.github/scripts/import_lumi_papers.py'
+      - 'ReST/*.pdf'
+      - 'Mindfulness/*.pdf'
+      - 'color/*.pdf'
 
 permissions:
   contents: write
