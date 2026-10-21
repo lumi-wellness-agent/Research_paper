@@ -17,16 +17,18 @@ PAPERS = [
     dict(id='P12', folder='ReST', title='Building mindfulness bottom-up: Meditation in natural settings supports open monitoring and attention restoration', doi='10.1016/j.concog.2018.01.008', urls=[], note='Publisher subscription; no public full-text copy verified.'),
     dict(id='P13', folder='ReST', title='A natural meditation setting improves compliance with mindfulness training', doi='10.1016/j.jenvp.2019.05.008', urls=[], note='Publisher subscription; no public full-text copy verified.'),
     dict(id='P21', folder='Mindfulness', title='Nature experience reduces rumination and subgenual prefrontal cortex activation', doi='10.1073/pnas.1510459112', urls=[
+        'https://europepmc.org/articles/PMC4507237?pdf=render',
         'https://www.pnas.org/doi/pdf/10.1073/pnas.1510459112',
         'https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/pdf/pnas.201510459.pdf']),
     dict(id='P30', folder='color', title='Mechanisms of Anxiety Reduction During Adult Coloring: Mindfulness, Flow, Enjoyment, and Distraction', doi='10.1007/s12671-025-02586-9', urls=[], note='Subscription article; university record contains metadata only. Supply an authorized PDF.'),
-    dict(id='P31', folder='color', title='Cognitive and Affective Benefits of Coloring: Two Randomized Controlled Crossover Studies', doi='10.1080/07421656.2019.1645498', urls=[], note='Accepted manuscript listed at https://uwe-repository.worktribe.com/output/848019 ; automated retrieval returned HTTP 403.'),
-    dict(id='P32', folder='color', title='Colouring-in, a Distraction Technique', doi=None, match='Colouring-in, a Distraction Technique', urls=['https://ore.exeter.ac.uk/repository/bitstream/handle/10871/34176/DrewN.pdf?sequence=1']),
+    dict(id='P31', folder='color', title='Cognitive and Affective Benefits of Coloring: Two Randomized Controlled Crossover Studies', doi='10.1080/07421656.2019.1645498', urls=['https://uwe-repository.worktribe.com/OutputFile/848030'], note='Accepted manuscript listed at https://uwe-repository.worktribe.com/output/848019 ; automated retrieval returned HTTP 403.'),
+    dict(id='P32', folder='color', title='Colouring-in, a Distraction Technique', doi=None, match='Colouring-in, a Distraction Technique', urls=['https://ndownloader.figshare.com/files/56769881', 'https://ore.exeter.ac.uk/repository/bitstream/handle/10871/34176/DrewN.pdf?sequence=1']),
     dict(id='P33', folder='color', title='An Experimental Exploration of the Effects of Exposure to Images of Nature on Rumination', doi='10.3390/ijerph15020300', urls=[
         'https://mdpi-res.com/d_attachment/ijerph/ijerph-15-00300/article_deploy/ijerph-15-00300.pdf',
         'https://www.mdpi.com/1660-4601/15/2/300/pdf']),
     dict(id='P34', folder='color', title='Effect of the Art Coloring Online Coloring Game on Subjective Well-Being Increase and Anxiety Reduction During the COVID-19 Pandemic', doi='10.2196/37026', urls=[
         'https://games.jmir.org/2022/3/e37026/PDF',
+        'https://europepmc.org/articles/PMC9273045?pdf=render',
         'https://pmc.ncbi.nlm.nih.gov/articles/PMC9273045/pdf/games_v10i3e37026.pdf']),
 ]
 
