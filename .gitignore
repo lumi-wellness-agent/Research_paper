@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Office 임시·잠금 파일 (엑셀/워드가 열려 있을 때 생성)
+~$*
+*.tmp
