@@ -9,8 +9,8 @@
 
 ## Claude Code 하네스 설정 (원본 명세에 주입)
 
-- **폴링 모드**: PR 머지 가능 대기는 `automation/bin/pr-gate.sh`를 **`run_in_background: true` Bash**로 실행한다. 포그라운드 `sleep` 차단·Monitor 도구 금지. 메인 세션이 직접 수행하고 서브에이전트에 위임하지 않는다. 스크립트 완료 시 세션이 자동 재호출된다. (`automation/pipeline.md` 「폴링 실행 규칙」의 Claude Code 모드)
+- **폴링 모드**: PR 머지 가능 대기는 `automation/bin/pr_gate.py`를 `python3`(Windows는 `py`)로 **`run_in_background: true` Bash**에서 실행한다. 포그라운드 `sleep` 차단·Monitor 도구 금지. 메인 세션이 직접 수행하고 서브에이전트에 위임하지 않는다. 스크립트 완료 시 세션이 자동 재호출된다. (`automation/pipeline.md` 「폴링 실행 규칙」의 Claude Code 모드)
 - **Co-Author 트레일러**: `automation/pipeline.md` Step 1-1 커밋 메시지 끝에 현재 세션의 시스템 규칙이 지정하는 `Co-Authored-By:` 트레일러를 붙인다.
 - **PR 본문 서명**: Step 1-4 PR 본문 끝에 `🤖 Generated with [Claude Code](https://claude.com/claude-code)`를 붙인다.
 - **한국어 경로**: 경로를 세거나 grep하는 git 명령에는 `-c core.quotepath=false`를 붙인다 (`automation/ship.md` 서두).
-- **안전 규칙**: 「민감 파일 커밋 금지」는 커밋 전 `automation/bin/sensitive-gate.sh` 실행으로 기계 검사하고, PreToolUse 훅(`.claude/settings.json` → `automation/hooks/validate-git-sensitive.sh`)이 `git add/commit/push`를 추가로 자동 차단한다 — 이중 방어로 작동한다.
+- **안전 규칙**: 「민감 파일 커밋 금지」는 커밋 전 `automation/bin/sensitive_gate.py` 실행으로 기계 검사하고, PreToolUse 훅(`.claude/settings.json` → `automation/hooks/validate-git-sensitive.sh`)이 `git add/commit/push`를 추가로 자동 차단한다 — 이중 방어로 작동한다.

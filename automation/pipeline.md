@@ -16,7 +16,7 @@
 
 ## 폴링 실행 규칙
 
-PR 머지 가능 대기는 `automation/bin/pr-gate.sh`로 실행한다 — 루프를 즉석에서 작성하지 않는다. 이 레포는 CI가 없어 보통 1분 안에 끝나지만(GitHub가 `mergeable`을 계산하는 몇 초), 규약은 다른 레포와 같다. 스크립트의 *실행 모드*는 진입 어댑터가 지정한 **하네스별 폴링 모드**를 따른다:
+PR 머지 가능 대기는 `automation/bin/pr_gate.py`로 실행한다 — 루프를 즉석에서 작성하지 않는다. 스크립트는 표준 라이브러리만 쓰는 Python이라 `python3`로 부른다(Windows는 `py` — `automation/ship.md` 「실행 환경」). 이 레포는 CI가 없어 보통 1분 안에 끝나지만(GitHub가 `mergeable`을 계산하는 몇 초), 규약은 다른 레포와 같다. 스크립트의 *실행 모드*는 진입 어댑터가 지정한 **하네스별 폴링 모드**를 따른다:
 
 | 하네스 | 폴링 모드 |
 |--------|-----------|
@@ -25,7 +25,7 @@ PR 머지 가능 대기는 `automation/bin/pr-gate.sh`로 실행한다 — 루�
 
 - 스크립트는 성공·실패·타임아웃 **모든 종료 상태에서 exit**하고, 종료 직전 결과 마커 1줄(`... result=...`)을 출력한다. 출력의 마커·종료코드로 분기한다. 게이트 정의·간격·타임아웃·마커 규약은 **스크립트 상단 주석이 원천**이다.
 - GitHub 조회 실패는 pending으로 삼키지 않는다 — 3회 연속 실패 시 `result=API_ERROR` 마커로 종료된다(스크립트에 구현됨). `API_ERROR`는 `TIMEOUT`과 구분해 실제 stderr를 요약하고 중단한다. 하네스의 네트워크 권한·DNS·인증 상태를 함께 확인한다.
-- `result=ERROR`는 jq 부재·판정 출력 이상 등 **실행 환경 문제**다(fail-closed) — 통과로 취급하지 않고 환경을 확인해 보고 후 중단한다.
+- `result=ERROR`는 gh 부재·판정 입력 이상·예상 못 한 예외 등 **실행 환경 문제**다(fail-closed) — 통과로 취급하지 않고 환경을 확인해 보고 후 중단한다.
 - **알림이 애매하거나 오래 소식이 없으면 추측·무한 대기 말고 즉시 `gh pr view`로 실제 상태를 확인**한 뒤 분기한다.
 
 ## 제목·머지 규범 (팀 관행)
@@ -42,8 +42,8 @@ PR 머지 가능 대기는 `automation/bin/pr-gate.sh`로 실행한다 — 루�
 ## Step 1: 커밋 & PR & 머지 (main)
 
 1. `git -c core.quotepath=false status --short`를 확인해 커밋 안 된 변경이 있으면 `git add -A` → **민감 파일 게이트 통과 후** 커밋한다. 제목은 「제목·머지 규범」의 커밋 제목, 본문은 파일 단위 변경을 `-` 불릿(한국어 가능)으로, 끝에 **현재 하네스의 Co-Author 트레일러** 한 줄. 변경이 성격이 다른 두 묶음(예: PDF 교체 + README 갱신)이면 커밋을 둘로 나눠도 된다 — merge commit이라 `main`에 그대로 남는다. 게이트는 반드시 스테이징 **후**에 돌린다 — add 이전 검사로는 untracked였던 민감 파일이 잡히지 않는다:
-   - 게이트: `automation/bin/sensitive-gate.sh` 실행. `SENSITIVE_GATE result=PASS` → 커밋 진행. `result=BLOCKED`(종료코드 1) → 출력된 파일을 `git reset HEAD <파일>`로 해제하고 보고 후 중단. `result=ERROR` → git 조회 실패(fail-closed) — 통과로 취급하지 않고 보고 후 중단.
-   - `~$*` Office 잠금 파일·`.DS_Store`는 `.gitignore`가 막는다 — `git add -f`를 쓰지 않는다.
+   - 게이트: `python3 automation/bin/sensitive_gate.py` 실행. `SENSITIVE_GATE result=PASS` → 커밋 진행. `result=BLOCKED`(종료코드 1) → 출력된 파일을 `git reset HEAD <파일>`로 해제하고 보고 후 중단. `result=ERROR` → git 조회 실패(fail-closed) — 통과로 취급하지 않고 보고 후 중단.
+   - `~$*` Office 잠금 파일·`.DS_Store`·`Thumbs.db`는 `.gitignore`가 막는다 — `git add -f`를 쓰지 않는다.
 2. `git pull origin main --rebase` — 충돌 시 `git rebase --abort` 후 보고하고 중단. (ship Preflight에서 이미 rebase했으므로 보통 no-op이다.)
 3. `git push --force-with-lease -u origin "<브랜치명>"`
 4. PR 확보 — **기존 PR 확인부터** (재시작 시 같은 브랜치에 열린 PR이 이미 있다):
@@ -60,7 +60,7 @@ PR 머지 가능 대기는 `automation/bin/pr-gate.sh`로 실행한다 — 루�
      <현재 하네스의 PR 본문 서명 — 있으면>
      ```
      **라벨·담당자를 붙이지 않는다.** 출력 URL 끝 숫자가 `<PR번호>`.
-5. 머지 가능 폴링: **`automation/bin/pr-gate.sh <PR번호> 180`** (앵커 없음 — CI 없는 레포 모드, 30초 간격, 최대 3분) → `PR_GATE_DONE` 마커. **게이트 = `mergeable` MERGEABLE + (체크가 있다면) 전부 성공** — 판정 로직은 `automation/bin/pr-gate.jq`가 원천이다. 워크플로우가 생기면 앵커(잡 이름)를 넘기는 쪽으로 이 줄을 고친다.
+5. 머지 가능 폴링: **`python3 automation/bin/pr_gate.py <PR번호> 180`** (앵커 없음 — CI 없는 레포 모드, 30초 간격, 최대 3분) → `PR_GATE_DONE` 마커. **게이트 = `mergeable` MERGEABLE + (체크가 있다면) 전부 성공** — 판정 로직은 `automation/bin/pr_gate.py`의 `judge()`가 원천이다(`automation/tests/test_pr_gate.py`가 fixture로 검증). 워크플로우가 생기면 앵커(잡 이름)를 넘기는 쪽으로 이 줄을 고친다.
    - `result=PASS` → `gh pr merge <PR번호> --merge`. **`--merge`를 `--squash`로 바꾸지 않는다** (「제목·머지 규범」). `--auto`·`--admin`은 쓰지 않는다.
    - `result=FAIL* mergeable=CONFLICTING` → `main`이 이 브랜치와 충돌한다(보통 같은 xlsx를 양쪽에서 고친 경우). 바이너리 충돌은 git이 합칠 수 없다 — 어느 쪽을 살릴지 사용자에게 묻고 중단한다 (「실패 시 재시작 규칙」).
    - `TIMEOUT`·`API_ERROR`·`ERROR` → 각각 요약해 중단 (「폴링 실행 규칙」의 구분 참조).
@@ -90,7 +90,7 @@ PR 머지 가능 대기는 `automation/bin/pr-gate.sh`로 실행한다 — 루�
 
 ## 민감 파일 커밋 금지
 
-`git add/commit/push` 대상에 아래 민감 파일이 포함되지 않도록 커밋 전 확인한다 (기본 이름 및 `<이름>.*` 확장 변형 포함). 기계적 검사는 Step 1의 **`automation/bin/sensitive-gate.sh`**(스테이징 후 `git diff --cached` 검사)가 수행한다 — **스크립트의 정규식이 패턴의 단일 원천**이고, 아래 목록과 훅(`automation/hooks/validate-git-sensitive.sh`)의 배열은 사람용 요약/이중 방어다(불일치하면 스크립트가 우선). 패턴 변경은 스크립트에서 하고 훅을 같이 갱신한다:
+`git add/commit/push` 대상에 아래 민감 파일이 포함되지 않도록 커밋 전 확인한다 (기본 이름 및 `<이름>.*` 확장 변형 포함). 기계적 검사는 Step 1의 **`automation/bin/sensitive_gate.py`**(스테이징 후 `git diff --cached` 검사)가 수행한다 — **스크립트의 정규식이 패턴의 단일 원천**이고, 아래 목록과 훅(`automation/hooks/validate-git-sensitive.sh`)의 배열은 사람용 요약/이중 방어다(불일치하면 스크립트가 우선). 패턴 변경은 스크립트에서 하고 훅을 같이 갱신한다:
 
 - `.env` (및 `.env.*` — `.env.example` 제외) — 논문 수집 스크립트가 API 키를 쓰게 되면 여기로 온다
 - `.claude/settings.local.json` (Claude Code 개인 권한 설정)
@@ -101,7 +101,7 @@ PR 머지 가능 대기는 `automation/bin/pr-gate.sh`로 실행한다 — 루�
 
 발견 시 커밋하지 말고 사용자에게 보고한다 — 스테이징돼 있으면 `git reset HEAD <file>`로 해제하고, 이미 커밋에 포함됐으면 해당 커밋을 정리한 뒤 재시도한다.
 
-> **하네스별 적용**: 모든 하네스가 Step 1에서 `sensitive-gate.sh`를 실행한다. 훅을 지원하는 하네스(Claude Code `.claude/settings.json`, Codex `.codex/hooks.json`)는 같은 스크립트 `automation/hooks/validate-git-sensitive.sh`가 PreToolUse에서 `git add/commit/push`를 추가로 자동 차단한다(이중 방어). Codex 훅은 프로젝트 신뢰 + `/hooks` 승인 뒤에만 동작하므로, 승인 전에는 규칙을 직접 준수한다. 이 레포에는 CI(gitleaks)가 없으므로 `.gitignore` + GitHub push protection만 병행된다.
+> **하네스별 적용**: 모든 하네스가 Step 1에서 `sensitive_gate.py`를 실행한다. 훅을 지원하는 하네스(Claude Code `.claude/settings.json`, Codex `.codex/hooks.json`)는 같은 스크립트 `automation/hooks/validate-git-sensitive.sh`가 PreToolUse에서 `git add/commit/push`를 추가로 자동 차단한다(이중 방어). Codex 훅은 프로젝트 신뢰 + `/hooks` 승인 뒤에만 동작하므로, 승인 전에는 규칙을 직접 준수한다. 훅 스크립트는 bash·jq로 돌아 Windows 네이티브 Codex(PowerShell)에서는 실행되지 않는다 — 그 환경에서는 훅을 승인하지 않고 규칙을 직접 준수한다. 이 레포에는 CI(gitleaks)가 없으므로 `.gitignore` + GitHub push protection만 병행된다.
 
 ## 규칙
 

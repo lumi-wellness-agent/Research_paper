@@ -5,9 +5,16 @@
 # macOS
 .DS_Store
 
+# Windows 탐색기
+Thumbs.db
+desktop.ini
+
 # Office 임시·잠금 파일 (엑셀/워드가 열려 있을 때 생성)
 ~$*
 *.tmp
+
+# Python 바이트코드 (automation/ 스크립트·테스트를 돌리면 생긴다)
+__pycache__/
 
 # LLM 하네스 (automation/ship.md)
 # Claude Code 개인 권한 설정 — 머신·사람마다 다르다
