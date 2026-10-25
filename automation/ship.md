@@ -10,15 +10,22 @@
 >
 > 각 어댑터는 **폴링 모드**, **Co-Author 트레일러**, **안전 규칙 적용 방식**(훅 유무)을 지정한다. Phase 4의 PR 폴링은 `automation/pipeline.md`의 「폴링 실행 규칙」에 정의된 **하네스별 모드**를 따른다.
 
+## 실행 환경
+
+macOS·Linux·WSL과 Windows(PowerShell)에서 같은 절차를 쓴다. 게이트·폴링 스크립트(`automation/bin/*.py`)는 표준 라이브러리만 쓰는 Python(3.9 이상)이라 bash·jq 없이 돌고, 가상환경·패키지 설치도 필요 없다. 도구 설치·로그인 같은 처음 한 번의 준비는 `automation/README.md`에 있다 — 준비가 덜 돼 막히면(gh 미로그인, Codex 샌드박스 설정 등) 그 문서의 해당 절을 안내한다.
+
+- **인터프리터**: 명세는 `python3`로 적는다. Windows(PowerShell, Claude Code의 Git Bash 모두)에서는 `py`로 바꿔 부른다 — 예: `py automation/bin/pr_gate.py <PR번호> 180`. Windows의 `python3`는 Microsoft Store 설치 안내로 연결될 수 있다. `py`가 없으면 `python`을 쓴다.
+- **셸 문법**: 명세의 명령은 bash 표기다. 셸이 PowerShell이면 `VAR=$(…)`·`&&` 같은 문법을 PowerShell로 옮긴다(Windows PowerShell 5.1에는 `&&`가 없다). 브랜치명을 감싸는 따옴표는 PowerShell에서도 필수다 — 따옴표 없는 `#`는 주석 시작이라 `chore/#27`이 `chore/`로 잘린다. `git -c core.quotepath=false …`는 셸과 상관없이 그대로 쓴다.
+
 ## 워크플로우 전제 (Research_paper)
 
 레포에 적혀 있지 않고 GitHub 이력(PR #2~#28)으로만 보이는 팀 관행을 그대로 따른다:
 
-- **자료 레포다.** 코드가 없어 CI·테스트·빌드가 없다. 검증은 Phase 2의 **파일 게이트**(Office 잠금 파일·용량 한도·쓰레기 파일)와 사람의 눈이다.
+- **자료 레포다.** 코드가 없어 CI·테스트·빌드가 없다. 검증은 Phase 2의 **파일 게이트**(열린 Office 문서·용량 한도·중복 PDF·쓰레기 파일)와 사람의 눈이다.
 - **이슈 → `chore/#N` 브랜치 → PR → merge commit.** 이슈 제목·본문은 한국어로 짧게(`## 배경`·`## 작업`), PR 제목은 `[chore/#N] 설명`, 본문은 `## 변경 내용` 불릿 + `Closes #N`. 머지는 **merge commit**(`--merge`)이다 — 기존 12건이 모두 `Merge pull request #N from lumi-wellness-agent/chore/#M` 형식이고, CI가 없어 squash로 런 제목을 맞출 이유도 없다.
 - **`main`은 보호되지 않는다** (private 레포, Free 플랜은 브랜치 보호 불가). 서버 관문이 없으므로 "PR을 거치고 mergeable을 확인한 뒤 머지한다"는 이 명세가 지키는 규범이다.
 - **라벨·담당자 자동화는 없다.** 레포에 타입 라벨이 없고 이슈 템플릿도 없다 — 붙이지 않는다.
-- **큰 바이너리가 많다** (PDF 76편, xlsx). GitHub는 100MB 이상 파일의 push를 거부하고 50MB 이상에 경고한다. 같은 PDF는 한 번만 저장한다(하위 README 「분류 방식」) — 중복 바이너리를 다른 폴더에 복사해 넣지 않는다.
+- **큰 바이너리가 많다** (PDF 76편, xlsx). GitHub는 100MB 이상 파일의 push를 거부하고 50MB 이상에 경고한다. 같은 PDF는 한 번만 저장한다(하위 README 「분류 방식」) — 중복 바이너리를 다른 폴더에 복사해 넣지 않는다(파일 게이트가 검사한다).
 - **PDF 재배포 조건은 각 문서의 라이선스를 따른다.** 출판사 구독본을 공개 레포로 옮기지 않는다 — 이 레포는 private이다.
 
 ## Preflight
@@ -65,17 +72,16 @@
 
 ## Phase 2: 점검
 
-CI가 없으므로 로컬 점검이 전부다. 스크립트가 판정하고, 판정 조건은 **스크립트 상단 주석이 원천**이다(`smoke-test.sh`가 회귀 검증).
+CI가 없으므로 로컬 점검이 전부다. 스크립트가 판정하고, 판정 조건은 **스크립트 상단 주석이 원천**이다(`automation/tests/`가 회귀 검증).
 
-1. **파일 게이트**: `automation/bin/file-gate.sh` 실행 — 반영 대상(스테이징·수정·untracked) 파일을 본다 → `FILE_GATE` 마커.
-   - `result=PASS` → 3으로.
+1. **파일 게이트**: `python3 automation/bin/file_gate.py` 실행 — 반영 대상(스테이징·수정·untracked) 파일을 본다 → `FILE_GATE` 마커.
+   - `result=PASS` → 2로.
    - `result=WARN` → 50MB 이상 파일이 있다. 진행은 가능하지만 사용자 확인 문구와 PR 본문에 남긴다.
-   - `result=BLOCKED` → 보고하고 **중단**. 사유별 조치: Office 잠금 파일(`~$*.xlsx`)이 있으면 **그 엑셀이 열려 있다** — 저장·닫기 후 재실행. 100MB 이상 파일은 GitHub가 push를 거부한다 — 분할·압축·외부 링크로 바꾼다. `.DS_Store`·`*.tmp`는 삭제한다(이미 `.gitignore` 대상이라 `-f` 없이는 들어오지 않는다).
-   - `result=ERROR` → git 조회 실패(fail-closed). 통과로 취급하지 않고 보고 후 중단.
-2. **중복 바이너리 점검**: 추가된 PDF와 같은 내용(해시)의 파일이 이미 레포에 있으면 보고하고 중단한다 — `git -c core.quotepath=false ls-files -z '*.pdf' | xargs -0 shasum -a 256`과 신규 파일 해시를 비교한다. 같은 논문의 **다른 판본으로 교체**(이미지 PDF → 텍스트 PDF 등)는 교체이므로 해당하지 않는다.
-3. **목록 정합성**: PDF를 추가·교체·삭제·개명했으면 마스터 목록(`LUMI_R_C_Research_2026-10-22/LUMI_R_C_논문목록_2026-10-22.xlsx`)·루트 `LUMI_RAW데이터 링크.xlsx`·하위 `README.md`의 「현재 상태」 수치가 같은 변경에 들어 있는지 확인한다. 빠져 있으면 **코드를 고치지 않고** 사용자에게 보고한다 — 자료 작업은 ship의 몫이 아니다.
-4. `automation/`을 고친 변경이면 `automation/bin/smoke-test.sh`를 돌린다 (`SMOKE result=PASS`).
-5. 실패·누락 시 → 사용자에게 보고하고 **중단**한다 (자동 수정하지 않는다).
+   - `result=BLOCKED` → 보고하고 **중단**. 사유별 조치: 열려 있는 Office 문서(옆에 잠금 파일 `~$*`가 있음)면 **그 엑셀·워드가 열려 있다** — 저장·닫기 후 재실행. 100MB 이상 파일은 GitHub가 push를 거부한다 — 분할·압축·외부 링크로 바꾼다. 내용이 같은 PDF가 이미 있으면 새 사본을 빼고 기존 파일을 쓴다 — 같은 논문의 **다른 판본으로 교체**(이미지 PDF → 텍스트 PDF 등)는 내용이 달라 여기에 걸리지 않는다. `.DS_Store`·`Thumbs.db`·`desktop.ini`·`*.tmp`는 삭제한다(이미 `.gitignore` 대상이라 `-f` 없이는 들어오지 않는다).
+   - `result=ERROR` → git 조회·파일 읽기 실패(fail-closed). 통과로 취급하지 않고 보고 후 중단.
+2. **목록 정합성**: PDF를 추가·교체·삭제·개명했으면 마스터 목록(`LUMI_R_C_Research_2026-10-22/LUMI_R_C_논문목록_2026-10-22.xlsx`)·루트 `LUMI_RAW데이터 링크.xlsx`·하위 `README.md`의 「현재 상태」 수치가 같은 변경에 들어 있는지 확인한다. 빠져 있으면 **코드를 고치지 않고** 사용자에게 보고한다 — 자료 작업은 ship의 몫이 아니다.
+3. `automation/`을 고친 변경이면 `python3 -m unittest discover -s automation/tests -t .`를 돌린다 — 마지막 줄이 `OK`면 통과다(`OK (skipped=N)`도 통과 — bash·jq가 없거나 Windows면 훅 테스트를 건너뛴다).
+4. 실패·누락 시 → 사용자에게 보고하고 **중단**한다 (자동 수정하지 않는다).
 
 ## Phase 3: 이슈 & 브랜치
 
