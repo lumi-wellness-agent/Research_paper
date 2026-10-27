@@ -1,0 +1,803 @@
+{
+ "paper_id": "P07",
+ "source": "P07_Tracking_Restoration_Field_Settings.pdf",
+ "pages": 15,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Journal of Environmental Psychology 23 (2003) 109-123",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Tracking restoration in natural and urban field settings",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Terry Hartig a, *, Gary W. Evans b , Larry D. Jamner c , Deborah S. Davis d , Tommy G.arling e",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "a Institute for Housing and Urban Research, Uppsala University, Box 785, S-801 29 G.avle, Sweden",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "b Department of Design and Environmental Analysis, Cornell University, USA c Department of Psychology and Social Behavior, University of California, Irvine, USA d School of Social Sciences, University of California, Irvine, USA e Department of Psychology, G.oteborg University, Sweden",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received 26 January 2001; received in revised form 7 July 2002; accepted 30 July 2002",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "We compared psychophysiological stress recovery and directed attention restoration in natural and urban field settings using repeated measures of ambulatory blood pressure, emotion, and attention collected from 112 randomly assigned young adults. To vary restoration needs, we had half of the subjects begin the environmental treatment directly after driving to the field site. The other half completed attentionally demanding tasks just before the treatment. After the drive or the tasks, sitting in a room with tree views promoted more rapid decline in diastolic blood pressure than sitting in a viewless room. Subsequently walking in a nature reserve initially fostered blood pressure change that indicated greater stress reduction than afforded by walking in the urban surroundings. Performance on an attentional test improved slightly from the pretest to the midpoint of the walk in the nature reserve, while it declined in the urban setting. This opened a performance gap that persisted after the walk. Positive affect increased and anger decreased in the nature reserve by the end of the walk; the opposite pattern emerged in the urban environment. The task manipulation affected emotional self-reports. We discuss implications of the results for theories about restorative environments and environmental health promotion measures.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "r 2003 Elsevier Science Ltd. All rights reserved.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Work pressures, urban noise, and other stressors drive many people to seek relief through outdoor recreation (Knopf, 1983; Schreyer, 1989). People are frequently drawn to recreation settings such as wilderness areas and urban parks by opportunities for viewing scenery, contact with nature, and solitude (Knopf, 1987; Hartig, 1993). Such opportunities have been provided by planning and legislation grounded in widely held beliefs that natural surroundings aid the physical and psychological restoration of people living in cities (e.g. Olmsted, 1870).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Although influential, the hypothesis of enhanced restoration in natural environments has only rarely faced experimental tests. In particular, few experiments have compared restoration in natural and urban environments following the controlled imposition of",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "*Corresponding author. Tel.: +46-26-420-6532; fax: +46-26-4206501.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "E-mail address: terry.hartig@ibf.uu.se (T. Hartig).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "psychological demands that induced a potential for restoration to occur. These experiments have documented a restorative advantage of natural environments in the ability to focus attention (Hartig, Mang, & Evans, 1991, Study 2) and in emotional states (e.g. Ulrich, 1979; Hartig, B.o.ok, Garvill, Olsson, & G.arling, 1996). Evidence of enhanced psychophysiological recovery comes from a laboratory experiment in which autonomic arousal was monitored during 10-min videotapes of natural vs urban environments (Ulrich et al., 1991; see also Parsons, Tassinary, Ulrich, Hebl, & GrossmanAlexander, 1998; Laumann, G.arling, & Stormark, 2003).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Why might natural environments better serve physiological, emotional, and attentional restoration than urban surroundings? The experiments cited above started from one or both of two theories. Although the two theories have some common features (Hartig & Evans, 1993), they deal with different antecedents and emphasize different restoration outcomes. Attention restoration theory (ART; Kaplan & Kaplan, 1989; Kaplan, 1995) complements analyses of overload in urban environments (Milgram, 1970; Cohen, 1978) by proposing factors that work in the renewal of a depleted capacity for directing attention. According to ART, restoration from directed attention fatigue occurs with psychological distance from routine mental contents (being away) in conjunction with effortless, interestdriven attention (fascination), sustained in coherently ordered environments of substantial scope (extent) when the person's inclinations match the demands imposed by the environment as well as the environmental supports for intended activities (compatibility). Kaplan and Kaplan (1989) argue that these four factors commonly hold at high levels in natural environments.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "An alternative theory about restorative environments emphasizes the physiological and emotional changes that can occur while viewing a scene after a situation involving challenge or threat. Ulrich (1983) proposes that perceiving particular qualities and contents in a scene can support psychophysiological stress recovery. Moderate depth, moderate complexity, the presence of a focal point, gross structural qualities, and natural contents such as vegetation and water can evoke positive emotions, sustain non-vigilant attention, restrict negative thoughts, and so aid a return of autonomic arousal to more moderate levels (cf. Fredrickson & Levenson, 1998; Shapiro, Jamner, Goldstein, & Delfino, 2001). Ulrich views humans as biologically prepared to respond positively to environmental features that signal possibilities for survival, and so assumes an evolutionary basis for aesthetic and restorative responses to some natural scenes.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "These theories appear to complement one another with regard to the antecedent condition from which the person becomes restored. The elevated physiological arousal and negative affect characteristic of stress can occur in the absence of directed attention fatigue. Conversely, elevated arousal or negative affect need not always accompany attentional fatigue (Kaplan, 1995). Yet some researchers have discussed attentional fatigue as an aftereffect of stress (Cohen, 1978; cf. Ulrich et al., 1991), and others have treated it as a condition that increases susceptibility to stress (Kaplan, 1995; cf. Lepore & Evans, 1996). Thus, each of the antecedent conditions may occur alone in some circumstances, but in other circumstances they may have some form of reciprocal relationship or otherwise coincide. Just which character the antecedent condition has determines the dimensions along which restoration can proceed.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The relative timing of environmental effects along the given dimensions may have a bearing on whether the two theories address complementary processes. Differential effects of natural and urban environments can appear quickly in physiology (within 4min in Ulrich et al., 1991; cf. Fredrickson & Levenson, 1998) and emotional states (within 10-15min; e.g. Ulrich, 1979). In contrast, environmental effects on performance have not consistently emerged after 15-20min (cf. Hartig et al., 1996; Laumann et al., 2003), but they have appeared after longer periods. Over an extended period, some of the initial effects may dissipate. Hartig et al. (1991, Study 2) did not find significant differences in blood pressure or heart rate measured after a 40-min walk in a natural or an urban field setting (cf. Ulrich et al., 1991), but they did find environmental effects on emotional states and proofreading performance. Recognizing that environmental effects on physiology might have emerged early in the walk and then dissipated as it came to an end, they noted a need for measuring physiological changes during the course of a walk. When applied to attentional performance and emotional measures as well, such a repeated measures strategy can provide insights on the relative timing of the different forms of restoration outcomes. That some effects appear after others have dissipated would suggest that more than one process may have operated in producing the set of outcomes.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In the experiment reported here we compared restoration in natural and urban field settings. To track restoration along different dimensions, we used multiple measurement methods in conjunction with a poststressor period that previous research suggested would suffice for the environments to differentially affect performance. With the use of ambulatory monitoring equipment we obtained repeated measures of systolic and diastolic blood pressure (SBP; DBP) from young adults in two successive recovery contexts: first while sitting in a room with or without views of trees and then while walking in a nature reserve or an area of mediumdensity urban development. We also assessed emotional states and performance before, during, and after the walk.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The outcomes measured at a given point in time have to do not only with the environment available for restoration but also with the severity of attentional fatigue and/or stress reactions the person experienced just before entering that environment. Thus, varying the antecedent condition should aid the examination of different forms of restoration and environmental influences upon them. Applying this reasoning, we included a task manipulation in the present experiment with a view to imposing intense attentional demands on half of the subjects for an extended period just before the environmental ''treatment.''",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In sum, we experimentally tested hypotheses about the relative restorative values of natural and urban settings for people who had faced different kinds of prior demands. In contrast to the subjects in the urban environment, we expected the subjects in the natural environment to show more rapid BP decline during the initial minutes of the treatment period (Hypothesis 1); lower BP during the walk (Hypothesis 2); more positive emotion during the walk (Hypothesis 3); more positive change in emotion following the walk (Hypothesis 4); and greater improvement (or a smaller decrement) in performance on an attentional task following the walk (Hypothesis 5). We also wanted to see whether environmental effects on performance would appear already during the walk, whether environmental effects on physiology would persist into the postwalk period, and how the varying levels of attentional demands imposed prior to treatment would become manifest in the pattern of outcomes subsequently observed.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2. Method",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. Design",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The experimental design crossed an environmental treatment condition (natural, urban) with a pretreatment task condition (task, no-task). The environmental treatment had a seated indoors phase and a walking outdoors phase. In the natural environment, the two phases were sitting in a room with tree views, then walking in a nature reserve. In the urban environment, the two phases were sitting in a room without views, then walking in an urban area. Note that with the seated-indoor phase we could more readily interpret our physiological results in relation to those from Ulrich et al.'s (1991) laboratory study. As no-task subjects drove to the field site (a naturalistic stressor) just before the treatment, the possibility for physiological stress recovery was established in the no-task condition as well as in the task condition; the task extended the duration of pretreatment stressor exposure and imposed acute attentional demands. Subjects were randomly assigned to groups with restrictions for equal n's and balanced gender composition.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Subjects",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The subjects were 112 normotensive students (20.873.7 years old; 50% female; 97% non-smokers) at the University of California, Irvine (UCI), screened for medications affecting cardiovascular function, mood, or concentration; allergies that might cause problems in the natural environment; weight within 120% of an actuarial ''ideal'' (Metropolitan Life Foundation, 1983); and, with the women, stage in menstrual cycle. The subjects were informed of the study's nature and risks before giving written consent, and they were compensated for participation.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Environments",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The natural environment was the Audubon Society's Starr Ranch Sanctuary, a 4000 acre vegetation and wildlife preserve in a canyon of the Santa Ana mountains adjacent to Cleveland National Forest and Caspers Regional Wilderness Park. Operations were run out of plainly furnished rooms with windows through which subjects could look onto trees and vegetated hillsides and hear birds and a stream. The walk was along a well-graded dirt road, closed to the public, that runs through fields and oak-sycamore woodland in the canyon bottom (Fig. 1). Parking was available without delay adjacent to the field lab.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The urban site was an area of medium-density professional office and retail development in the city of Orange. The area was bounded on one side by a judicial complex and facilities of the UCI Medical Center (UCIMC), and on the opposite side by a shopping mall, restaurants, a hotel, and parking lots (Fig. 2). The walk followed sidewalks along and across streets of varying size, carrying traffic volumes to 24,000 vehicles per day. Landscaped areas were interspersed among buildings up to 20 stories tall. Operations were run out of quiet, undecorated classrooms without window views at UCIMC. Arrangements were made for parking without delay in a garage adjacent to the building that housed the field lab.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Measures",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.1. Physiology",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "We used the Accutracker II ambulatory blood pressure monitor (Suntech Medical Instruments, Raleigh, NC, USA) to measure SBP and DBP. The device monitors the electrocardiogram via three electrodes to guide auscultation through a microphone over the brachial artery. White, Lund-Johansen, and Omvik (1990) report on validation against intra-arterial and clinician measurements.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "We applied the following inflation parameters: inflation to 30mmHg above the previous systolic reading, to a maximum of 200mmHg, and 3mmHg/s deflation to a minimum of 40mmHg. We programmed measurements to occur at fixed 10-min intervals.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The Accutracker appends quality control codes to readings in case of possible problems due to erratic or missing heart beats, major arm movements, weak or too few Korotkoff sounds, or a loose cuff or air leak. We could subsequently determine whether to exclude readings on the basis of these codes and of ranges of acceptable values. We accepted values from 70 to 200mmHg for SBP and from 40 to 120mmHg for DBP, given pulse pressure over 10mmHg.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.2. Emotion",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Pretest and postwalk measures of positive affect, attentiveness, fear arousal, sadness, and anger/aggression were obtained with Zuckerman's (1977) Inventory of Personal Reactions (ZIPERS). Respondents indicate the extent to which statements describe how they feel that moment (e.g. I feel elated or pleased) (1=not at all; 5=very much). The ZIPERS has been a sensitive measure in previous restorative environments studies (e.g. Ulrich, 1979; Hartig et al., 1991, 1996; Ulrich et al., 1991).",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. Views from within the Audubon Society's Starr Ranch Sanctuary.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The overall happiness scale (OHS) was administered during the walk. Subjects rate their happiness on a thermometer-like graph. Thermometer values range from zero, for very unhappy, to 100, for very happy, graded in increments of 10. Originally used by Campbell, Converse and Rodgers (1976) in their quality of life research, the time referent for the scale was changed in this experiment from a matter of days to a matter of hours. The OHS has been a sensitive measure in previous studies in this series (see Hartig et al., 1991).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.3. Attention",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Subjects completed the Necker Cube Pattern Control task (NCPCT) at the pretest, during the walk, and following the walk. They first received a blank sheet with a line drawing of a three-dimensional cube. They were told that their perspective on the cube would shift, with the front and back faces of the cube reversing their relative positions. Once they had familiarized themselves with this property of the Necker cube, they were instructed to look at the cube and tap audibly on a hard surface when the pattern reversed. We counted the number of reversals that occurred during two consecutive 30-s ''hold'' periods during which the subject was to focus on one pattern for as long as possible. Reversals that occur despite the effort to hold a pattern are thought to be due to attentional fatigue (Kaplan, 1995). We use the average number of reversals across the two hold periods as the dependent variable in our analyses (cf. Tennessen & Cimprich, 1995). The NCPCT has been a sensitive measure in previous studies of restorative environments (Cimprich, 1993; Tennessen & Cimprich, 1995).",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2. Views of area adjacent to the UC Irvine Medical Center.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "We adapted a second test of attentional performance from the memory-loaded search task used by Smith and Miles (1987). Subjects search lines of letters for five target letters given at the beginning of each line. They are to memorize the given targets, search through the given line only once, and draw a line through any target found. Although they are encouraged to search quickly, emphasis is placed on identifying all target letters. Further details regarding the test materials are given by Hartig et al. (1996). The subjects performed the task for 10min. The percentage of target letters detected (% correct) indicates accuracy in the search. The number of letters searched indicates the speed of search. The combination of these variables (i.e. accuracy-speed) yields an overall performance index; with the present version of the test, scores on this index could range from 0 to 2832. The Search and Memory test has proven insensitive to natural-urban comparisons in two laboratory experiments (Hartig et al., 1996), results that may have owed to the brief period during which the subjects viewed the photographic simulations.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "2.5. Procedure",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Data collection took place between late April and early June; the weather was typically clear and warm. The procedure, run on weekdays, was scheduled so the drive to the field site would occur during an uncongested period. As the pretreatment task took about 1h to complete, the task subjects were scheduled to begin 1h before the no-task subjects (12 vs 1pm), so that both a task and no-task subject would be in the treatment sequence at about the same time in each environment. 1 Subjects were instructed to eat a meal before participating.",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3. Overview of the procedure. The top panel depicts the progression of the different groups through the phases of the procedure. Task subjects began 1h before no-task subjects, and the task sequence (Stroop and binary classification) took about 1h to complete. The bottom panel relates the measurement protocol to the phases in the procedure. SBP and DBP=systolic and diastolic blood pressure, ZIPERS=Zuckerman Inventory of Personal Reactions, NCPCT=Necker Cube Pattern Control task, SMT=Search and Memory task. Extra BP=BP reading taken 4min into the seated treatment phase, OH=overall happiness.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "An overview of the procedure is given in Fig. 3. For each subject the procedure began in a laboratory at the UCI main campus. A same-sex researcher instrumented the subject with the ambulatory blood pressure monitor (fixing microphone and cuff on the non-dominant arm; performing seated and standing calibrations; programming inflation parameters and measurement intervals).",
+   "page": 6
+  },
+  {
+   "label": "footnote",
+   "text": "1 This meant that the no-task group spent 60min less in the procedure than the task group. Arguably, no-task subjects should have been brought into the procedure at the same time, but then made to sit through a 60-min period without performing attentional tasks. However, such a strategy would have risked negatively affecting emotion if the subjects were to remain inactive through the long period (see e.g. Hartig et al., 1991, Study 2) or positively affecting emotion and attention if they were given a pleasant diversion. To avoid systematic variation that would trouble the detection and interpretation of effects, we allowed no-task subjects to continue with their ordinary activities prior to participation. We assumed that attentional demands and psychophysiological stressors imposed naturalistically on no-task subjects during the hour prior to entering the experiment would not uniformly be as intense or sustained as those imposed by the task.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Subjects were instructed to remain still during a reading if possible.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "After initiating the collection of baseline (i.e. reference) BP readings, the subjects gave background information and self-reports of positive affect, anger/ aggression, fear arousal, sadness, and attentiveness with the ZIPERS. They then completed the NCPCT and SMT.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Concluding the initial phase, subjects were instructed to drive directly to the field site, but without hurry. To counter bias due to possible positive or negative anticipation, the subjects were not told they were going to a nature reserve or an urban setting. All received the same set of printed directions appropriate to the given field site. The routes to the sites were matched on estimated travel time (40min); potential stops due to traffic regulations (45); and distance (23 miles to the natural site, 21.5 miles to the urban site). Time and odometer mileage were recorded on departure from UCI and on arrival at the field site, enabling a check on compliance with the directions.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "After the first BP reading in the field lab, half of the subjects began the hour-long task sequence. Instructions and stimuli for two tasks were presented via audiotape. For a variant of the Stroop task, a poster was placed in front of the subject. The poster had 100 cells (20 rows-5 columns) containing color names printed in other-colored ink (e.g. ''red'' printed in blue ink). Cell coordinates were given every 3 s for 28min; the subject was to say the ink color of the word in the cell. This task was followed by a binary classification task; a number was presented every 2 s, for classification as even or odd and high or low relative to a given criterion. This task continued for about 20min, and terminated with a BP reading.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "For task subjects the environmental treatment sequence began immediately after the BP reading with which the task terminated. For no-task subjects it began after the first BP reading in the field lab. The treatment sequence was the same for all subjects. The first 10min were spent sitting quietly. Four minutes into this period a BP reading was initiated manually. Six minutes later the next regular BP reading occurred. The subject was then accompanied on a 50-min walk by an assistant. At the outset the assistant explained that conversation should be minimized to promote consistency across subjects. Caution was exercised to not direct subjects' attention in any way. The assistants led subjects at a slow pace (saunter) and knew where on the given route BP readings should occur. With each reading the subject and assistant stopped walking. Twenty minutes into the walk (and so 30min after the task or drive) the subjects completed the OHS and NCPCT following the programmed BP reading. A few minutes after this they turned back toward the field lab. The procedure concluded when, after returning to the field lab, the subjects once more completed the ZIPERS, NCPCT and SMT and provided additional BP measures.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "2.6. Statistical analysis",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We used analyses of variance (ANOVA) and t-tests in the validity checks and tests for experimental effects. Unless otherwise indicated, each ANOVA included environment, task, and gender as between-subjects factors. Most of the ANOVA included time as a within-subjects factor, with the number of levels corresponding to the number of measurement points. We report the Greenhouse-Geisser corrected probabilities for within-subjects effects from those analyses that encompassed more than two measures.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We separately analysed the BP data for the seatedtreatment, walk, and postwalk phases. This helped us simplify our interpretations, conform with statistical assumptions, and reduce the loss of subjects from the repeated-measures ANOVA due to missing values. Of the 3314BP readings provided by the 112 subjects, we had to exclude 234 (7.1%) due to unacceptable values and/or quality control codes appended by the blood pressure monitor. Unless otherwise indicated, the analyses of BP data used change (D) scores calculated as the difference between the value for the given measurement point and the baseline value obtained at the pretest. We used the mean of at least 3 seated readings taken over at least 30min for the baseline SBP and DBP values.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Degrees of freedom vary across the BP analyses for the different phases due to variation in the number of cases lost to missing values. Degrees of freedom also vary across analyses of the emotional state and performance data due to missing values and, in the case of the attentional measures, exclusion of subjects with extreme scores (ca. 3 s.d. above the mean). We dropped three subjects from all analyses of experimental effects due to procedural complications.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "By including gender as a factor in our analyses of variance we reduced error variance and so improved our effect estimates. However, we were not interested in gender effects per se. To simplify the presentation, we only report gender effects that involve some form of interaction with the environment during the treatment period. Gender was not a complicating factor in the validity checks that follow.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "2.7. Validity checks",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Initial two (environment)-two (task)-two (gender) ANOVA satisfied expectations of group equivalence in baseline SBP and DBP, pretest emotional states, and pretest performance on the NCPCT and SMT. We uncovered no significant effects involving environment or task assignment.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We checked whether drive circumstances exerted differential effects on BP that would cloud interpretation of treatment effects. Neither environment nor task assignment (i.e. time of departure from UCI) had a significant main effect on mean drive DSBP or DDBP (based on three or more valid readings). Repeatedmeasures analyses were not used to check drive BP effects because many subjects had one or more readings invalidated (e.g. by arm movements required to operate the vehicle). Another check was made using the last drive DBP value, which would have occurred when the environments differed most. There were no significant effects of environment or task assignment on DSBP or DDBP. Other factors-uncertainty about the destination, concern about time-presumably overrode the possible environmental influences.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "For no-task subjects the drive served as a stressor. Their mean drive SBP and DBP values were on average 7.74 and 2.68mmHg over the baseline value, pairedsamples tð50Þ ¼ 4:87 (po0:001) and 2.17 (po0:05), respectively.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Performance of the task raised BP. Mean task SBP and DBP values, based on at least four valid readings, were on average 4.39 and 4.27mmHg over the baseline value, paired-samples tð52Þ ¼ 3:79 and 4.02, respectively, po0:001: Repeated-measures ANOVA did not find a significant main effect of environment on DSBP or DDBP during the task, nor did environment interact with time in either analysis. Thus, the interpretation of treatment BP effects is not threatened by differential psychophysiological stress induction in the two field settings. The within-subjects main effect of time in these analyses reflects not only responses to the Stroop and binary classification tasks, but also response attenuation during each task, for DSBP, Fð5; 180Þ ¼ 18:5; and for DDBP, Fð5; 180Þ ¼ 5:92; both po0:001; after an initial peak following the onset of the task, BP declined while the task was still underway. Attenuation of the BP response during the task made our tests for environmental effects on subsequent restoration conservative.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The pretreatment tasks were meant to increase attentional fatigue. Using performance data from a subset of the task subjects (n ¼ 44), we calculated the percentage error for two blocks for both the Stroop and binary classification tasks. The mean percentage error increased from the first to second block of the Stroop task (4.29-4.98%) but declined slightly across blocks of the binary classification task (2.95-2.89%). In an ANOVA with environment and gender as betweensubjects factors and task-type and block as withinsubjects factors we found no significant main or interaction effects with the exception of the main effect of task-type, Fð1; 40Þ ¼ 8:53; po0:01; the subjects performed better on the binary classification task. Thinking the lack of a block effect might owe to the very low error rate during the binary classification task, we ran a second analysis using only the Stroop task data. The ANOVA with environment and gender as between-subjects factors and block as a within-subjects factor yielded a marginal effect of block, Fð1; 40Þ ¼ 3:86; po0:06: No other effects were statistically significant in this analysis. In sum, we detected a performance decline in the initial half of the task phase, but not over the course of the second and easier task.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We compared the drive and task as psychophysiological stressors. This is reasonable; both involved a seated posture, vigilance, and mild physical activity (driving vs verbal responding). The task subjects' mean task DSBP and DDBP did not differ significantly from the no-task subjects' mean drive DSBP and DDBP. Thus, for the procedural phase prior to treatment, mean BP was similarly elevated in the task and no-task groups. As task subjects had completed the drive just before the task, their pretreatment stressor exposure had longer duration.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "A final check on the pretreatment BP status of groups analysed the final task D values and the D values first obtained from the no-task subjects after being seated at the field lab. As the treatment began just after these readings concluded, they constitute the ''zero time'' D values in our analyses of change in BP during seated treatment. The analysis uncovered no significant main effect of environment or task assignment on DSBP or DDBP, nor did environment and task interact. Thus, with respect to mean DBP levels at the onset of treatment, the groups defined by the environment and task factors were statistically equivalent.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Physiological effects",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "While seated indoors during the first 10min after the task or drive, those subjects who had views of trees showed only a marginally steeper decline in SBP than those who did not have a view (po0:12) (see Fig. 4). Those subjects who had just completed the drive showed steeper SBP declines than those who had just completed the task (see Fig. 4, top panel); for the task-time interaction, Fð2; 180Þ ¼ 3:63; p ¼ 0:03:",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In contrast to the marginal effect seen in SBP and in line with Hypothesis 1, the subjects with tree views showed significantly steeper DBP declines than the subjects in a viewless room (see Fig. 4, bottom panel); for the environment - time interaction, Fð2; 180Þ ¼ 4:74; p ¼ 0:01: Overall, subjects with tree views had lower DDBP values during seated treatment; for the main effect of environment, Fð1; 90Þ ¼ 8:94; po0:005: Whether the subjects had just completed the pretreatment task or the drive did not play a role in DBP during seated treatment.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Environment also affected BP during the walk. As shown in Fig. 4 (top panel), mean SBP shifted upward in all of the groups between the readings at 10 and 20min, reflecting the change from a seated to a standing posture. From the reading at 20min into the treatment (and so 10min into the walk), SBP declined in the natural environment but increased in the urban environment. Thus, the SBP trends in the two environments continued to diverge as they had through the end of the seated treatment. However, after the 30-min mark the trends for all four groups converged. Those differences seen in the pattern of change in the two environments underly a significant environment-time interaction in the analysis of the readings at 20, 30, 40, and 50min, Fð3; 249Þ ¼ 2:94; po0:04: This analysis also indicated that, contrary to our expectations, the subjects in the nature reserve did not have substantially lower average DSBP values for the walk period as a whole; the main effect of environment did not reach statistical significance. However, at the 30min mark, when the trends in the two environments diverged the most, the mean DSBP values differed by roughly 6mmHg, a significant difference, Fð1; 102Þ ¼ 12:97; po0:001: Thus, the results do provide some support for the hypothesis that BP would be lower during the walk in the natural environment (Hypothesis 2).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "For the walk DDBP values measured at 20-50min into the treatment, the patterns of change in the two environments resemble those seen in SBP (Fig. 4, bottom panel). Although neither the environment main effect nor the environment-time interaction was significant, the test of quadratic trends suggests that environment and time interacted in a manner like that seen in the DSBP values, (po0:04). Also, as with DSBP, subjects in the natural environment had lower DDBP values about halfway into the walk, Fð1; 102Þ ¼ 6:55; po0:02: The task condition did not moderate the mean level of either DBP or SBP measured during the walk, nor did it affect BP change during the walk, alone or in interaction with environment.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "SBP change values while seated in the field lab after the walk were similar in the natural and urban environments (see Fig. 4, top panel, 60+min). The postwalk DDBP of subjects with tree views tended to differ from that of subjects seated once again in a viewless room, Fð1; 100Þ ¼ 2:84; po0:10 (see Fig. 4, bottom panel). The task condition did not affect BP measured after the walk, alone or in interaction with environment.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In sum, during the initial minutes of treatment DBP declined more rapidly in those subjects who viewed trees and other vegetation in comparison to those who did not have a view. Change in BP during the walk initially indicated a restorative advantage of being in the natural environment; however, the environment effect had largely dissipated by the postwalk.",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 4. Change in systolic (top panel) and diastolic (bottom panel) blood pressure relative to baseline as a function of environment and pretreatment task condition. The reading at 0min marks either the first reading in the field lab following the drive or the end of the task. The readings at 4 and 10min occurred while subjects sat in a room with window views of trees and vegetation or in a viewless room. The readings at 20, 30, 40, and 50min occurred during a walk in a nature reserve or an area of medium-density urban development. The readings at 60+min occurred while subjects again sat in a room with window views of trees or in a viewless room.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. Emotional effects",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Neither environment nor task condition had a significant main effect on OH reported during the walk. However, environment and task condition interacted. In the nature reserve, those who had completed the task before the walk reported substantially less happiness than their no-task counterparts (M ¼ 67:96 vs M ¼ 79:60). In contrast, the difference between the two urban groups was smaller and in the opposite direction, with the task subjects reporting slightly greater happiness than the no-task subjects (M ¼ 73:33 vs M ¼ 70:00). For the interaction, Fð1; 99Þ ¼ 7:13; po0:01: The expectation that those walking in the nature reserve would experience more positive emotion than those walking in the urban environment (Hypothesis 3) receives support from the test of the simple main effect of environment within the no-task condition, Fð1; 49Þ ¼ 7:40; po0:01: The simple main effect of environment among the task subjects did not reach statistical significance.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Environment also affected pretest-to-postwalk emotional change. In line with Hypothesis 4, positive affect increased at the nature reserve and decreased in the urban environment, Fð1; 100Þ ¼ 56:83; po0:001 (see Fig. 5). Also, on average it increased for the no-task subjects and decreased for the task subjects, Fð1; 100Þ ¼ 9:15; po0:005: Further, environment, task, and time interacted, Fð1; 100Þ ¼ 10:31; po0:005; the observed means suggest that the no-task subjects showed greater positive affect increase in the natural environment than the task group, whereas in the urban environment the task and no-task groups showed similar declines.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Also in line with Hypothesis 4, feelings of anger and aggressiveness declined at the nature reserve but increased in the urban setting, Fð1; 99Þ ¼ 8:19; po0:01: Alone, task condition did not significantly affect the degree of change in anger and aggressiveness; however, task did interact with environment and time, Fð1; 99Þ ¼ 4:97; po0:03; decline in anger and aggressiveness in the natural environment was concentrated in the no-task group, and increase in the urban environment was greater in the no-task group (see Fig. 6).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Fear arousal declined slightly but not significantly from the pretest (M ¼ 1:50) to the postwalk (M ¼ 1:42) in the sample as a whole, without showing any significant effects involving environment or task.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Environment, task, and gender interacted in sadness change, Fð1; 101Þ ¼ 6:31; po0:015: On average, men who had completed the task became less sad in the urban environment and more sad in the natural environment, while men who had not completed the task became more sad in the urban environment and less sad in the natural environment (see Fig. 7). In contrast to the men who had completed the task, the women who had completed the task on average became more sad in the urban environment and less sad in the natural environment. The no-task women showed similarly small average increases in sadness in the urban and natural environments.",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 5. Change in self-reported positive affect as a function of environment and task condition. Scores can range from 1 to 5. Higher scores indicate greater positive affect.",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 6. Change in self-reported anger and aggressiveness as a function of environment and task condition. Scores can range from 1 to 5. Higher scores indicate greater anger and aggressiveness.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "In sum, OH reported on the walk and pretest-topostwalk change in positive affect and anger/aggressiveness were sensitive to the environment and task manipulations. The greater OH of no-task subjects on the walk in the nature reserve, and the greater pretest-topostwalk increase in positive affect and decline in anger/ aggression, offer support for the nature restoration hypothesis.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "3.3. Attentional effects",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Both self-report and performance measures indicated that the ability to direct attention changed over the course of the experiment, but they give different pictures of the role of the environment in that change. Selfreported attentiveness declined substantially from the pretest (M ¼ 3:27) to postwalk (M ¼ 2:62), Fð1; 101Þ ¼ 32:74; po0:001: However, neither environment nor task affected the character of that change, independently or interactively.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "In contrast, environment affected change in performance on the NCPCT. Because we wanted to know whether environmental effects on performance had already appeared during the walk, we first considered change from the pretest to the walk administrations of the NCPCT. As shown in Fig. 8, the ability to focus on one Necker Cube pattern (and so to inhibit a reversal to the other pattern) declined from the pretest to the walk in the urban environment, as reflected in an increase in the number of reversals (0.81 more reversals on average, looking across the two task conditions). Conversely, performance improved slightly in the natural environment from the pretest to the walk (0.26 fewer reversals on average, looking across the task conditions). For the environment - time interaction, Fð1; 98Þ ¼ 13:15;",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 7. Change in self-reported sadness as a function of environment, task condition, and gender. Scores can range from 1 to 5. Higher scores indicate greater sadness.",
+   "page": 11
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 8. Change in performance on the NCPCT as a function of environment and task condition. The values represent pattern reversals that occurred despite an effort to maintain a focus on one pattern. Across the measurement points, valid scores in this sample ranged from 0 to 11.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "po0:001: We found no significant effects involving the task condition.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Going further, we analysed change from the walk to the postwalk administrations of the NCPCT. This analysis did not show any significant effect of environment or task, independently or interactively. Apparently, the performance gap that had opened up near the halfway point in the two walks remained largely open into the postwalk period (see Fig. 8). So, although the overall change from the pretest to the postwalk conforms with Hypothesis 5, it appears that the effect owes more to the performance decrements in the urban environment than to performance increments in the natural environment. Concluding our examination of NCPCT performance, we directly analysed pretest-topostwalk change. The only noteworthy effect involving environment and/or task was the environment-time interaction, for which Fð1; 100Þ ¼ 5:59; p ¼ 0:02:",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Finally, we assessed pretest-to-postwalk change in accuracy, speed, and overall performance (accuracyspeed) on the SMT. The percentage of correctly identified target letters remained stable from the pretest (M ¼ 62:6%) to the postwalk (M ¼ 62:1%); no effects involving environment or task condition approached statistical significance. The number of letters searched increased from the pretest (M ¼ 1451) to the post-test (M ¼ 1525), Fð1; 96Þ ¼ 6:45; po0:015; here again, we found no significant effects involving environment or task. Despite the increase in the number of letters searched, the slight decline in accuracy meant that overall performance improved only marginally (po0:10) from the pretest (M ¼ 878) to the postwalk (M ¼ 915), again without environment or task exerting any significant influence.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "In sum, subjects reported a decline in attentiveness during the experiment, an effect not modified by environment or task condition. However, the natural and urban environments had contrasting effects on change in the number of Necker Cube pattern reversals from the pretest to the walk, opening a performance gap that persisted through the postwalk NCPCT administration.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "4.1. Evidence of restorative effects of natural environments",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "First and foremost, our results speak to widely held beliefs that natural surroundings aid the physical and psychological restoration of people living in cities. To ensure a potential for restoration, we imposed different demands on our subjects-tasks requiring focused attention, performed for an hour after arriving at a field site, or the drive to the field site in and of itself. Following these demands, we found that our comparison settings had opposed effects in each of the three remaining phases of the study. In the initial 10min of the environmental treatment, DBP declined in subjects sitting in a room with window views of trees and other vegetation, but it increased in subjects who sat in a room without views. This result fits with our expectations (Hypothesis 1) and corroborates Ulrich et al.'s (1991)",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "findings with subjects who watched videotapes of natural or urban environments after exposure to a stressor.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "During the next phase of the experiment the subjects walked in a nature reserve or an area of medium-density urban development. After an upward shift in level with the change from a seated to a standing posture, the blood pressure trends initially continued in the same directions that we had seen at the close of the seated treatment; the natural environment supported further blood pressure reduction, and the urban environment engendered further blood pressure increase. At 20min into the walk (and so 30min poststressor), mean DSBP and DDBP differed significantly across the two settings. This result offers some support for our expectation of lower blood pressure on the walk in the natural environment (Hypothesis 2).",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "At 20min into the walk we also measured OH and, as an index of attentional restoration, the ability to inhibit Necker Cube pattern reversals. OH scores reflected the joint influence of environment and antecedent condition (task vs drive), and only among the subjects who had completed the drive just before the treatment did we find the expected effect of environment on OH (Hypothesis 3), with higher scores reported by those in the natural environment. Performance on the Necker Cube task improved slightly (i.e. the number of reversals declined) in the natural environment but suffered in the urban environment, regardless of antecedent condition. This result bears on our interest in whether environmental effects on performance would appear already on the walk.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "In the last phase of the experiment, after the walk, mean blood pressure D values in the two environments no longer differed as they had near the halfway point on the walk. While the blood pressure effects had dissipated, clear environmental effects on emotion were observed. In the natural environment, positive affect had increased and anger/aggression decreased relative to the pretest, while the opposite pattern of change had occurred in the urban environment. These outcomes support our hypothesis of more positive change in emotion with the walk in the natural environment (Hypothesis 4). However, as with OH on the walk, environment had interacted with pretreatment task condition in influencing the direction and degree of this change. Common to these interactions, having performed the task in the natural environment appears to have worked against positive emotions.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Finally, postwalk performance on the NCPCT confirmed our hypothesis of greater improvement (or a smaller decrement) in performance following the walk in the nature reserve (Hypothesis 5). The effect of environment on pretest-postwalk change in NCPCT performance appears to owe primarily to the negative impact of the urban environment already seen on the walk; average performance in the groups did not change significantly from the walk to the postwalk. However, we cannot rule out the possibility that the natural environment hindered decline in directed attention capacity over the course of the lengthy experiment (cf. the self-reports of attentiveness). In contrast to NCPCT performance, pretest-postwalk change in search and memory task (SMT) performance did not show significant effects of either the environment or task manipulations. The SMT has previously proved insensitive to simulations of natural and urban environments in laboratory experiments (Hartig et al., 1996). The present results do not help us interpret the earlier SMT results as a matter of weak and/or too brief treatments.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Although we have converging evidence from different types of measures that the natural settings contributed to more positive outcomes, we must emphasize that the magnitude of the effects does not only owe to restorative effects of the natural settings. The windowless room and urban surroundings had negative effects that also figured in the size of the differences detected. In this our results align with research on urban stressors (e.g. Glass & Singer, 1972). Still, the changes that occurred in the two natural settings had a positive character in and of themselves. The two natural settings fostered restoration; they do not merely stand as ''less negative'' alternatives to the windowless room and urban surroundings.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Finally, it bears mentioning that ours was a conservative test of the nature restoration hypothesis. We did not use extreme examples of natural scenic beauty and urban blight as comparison environments. Perhaps more importantly, we did not study individuals who had gone under their own initiative to some natural or urban setting expressly for unwinding, alone or with chosen companions. Rather, we studied individuals in the context of a true experiment. Doing so provided validity advantages, such as protection against self-selection. However, the experimental context unavoidably imposed constraints on our subjects' behavior. Yet because this feature of the study made ours a conservative test of the nature restoration hypothesis, we should regard the results obtained here as more compelling. Although quasi-experimental and non-experimental studies might report larger associations, the value of such results depends on how well the researchers can address validity challenges such as those we have dealt with through our study design and procedures.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "4.2. Theoretical and methodological implications",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Our results also offer some insights on two theoretical accounts for environmental effects on restoration. To improve our understanding of the relative merits of attention restoration theory (Kaplan & Kaplan, 1989; Kaplan, 1995) and Ulrich's (1983) stress recovery theory, we had included two features in the experimental design. Repeated measures of physiological, emotional, and attentional variables enabled us to examine how change in the different kinds of variables corresponded over the course of the experiment. Three points stand out in this regard. First, both blood pressure and Necker Cube pattern reversals showed divergent patterns of change across the two environments through the first half of the treatment, increasing in the urban environment and declining in the natural environment. However, the change in Necker Cube task performance correlated rather weakly with both the DSBP and DDBP values for the corresponding time point roughly halfway through the walk (r ¼ 0:16; p > 0:10 for both). This suggests that environment influenced change in these attentional and physiological variables through separate processes.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Second, change in performance from the pretest to the postwalk correlated even more weakly with blood pressure change (r ¼ 0:12 with postwalk DSBP, r ¼ \u00000:06 with postwalk DDBP, ps > 0:23). This seems unsurprising; environmental effects on performance had emerged on the walk and then persisted into the postwalk, while the environmental effects on blood pressure had largely dissipated by the postwalk. So, the environmental effects on performance again do not correspond with environmental effects on autonomic arousal as reflected in blood pressure.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Third, although pretest-postwalk change in Necker Cube task performance did not correlate with change in blood pressure over the same period, it did correlate with change in positive affect (r ¼ \u00000:28; p ¼ 0:004). The association remains significant (r ¼ \u00000:20; po0:05) after partialling out the effects of environment; that is, we do not have a spurious association driven by the effect of environment on the respective variables. Still, we cannot say with certainty whether one type of change mediates the other, as we have only the two measures of positive affect and so cannot mount equivalent mediational analyses.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The repeated measures suggest that the physiological and attentional restoration processes may complement one another, manifesting in different kinds of outcomes that emerge at different rates and persist to differing degrees. In contrast, the task manipulation offers little insight into the complementarity of different restoration processes. We did not find consistent effects of the manipulation on blood pressure or the attention measures. Just why the task had so little impact we cannot say. It may simply have failed to fatigue the task subjects' ability to focus attention more so than what the no-task subjects faced during the hour before they began their participation and then as they drove to the field site. Whatever the case, we find it interesting that groups of subjects with seemingly different psychological points of departure showed such similar patterns of change in the physiological and attentional measures over the course of the experiment.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Other of our findings have implications for restorative environments research in general. During the latter half of the walk, we saw a convergence of the blood pressure trends that had diverged across the two environments during the first half of the walk. This pattern of change may have occurred because the subjects turned back toward the field lab at 25min into the walk. Speculatively, this induced negative anticipation (e.g. of driving home) in natural environment subjects but some initial relief in urban subjects. Thus, the trends may reflect shifts of emotional valence and intensity, such as commonly occur during leisure episodes (Hull, Michael, Walker, & Roggenbuck, 1996; cf. Staats, Gattersleben, & Hartig, 1997). These results encourage caution in two respects. First, averaging multiple measures obtained in comparison environments may conceal effects of those environments on patterns of change. Second, when",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "blood pressure (or some other variable) is measured after but not during a period in comparison environments, an absence of post-test effects does not necessarily mean that the environments did not affect the variable (cf. Hartig et al., 1991, Study 2).",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Other of our results have implications for theory concerning restoration per se. These may particularly interest those researchers who study the links between environment, cardiovascular reactivity, and health. First, across the experimental phases that followed the demands imposed upon the subjects, the relative effects of the environments on DBP largely paralleled those that we observed for SBP. Yet environmental effects showed up more clearly in DBP than in SBP during the seated-treatment and the postwalk phases, whereas the opposite held during the walk. We might interpret this pattern with reference to two cardiovascular response profiles which psychophysiological research has related to different types of stressors (Brownley, Hurwitz, & Schneiderman, 2000). Among other changes, increase in DBP characterizes an ''alpha-adrenergic'' response profile linked to stressors that involve vigilance or passive coping. In contrast, increase in SBP helps distinguish a ''beta-adrenergic'' response profile linked to stressors that involve active coping or defense. Thus, the DBP differences during the seated-treatment and postwalk phases may reflect relatively less vigilance or passive coping while sitting in a room with views of trees, and the SBP differences during the walk may reflect a less defensive orientation in the nature reserve. By implication, different cardiovascular response profiles may align with different recovery contexts as they do with different stressors.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Second, on average, anger and aggressiveness declined in the natural environment but increased in the urban environment. Other research has shown that anger impairs recovery from laboratory stressors and so may operate in a psychophysiological pathway linking stress and cardiovascular disease (for a review, see Linden, Earle, Gerin, & Christenfeld, 1997); however, only a tendency toward an environmental effect on DDBP could be discerned in postwalk BP measures. Yet, anger reduction as a benefit of natural environments deserves special attention, not least because anger often affects people beyond the angry individual him- or herself, sometimes seriously, as with interpersonal violence (cf. Kuo & Sullivan, 2001).",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "4.3. Practical implications",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Ineffective stress recovery may undermine physical health through chronic arousal, immune suppression, and other aspects of allostatic load (Johnston-Brooks, Lewis, Evans, &Whalen, 1998; Llabre, Spitzer, Saab, & Schneiderman, 2001; McEwen, 1998). An inability to periodically renew one's capacity to focus may impair work performance and interpersonal relations. Our results illustrate how everyday settings can hinder or support these different forms of restoration. As with regular sleep, regular access to restorative environments can interrupt processes that negatively affect health and well-being in the short- and long-term. For urban populations in particular, easy pedestrian and visual access to natural settings can produce preventive benefits. Environmental strategies for health promotion that improve opportunities for restoration can offset limitations of individual-based behavioral change approaches (Schmid, Pratt, & Howze, 1995; Stokols, 1996), and they complement approaches focused on preventing, eliminating, or mitigating stressor exposures (Hartig, 2001; King, Stokols, Talen, Brassington, & Killingsworth, 2002). Public health strategies with a natural environment component may have particular value in this time of growing urban populations, exploding health care expenditures, and deteriorating environmental quality.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgements",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "This study was supported by USDA Forest Service Cooperative Agreement 28-C8-469; an American Psychological Association Dissertation Research Award; and a Dissertation Fellowship from the School of Social Ecology, University of California, Irvine (T.H.). Manuscript preparation was partially supported by NHLBI Training Grant T32 HL07365-14 (T.H.). We thank Susan Berg, Joanne Berry, Christine Drass, Christine Fong, Anjolette Fruehan, Marcos Martinez, Dan Mathiesen, Michael Richmai, Glen Segrue, Rashida Tinkshell, Adrian Wolf, and Maegan Winning for assistance with data collection; Peter DeSimone and the National Audubon Society for Starr Ranch access;",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Mike Kraft for photos; Peter Bowler, Bev Driver, David Ragland, and Leonard Syme for assistance at various stages in this project; and Staffan Hygge, Igor Knez, Raymond Novaco, David Shapiro, Daniel Stokols, and an anonymous reviewer for helpful comments on earlier drafts of this paper.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Brownley, K. A., Hurwitz, B. E., & Schneiderman, N. (2000). Cardiovascular psychophysiology. In J. T. Cacioppo, L. G. Tassinary, & G. G. Berntson (Eds.), Handbook of psychophysiology, 2nd ed. (pp. 224-264). Cambridge: Cambridge University Press.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Campbell, A., Converse, P. E., & Rodgers, W. L. (1976). The quality of American life. New York: Russell Sage Foundation.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Cimprich, B. (1993). Development of an intervention to restore attention in cancer patients. Cancer Nursing, 16, 83-92.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, S. (1978). Environmental load and the allocation of attention. In A. Baum, J. E. Singer, & S. Valins (Eds.), Advances in environmental psychology, Vol. 1. (pp. 1-29). Hillsdale, NJ: Lawrence Erlbaum.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B. L., & Levenson, R. W. (1998). Positive emotions speed recovery from the cardiovascular sequelae of negative emotions. Cognition and Emotion, 12, 191-220.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Glass, D. C., & Singer, J. E. (1972). Urban stress: Experiments on noise and social stressors. New York: Academic Press.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T. (1993). Nature experience in transactional perspective. Landscape and Urban Planning, 25, 17-36.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T. (2001). Guest editor's introduction (special issue on restorative environments). Environment and Behavior, 33, 475-479.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., B.o.ok, A., Garvill, J., Olsson, T., & G.arling, T. (1996). Environmental influences on psychological restoration. Scandinavian Journal of Psychology, 37, 378-393.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., & Evans, G. W. (1993). Psychological foundations of nature experience. In T. G.arling, & R. G. Golledge (Eds.), Behavior and environment: Psychological and geographical approaches (pp. 427-457). Amsterdam: North-Holland.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., Mang, M., & Evans, G. W. (1991). Restorative effects of natural environment experiences. Environment and Behavior, 23, 3-26.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hull, R. B., Michael, S. E., Walker, G. J., & Roggenbuck, J. W. (1996). Ebb and flow of brief leisure experiences. Leisure Sciences, 18, 299-314.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Johnston-Brooks, C. H., Lewis, M. A., Evans, G. W., & Whalen, C. K. (1998). Chronic stress and illness in children: The role of allostatic load. Psychosomatic Medicine, 60, 597-603.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, R., & Kaplan, S. (1989). The experience of nature: A psychological perspective. Cambridge: Cambridge University Press.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of Environmental Psychology, 15, 169-182.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "King, A. C., Stokols, D., Talen, E., Brassington, E. S., & Killingsworth, R. (2002). Theoretical approaches to the promotion of physical activity: Forging a transdiciplinary paradigm. American Journal of Preventive Medicine, 23(2S), 15-25.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Knopf, R. C. (1983). Recreational needs and behavior in natural settings. In I. Altman, & J. F. Wohlwill (Eds.), Behavior and the natural environment (pp. 205-240). New York: Plenum.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Knopf, R. C. (1987). Human behavior, cognition, and affect in the natural environment. In D. Stokols, & I. Altman (Eds.), Handbook of environmental psychology, Vol. 1 (pp. 783-825). New York: Wiley.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Kuo, F. E., & Sullivan, W. C. (2001). Aggression and violence in the inner city: Impacts of environment via mental fatigue. Environment and Behavior, 33, 543-571.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Laumann, K., G.arling, T., & Stormark, K. M. (2003). Selective attention and heart rate responses to natural and urban environments. Journal of Environmental Psychology, 23, 125-134.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Lepore, S. J., & Evans, G. W. (1996). Coping with multiple stressors in the environment. In M. Zeidner, & N. S. Endler (Eds.), Handbook of coping: Theory, research, applications (pp. 350-377). New York: Wiley.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Linden, W., Earle, T. L., Gerin, W., & Christenfeld, N. (1997). Physiological stress reactivity and recovery: Conceptual siblings separated at birth? Journal of Psychosomatic Research, 42(2), 117-135.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Llabre, M. M., Spitzer, S. B., Saab, P. G., & Schneiderman, N. (2001). Piecewise latent growth curve modeling of systolic blood pressure reactivity and recovery from the cold pressor test. Psychophysiology, 38, 951-960.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "McEwen, B. (1998). Protective and damaging effects of stress mediators. New England Journal of Medicine, 338, 171-179.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Metropolitan Life Foundation (1983). 1983 metropolitan height and weight tables. Statistical Bulletin, 64(1), 2-9.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Milgram, S. (1970). The experience of living in cities. Science, 167, 1461-1468.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Olmsted, F. L. (1870). Public parks and the enlargement of towns. Cambridge, MA: Riverside Press (reissued by Arno Press, 1970).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Parsons, R., Tassinary, L. G., Ulrich, R. S., Hebl, M. R., & GrossmanAlexander, M. (1998). The view from the road: Implications for stress recovery and immunization. Journal of Environmental Psychology, 18, 113-139.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Schmid, T. L., Pratt, M., & Howze, E. (1995). Policy as intervention: Environmental and policy approaches to the prevention of cardiovascular disease. American Journal of Public Health, 85, 1207-1211.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Schreyer, R. (1989). Motivation for participation in outdoor recreation and barriers to that participation-a commentary on salient issues.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "In A Literature Review: The President's Commission on Americans Outdoors (Motivations Section, pp. 1-8). Washington, DC: US Government Printing Office.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Shapiro, D., Jamner, L. D., Goldstein, I. B., & Delfino, R. (2001). Striking a chord: Moods, blood pressure, and heart rate in everyday life. Psychophysiology, 38, 197-204.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, A. P., & Miles, C. (1987). The combined effects of occupational health hazards: An experimental investigation of the effects of noise, nightwork, and meals. International Archives of Occupational and Environmental Health, 59, 83-89.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Staats, H., Gattersleben, B., & Hartig, T. (1997). Change in mood as a function of environmental design: Arousal and pleasure on a simulated forest hike. Journal of Environmental Psychology, 17, 283-300.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Stokols, D. (1996). Translating social ecological theory into guidelines for community health promotion. American Journal of Health Promotion, 10, 282-298.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Tennessen, C. M., & Cimprich, B. (1995). Views to nature: Effects on attention. Journal of Environmental Psychology, 15, 77-85.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1979). Visual landscapes and psychological well-being. Landscape Research, 4, 17-23.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1983). Aesthetic and affective response to natural environment. In I. Altman, & J. F. Wohlwill (Eds.), Behavior and the natural environment (pp. 85-125). New York: Plenum Press.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S., Simons, R., Losito, B. D., Fiorito, E., Miles, M. A., & Zelson, M. (1991). Stress recovery during exposure to natural and urban environments. Journal of Environmental Psychology, 11, 201-230.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "White, W. B., Lund-Johansen, P., & Omvik, P. (1990). Assessment of four ambulatory blood pressure monitors and measurements by clinicians versus intraarterial blood pressure at rest and during exercise. American Journal of Cardiology, 65, 60-66.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Zuckerman, M. (1977). Development of a situation-specific trait-state test for the prediction and measurement of affective responses. Journal of Consulting and Clinical Psychology, 45, 513-523.",
+   "page": 15
+  }
+ ]
+}

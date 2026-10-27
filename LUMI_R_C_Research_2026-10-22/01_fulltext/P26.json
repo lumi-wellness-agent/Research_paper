@@ -1,0 +1,1218 @@
+{
+ "paper_id": "P26",
+ "source": "P26_Stress_Recovery_Natural_Urban_Environments.pdf",
+ "pages": 30,
+ "tool": "docling+ocr-mac",
+ "items": [
+  {
+   "label": "text",
+   "text": "Journal of Environmental Psychology (1991) 11, 201-230",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "STRESS RECOVERY DURING EXPOSURE TO NATURAL AND URBAN ENVIRONMENTS'",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "ROGER S. ULRICH*, ROBERT F. SIMONS+, BARBARA D. LOSITO, EVELYN FIORITO, MARK A. MILESt and MICHAEL ZELSON+",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "* College of Architecture, Texas A & M University. College Station, Texas 77843-3137 and † Department of Psychology, University of Delaware. Newark, Delaware, U.S.A.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Different conceptual perspectives converge to predict that if individuals are stressed, an encounter with most unthreatening natural environments will have a stress reducing or restorative influence, whereas many urban environments will hamper recuperation. Hypotheses regarding emotional, attentional and physiological aspects of stress reducing influences of nature are derived from a psycho-evolutionary theory. To investigate these hypotheses, 120 subjects first viewed a stressful movie, and then were exposed to color/sound videotapes of one of six different natural and urban settings. Data concerning stress recovery during the environmental presentations were obtained from self-ratings of affective states and a battery of physiological measures: heart period, muscle tension, skin conductance and pulse transit time, a non-invasive measure that correlates with systolic blood pressure. Findings from the physiological and verbal measures converged to indicate that recovery was faster and more complete when subjects were exposed to natural rather than urban environments. The pattern of physiological findings raised the possibility that responses to nature had a salient parasympathetic nervous system component; however, there was no evidence of pronounced parasympathetic involvement in responses to the urban settings. There were directional differences in cardiac responses to the natural vs urban settings, suggesting that attention/intake was higher during the natural exposures. However, both the stressor film and the nature settings elicited high levels of involuntary or automatic attention, which contradicts the notion that restorative influences of nature stem from involuntary attention or fascination. Findings were consistent with the predictions of the psycho-evolutionary theory that restorative influences of nature involve a shift towards a more positively-toned emotional state, positive changes in physiological activity levels, and that these changes are accompanied by sustained attention/intake. Content differences in terms of natural vs human-made properties appeared decisive in accounting for the differences in recuperation and perceptual intake",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "The growing interest in environmental stress has been accompanied by a rapid accumulation of evidence indicating that environmental stressors (e.g. crowding. community noise, air pollution) can elicit substantial stress in large groups of people (for surveys sec Cohen et al., 1986; Evans & Cohen, 1987). Much previous stress research has been concerned primarily with person-based variables in responses to situations, such as coping and perceived control. Many studies also reflect an",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "0272-4944/91/030201 + 30503.00/0",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "© 1991 Academic Press Limited",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "202",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "increasing emphasis on physical properties of environments (e.g. high stimulation levels) that increase demands on coping resources (e.g. Evans ef al., 1986). Whether concerned with person-based variables or environmental characteristics, the vast majority of research to date has focused on situations that challenge resources or threaten well-being and accordingly elicit stress. Also, most studies have been concerned with extreme or unusual environmental conditions such as heat stress or loud aircraft noise. A different, though complementary perspective on stress and environments is evident in the question of whether different everyday, non-extreme physical environments have different influences in terms of fostering or hampering recovery from stress (Ulrich & Simons, 1986). If individuals are experiencing uncomfortable stress, due to either environmental conditions or other factors (e.g. illness, bereavement), do encounters with some types of common environments have restorative effects, while other everyday settings hamper or even work against recovery? To help answer these questions, an understanding of the concepts of stress and restoration is required.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Stress is the process by which an individual responds psychologically, physiologically, and often with behaviors, to a situation that challenges or threatens well-being (Baum et af., 1985). The psychological component includes cognitive appraisal of the situation, emotions such as fear, anger, and sadness, and coping responses. The physiological aspect consists of activity responses in numerous bodily systems, such as the cardiovascular, skeletomuscular and neuroendocrine, that mobilize the individual for coping or dealing with the situation. This mobilization uses resources or energy and, if prolonged, contributes to fatigue. The behavioral component includes a wide range of manifestations for instance, avoidance, alcohol or cigarette use, and declines in cognitive performance on tasks such as proof reading (e.g. Cohen et al., 1986). Also, after cessation of a stressor, after-effects may be observed such as a decline in frustration tolerance and lower task performance (e.g. Glass & Singer, 1972).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "A second concept central to the theory and research described in later sections is \"stress recovery' or 'restoration'. These terms will be used here interchangeably, although restoration can be construed as a broader concept that is not limited to stress recovery situations, or to recovery from states characterized by excessive psychological and physiological arousal, but could also apply to recuperation, for instance, from understimulation or excessively low arousal (Ulrich, 1981, 1983). 'Restoration' could also pertain to recovery influences that extend to the anabolic recharge of energy expended in the psychophysiological mobilization involved in responding to a stressor. In contrast to a stress response, restoration or recovery from stress involves numerous posifive changes in psychological states, in levels of activity in physiological systems, and often in behaviors or functioning, including cognitive functioning or performance. Central to the psychological component of restoration are positive changes in emotional states, i.e. reduced levels of negatively toned feelings such as fear or anger, and increases in positively-toned affects (Zuckerman, 1977; Ulrich, 1979). Because responses to short-term as well as long-term fatiguing stressors sometimes involve declines in cognitive functioning or performance, recovery may be evident in gains in performance (Hockey, 1983; Hartig et al., 1987).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The fact that both stress symptoms and restoration appear in different response modes has led Baum et al. (1985), among others, to advocate strongly the use of research approaches that assess responses in more than one mode. An outcome of general synchrony between data obtained from different modes (e.g. psychological and",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "physiological would suggest convergent validity, and justify greater confidence in the findings. At the most general level, the purpose of the present study was to investigate, using a multi-modal combination of measures physiological and verbal -the extent to which exposure to different everyday outdoor environments may foster or hinder recovery from stress. A second major objective was to test the notion that exposures to natural settings may promote greater stress recovery than contacts with urban environments, and that such differences in recovery effects should be evident in emotional states and physiological indicators. The physiological measures used in this research can objectively indicate effects of environmental exposures on bodily systems, and yield insights concerning attention or intake responses to settings during stress recovery (e.g. Lacey & Lacey, 1970). Compared with other types of stress measures, physiological procedures offer the important advantage of continuous monitoring of responses during an environmental encounter. Also, the use of physiological measures addresses a conspicuous gap in environment-behavior research; physiological methods have been neglected by investigators, and very little is known about the physiological correlates of experiences with everyday physical settings.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "In investigating recovery effects of outdoor environments, this research distinguished broadly between natural and urban environments. This is justified by different theories of human-environment interactions, and by evidence from many studies indicating that natural vs human-made visual properties elicit different patterns of affective responses in unstressed individuals, and have a central role in influencing perception and categorization of outdoor settings (Kaplan et al., 1972; Wohlwill, 1983). Investigations of groups in different countries have employed multivariate procedures such as multidimensional scaling to show that natural vs built groupings of landscape scenes emerge as prominent dimensions when affective ratings are obtained for diverse samples of views (e.g. Kaplan et al., 1972; Bernaldez & Parra, 1979). Visual environments tend to be categorized broadly as 'natural' by American and European groups if the content is predominantly vegetation and/or water, and if human-made features such as buildings and cars are absent or inconspicuous (Ulrich, 1983). Accordingly, we selected for study examples of natural settings that were dominated either by vegetation or a water feature. Consistent with the general natural/urban distinction, various urban settings were selected that had little or no vegetation and lacked a water feature.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Precious findings concerning stress reducing influences of natural settings",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Apart from the perceptual categories implicit in individuals' responses to outdoor environments, a consistent finding in well over 100 studies of recreation experiences in wilderness and urban nature areas has been that stress mitigation is one of the most important verbally expressed perceived benefits (Driver, 1976; Knopf, 1987; Schroeder, 1989). Recreation experiences are often complex (Hull, 1990), and apart from possible restorative influences of viewing or experiencing nature, other mechanisms foster stress recovery, e.g. physical exercise and achieving sense of control and other coping advantages through temporary escape' (Driver & Knopf, 1975). Although this body of research offers convincing evidence that stress recovery occurs in recreation experiences, the contribution of natural content and configurations per se has not been clearly isolated. However, the notion that simply viewing unthreatening nature tends to foster recovery from stress has received empirical support from a study by Ulrich (1979) of students who were experiencing mild stress because of a final exam. This study",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "204 R. S. Ulrich et al.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "used self-ratings to assess recovery produced by viewing color slides of either everyday nature scenes or unblighted city views lacking nature such as vegetation. Findings suggested that the natural scenes held attention more electively and fostered greater recovery as indicated by higher levels of positive affects and greater reductions in fear. Honeyman (1990) replicated this study with the addition of a recovery condition consisting of urban scenes containing prominent vegetation. Her results suggested that the urban settings with nature produced more recovery than the urban scenes lacking nature. In a study performed in Sweden using unstressed subjects (Ulrich, 1981), findings from self-ratings suggested that slides of unspectacular natural scenes sustained attention much more effectively through a lengthy viewing session, and produced more positively toned feeling states, than did urban scenes. These verbal results were broadly consistent with recordings of brain electrical activity in the alpha frequency range that suggested individuals were more wakefully relaxed during the nature exposures (Ulrich, 1981). These studies suggest that restorative effects of natural, in contrast to urban, scenes involve positive changes in emotional states accompanied by attention.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "These positive emotional states elicited by viewing unthreatening nature may be a mechanism underlying the finding that hospital patients recovering from surgery had more favorable recovery courses, including shorter hospital stays, lower intake of potent narcotic pain drugs, and more favorable evaluations by nurses, if their windows overlooked trees rather than a brick building wall (Ulrich, 1984). A questionnaire study of patients who were severely disabled by accidents or illness (and presumably stressed) found that a highly preferred category of window views included scenes of natural content such as trees (Verderber, 1986). In research by Heerwagen and Orians on patient anxiety in a dental fears clinic (Heerwagen, 1990), self-ratings and heart rate data suggested that patients felt less stressed on days when a large mural depicting a natural scene was hung on a wall of the waiting room, in contrast to days when the wall was blank. These findings from studies of health facilities are paralleled by results from prison research suggesting that cell window views of nature are associated with lower frequencies of prisoner stress symptoms such as digestive illness and headaches, and with fewer sick calls (Moore, 1982; West, 1985).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Theoretical Perspectives on Stress Reducing Influences of Nature",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The intuitively-based beliels that exposures to trees, water and other nature tend to foster psychological well-being, and produce restoration from the stresses of everyday urban living, date as far back as the earliest large cities (Ulrich & Parsons, 1990). For instance, residents of ancient Rome wrote that they valued contacts with nature as a contrast to the noise, congestion and other stressors of the city (Glacken, 1967). In the United States in the 19th century, the influential landscape architect and planner Frederick Law Olmsted (1865) wrote insightfully about stresses associated with cities and job demands, and argued that viewing nature is effective in producing restoration or recovery from such stresses (Ulrich, 1979). Olmsted contended that for individuals experiencing stress, viewing nature 'employs the mind without fatigue and yet exercises it; tranquilizes it and yet enlivens it; and thus, through the influence of the mind over the body, gives the effect of refreshing rest and reinvigoration to the whole system' (Olmsted, 1865). Olmsted's intuitively-based ideas about the restorative effect of nature formed an important part of his influential justification for providing pastoral parks",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "and other nature in America's cities, and for preserving wilderness such as the Yosemite Valley for public use. These ideas, along with the many well-known parks he created, such as Central Park in New York City, were influential in shaping the City Beautiful movement in the United States, and had widespread effects on parks and urban design that have carried down to the present (Ulrich & Parsons, 1990).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "More recently, social scientists have advanced a number of theoretical perspectives, as widely different as cultural conditioning and evolutionary positions, that converge in predicting that if individuals are stressed, encounters with most unthreatening natural settings will have stress reducing influences, whereas many urban environments will impede recuperation (Ulrich & Simons, 1986). Very briefly, cultural and other learningbased perspectives suggest that contemporary Western cultures tend to condition their inhabitants to revere nature and dislike cities (e.g. Tuan, 1974). Also, learned positive associations with natural environments can be acquired, for instance, during vacations and other recreational experiences. Arousal theories (e.g. Berlyne, 1971; Mehrabian & Russell, 1974) imply that recuperation from excessive arousal or stress should occur more rapidly in settings having low levels of arousal increasing properties such as complexity, intensity and movement. Consistent with the arousal perspective, studies using abstract, non-environmental visual displays have found that preferred levels of complexity decline when individuals are stressed or anxious (e.g. Berlyne & Lewis, 1963; O'Leary, 1965). Since natural settings may tend to have lower levels of complexity and other arousal properties than urban environments (Wohlwill, 1976), arousal theory implies that nature should have comparatively restorative influences on stress. Overfoad perspectives provide a rather different explanation of why recuperation following a stressor may be more rapid when external stimulation is comparatively low; high complexity and other stimulation place taxing processing demands (Cohen, 1978) that should slow or hamper restoration from stress.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Evolutionary perspectives often contend that because humans evolved over a long period in natural environments, people are to some extent physiologically and perhaps psychologically adapted to natural, as opposed to urban, physical settings, Whereas evolutionary arguments advanced by different authors vary considerably, a theme common to this position is that humans have an unlearned predisposition to pay attention and respond positively to natural content (e.g. vegetation, water) and to configurations characteristic of settings that were favorable to survival or ongoing well-being during evolution (e.g. Stainbrook, 1968; Appleton, 1975; Driver & Greene, 1977; Kaplan & Kaplan, 1989; Ulrich, 1983; Orians, 1986). As an example, Orians (1986) and Orians and Heerwagen (in press) have suggested that aesthetic liking and other positive responding to nature are elicited by specific types of configurations characteristic of environments that were most favorable to pre-modern humans from the standpoint of yielding food and drinking water. In an interesting analysis, Orians (1986) has obtained data suggesting high aesthetic liking for specific vegetation and tree canopy structures that are found in particular types of savannah environments; in turn, scientific measurements suggest that such savannah settings offered to pre-modern humans an especially high potential for obtaining food and water. Another variant of an evolutionary perspective has been suggested by authors who speculate that natural content may be processed with relative ease and efficiency because the brain and sensory systems evolved in natural environments (e.g. Wohlwill, 1983). Because this evolutionary tuning is lacking for urban or built environments, encounters with such settings place greater demands on processing resources, and may overload the",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "206 R. S. Ulrich et al.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "individual or require more coping or adaptation effort (Stainbrook, 1968). This argument implies that if an individual is stressed, these processing and/or adaptation demands should hinder recovery. As another example, Kaplan and Kaplan have advanced an evolutionary perspective that asserts preferences and restorative influences are cognitively-based, and are elicited by general contents such as vegetation, by properties of settings that foster movement and exploration, by coherent properties of nature that facilitate comprehension, and by natural objects and configurations that are 'fascinating' or attention holding (Kaplan & Talbot, 1983; Kaplan & Kaplan, 1989).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Attention or fascination and stress recovery",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In addition to Kaplan and Kaplan, other authors concerned with natural physical settings as well as with animals and pets have conjectured that strong attention holding properties of natural phenomena play a critical role in stress recovery or restoration (e.g. Katcher er al., 1983). As a prominent example, Olmsted (1865) advanced the position that non-taxing, attention-holding effects of natural views foster restoration from mental 'fatigue', or 'severe and excessive exercise of the mind', associated with work demands that require sustained, effortful attention and thought. Olmsted argued that natural settings 'restore' because they hold attention without mental effort, are pleasureable, and block out the demands and stresses of daily work and urban living. He wrote that when an individual is exposed to a natural view, \"The attention is aroused nd the mind occupied without purpose' (1865).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In arguments somewhat similar to Olmsted's, Kaplan and Kaplan have conjectured that people respond with involuntary attention or 'fascination' to nature, and that this is a key mechanism in restoration from 'mental fatigue' stemming from work situations that necessitate prolonged, directed, effortful attention (Kaplan & Talbot, 1983; Kaplan & Kaplan, 1989). In this regard, a study by Hartig et al. (1987) of subjects stressed by a difficult mental task offered some equivocal support for the notion that greater restoration of cognitive performance may be fostered by exposure to nature in contrast to urban settings. However, an assessment of the viability of a restoration explanation that emphasizes fascination should also take into account the fact that several scientific studies have shown that settings containing certain types of natural stimuli, such as snakes and spiders, do elicit strong 'involuntary' attention or fascination, yet the effects are anything but restorative. These studies indicate that along with strong attention (usually assessed by analysis of phasic cardiac deceleration), normal or non-phobic subjects respond to such stimuli as snakes and spiders with negatively-toned emotions and autonomic nervous system activation (e.g. Dimberg, 1986; Dimberg & Thell, 1988). Because automatic attention or fascination can be salient components of responses to stressors, this research implies that a model of restoration or stress recovery should specify other mechanisms in addition to attention or fascination.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "At this point it might be argued that whether an environmental encounter involving automatic attention or fascination is restorative or stressful is shaped by elaborated, conscious cognitive appraisals such as 'compatibility' with respect to the individual's inclinations (Kaplan & Kaplan, 1989). However, conditioning studies have shown that nature settings containing snakes or spiders can elicit pronounced autonomic responses (e.g. skin conductance) even when presented subliminally in backwardmasking designs (e.g. Öhman, 1986; Öhman et al., 1989). In other words, these findings",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "207",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "suggest that coherent responding to quite specific nature elements, can occur in the absence of recognition or conscious awareness of the elements. Other studies using exposures of several seconds have found that well-defined positive or negative emotional responses to natural stimuli (assessed by facial electromyography) can occur in 400 ms or less (Dimberg, 1990). This very rapid emotional/physiological responding, which appears relevant to stress and restoration, is difficult to reconcile with a purely 'controlled' cognitive perspective on human-nature interactions and restoration.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Further, a theoretical conceptualization of restoration that focuses heavily on 'mental fatigue' is likely to be inadequate, given the findings of studies that have examined emotional, physiological and cognitive performance indicators while individuals engaged in mental problem solving or other activities that required prolonged, taxing, directed attention. These studies clearly indicate that cognitive *fatigue' does not occur as an isolated effect, but is usually accompanied by negativelytoned feelings, sometimes by declines in cognitive performance (Holding, 1983), and typically involves recruitment of a variety of physiological systems and responding (electrocortical, autonomic, skeletomuscular, neuroendocrine) (e.g. Frankenhaeuser, 1980). Even prolonged attention to an interesting, comparatively positive mental task is accompanied by physiological mobilization, for instance, in the endocrine system as indicated by release of stress hormones (Lundberg et al., 1990). In view of these findings, it seems appropriate to interpret 'mental fatigue' in more mainstream terms as referring to a stress state of varying intensity elicited by work or mental stressors.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "While all the above mentioned conceptual perspectives evolutionary, arousal and cultural/learning have implications for the issue of stress recovery, most are not theories of restoration. Whereas Kaplan and Kaplan (1989) have advanced arguments that explicitly address restorative influences of nature, particularly with respect to 'mental fatigue, the foremost concern of evolutionary writings has been to explain patterns of aesthetic preference or judgements of visual quality. With the exception of some arousal and overload formulations, the conceptual positions described above contain very few explicit statements relating to such critical dimensions of restoration as physiological responses and changes in emotional states. For the most part, these theoretical conjectures regarding possible beneficial effects of nature have been grounded on data obtained from verbal indicators that offer at best a limited assessment of restoration from stress (e.g. preferences, satisfactions, attitudes or ratings of self-concept).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "A psychoevolutionary theory",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Ulrich's (1983) 'psycho-evolutionary' framework is an exception because it encompasses in addition to aesthetic preferences, a broad range of emotional and physiological arousal responses to natural configurations and content, including recovery or restoration. In Ulrich's perspective, preference is considered to be an important affect, but is construed only as one of a broad range of emotions (e.g. fear, interest, anger, sadness) that are central to the psychological component of stress and restoration, a position consistent with a very large research literature in clinical psychology and behavioral medicine. In contrast to, for instance, the Kaplans' cognitive perspective, Ulrich (1983) postulates that immediate, unconsciously triggered and initiated emotional responses- not 'controlled' cognitive responses play a central role in the initial level of responding to nature, and have major influences on attention,",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "208",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "subsequent conscious processing, physiological responding and behavior (Schriffin & Schneider, 1977; Zajonc, 1980; Öhman et al., 1989). The emphasis on quick-onset affective reactions is reconcilable with the growing amount of scientific evidence suggesting that the initial level of response to natural elements can be preconscious (e.g. Ohman et al., 1989). A fundamental contention of Ulrich's framework is that this multimodal process of responding should be adaptive in the sense that it is appropriate to the situation and motivates approach-avoidance behaviors that foster ongoing wellbeing or survival. Depending on the characteristics of a natural setting, and the individual's preceding affective/cognitive/physiological state, adaptive responses can range from stress and avoidance behavior to restoration and approach behavior (seeking out, staying in, not avoiding) (Ulrich, 1983, pp. 93-95). An example of a situation where adaptive responding would entail stressful influences, would be an early human encountering a natural setting involving risk or threat (e.g. a venomous snake or the edge of a precipice). In this case the quick-onset emotional reaction comprising fear, dislike, and attention/interest, would initiate adaptive physiological mobilization and very quickly motivate avoidance behavior on the basis of only a minimum of cognitive activity. But the costs of this adaptive process of responding would be evident in, among other modes, negatively-toned emotional states and energy consuming physiological arousal. If the threat situation were resolved, and the individual then encountered a natural setting favorable to ongoing well-being or survival (c.g. a savannah-like area or setting with water), Ulrich's theory suggests the adaptive need is for restoration or a 'breather\" from stress, perhaps partly to restore energy to sustain subsequent behaviors to exploit food, water or other advantages of the area. An adaptive constellation of restorative responses would involve, for instance, attention/interest accompanied by liking, reduced levels of negatively toned feelings such as fear, and reductions in physiological arousal from high levels to more moderate ranges (Ulrich, 1979, 1981, 1983). The conceptual arguments suggest, among other testable hypotheses, that restorative influences of unthreatening natural scenes following a stressor should be evident in a shift towards a more positively-toned emotional state, and in decreased levels of physiological arousal. From an adaptive evolutionary perspective, it can further be predicted that such restoration should occur fairly quickly, i.e. often within minutes rather than hours, depending on the intensity of the stress response. In light of the earlier discussion concerning attention or fascination, it should be emphasized that Ulrich's (1983) theory explicitly predicts that attention/interest will be a prominent component of both restorative responses to unthreatening natural scenes as well as stress responses to natural settings containing risk or threat. Regarding the latter point, humans should react with automatic \"involuntary' attention to potentially dangerous stimuli as part of the process of motivating avoidance or other adaptive behavior that would occur with sufficient quickness to favor long-term survival.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "These arguments imply that acquiring a capacity for restorative responding to certain unthreatening natural contents and configurations had major advantages for humans during evolution including, for instance, rapid attenuation of stress responses following threatening encounters, and fostering recharge of physical energy. Accordingly, modern humans might have a biologically prepared readiness to quickly and readily acquire restorative responses with respect to many unthreatening natural settings, but have no such prepardness for most urban or built contents and configurations. The notion that biological preparedness may be a factor in responding",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "209",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "to natural but not urban content has plausibility in light of many studies during the last 15 years on 'biologically prepared learning' (Seligman, 1971). In clinical psychology and psychophysiology, biologically prepared learning has gained some acceptance as an explanation for strong fear responses, avoidance, and phobic reactions with respect to situations and objects that presumably were survival threats throughout evolution (e.g. heights, snakes). Findings from many conditioning experiments indicate that strong aversive or defense responses are often readily acquired, and are consistently resistant to extinction, for certain pre-technological risk stimuli such as snakes and spiders, but not for much more dangerous modern stimuli such as handguns and frayed electrical wires (for survey of studies see Öhman, 1986). In view of these important findings, the speculation seems justified that biological preparedness might also be manifested in positive emotional/physiological/approach responses to natural content and configurations that tended to foster survival and well-being during evolution, but that such preparedness should not be evident for urban or built stimuli. Arguably, the rewards associated with natural settings during a few million years of evolution have been sufficiently critical to favor individuals who very easily learned and then persistently retained two related types of adaptive positive responding to nature: (1) restoration responses following stressful or taxing activities; and (2) in the absence of stress, liking/attention/approach responses for certain contents and classes of situations that favored well-being or survival because of high food potential, low risk and other advantages (e.g. water, savannah-like settings).",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Hypotheses of the present study",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "All of the theoretical perspectives discussed earlier cultural, arousal and evolutionary-converge in implying that everyday unthreatening natural environments, compared with most urban settings, should tend to foster greater stress recovery. Consistent with this consensus prediction and with the findings from previous empirical research, the main hypothesis of the present study was that exposures to unthreatening natural environments would foster greater recuperation from stress than contacts with various urban settings. Furthermore, the study evaluated hypotheses derived from Ulrich's theoretical framework (1983). Specifically, it was anticipated that following a stressor, restorative influences of unthreatening natural scenes would be evident in a shift towards a more positively-toned emotional state, by declines in physiological arousal, and that these changes would be accompanied by comparatively high levels of attention. In this latter regard, we also evaluated the hypothesis from Ulrich's framework that involuntary or automatic attention can be a salient component of responding to a visual stressor as well as an accompaniment of restoration",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Furthermore, the study design was influenced by the objective of testing an influential conceptual perspective in environmental psychology, arousal theory, from the standpoint of its predictions concerning stress recovery influences and attentionholding effects. Arousal theory predicts that recovery from stress will be especially impeded by urban settings having high levels of intense, unpredictable or arousal increasing stimuli. To make possible a test of this hypothesis, a sample of urban environments was chosen as recovery conditions that varied markedly in stimulation levels, especially in terms of high vs low quantities of traffic and pedestrians. A related expected finding was that least recovery from stress would occur during contact with an urban setting having heavy as opposed to light traffic. This hypothesis is supported",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "210 R. S. Ulrich et al.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "by arousal arguments, and is consistent with findings from many studies suggesting that traffic is evaluated as negative or stressful (e.g. Cermak & Cornillon, 1976; Rylander et al, 1976). Furthermore, on the basis of arousal theory and findings from crowding rescarch (e.g. Aiello et al., 1975), we anticipated that more recovery would occur during exposure to an urban setting with few people, rather than many people.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Finally, arousal theory clearly predicts that urban settings with high levels of complexity, intensity and other arousal-increasing properties (i.e. heavy traffic or many pedestrians) would elicit more attention than either nature settings or urban environments with light traffic or few pedestrians. In line with arousal theory, we anticipated that the high stimulation urban settings would prove more attentionholding than the low stimulation urban settings. However, with respect to the nature settings, we followed the prediction suggested by the biological preparedness argument, and by other evolutionary perspectives, in anticipating that nature would prove more effective than the various urban settings in eliciting sustained attention.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Methods",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Stressor",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The subjects consisted of 120 undergraduate volunteers (60 males and 60 females) at the University of Delaware who were studying in diverse fields. Each individual, while seated in a comfortable armchair, viewed two 10 min videotapes on a 19\" color monitor having a supplementary speaker and amplifier system that insured accurate reproduction of sounds. The first videotape was the stressor; this was a black and white film about prevention of work accidents ('It Didn't Have to Happen that has been found to be an effective stressor in previous studies (e.g. Lazarus et al., 1965). The film depicts several serious injuries, with simulated blood and mutilation, that occur to employees in a woodworking shop as a result of their carelessness or disregard of safety procedures. Other commonly used stressor films that depict, for instance, auto accidents or human violence, were considered inappropriate because such scenes might have biased subjects against either urban settings with cars or people, or natural settings, in terms of stress recovery influences.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Environments",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Following the stressor, subjects viewed the second ten minute tape (recovery condition) that was a color/sound display of one of six different everyday outdoor settings (two natural, four urban). Using a random assignment procedure, 20 subjects were exposed to each recovery environment. Table I lists the six environments and describes their major properties.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "It appears there are no procedures currently available for measuring objectively the information rate over a time period of non-static, audiovisual environmental displays (Mehrabian & Russell, 1974). In this regard, verbal judgements of information rate obtained after a 10 minute video simulation may be misleading because of habituation. However, it seems very likely that the quantity of information or stimulation in the urban setting with heavy traffic was much higher than in the light traffic condition (Table 1). Likewise, stimulation levels were probably higher in the urban setting with many pedestrians compared with the same environment with fewer people. Stimulation in all of the urban videotapes may have been moderately predictable. In the case of the two traffic settings, vehicles could be heard approaching a few seconds",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "211",
+   "page": 11
+  },
+  {
+   "label": "table",
+   "text": "TABLE 1 Encironments displayed during stress recovery period\nTABLE 1 Encironments displayed during stress recovery period\n\n| Environment      | Visual content                                                                                                                                                                                                | Sounds                                                                 |\n|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|\n| Nature           |                                                                                                                                                                                                               |                                                                        |\n| Vegetation       | Setting dominated by trees and other vegetẺtion; some openness among trees; occasional light breeze in background; no people                                                                                  | Birds, light breeze. Range of dB levels: 42-64.                        |\n| Water            | Setting dominated by trees and a fast-moving stream; waves and ripples visible on stream surface. No people or animals.                                                                                       | Constant 63-64 dB from stream.                                         |\n| Urban            |                                                                                                                                                                                                               |                                                                        |\n| Heavy traffic    | Commercial street with moderately heavy traffic (24 vehicles/min) and no pedestrians or animals. Two-way traffic; wide variety of vehicles (c.g. large and small trucks, buses). Traffic moving at 35-45 mph. | Range of dB levels: 65-93.                                             |\n| Light traffic    | Same commercial street as above, but during light traffic conditions (4 vehicles/min). No pedestrians. Two-way traffic moving at 35-45 mph. Less variety in vehicles than during heavy traffic conditions.    | Range of dB levels: 64 85.                                             |\n| Urban            |                                                                                                                                                                                                               |                                                                        |\n| Many pedestrians | Pedestrianized, traffic-free outdoor shopping mall with many people (35 persons passing/min). Two-way movement. Several store facades; moderate depth or openness; no animals.                                | Voices, footsteps, and other people noises. Range of dB levels: 65-78. |\n| Few pedestrians  | Same traffic-free shopping area as above, but with fewer people (7 persons passing/min). No animals.                                                                                                          | Range of dB levels: 52-72.                                             |",
+   "page": 11
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 1 Encironments displayed during stress recovery period",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "before they appeared; in the shopping mall tapes, predestrians could be seen approaching in a predictable manner from the right and left peripheries of the monitor display. In all of the environments, urban and natural, there was openness in the foreground and middleground; the settings contained no foreground elements that obstructed sight lines or which otherwise might engender uncertainty or risk, thereby eliciting negative affective responses (Schroeder & Anderson, 1984). Sounds and visual stimuli were congruent or fitting in all settings. The natural setting with water may have been higher in overall information rate than the vegetation (forest) conditions, despite",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "212",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "having less variation in decibel levels. The water setting displayed constant movement on the surface of the stream, whereas the forest environment was visually static.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The six environments were videotaped and the accompanying sounds were recorded simultaneously by a professional crew from the Office of Instructional and Information Technology of the University of Delaware. The settings were videotaped using a broadcast quality camera (three Saticon tubes) and 0-75ồạcolor/sound tape. For all environments, the camera was tripod-mounted and positioned next to an existing public bench that was apparently intended for relaxation. The sound recording microphone was located below and in front of the camera lens. Decibel levels were recorded at 20s intervals at the sites, and later were used for calibrating sound intensities for each environment in the laboratory. The videotaping was done in clear weather, and only during middle portions of days (10:30 to 14:30 h) in order to reduce shadows and variations in sun angles at the various sites.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The validity of using displays such as color slides and photographs to simulate real outdoor scenes has been supported by several studies (e.g. Shuttleworth, 1980). Also, studies using audiovisual simulation procedures (Le. color slides or photographs accompanied by audio segments) have found significant similarities between on-site and laboratory ratings for natural and urban environments (Anderson ef af., 1983; Zube et al., 1985). In light of these findings, it seems likely that the use in the present study of more realistic color/sound videotapes was a valid simulation procedure.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Procedures concerning subjects",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "When subjects arrived for their laboratory appointment, an experimenter provided them with a general description of the experimental procedures and familiarized them with the apparatus and recording equipment. The individuals were then asked for their informed consent. After the electrodes for the physiological recordings were attached, and preliminary recordings had been obtained, subjects were given more detailed information and instructions. They were told that after a short rest period a videotape would be presented that dealt with the prevention of workplace accidents. They were advised that a second videotape would follow shortly after the first, but the specific contents of the second film were not revealed. To establish an appropriate cognitive set for the second tape and thereby enhance the validity of the findings (Ward & Russell, 1981), a message was presented on the color monitor just prior to onset of the environmental tape that instructed the subjects to imagine they were relaxing while seated looking at the environment which was to appear.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Measures",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The electrocardiogram (EKG), pulse transit time (PTT), spontaneous skin conductance responding (SCR), and frontalis muscle tension (EMG) were recorded from all subjects during a 2-5 min base period that began as soon as all sensing devices were attached and high quality recordings were achieved. These measures were continuously monitored throughout the subsequent stressor and environmental tapes. The EKG and PTT were used to obtain information regarding cardiovascular activity; the EKG would yield rate information (heart period, HP), while PTT correlates highly with systolic blood pressure (Obrist et al., 1979; Marie et al., 1984). Compared with measuring blood pressure using a conventional automated cuff, PTT has the major advantages of continuous (cach heart beat) and far less invasive recording. Also, PT T does not require quiet for detecting Korotkoff sounds, and hence is exceptionally suited to",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "environments with high decibel levels, such as some urban settings. Skin conductance is a measure that reflects activity in the sweat glands lying under the recording devices; skin conductance and the number of active sweat glands vary directly. Like the cardiovascular measures, SCR records activity that is controlled by the autonomic nervous system. In view of the concern in this research with both stress and recovery from stress or restoration, it should be mentioned that the autonomic nervous system is subdivided into the sympathetic nervous system and the parasympathetic nervous system. The major function of the sympathetic system is to mobilize the body for action, in order that situations which are challenging or stressful can be dealt with effectively. Sympathetic activation consumes energy and accordingly is physically taxing or non-restorative. By contrast, the parasympathetic system functions to restore and maintain bodily energy resources. Restorative parasympathetically dominated responding can also be associated with non-taxing perceptual sensitivity or attention with respect to the external environment (Lacey & Lacey, 1970).",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The EMG measure differs from the other three in that the frontalis muscles are striate muscles located on the forehead, and these are innervated by central rather than autonomic nervous system fibres. Many decades of research have shown that EMG activity is involved both in responding to challenging situations or stressors as well as in relaxation. EMG and SCR normally increase during stress and decrease during recovery; PTT decreases during stress (shorter transit times correlate with higher blood pressure), and increases during recovery. The heart rate response is more complex in that it can accelerate or decelerate depending on particular characteristics of stressor situations. Stressors that involve mental problem-solving, or the storage, retrieval and internal manipulation of information, produce heart acceleration (Lacey & Lacey, 1970). However, a posture of intake, or attention/interest, to external stimuli usually reduces heart rate (Lacey & Lacey, 1970). Both unpleasant and pleasant environmental stimuli, if they elicit intake or attention, result in heart deceleration (Libby et al., 1973). In the present study, a paradoxical heart rate response of deceleration was anticipated during the stressor, because blood and mutilation stimuli are potent in cliciting attention/intake (c.g. Hare et al., 1970; Klorman & Ryan, 1980).",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "In addition to the physiological measures, subjects were asked to rate their feelings before and after the stressor, and after the recovery videotape, using the Zuckerman Inventory of Personal Reactions (ZIPERS) (Zuckerman, 1977). The ZIPERS is a broad yet brief state affect questionnaire that assesses feelings on five factors: Fear, Positive Affects, Anger/Aggression, Attentiveness/Interest, and Sadness, The subject indicates on a 5-point scale the degree to which each item describes the way he/she feels 'now'. Examples of the items are: 'I feel angry or defiant', and 'I feel elated or pleased'. Two items that assess self-reported autonomic responses were deleted because autonomic data were obtained by physiological measures (e.g. 'My heart is beating faster).",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Physiological recording and data reduction",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The EKG was recorded from two Beckman Ag-AgC miniature clectrodes placed on the left and right anterolateral rib cage after preparing the skin with alcohol and Redux electrode paste. To obtain heart period (HP) on each beat, the EKG signal was amplified with a Coulbourn High Gain Bioamplifier (S75-01) and fed into a Schmitt trigger which detected the occurrence of the 'R' wave. The output of the Schmitt trigger then started a clock in a Digital Equipment Corporation PDP-11/10 laboratory computer that continued until the next 'R' wave was detected. This inter-R interval was",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "214",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "timed to the nearest millisecond for each beat, and beats were accumulated over 30s intervals and averaged. HP is the reciprocal of heart rate; that is, longer HP indicates slowing of heart rate.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "PTT is obtained by measuring the time between the occurrence of a heart beat (Le. an 'R' wave) and the arrival of the pulse pressure wave at a site distal to the heart. For the present study, the ear served as the distal site. A Hewlett-Packard photo-electric device was attached to the pinna of the right ear; this sensed changes in the translucence of the ear as the pressure wave from the heart waxed and waned. The voltage output of the photocell was amplified with a Coulbourn Bioamplifier (575-01) and digitized every millisecond by the computer. A program then detected the beginning of each pressure wave at the car, and computed the time in milliseconds since the EKG 'R' wave occurrence at the heart. This was done for each heart beat and subsequently averaged across 30s intervals. Generally, shorter pulse transit times are associated with higher systolic blood pressure and longer PTTs with lower blood pressure. Both PTT and HP were computed on-line.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Skin conductance was recorded directly using a 0-5 volt constant voltage Coulbourn Skin Conductance Coupler (S71-22). Conductance was measured from the nondominant hand by placing Beckman standard Ag-AgC electrodes on the second phalange of the ring and middle fingers. An isotonic jelly (Johnson & Johnson K-Y) served as the electrolyte. The data were recorded on FM tape and subsequently played back through a Grass Model 7D polygraph that produced a paper record of the information. The record was hand scored; skin conductance was quantified by counting the number of spontaneous fluctuations which exceeded 0-067 microsiemens in amplitude during each 30s recording period.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Muscle tension (EMG) was recorded from the two frontalis muscles by affixing Beckman miniature Ag-AgCI electrodes over the muscles, approximately 1\" above the left and right eyes. The skin was cleansed with alcohol and mildly abraded with Redux electrode paste prior to clectrode application. The raw EMG signal was amplified with a Coulbourn Bioamplifier (S75-01), full-wave rectified, and integrated by a Coulbourn Resetting Integrator (S76-22) which produced pulsed output at a rate proportional to the amount of raw muscle activity. The output was stored on FM tape and subsequently analysed off-line on the PDP-11/10 which was programmed to compute the average number of integrator 'resets' during 30s recording periods. Further data reduction consisted of combining the five 30 s intervals of the 2-5 min base period into one average for each of the four physiological measures. The data from the stressor and recovery tapes were reduced to yield averages for three 3 min exposure periods. Data for the first minute of each environmental tape were not used because the onset of the videotapes with respect to the on-line computer program varied slightly for each subject.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Statistical analyses",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The physiological data were subjected to two sets of mixed-model analysis of variance (ANOVA). The first consisted of the base and the three 3 min stress periods, and the second consisted of the last stress period and the subsequent three 3 min recovery periods. The second ANOVA revealed no general significant differences between the two nature settings (water vs vegetation); nor were there general differences between the heavy and light traffic conditions, or between the mall settings with many vs few pedestrians. Accordingly, the data were collapsed into three broader environmental",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "categories: nature, traffic and pedestrian mall. The structure of the subsequent analyses was 3 (Environment) × 2 (Sex of subject) × 4 (Period), with orthogonal polynomial contrasts applied to the within-subject factor (Period). Significant eflects of Environment were not expected to appear in the first ANOVA, because this covered the baseline and stressor periods. Environment was expected to appear in the second ANOVA as a main effect, or as an interaction with Period. Analyses of the ZIPERS self-ratings data were conducted separately for cach question, and for items grouped as factors (Zuckerman, 1977). Mixed-model ANOVAs were employed for this purpose with orthogonal polynomials applied to the within-subject (Phase) factor: 3 (Environment) ×2 (Sex) × 3 (Phase). Phase' referred to the three times that the ZIPERS was administered to each subject: during baseline, following the stressor, and following the recovery tape displaying an environment. Differential effects of Environment were expected to be revealed in these analyses as interactions with Phase, because no differences were expected during baseline or immediately following the stressor.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Finally, correlation analyses were performed to assess relationships among the physiological measures, and between the ZIPERS items and the physiological measures. The first series of analyses addressed effects related to the stressor; the second focused on recovery. For the first series of correlations, each ZIPERS question was expressed as the change from baseline to post-stressor, and the physiological data were expressed as the changes from baseline for the three 3 min stressor periods. The second series was similar except that changes during recovery were computed from the offset of the stressor rather than from baseline. For all ANOVAs, alpha was set at p = <0-05 and the Greenhouse-Geisser correction applied to multiple df within-subject factors",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Effects of Stressor",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "The first ANOVA performed on the physiological data indicated as expected that there were no significant differences among the groups for either the baseline or stressor periods. The results in Figures 1 to 3 show that the groups were affected in the anticipated direction by the stressor, as evidenced by pronounced increases in skin conductance and muscle tension, and significantly shorter pulse transit time (higher systolic blood pressure) (p = 0:001 for all measures). Figure 4 shows that the expected sharp deceleration in heart rate (longer heart period, p = <0-001) did in fact occur during the stressor, which is interpreted as indicating high intake/attention for the scenes of work accidents displaying blood and mutilation. This latter finding is important in light of the theoretical discussion in earlier sections, because it shows that strong 'involuntary' attention can be a salient component of responsiveness to a stressor. This in turn suggests that a theoretical position which contends that 'involuntary' attention is the basis for restorative effects of nature is inadequate.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "The results from the ZIPERS self-ratings were broadly consistent with the physiological findings. Analyses of the ZIPERS factors revealed that the subjects had much more negatively toned emotional states following the stressor. Post-stressor scores were higher for the Fear factor (p= <001) and Anger/Aggression factor (p = <0-01), and levels of Positive affects were much lower (p = <001). Also, scores for a Sadness factor rose significantly (p = <0-01), and reported levels of Attentiveness/ Interest were lower following the stressor than during baseline (p = <0-01). The latter result may not be inconsistent with the heart period findings indicating high intake",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "216",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "R. S. Ulrich et al.",
+   "page": 16
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 1. Changes in skin conductanes (SCR) during stress and recovery.",
+   "page": 16
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 2. Changes in pulse transit time (PTT) during stress and recovery.",
+   "page": 16
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 4. Changes in heart period (HP) during stress and recovery.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "218",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "during the stressor tape, because the ZIPERS assessed internal feelings of attentiveness following offset of the stressor, whereas the heart period measure assessed attention directed to the external stimuli of the videotape.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "The correlational analyses revealed several significant relationships among the physiological measures for the baseline-stressor period. As expected, correlations between the two cardiovascular indicators-heart period and pulse transit time were especially high (e.g. r =0-54, p = <0-001, for the last three minutes of the stressor). There were also significant but much lower correlations between skin conductance (SCR) and the cardiovascular measures (e.g. r = 0-22, p= <001, for SCR/HP during the first three minutes of the stressor). These latter relationships are consistent with the fact that SCR, like HP and PTT, reflects activity in the autonomic system. There were no significant correlations between muscle tension (EMG) and any of the autonomic measures, which is in accord with the fact that EMG is not controlled by the autonomic nervous system. In general, the findings support the validity of the physiological measurements because the patterns of relationships are consistent with known connections and lack of connections among different bodily systems.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "There were few significant correlations between the ZIPERS self-ratings and physiological results, which is probably due partly to the fact that the affective and physiological data were obtained at different times. The ZIPERS ratings were obtained before and after the stressor, whereas the physiological data were recorded while subjects viewed the stressor tape. The most noteworthy finding was a pattern of positive correlations between pulse transit time and feelings ofiinterest and *attentiveness' (c.g. r = 0-27, p = <001 for interest/PTT during the second three minutes of the stressor). This suggests that lower blood pressure was associated with higher levels of interest and attention during the stressor phase.",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "Effects of Environments",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "Physiological results",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "As mentioned earlier, PTT, SCR and EMG served as stress measures, whereas HP was considered an indicator of intake/attention. The second mixed-model ANOVA revealed pronounced general differences as a function of environment for all three stress measures. Specifically, significant environment x (linear) recovery period interactions were obtained, indicating that stress recovery trajectories over time varied widely according to category of environment (p = <001 for PTT; p = <001 for SCR; p = <0-05 for EMG). As Figures 1 to 3 show, the findings from the different measures converge to indicate that recovery from stress was much faster and more complete when subjects were exposed to the natural settings as opposed to either the pedestrian mall or traffic environments. A series of ANOVAs performed for each of the three 3 min recovery periods revealed that significantly greater recovery in terms of SCR had already occurred during the first recovery interval; this therapeutic advantage of nature persisted throughout the other recovery periods (p = < 0-01 for all periods). The differences in PTT and EMG were significant during the recovery interval of 5-7 min (p = <0-05 for both measures), and persisted during the following 8-10 min (p= <0-05 for PTT; p= <0-01 for EMG). Therefore, greater stress reduction for nature was evident in all three measures, at the latest, during 5-7 min of exposure to the settings.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Despite the conspicuous lick of recovery in PTT for the traffic group, PTT",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "recuperation for the pedestrian mall group was not significantly greater than for traffic (Figure 2). Also, there were no significant differences between the two categories of urban environments with respect to recovery influences expressed in either SCK or EMG.",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "The heart period recovery data revealed a most interesting pattern of general, directionally different responses to the natural vs urban environments (p = <0-01). As the findings in Figure 4 indicate, heart rate following onset of the nature tapes decelerated, despite the pronounced deceleration that had already occurred during the stressor (Figure 4). Compared with baseline (pre-stressor) levels, heart rate levels during the first three minutes of nature exposure were similar to the lowest recorded during the stressor film (Figure 4). By contrast, heart rate during the pedestrian mall and traffic exposures accelerated through the entire recovery period, and by the last recovery interval had increased to pre-stressor or baseline levels. These results suggest that intake/attention was higher for the natural rather than urban settings, and that everyday nature may have sustained as much perceptual intake as the stressor tape which contained scenes of simulated blood and multilation. There were no significant differences in the heart period data for the pedestrian mall and traffic conditions.",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "The heart period results raise the possibility that during the initial minutes of recovery, responses to the nature but not the urban settings were strongly influenced by the parasympathetic nervous system. Parasympathetically dominated responding is associated with heart rate deceleration, sustained yet non-taxing perceptual intake and sensitivity, and restoration of energy. (In contrast, sympathetic nervous system influences involve energy consuming arousal or mobilization, and are reflected, for instance, in an acceleratory component to heart rate and increased skin conductance.) The heart monitoring methods used here did not make it possible to disentangle precisely the role of parasympathetic and sympathetic influences. In this regard it is conceivable that reduced sympathetic input might have played some role in heart rate responding to nature, perhaps especially during the later minutes of recovery. Running counter to this interpretation, however, is the finding that heart rate during the nature exposures evidenced a slight upward drift in the last two 3 min recovery intervals (Figure 4). Underlying this slight acceleratory trend may have been reduced parasympathetic input associated with some decline in attention/intake during the later minutes of recovery, and possibly the effects on heart rate of homeostatic mechanisms, including metabolic influences.",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "In any case, the overall pattern of heart rate findings in Figure 4 makes it very unlikely that responses during recovery were confounded or strongly influenced by the recovery or laboratory situation, i.e. by possible arousal reducing effects of sitting in an armchair for several minutes. If the experimental session had played a major role in the outcome, all groups should have evidenced heart deceleration during the final minutes of recovery, not the pattern of acceleration that was actually observed. Also, the possibility of a confounding session effect seems quite remote considering: the directional differences in cardiac responses to the natural vs urban settings during the initial minutes of recovery; the significant differences in heart rate as a function of environment that persisted through the recovery period; the significant differences in SCR, PTT and EMG during recovery as a function of environment; and the absence of differences across groups during the stressor, up to the onset of the environmental videotapes displayed during the recovery phase.",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "To evaluate the hypothesis derived from arousal theory that recovery influences",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "220",
+   "page": 20
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al.",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "might vary as a function of high vs low environmental stimulation levels, data for the two high stimulation urban settings (heavy traffic, many pedestrians) were grouped together and compared with the combined data for the two low stimulation urban conditions (light traffic, few pedestrians). When mixed-model analysis of variance was applied to the PTT, SCR and EMG measurements, there were no indications of general differences in recovery influences. A series of ANOVAs performed for each of the 3 min recovery periods revealed no significant variations in PTT and EMG; however, differences emerged in SCR for the second recovery interval (5-7 min, p = <0-05) and the third interval (8-10 min, p= <0-05). Specifically, the SCR findings suggested that somewhat more recovery occurred during exposure to the higher rather than low stimulation urban settings. These results run counter to the initial expectation that urban environments with relatively low levels of traffic and people would foster greater recuperation.",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "There were no differences in HP between the high and low stimulation urban environments, which suggests that intake/attention responses during recovery were similar irrespective of urban stimulation levels. Although the natural setting with water may have been higher in stimulation than the forest setting, there was no general variation between the HP recordings for the two nature conditions. Despite indications in the SCR and PTT data that slightly more recuperation might have occurred when individuals experienced nature with water rather than the setting dominated by trees and other vegetation, none of the differences proved significant.",
+   "page": 20
+  },
+  {
+   "label": "section_header",
+   "text": "Self-rtings results",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Comparisons of the post-stressor ZIPERS ratings with the data obtained after the recovery videotapes indicated that the natural, pedestrian mall, and traffic exposures had markedly different effects on affective states. The ANOVA results revealed significant main effects for type of environment for three ZIPERS factors; together these findings indicate that much more recuperation in the psychological component of stress was produced by the natural environments than by the pedestrian mall or traffic settings (Table 2). Subjects exposed to the natural settings, in contrast to the urban environments, had lower scores for the Anger/Aggression factor (p= <0:001). reported lower Fear (p = <0-05), and reported far higher levels of Positive affects (p = <0-001). Recovery associated with the natural exposures was so pronounced in terms of the Fear, and especially the Anger/Agression and Positive affects factors, that postrecovery affective states were somewhat more positively-toned than those reported during the base-line period. Although the nature groups reported slightly more recovery than the urban groups in terms of the Sadness factor, the difference was not",
+   "page": 20
+  },
+  {
+   "label": "table",
+   "text": "TABLE 2 Influences of environments on affective states: factor score changes from pre- to post-recovery\nTABLE 2 Influences of environments on affective states: factor score changes from pre- to post-recovery\n\n| ZIPERS factor          | Nature   | Pedestrian mall   | Traffic   | F     |        |\n|------------------------|----------|-------------------|-----------|-------|--------|\n| Fear                   | - 1:46   | - 1-00            | -0-77     | 4:36  | 001    |\n| Anger/Aggression       | - 1-95   | +018              | -082      | 9-97  | <0001  |\n| Positive affects       | + 5•52   | + 1•18            | -0-08     | 26/33 | <0-001 |\n| Sadness                | - 1:51   | - 1￾26            | - 1:25    | 0-55  | NS     |\n| Attentiveness/Interest | - 1•02   | - 1-64            | - 1￾02    | 1-35  | NS     |",
+   "page": 20
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 2 Influences of environments on affective states: factor score changes from pre- to post-recovery",
+   "page": 20
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "significant. Likewise, there was no significant main effect for the Attentiveness/Interest factor obtained for the post-recovery self-ratings.",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "A series of pair-wise Newman-Keuls tests of change scores (change from poststressor to post-environment) were performed to further elucidate differences in feeling states as a function of environment. These post hoc tests were warranted for the three ZIPERS factors for which ANOVAs indicated significant general differences. These pair-wise tests confirmed that Positive affects scores increased much more following the natural exposures than after either the pedestrian mall (p= <001) or traffic (p = <0:001) tapes. Likewise, with respect to the Anger/Aggression factor, the natural settings were more restorative than either the mall (p = <0-01) or traffic (p - <0-05) exposures. Nature produced more recovery in terms of Fear than did the traffic settings (p = <0-05); however, there was only a tendency for nature to foster more recovery in Fear compared with the pedestrian mall settings (p = <0-10).",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "Regarding the various urban environments. Newman-Keuls tests indicated that the traffic settings produced more recuperation in Anger/Aggression than did the pedestrian mall exposures (p = <005). There were no significant differences between the traffic vs mall exposures in terms of the other ZIPERS factors.",
+   "page": 21
+  },
+  {
+   "label": "section_header",
+   "text": "Correlations Among Recovery Measures",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "Aside from indicating recovery influences of the various environments, the multimodal design presented an opportunity for exploring relationships among the physiological measures, and among the verbal and physiological indicators. In view of the absence of rescarch on these issues with respect to everyday physical environments, the major correlation findings are summarized here for the total sample of 120 subjects recovering from stress.",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "The general pattern of physiological/physiological correlations was similar to findings for the base-line stressor phase; however, nearly all r values were higher during recovery. As before, there were strong relationships among the three autonomic indicators (HP, PTT, SCR), but no significant associations between the somatic indicator (EMG) and the autonomic measures a pattern that supports the validity of the physiological data. Correlations among the three autonomic indicators were highly significant (p = <0-001) for all recovery periods (e.g. r = 0:44 for SCR/PTT during the first three minutes of recovery; r = 041 for SCR/HP during the last three minutes of recovery). There were consistently strong relationships between HP and PTT, the two cardiovascular measures (e.g. r = 0-68 for HP/PTT during the first three minutes of the environmental exposures).",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "Subjects rated their affective states using the ZIPERS before and after exposure to the environments, whereas the physiological recovery data were obtained during the environmental exposures. Because of the temporal non-congruence of the different measurement modes, it seemed likely that correlation analysis could not reveal comparatively short-term or phasic affective/physiological relationships, but would be sensitive to possible associations with respect to longer term or persistent changes in psychophysiological states. The series of correlations indicated that for most ZIPERS items there were no significant relationships with any of the physiological indicators for the three 3 min recovery intervals. However, there was a noteworthy pattern of associations among the autonomic measurements (HP, PTT, SCR) and the data from all four ZIPERS items comprising the Positive affects factor. The ZIPERS items",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "222",
+   "page": 22
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al",
+   "page": 22
+  },
+  {
+   "label": "text",
+   "text": "were: \"I feel carefree or playful; 'feel affectionate or warmhearted\"; \"feel elated or pleased'; and \"feel like acting in a friendly or affectionate way'. Thirty-six correlations were performed to assess these Physiological/Positive affects relationships (three autonomic measures × three 3 min recovery periods x four ZIPERS items). Eight of the r values were significant at p= <0-01; 18 were significant at p = <0-05; and 10 did not reach significance. All three autonomic measures (HP, PTT, and SCR) evidenced some relationships with the Positive Affects items that were significant at the p= <0-01 or p = <0-05 levels (e.g. r = 0:30 for *carefree or playful\"/first 3 min of SCR; r = 0:23 for 'elated or pleased /last 3 min of PTT), Importantly, all 36 correlation values were in the expected directions, i.e. as positively-toned feelings increased during recovery, heart rate declined, blood pressure lowered, and skin conductance fluctuations declined. There were no significant correlations between the somatic indicator-EMG-and any of the ZIPERS items. As a tentative conclusion, it appears that for stress recovery situations involving exposure to everyday outdoor environments, among the strongest affective/physiological associations may be a pattern for positive feelings to increase as autonomic but not somatic arousal declines.",
+   "page": 22
+  },
+  {
+   "label": "section_header",
+   "text": "Summary and Discussion",
+   "page": 22
+  },
+  {
+   "label": "text",
+   "text": "The findings from the physiological and verbal measures converge to indicate that different everyday outdoor environments can have quite different influences on stress recovery. The results strongly support the conclusion that recuperation was faster and more complete when subjects were exposed to the natural settings rather than the various urban environments. Regarding the physiological findings, there was impressive consistency across the stress measures (PTT, SCR, EMG) in indicating greater recovery influences of nature. Also, the heart period data revealed directionally different responses during recovery to the natural vs urban environments; this pattern of variation suggests that intake/attention was significantly higher during the natural exposures, a finding consistent with previous results obtained from verbal measures (Ulrich, 1979, 1981). The four physiological measures, including heart period, reflect activity in different bodily systems that are only weakly coupled or interrelated. The consistency across physiological indicators raises the possibility that differential influences of natural vs urban settings may tend to be widespread in bodily systems. In this regard, a previous study of unstressed subjects found that natural and urban scenes had different influences on activity in the electrocortical system (Ulrich, 1981).",
+   "page": 22
+  },
+  {
+   "label": "text",
+   "text": "Along with suggesting that nature elicited greater intake/attention, the overall pattern of heart period data raises the possibility that there was a salient parasympathetic component to responses to the natural but not the urban environments, especially during the initial minutes of recovery. (It will be recalled that the autonomic nervous system can be subdivided into the parasympathetic and sympathetic branches.) Because parasympathetic influences have a central role in attention and restoration, whereas sympathetic activation is central in the taxing mobilization involved in responding to stressors, future research in environmental psychology on restoration following stress should attempt to disentangle the influences of these different systems. Distinguishing more clearly between parasympathetic and sympathetic influences will require more complex physiological recordings (Papillo & Shapiro, 1990),",
+   "page": 22
+  },
+  {
+   "label": "text",
+   "text": "Results from the ZIPERS self-ratings suggested that the natural settings had more",
+   "page": 22
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 23
+  },
+  {
+   "label": "text",
+   "text": "restorative influences than the urban environments on three affective dimensions: Positive affects, Anger/Aggression, and Fear. The most salient difference was the comparatively much greater restoration in Positive affects associated with the natural exposures, a finding consistent with results from an earlier study of mildly stressed subjects (Ulrich, 1979). Traditional arousal theory accurately predicts that the surge in Positive affects produced by nature should occur in association with the observed sharp reduction in physiological arousal indicators. As Berlyne (1971) and others have postulated, a lowering of arousal produces an increase in pleasurable feelings if an individual's initial state is stress or excessive arousal. Concerning this issue, a noteworthy finding was the pattern of significant correlations during stress recovery among the autonomic measures and every item comprising the Positive affects factor, indicating that Positive affects increased as autonomic, but not somatic (EMG), arousal lowered. Although only the Positive affects self-ratings correlated significantly with physiological recordings, there was nonetheless broad synchrony between the verbal and physiological findings. In general, individuals exposed to the natural settings both reported improved feeling states and evidenced lower stress levels in physiological indicators. Compared with the nature groups, subjects exposed to the urban environments experienced less recovery as evidenced both by self-ratings and physiological responses. The general pattern of convergence across data from different response modes suggests that the main conclusion regarding differential recovery warrants considerable confidence. The findings indicate that restorative effects of everyday outdoor environments have, at the least, psychological and physiological components. Because stress often has behavioral manifestations, it seems possible that restorative intluences of environments may also be expressed in behaviors or enhanced functioning. Future rescarch should investigate, for instance, whether many natural settings might have restorative effects that include increased performance levels on tasks requiring attention and cognitive processing (Hartig et al., 1987; Kaplan & Kaplan, 1989). In view of the finding here that restoration was evident in central nervous system indicators, future research should examine whether such effects are also expressed in the endocrine system as changes in stress hormones, and in indicators of enhanced functioning in the immune system (Kennedy er al., 1990). Additional studies are also needed to reveal the relative contributions of visual and auditory stimulation to restorative influences of everyday outdoor settings.",
+   "page": 23
+  },
+  {
+   "label": "text",
+   "text": "Apart from differences in levels of recovery, a noteworthy finding obtained from the continuous physiological recordings was the rapidity of recuperation during natural exposures. During the first four minutes of recovery, all groups experienced at least some degree of recuperation, but the nature groups achieved recovery approaching base-linc levels in both autonomic and somatic activity. By five to seven minutes, significantly greater recovery for the nature groups, compared with subjects exposed to urban settings, was evident for all three physiological stress indicators (SCR, PTT, EMG). After the 10 min recovery videotapes, self-ratings data for the nature groups evidenced restoration to the point that, broadly speaking, feeling states were slightly more positively-toned than during baseline. The quickness of recovery during the nature conditions raises the possibility that these laboratory findings might be found to apply in many real contexts characterized by short-term contacts with nature. In urbanized countries, the great majority of encounters with nature clements probably are short episodes lasting only several seconds or a few minutes. Common types of nature contacts for urbanities may include, for example, viewing trees through a window in a workplace or residence,",
+   "page": 23
+  },
+  {
+   "label": "section_header",
+   "text": "224 R. S. Ulrich et al.",
+   "page": 24
+  },
+  {
+   "label": "text",
+   "text": "lunching in a park, or driving through an urban fringe area where roadsides are undeveloped. The findings of the present study justity the speculation that these and other short duration nature exposures might have an important function for many urbanities in facilitating recovery from such stressors as daily hassles or annoyances. The results cannot be generalized directly to longer term nature exposures that involve active participation such as a wilderness back-packing trip. Nonetheless, the findings may have relevance for research that seeks to understand benefits of wilderness recreation, including why most wilderness users report that reduced tension or stress, or tranquility, are very important benefits of their experiences (e.g. Driver, 1976).",
+   "page": 24
+  },
+  {
+   "label": "section_header",
+   "text": "Implications for theory",
+   "page": 24
+  },
+  {
+   "label": "text",
+   "text": "Some aspects of the findings are consistent with the conceptual speculations of Olmsted, Kaplan and Kaplan and others, in the sense that strong intake/attention was a concomitant of restorative influences of the nature settings. However, the overall pattern of findings indicates that a theoretical perspective emphasizing attention or \"fascination' is inadequate for explaining restorative influences of nature. In this regard, the present findings showed that the stressor film also elicited strong \"involuntary' or automatic attention. The stressor film depicted simulated blood and mutiliation, stimuli which arguably should elicit involuntary attention or fascination because of their survival relevance during evolution (Hare er al., 1970). This combination of findings is consistent with Ulrich's theoretical position (1983) that attention holding properties of nature work both ways; that is, involuntary attention can be a salient component of non-restorative and even stressful reactions to certain natural stimuli, and can also be a prominent component of restorative responses to unthreatening natural settings. Put differently, the findings concerning attention indicate that stress reducing or restorative responses to nature must involve more than involuntary attention or fascination. In this regard, the present physiological and verbal findings are consistent with the predictions of Ulrich's psycho-evolutionary theory (1983) that, following a stressor, the restorative influences of exposure to nature involve, among other responses, a broad shift in feclings towards a more positively-toned emotional state, positive changes in activity levels in different physiological systems, and that these changes are accompanied by moderately high levels of sustained attention. As was emphasized in an earlier conceptual section, there are theoretical grounds for suggesting that a critical element in restorative effects of natural scenes is a quick-onset positive affective reaction which may have a central role in shaping the positive character of changes in psychological and physiological states, and functioning or behavior (Ulrich, 1983). This theoretical position is consistent with growing scientific evidence that the initial levels of responding to natural stimuli involve quick-onset affective responses that appear to be closely linked with attention and subsequent conscious processing (e.g. Ohman et al., 1989; Dimberg, 1990). With respect to stress recovery or restoration, a positive initial affective response, comprised of liking and moderate to high interest, should motivate and sustain prolonged attention/intake, should produce higher levels of positive feelings, reduce negatively-toned or stress related feelings such as fear and anger, and suppress stressful or extrancous thoughts (Ulrich, 1981, 1983). This combination of positive influences should be associated with reductions in taxing physiological mobilization, and perhaps with involvement of the parasympathetic nervous system that would function to restore energy. However, if the initial affective response is negative (e.g. dislike, fear), as many studies have shown",
+   "page": 24
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "occurs for such natural stimuli or configurations as snakes and heights, the ensuing emotional/cognitive/physiological responding probably will be non-restorative and possibly even stressful, regardless of whether the response involves involuntary attention or 'fascination' (Ulrich, 1983).",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "How does arousal theory fare in accounting for the findings regarding both intake/ attention and recovery? Whereas arousal theory predicts the observed surge in positive feelings that accompanied sharp declines in physiological arousal indicators during recovery, the main findings are at odds with arousal-based perspectives. Central to the arousal perspective in environmental psychology is the notion that various arousalincreasing properties (e.g. movement, quantities of stimuli) strongly influence attention, affective responses, and activity levels in physiological systems (e.g. Berlyne, 1971; Mehrabian & Russell, 1974). According to arousal theory, the urban settings with their movement, quantities of visual stimuli and comparatively variable, intense sounds, should have elicited far more intake/attention than the natural environments, yet they clicited much less as indicated by heart rate responses. The findings did not support our hypothesis based on arousal theory that attention/intake responses to the high stimulation urban conditions (heavy traffic, many pedestrians) would be greater than to the low stimulation urban conditions (light traffic, few pedestrians). Most fundamentally, contrary to the prediction of arousal theory, there was no general relationship between quantities of stimulation and recovery influences. Findings from most of the recovery measures suggested that similarly low levels of restoration occurred during exposures to the high vs low stimulation urban settings. An exception to this pattern was the SCR finding suggesting somewhat more recovery during the high rather than low stimulation urban exposures, a result that runs directly counter to the prediction of arousal theory.",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "In general, the findings strongly suggest that content differences in terms of natural vs human-made properties, rather than variations in stimulation levels, were decisive in accounting for the differences in recovery and intake/attention. To explain this outcome, it might be argued from a culture-based point of view that American society conditions positive response dispositions to nature and negative dispositions to urban environments. However, a cultural perspective could also lead to a very different interpretation. For instance, it is certainly the case that each of the subjects in this study had previously been exposed by television and other media to thousands of advertizements touting the positive characteristics of automobiles; accordingly, the individuals arguably should have evidenced strong intake and positively toned emotional responses to the urban settings with traffic.",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "On the basis of the heart rate findings, it does not appear that the nature settings produced restoration because they elicited an claborated, active process of cognition entailing positive associations or memories. Such mental activity is often associated with an acceleratory component to the cardiac response; the overall deceleration that actually occurred during the natural exposures is perhaps associated with parasympathetic influences involving reduced baroreceptor feedback, and increases in perceptual activity and sensitivity to external stimuli (Lacey & Lacey, 1974). To the extent that cognition may have played a role in the restorative effects of nature, conceivably the forest and water settings might have elicited effortless, well-formed affective/cognitive structures.",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "Regarding the less positive influences of the urban environments, a learning-based speculation is that the settings with traffic and pedestrians might have elicited cognitive",
+   "page": 25
+  },
+  {
+   "label": "section_header",
+   "text": "226 R. S. Ulrich et al.",
+   "page": 26
+  },
+  {
+   "label": "text",
+   "text": "appraisals that included slight risk or tension. Such appraisals would tend to be associated with mild sympathetic mobilization that could contribute an acceleratory component to heart rate and somewhat inhibit recovery. In physiological terms, perhaps a slight defense reaction (i.e. heart acceleration, higher SCR) can be a component of responsiveness to many urban settings. But this perspective also implies the possibility, for instance, that the natural setting with fast-moving water could elicit mild defense reactions that would hinder recovery.",
+   "page": 26
+  },
+  {
+   "label": "text",
+   "text": "Alternatively, it seems reasonable to propose that evolutionary influences, along with learning, may underlie the differential intake and recovery responses to the natural vs urban environments. In an earlier theoretical section it was proposed that the rewards associated with natural settings during human evolution have been sufficiently critical to favor individuals who quickly and easily learned, and persistently retained, two related types of adaptive positive responding to nature: restoration following stress or taxing activities; and, in the absence of stress, positive emotional/attentional/ approach responses to nature contents and configurations, especially those that favored well-being or survival because of such advantages as high food potential and low risk. From these arguments it follows that biologically prepared learning may be evident in positive responses to many unthreatening natural settings, but that biological preparedness should not be manifested in responses to urban or built stimuli. An evolutionary perspective implies that adaptive responses to unthreatening natural settings should include quick-onset positive affects and sustained intake and perceptual sensitivity; in physiological terms this would often be a parasympathetically dominated response that included heart deceleration-similar to the observed response to the natural settings in the present study. Arguably, it would have been exceedingly maladaptive for early humans to easily and quickly learn, and over time not forget, to respond with perceptual rejection and sympathetic mobilization to unthreatening ambient environmental content. Sympathetic and other physiological mobilization would have been fatiguing, and over a prolonged period would be linked with chronic cardiovascular and endocrine responses that adversely affected health. Further, perceptual rejection or low attention would have been maladaptive from the standpoint of the need to exploit food, water or other survival related advantages of a natural setting. By contrast, an adaptive, parasympathetically dominated responsc would be associated with sustained yet non-taking intake and perceptual sensitivity, and maintenance or restoration of energy. Perhaps this biologically prepared constellation of responses would not only foster psychophysiological restoration following, for instance, encounters with threatening objects or situations, but would also function to maintain an appropriate 'base-line' state of environmental intake/ sensitivity which would leave the individual primed to very quickly mobilize and respond effectively to a sudden threat. Following a prolonged episode of fatiguing mobilization, it is not too great a speculation to suggest that some unthreatening natural settings, such as the water and forest settings in the study, might elicit a parasympathetically dominated response similar to a mild, eyes-open form of *relaxation response' or wakeful, meditation-like state (e.g. Benson er al., 1974). Likewise, Katcher et al. (1984) have suggested that meditation-like relaxation can be induced by visual contemplation of a different configuration of natural content, an aquarium with fish.",
+   "page": 26
+  },
+  {
+   "label": "text",
+   "text": "The roles of culture, learning and possibly biological preparedness in differential response to natural vs urban settings represent fundamental issues that should be",
+   "page": 26
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 27
+  },
+  {
+   "label": "text",
+   "text": "addressed in future rescarch. Further studies are also needed to investigate psychophysiological influences of natural and urban content across varied situations including, for instance, contexts where individuals initially are unstressed, or are bored or chronically understimulated. Also, rescarch should examine person-based variables (e.g. perceived control) that may influence the extent of recovery during encounters with natural and urban settings. The results of the present study clearly imply the need for a broader agenda regarding environmental stress research that goes beyond a focus on stressors to include concern for settings that tend to facilitate recovery. The findings strongly suggest that environments of importance to well-being and stress are not confined to settings having extreme or unusual properties, such as loud noise or extreme temperatures, but also include very common environments that most urbanites in developed nations encounter daily.",
+   "page": 27
+  },
+  {
+   "label": "section_header",
+   "text": "Note",
+   "page": 27
+  },
+  {
+   "label": "text",
+   "text": "(1) This research was supported by National Science Foundation grant SES-8317803. Portions of the physiological findings were presented at the 17th Annual Conference of the Environmental Design Research Association, Atlanta, Georgia, April, 1986 (Ulrich & Simons, 1986), The authors thank psychophysiologists Ulf Dimberg and Louis Tassinary for their comments regarding interpretation of the heart period findings, and also thank Russ Parsons and Bruce Hull for their helpful comments on an earlier draft.",
+   "page": 27
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Aiello, J. R., Epstein, Y. M. & Karlin, R. A. (1975). Effects of crowding on clectrodermal activity. Sociological Symposium, 14, 43-57.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Anderson, L. M., Mulligan, B. E., Goodman, L. S. & Regen, H. Z. (1983). Effects of sounds on preferences for outdoor settings. Environment and Behavior, 15, 539-566.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Appleton, J. (1975). The Experience of Londscape. London, U.K.: Wiley.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Baum, A., Fleming, R. & Singer, J. E. (1985). Understanding environmental stress: strategies for conceptual and methodological integration. In A. Baum & J. E. Singer, Eds., Aduances in Encironmental Psychology. Hillsdale, NJ: Lawrence Eribaum Associates, Vol. 5, Methods and Encironmental Psychology, 185-205.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Benson, H., Beary, J. F. & Carol, M. P. (1974). The relaxation response. Psychiatry, 37, 37-46.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Berlyne, D. E. (1971). Aesthetics and Psychobiology. New York: Appleton-Century-Crofts.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Berlyne, D. E. & Lewis, J. L. (1963). Effects of heightened arousal on human exploratory behavior. Canadian Journal of Psychology, 17, 398-411.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Bernaldez, F. G. & Parra, F. (1979). Dimensions of landscape preferences from pairwise comparisons, In Proceedings of Our National Landscape: A Conference on Applied Techniques for Analysis and Management of the Visual Resource. USDA Forest Service General Technical Report PSB-35. Berkeley: USDA Forest Service, pp 256-262.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Cermak, G. W. & Cornillon, P. C. (1976). Multidimensional analyses of judgments about traffic noise. Journal of the Acoustical Society of America, 59, 1412-1420.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, S. (1978). Environmental load and the allocation of attention. In A. Baum, J. E. Singer & S. Valins, Eds., Aduances in Environmental Psychology, Vol. 1. Hildale, NJ: Lawrence ErIbaum Associates.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, S., Evans, G. W., Stokols, D. & Krantz, D.S. (1986), Behavior, Health, and Environmental Stress. New York: Plenum Press,",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Dimberg, U. (1986). Facial reactions to fear-relevant and fear-irrelevant stimuli. Blologicaf Psychology, 23, 153-161.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Dimberg, U. (1990). Facial electromyography and emotional reactions. (Distinguished Contribution Award Address). Psychophysiology, 27, 481-494.",
+   "page": 27
+  },
+  {
+   "label": "list_item",
+   "text": "Dimberg, U. & Thell, S. (1988). Facial electromyography, fear relevance, and the experience of stimuli. Journal of Psychophysiology, 2, 213-219.",
+   "page": 27
+  },
+  {
+   "label": "text",
+   "text": "228",
+   "page": 28
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich er al.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Driver, B. L. (1976). Quantification of outdoor recreationists' preferences. In B. Smissen & J. Myers, Eds., Research: Camping and Environmental Education, HPEP Series No. 11. University Park, PA: Pennsylvania State University, pp 165-187,",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Driver, B. L. & Greene, P. (1977). Man's nature: innate determinants of response to natural environments, In Children, Nature, and the Urban Environment, USDA Forest Service Report NE-30, Upper Darby, Pennsylvania: Northeastern Forest Experiment Station, pp 63-70.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Driver, B. L. & Knopf, R. C. (1975). Temporary escape: one product of sport fisheries management. Fisheries, 1, 24-29.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Evans, G. W. & Cohen, S. (1987). Environmental stress. In D. Stokols & I. Altman, Eds., Handbook of Environmental Psychology (2 Vols) New York: John Wiley, pp 571-610.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Evans, G. W., Cohen, S. & Brennan, P. (1986). Stress and properties of the physical environment. In J. Wineman, R. Barnes & C. Zimring, Eds., Proceedings of the Seventeenth Annual Conference of the Environmental Design Research Association, Washington, DC: EDRA, PP 91-98.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Frankenhacuser, M. (1980). Psychoneuroendocrine approaches to the study of stressful personenvironment transactions. In H. Selye, Ed., Selye's Guide to Stress Research. New York: Van Nostrand Reinhold, Vol. 1, 46-70.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Glacken, C. J. (1967). Traces on the Rhodian Shore: Nature and Culture in Western Thought From Ancient Times to the End of the Eighteenth Century, Berkeley: University of California Press.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Glass, D. C. & Singer, J. E. (1972). Urban Stress: Experiments On Noise and Social Stressors. New York: Academic Press.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., Mang, M. & Evans, G. W. (1987). Perspectives on wilderness: testing the theory of restorative environments. Paper presented at the Foursh World Wilderness Congress, Estes Park, Colorado, September, 1987.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Hare, R. D., Wood, K.,, Britain, S. & Shadman, J. (1970). Autonomic responses to affective visual stimation. Psychophysiology, 7, 408-417.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Heerwagen, J. H. (1990). Psychological aspects of windows and window design. In R. I. Selby, K. H. Anthony, J. Choi & B. Orland, Eds., Proceedings of the 21st Annual Conference of the Environmental Design Rescarch Association, Oklaboma City: EDRA, pp 269-280.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Hockey, R. (Ed.) (1983). Stress and Fatigue in Human Performance. New York: John Wiley,",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Holding, D. H. (1983) Fatigue. In R. Hockey, Ed., Stress and Fatigue in Human Performance. New York: John Wiley, pp 145-167.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Honeyman, M. (1990). Vegetation and stress: a comparison study of varying amounts of vegetation in countryside and urban scenes. Paper presented at the Nationaf Symposium on the Role of Horticulture in Human Well-being and Social Developments, Washington D.C., April, 1990.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Hull, R. B. (1990). Mood as a product of leisure: causes and consequences. Journal of Leisure Research, 22, 99-111.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, R. & Kaplan, S. (1989). The Experience of Nature. New York: Cambridge University",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. & Talbot, J. F. (1983). Psychological benefits of a wilderness experience. In 1. Altman & J. F. Wohlwill, Eds., Human Behavior and Environment. New York: Plenum Press, Vol. 6, Behavior and the Natural Environment, 163-203.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S., Kaplan, R. & Wendt, J. S. (1972). Rated preference and complexity for natural and urban visual material, Perception and Psychophysics, 12, 354-356.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Katcher, A. H., Friedman, E., Beck, A. M. & Lynch, T. (1983). Looking, talking, and blood pressure: the physiological consequences of interaction with the living environment. In A. H. Katcher & A. M. Bock, Eds., New Perspectives on Our Lites with Comparison Animals. Philadelphia: University of Pennsylvania Press, pp 351-359.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Katcher, A., Segal, H. & Beck, A. (1984). Comparison of contemplation and hypnosis for the reduction of anxiety and discomfort during dental surgery. American Journal of Clinical Hypnosis, 27, 14-21.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Kennedy, S., Glaser, R. & Kiccolt-Glaser, J. (1990). Psychoncuroimmunology. In J. T. Cacioppo & L. G. Tassinary, Eds., Principles of Psychophysiology: Physical, Social, and Inferential Elements. New York: Cambridge University Press, pp 177-190.",
+   "page": 28
+  },
+  {
+   "label": "list_item",
+   "text": "Klorman, R. & Ryan, R. M. (1980). Heart rate, continguent negative variation, and evoked potentials during anticipation of affective stimalation. Psychophysiology, 17, 513-523.",
+   "page": 28
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Knopf, R. C. (1987). Human behavior, cognition and affect in the natural environment. In D. Stokols & 1. Altman, Eds., Handbook of Encironmental Psychology (2 Vols). New York: John Wiley, pp 783-825,",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Lacey, J. I. & Lacey, B. C. (1970). Some autonomic-central nervous system interrelationships. In P. Black, Ed., Physiological Correlates of Emotion. New York: Academic Press, pp 205-227.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Lacey, B. C. & Lacey, J. I. (1974). Studies of heart rate and other bodily processes in sensorimotor behavior. In P. A. Obrist, A. H. Black, J. Brener & L. V. DiCara, Eds., Cardiovascular Psychophysiology. Chicago: Aldine, pp 538-564.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Lazarus, R. S., Opton, E. M., Norrikos, M. S. & Rankin, N. O. (1965). The principle of shortcircuiting of threat: further evidence. Journal of Personality, 33, 622-635",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Libby, W. L. Jr., Lacey, B. C. & Lacey, J. (1973), Pupillary and cardiac activity during visual attention. Psychophysiology, 10, 270-294.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Jane, 1990.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Marie, G. V., Lo, C. R., Van Jones, J. & Johnston, D. W. (1984). The relationship between arterial blood pressure and pulse transit time during dynamic and static exercise. Psychophysiology, 21, 521-527.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Mehrabian, A. & Russell, J. A. (1974). An Approach to Environmental Psychology. Cambridge, MA: MIT Press.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Moore, E. O. (1982). A prison environment's effect on health care service demands. Journal of Environmental Systems, 11, 17-34,",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Obrist, P. A., Light, K. C., McCubbin, J. A., Hutcheson, J. S. & Hoffer, J. L. (1979), Pulse transit time: relationship to blood pressure and myocardial performance. Psychophysiology, 13, 292-301.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Ohman, A. (1986). Face the beast and fear the face: animal and social fears as prototypes for evolutionary analyses of emotion (Presidential Address). Psychophysiology, 23, 123-145.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Öhman, A., Dimberg, U. & Esteves, F. (1989). Preattentive activation of aversive emotions. In T. Archer & L-G. Nilsson, Eds., Aversion, Atoidance, and Anxiety, Hillsdale, NJ: Lawrence Erlbaum Associates, pp 169-193.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Olmsted, F. L. (1865). The value and care of parks, Report to the Congress of the State of California, [Reprinted in R. Nash, Ed., (1976). The American Environment. Reading, MA: Addison-Wesley, pp 18-24.]",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "O'Leary, K.S. (1965). Preference for variability of stimuli as a function of experimentally induced anxicty. Psychological Reports, 16, 1202",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Orians, C. H. (1986). An ecological and evolutionary approach to landscape aesthetics. In E. C. Penning-Rowsell & D. Lowenthal Eds., Meanings and Values in Landscape. London: Allen",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Orians, G. H. & Heerwagen, J. H. (in press). Evolved responses to landscapes. In J. Barkow, L. Cosmides & J. Tooby, Eds., The Adapted Mind: Evolutionary Psychology and the Generation of Culture. Oxford, U.K.: Oxford University Press.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Papillo, J. F. & Shapiro, D. (1990). The cardiovascular system. In J. T. Cacioppo & L. G. Tassinary, Eds., Principles of Psychophysiology: Physical, Social, and Inferential Elements. New York: Cambridge University Press, pp 456-512.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Rylander, R., Sorenson, S. & Kajland, A. (1976). Traffic noise exposure and annoyance reactions. Journal of Sound and Vibration, 47, 237-242.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Schriftin, R. M. & Schneider, W. (1977). Controlled and automatic human information processing: perceptual learning, automatic attending, and a general theory. Psychological Review, 84, 127-190.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Schroeder, H. W. (1989). Environment, behavior, and design research on urban forests. In E. H. Zube & G. T. Moore, Eds, Adiances in Envirownent, Behavior, and Design, New York: Plenam, Vol. 2, 87-117.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Schroeder, H. W. & Anderson, L. M. (1984). Perception of personal safety in urban recreation sites. Journal of Leisure Research, 16, 177-194.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Seligman, M. E. P. (1971). Phobias and prepardness. Behavior Therapy, 2, 307-321.",
+   "page": 29
+  },
+  {
+   "label": "list_item",
+   "text": "Shuttleworth, S. (1980), The use of photographs as an environment presentation medium in landscape studies. Journal of Environmental Management, 11, 61-76.",
+   "page": 29
+  },
+  {
+   "label": "text",
+   "text": "230",
+   "page": 30
+  },
+  {
+   "label": "section_header",
+   "text": "R. S. Ulrich et al.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Stainbrook, E. (1968). Human needs and the natural environment. In Man and Nature in the City. Proceedings of a symposium sponsored by the Bureau of Sport Fisheries and Wildlife. Washington, DC: U.S. Department of the Interior, pp 1-9.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Tuan, Y. F. (1974). Topophilia: A Study of Environmental Perception. Attitudes, and Values. Englewood Cliffs, NJ: Prentice Hall.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1979). Visual landscapes and psychological well-being. Landscape Research, 4, 17-23.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1981). Natural versus urban scenes: some psychophysiological effects. Environment and Behavior, 13, 523-556.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1983). Aesthetic and affective response to natural environment. In I. Altman & J. F. Wohlwill, Eds., Human Behavior and Environment. New York: Plenum Press, Vol. 6, Behacior and the Natural Environment, 85-125.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1984), View through a window may influence recovery from surgery. Science, 224, 420-421.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. & Parsons, R. (1990). Influences of passive experiences with plants on individual well-being and health. Paper presented at the National Symposium on the Rofe of Horticulture in Human Well-Being and Social Decelopment, Washington, D.C., April, 1990.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. & Simons, R. F. (1986). Recovery from stress during exposure to everyday outdoor environments, In J. Wineman, R. Barnes & C. Zimring, Eds., Proceedings of the Seventeenth Annual Conference of the Environmental Design Research Association. Washington, D.C.: EDRA, pp 115-122.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Verderber, S. (1986). Dimensions of person-window transactions in the hospital environment. Environment and Behavior, 18, 450-466.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Ward, L. M. & Russell, J. A. (1981). Cognitive set and the perception of place. Entirownent and Behavior, 13, 610-632.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "West, M. J. (1985). Landscape virsus and stress response in the prison environment. M.L.A. thesis. Department of Landscape Architecture, University of Washington, Seattle, WA.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Wohlwill, J. F. (1976). Environmental aesthetics: the environment as a source of affect. In 1. Altman & J. F. Wohlwill, Eds., Human Behavior and Environment. New York: Plenum, Vol. 1, 37-86.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Wohlwill. J. F. (1983). The concept of nature: a psychologist's view. In I. Altman & J. F. Wohlwill, Eds., Human Behacior and Encironment, New York: Plenum Press, Vol 6, Behacior and the Natural Environment, 5-37.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Zajonc, R. B. (1980). Feeling and thinking: preferences need no influences. American Psychologist, 35, 151-175.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Zube, E. H., Vining, J., Law, C.S. & Bechtel, R. B. (1985). Perceived urban residential quality: a cross-cultural bimodal study. Environment and Behavior, 17, 327-350.",
+   "page": 30
+  },
+  {
+   "label": "list_item",
+   "text": "Zuckerman, M. (1977). Development of a situation-specific trait-state test for the prediction and measurement of affective responses. Journal of Consulting and Clinicial Psychology, 45, 513-523.",
+   "page": 30
+  },
+  {
+   "label": "text",
+   "text": "Manuscript received 23 March 1989 Revised manuscript received 29 October 1990",
+   "page": 30
+  }
+ ]
+}

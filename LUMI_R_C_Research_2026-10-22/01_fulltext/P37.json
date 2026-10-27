@@ -1,0 +1,598 @@
+{
+ "paper_id": "P37",
+ "source": "P37_2003_Laumann_Selective_attention_and_heart_rate_responses_to_natural_and_urban_envi.pdf",
+ "pages": 10,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Journal of Environmental Psychology 23 (2003) 125-134",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Selective attention and heart rate responses to natural and urban environments",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Karin Laumann a, *, Tommy G.arling b , Kjell Morten Stormark c",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "a Research Centre for Health Promotion, University of Bergen, Norway",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "b Department of Psychology, G.oteborg University, Sweden c Regional Competence Centre for Child and Adolescent Psychiatry, University of Bergen, Norway",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received 19 April 2000; received in revised form 6 June 2001; accepted 24 July 2002",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "We tested the hypothesis that exposure to nature stimuli restores depleted voluntary attention capacity and affects selective attention. Before viewing a video of either a natural or an urban environment, 28 subjects first completed a proofreading task to induce mental load and then performed Posner's attention-orienting task. After viewing the video they performed the attentionorienting task a second time. Cardiac inter-beat interval (IBI) was measured continuously to index autonomic arousal. Before the video both groups reacted faster to validly versus invalidly cued targets in the attention-orienting task. After the video, the urban group was still faster on validly versus invalidly cued trials, but in the nature group this difference disappeared. During the video the nature group had a longer mean IBI (lower heart rate) measured as the difference from baseline than the urban group. The results suggest that reduced autonomic arousal during the video engendered less spatially selective attention in the nature group compared to the urban group.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "r 2002 Elsevier Science Ltd. All rights reserved.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "There is a growing amount of research that shows that nature surroundings have restorative or stressreducing effects (see also Moore, 1981; Verderber, 1986; Ulrich, 1981, 1984, 1993; Kaplan & Kaplan, 1989; Hartig, Mang, & Evans, 1991; Parson, 1991; Ulrich, Dimberg, & Driver, 1991; Ulrich et al., 1991; Kaplan, 1995; Tennessen & Cimprich, 1995). These effects of nature have been attributed to beneficial influences on information processing. Specifically (Kaplan & Kaplan, 1989; Kaplan, 1995) in their attention restoration theory (ART) suggest that natural environments have properties that attract involuntary attention, and thus allow a depleted directed attention capacity to recover so that mental fatigue is reduced.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "ART describes voluntary attention capacity in terms of directed attention, which means that an individual intentionally focuses her or his attention on a limited",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "*Corresponding author. Research Center for Health Promotion, University of Bergen, Christiesgt 13, Bergen 5015, Norway. Tel.: +4755-58-28-08; fax: +47-55-58-98-87.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "E-mail address: karin.laumann@hrp.no (K. Laumann).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "range of stimuli. This necessitates temporarily inhibiting other stimuli, which requires mental effort. On the other hand, Kaplan and Kaplan (1989) claim that fascinating stimuli found in natural settings attract involuntary attention, so that the processing of such stimuli does not require any active inhibition of other stimuli. According to ART, one would therefore expect nature stimuli to facilitate subsequent selective attention, in that exposure to nature stimuli facilitates recovery of the capacity for directed attention.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "To evaluate the above propositions regarding the influence of nature stimuli on selective attention, a task that measures this capacity is required. Posner and colleagues (e.g. Posner, 1980; Posner, Cohen, & Rafal, 1982) have developed an attention-orienting task which distinguishes between voluntary and involuntary modes of attention orienting. Involuntary orienting is elicited by presenting a cue in the left or right visual field. This peripheral cue is referred to as an exogenous cue. Voluntary orienting is elicited by presenting a central arrow cue pointing to the left or right visual field. This cue is referred to as an endogenous cue. In support of the assumption that a cue at the periphery attracts",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "involuntary attention, Jonides (1981) found that subjects had difficulty in voluntarily suppressing such a cue. Yantis and Jonides (1984) conclude that the peripheral cue in the attention-orienting task elicits involuntary attention due to an abrupt onset. In contrast, a central arrow pointing to the left or right requires voluntary attention because subjects must decode a symbolic stimulus and direct attention accordingly.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "In the attention-orienting task, both the endogenous and exogenous cues are followed by a target presented either in the same (valid trial) or opposite (invalid trial) location as indicated by the cue. When the target occurs in the location opposite to that indicated by the cue, shifting attention involves interruption and disengagement from the cued location, movement, and reengagement of attention to the new location. Thus, detecting targets on invalid trials takes more time than detecting targets on valid trials (Posner, 1988; Posner, Petersen, Fox, & Raichle, 1988; Posner & Petersen, 1990; Posner & Dehaene, 1994). This validity effect may reflect a cognitive benefit of attending to stimuli in the cued location and/or a cognitive cost of attending to stimuli in the uncued location.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "If being exposed to natural surroundings restores depleted voluntary attention, ART leads us to expect that subjects exposed to a natural environment should subsequently show an improvement in their ability to voluntarily shift attention. This would show up in the attention-orienting task as faster reaction times on invalidly cued trials for endogenous cues (voluntary attention) when the performance of the nature group is compared to the performance of a group exposed to an urban environment. Thus, a reduced validity effect following exposure to a natural environment is predicted.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Improved information processing may, however, also follow from the positive emotions and reduced autonomic arousal associated with natural surroundings (Ulrich, 1993) rather than being a direct effect of exposure to the natural surroundings. Although Ulrich (1993) does not make specific predictions about how the stress-reducing effects of nature lead to improved cognitive performance, one may draw on the principle proposed by Easterbrook (1959), which states that an increase in arousal narrows attention. Eysenck (1982) has partly modified this principle, claiming that increased arousal leads to increased attentional selectivity. Thus, exposure to nature stimuli may reduce autonomic arousal, and in turn reduce spatially selective attention. If so, we should expect a reduced cost-benefit difference between valid and invalid trials on the attentionorienting task after exposure to natural stimuli, independent of whether the attention is voluntary or involuntary.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "To test Ulrich's (1993) prediction that natural environments would elicit reduced autonomic arousal, we recorded heart rate continuously in the present experiment. Change in cardiovascular function is also related to mode of information processing. Lacey (1967) and Lacey and Lacey (1970, 1974) distinguish between sensory intake and environmental rejection on the basis of changes in cardiovascular function. Sensory intake of external stimuli, associated with cardiac deceleration, is closely related to Kaplan and Kaplan's (1989) concept of involuntary attention. Environmental rejection refers to a process of filtering out irrelevant stimuli that distract performance of internalized cognitive elaboration, which is related to Kaplan and Kaplan's (1989) concept of directed attention. Environmental rejection is accompanied by cardiac acceleration. Lacey (1967) and Lacey and Lacey (1970, 1974) claims that a change in cardiovascular function may facilitate or inhibit cortical processing and that this change in the physiological system may be instrumental in shaping further activity (for a recent discussion of Lacey and Lacey's theory see . Ohman, Hamm, & Hugdahl, 2000). As an example, a stressful mental activity such as backwards counting accelerates heart rate, which in turn facilitates the rejection of interfering environmental stimuli. During heart rate deceleration the cortex would be activated which in turn would facilitate processing of external stimuli. If nature stimuli attract involuntary attention, one might also expect increased sensory intake, accompanied by pronounced heart rate deceleration. Thus, through the Lacey's formulation we also see a basis in ART for predicting heart rate deceleration during exposure to a natural environment.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "As the theories assume that nature stimuli alleviate the consequences of mental load (Kaplan & Kaplan, 1989) or emotional and physiological stressors (Ulrich, 1993), we induced mental load in the subject by requiring them to perform a task prior to the exposure to nature stimuli. Such a task is generally characterized by sensory rejection and would therefore according to Lacey (1967) accelerate heart rate. Previous research (Wastell, 1990; Van Roon, Mulder, Veldman, & Mulder, 1998; Mulder, 1992; Mulder, Van Roon, Veldman, Elgersma, & Mulder, 1995) has shown that increased mental effort is accompanied by increased autonomic arousal.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In summing up, we expected from ART (Kaplan & Kaplan, 1989; Kaplan, 1995) that nature stimuli would evoke involuntary attention, which would in turn facilitate attentional shifts to targets presented after invalid endogenous cues (voluntary attention) in the attention orienting task. From Lacey (1967) and Lacey and Lacey (1974, 1978) we also see a basis in ART for predicting that heart rate will decelerate with exposure to a natural environment.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "From Ulrich's (1993) theory it was predicted that nature stimuli would reduce heart rate, and from Easterbrook's (1959) hypothesis that the heart rate deceleration would lead to reduced attentional selectivity, reflected in reduced difference in RTs between validly and invalidly cued targets.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The experiment conducted to test these expectations consisted of an initial resting baseline, a mental load task, a pre-video attention-orienting task, videos from either natural or urban environments presented to different groups of subjects, and a post-video attention-orienting task identical to the pre-video attentionorienting task. Cardiac inter-beat interval (IBI) was continuously recorded during the experiment. Manual reaction times were measured in the attention-orienting task.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2. Method",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. Subjects",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Twenty-eight female undergraduate students (age range 18-24 years) gave their informed consent and participated in return for the equivalent of about $13. They were randomly assigned to either a natural or an urban environment group.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Equipment",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The experiment was run on a PC using the Micro Experimental Laboratory software version 2 (Schneider, 1995). Manual reaction time (RT) was recorded by the MEL software, using the MEL response box. The display was a Cinet 14 00 SVGA Monitor with 9-16 dot characters.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Electrocardiogram (EKG) was registered with Red Dot Ag/AgCI monitoring electrodes with micropore tape and solid gel placed laterally between the third and the forth rib of the ribcage with a reference electrode on the sternum. The EKG was recorded using PsyLab version 5 (Contact Precision Instruments) on a PC. IBI obtained from the EKG was measured by using an Rwave hardware trigger in the Psylab version 7.0 software, with an accuracy of 1ms.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Environmental simulations",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The videos were recorded with a Thomson digital video camera with an external Sony stereo microphone. They were shown on a 40 00 Grundig 38 TV-set, using a Panasonic S-VHS VCR.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The videos were edited like tours though the selected settings on a sunny day. Both videos consisting of 80 scenes of 15-s duration, in total 20min (see Fig. 1 for examples of scenes). They included audio recordings. The videos were selected on the basis of the results of Laumann, G.arling, and Stormark (2001) showing that a video depicting the same waterside environment as in the present study scored higher on the rating scale measures of restorative components of environments than did several other natural environments, and the video depicting the urban environment was rated significantly less restorative than the natural environments.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The nature video depicted the waterside of Herdla, an island close to Bergen off the west coast of Norway. The sounds in this video were generated by the waves, birds, insects, and some boats passing by. A few pictures showed grazing cows. In a few other pictures people could be seen at a distance.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The video from the urban environment (Oslo, the capital of Norway) started at a main pedestrian street and went on to a bus station. Then the video followed a street where cars were allowed to drive and followed another route back to the pedestrian street. The sounds in this video were of cars, people talking, construction equipment, and some street musicians.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Procedure",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Upon arrival at the laboratory, the subject was seated in an armchair in an isolated cubicle, and the EKG electrodes were attached. After waiting some minutes, baseline measurement began. In the baseline phase the subject was instructed to relax for a 10-min period. In the following mental load phase, which lasted for 15min, the subject was presented with a series of proofreading tasks. Then she completed the attentionorienting task (Posner, 1980; Posner et al., 1982), in which the spatial locations were designated by two rectangles, each with a single frame presented in the left and right visual field, respectively, at a horizontal distance of 61 visual angle from the central fixation point on the computer screen (see Fig. 2). The rectangles were 1.6 cm high and 2.0 cm wide. The subject was instructed to fixate on the center point and to respond as fast as possible by pressing a button on the response box whenever an asterisk (the target) was presented inside",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "one of the two rectangles on the screen.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "On trials where attention was cued by an exogenous stimulus (involuntary attention), an additional frame was displayed on one of the rectangles so that it appeared lit-up on the screen. On trials where attention was cued by an endogenous stimulus (voluntary attention), the central fixation point was changed into an arrow pointing to either the left or right rectangle.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Both the pre-video and the post-video attentionorienting task consisted of 384 trials, divided into eight blocks of 48 trials with a short pause between each block. Half of the subjects in each group first received four blocks of exogenous trials followed by four blocks of endogenous trials, while the other half of the subject received the blocks in the reversed order. In two-thirds of the trials, the target was presented in the same Exogenous cue localization as the cue (valid trials), while on one-sixth of the trials the target was presented in the opposite location (invalid trials). The remaining one-sixth of the trials were neutral trials, in that both spatial locations were cued simultaneously, either by means of the additional frame imposed on both rectangles (exogenous trials) or by having the arrow point to both locations simultaneously (endogenous trials). The sequence of valid, invalid, and neutral cues was randomized in each block according to a predetermined schedule. The cue was presented in the left or right visual hemifield on a 50/50 basis. The neutral trials were included to prevent subjects from developing an automatic response-set. Responses on these trials where consequently not included in the statistical analyses. In all trials, the cue was presented for 200ms before the target. The intertrial interval (from subject's response to the onset of the cue on the next trial) was 1.65 s. Each run of the attention-orienting task lasted for about 12min, depending on how fast the subjects responded.",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. Photos captured from the environmental simulations. The four photos at the top are from the natural environment video, and the four photos at the bottom are from the urban environment video.",
+   "page": 4
+  },
+  {
+   "label": "table",
+   "text": "Fig. 2. Schematic outline of the attention-orienting task. The upper part shows the setup on the computer screen during exogenous cueing, in which a double rectangle served as the cue. The lower part shows the setup during endogenous cueing, in which an arrow served as the cue. The left-hand column shows an example of a valid trial. The right-hand column shows an example of an invalid trial. The middle column shows an example of a neutral trial. Each of the six panels shows the sequence within a trial. At the start of each trial, spatial locations were designated by two rectangles, in the left and right location from the central fixation point (top row in each panel). The cue was then presented (middle row), followed by the response target (bottom row).\nFig. 2. Schematic outline of the attention-orienting task. The upper part shows the setup on the computer screen during exogenous cueing, in which a double rectangle served as the cue. The lower part shows the setup during endogenous cueing, in which an arrow served as the cue. The left-hand column shows an example of a valid trial. The right-hand column shows an example of an invalid trial. The middle column shows an example of a neutral trial. Each of the six panels shows the sequence within a trial. At the start of each trial, spatial locations were designated by two rectangles, in the left and right location from the central fixation point (top row in each panel). The cue was then presented (middle row), followed by the response target (bottom row).\n\n| Valid cue      |                | Neutral cue    | Invalid cue    |\n|----------------|----------------|----------------|----------------|\n| -              |                | -              | -              |\n| -              | -              |                | -              |\n| -              |                | -              | -              |\n| Endogenous cue | Endogenous cue | Endogenous cue | Endogenous cue |\n| Valid cue      |                | Neutral cue    | Invalid cue    |\n| -              |                | - <->          | -              |\n| <-             |                |                | <-             |\n| <-             |                | <->            | <-             |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2. Schematic outline of the attention-orienting task. The upper part shows the setup on the computer screen during exogenous cueing, in which a double rectangle served as the cue. The lower part shows the setup during endogenous cueing, in which an arrow served as the cue. The left-hand column shows an example of a valid trial. The right-hand column shows an example of an invalid trial. The middle column shows an example of a neutral trial. Each of the six panels shows the sequence within a trial. At the start of each trial, spatial locations were designated by two rectangles, in the left and right location from the central fixation point (top row in each panel). The cue was then presented (middle row), followed by the response target (bottom row).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "After having performed the pre-video attentionorienting task, half of the subjects (nature group) viewed the video from the natural environment. The other half of the subjects (urban group) viewed the video from the urban environment. Immediately after seeing the given video, the subjects again performed the attentionorienting task with exactly the same sequence as in the pre-video attention-orienting task. All together, a session lasted about 1h and 20min.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "2.5. Response definitions and data analyses",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Although the majority of previous research has reported heart rate (HR) based on transformed interbeat intervals (IBIs), Berntson, Cacioppo, and Quigley (1993) have shown that such a nonlinear transformation is inadvisable. Thus, in the present study, statistical analyses were performed on IBI values. Yet, to enable the reader to compare the present findings with previous studies, both HR and IBI averages are described in the text.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "All IBIs below 500ms or above 1500ms were removed from the data analyses since these are most likely error in R-wave trigging. The IBIs were scored as the difference to the resting baseline and subjected to a 2 (group: nature vs. urban group) by 4 (period: mental load, pre-video attention-orienting task, video, postvideo attention-orienting task) mixed factorial analysis of variance (ANOVA). Inflated degrees of freedom were Geisser-Greenhouse corrected (Kirk, 1995).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Only reactions times (RTs) of correct responses initiated within 5-2000ms after onset of the target were included in the statistical analyses to ensure that only accurate responses to the target was included. Responses with a latency less than 5ms were probably a response to the cue rather than the target. Responses with a latency of more than 2000ms on this simple RT-task probably indicated that the subject had made an earlier response to the target that went unregistered, either because it was delivered during the presentation of the cue or because the subject did not press the response-key sufficiently hard. Four and a half percent of the RTs responses were missing including trials where the subject responded during the cue interval or with an RT below 5 or above 2000ms. These responses were replaced by the group means for the specific stimulus category.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The RT data were subjected to a 2 (group: nature vs. urban group) by 2 (period: pre-video vs. post-video attention-orienting task) by 2 (cue: endogenous vs. exogenous) by 2 (trial: valid vs. invalid trials) mixed factorial ANOVA with repeated measures on the last three factors.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Inter-beat interval (IBI)",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "There was no significant difference in mean IBI during the resting baseline period between the nature (IBI=759.77, HR=78.97) and the urban group (IBI=790.97, HR=75.86). The mental loading task led to a significant decrease in IBI (increased HR) (IBI=745.10, HR=80.53) compared to the resting baseline (775.37, HR=77.38), Fð1; 26Þ ¼ 6:53; po0:05; independent of group (see Fig. 3).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The ANOVA on difference scores (subtracting the mean IBIs for each period from the baseline mean) yielded a marginally significant effect of group, Fð1; 26Þ ¼ 3:82; p ¼ 0:06; a significant main effect of period, Fð3; 78Þ ¼ 46:15; e ¼ 0:608; po0:001; and a significant group by period interaction, Fð3; 78Þ ¼ 8:46; e ¼ 0:608; po0:001: As Fig. 3 shows, the nature group had longer IBI (lower HR) during the video compared to the urban group, Fð1; 26Þ ¼ 11:40; po0:01: There were no differences between the nature and urban groups in any of the other periods (p > 0:05).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "For the nature group IBI increased significantly during the video as compared to both the mental load phase, Fð1; 26Þ ¼ 53:38; po0:001; and the pre-video attention-orienting task, Fð1; 26Þ ¼ 18:38; po0:001: At the same time there was a tendency towards decreased IBI in the post-video attention-orienting task compared to the video phase for the nature group, but this decrease was only marginally significant, Fð1; 26Þ ¼ 3:30; p ¼ 0:08: There was also an increase in the IBI during the post-video attention orienting-task compared to the pre-video attention-orienting task, Fð1; 26Þ ¼ 12:51; p ¼ 0:001: In addition, IBI increased significantly during the pre-video attention-orienting task compared to the mental load phase, Fð1; 26Þ ¼ 50:99; p ¼ 0:001: Mean IBI was also significantly longer during the postvideo attention-orienting task compared to the mental load phase, Fð1; 26Þ ¼ 54:49; po0:001: The absolute scores showed that the IBI was longer during the video than during the baseline, Fð1; 26Þ ¼ 19:18; po0:001:",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3. Cardiac inter-beat interval (IBI) in the nature and urban groups as a function of experimental phase. The upper part of the figure shows absolute mean IBI scores for all five phases. The lower part shows the mean difference from IBI baseline during the mental load, pre-video attention-orienting task, video, and post-video attention-orienting task. Error bars show standard errors.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The urban group also evidenced longer IBI during the pre-video attention-orienting task, Fð1; 26Þ ¼ 28:84; po0:001; the video phase, Fð1; 26Þ ¼ 5:75; po0:05; and the post-video attention-orienting task, Fð1; 26Þ ¼ 28:80; po0:001; compared to the mental load phase. They also had longer IBI in the post-video attentionorienting task than during the video, Fð1; 26Þ ¼ 18:28; po0:001; and a longer IBI in the post-video attentionorienting task than during the pre-video attentionorienting task, Fð1; 26Þ ¼ 5:62; po0:05: There was no difference in the absolute scores between the video and baseline phases, Fð1; 26Þ ¼ 0:16; p > 0:05:",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 4. Mean reaction times for the nature and urban groups on valid and invalid trials for the exogenous and the endogenous cue conditions in the pre-video and post-video attention-orienting tasks. Error bars show standard errors.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. Reaction times (RTs)",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "There was a significant main effect of period, Fð1; 26Þ ¼ 27:52; po0:001; which indicates that RTs in the post-video attention-orienting task were significantly faster than in the pre-video attention-orienting task. There was a significant main effect of trial, Fð1; 26Þ ¼ 24:92; po0:001; due to slower RTs on invalidly than on validly cued trials. As predicted, in the pre-video attention-orienting task both groups had slower RTs to invalidly cued targets than to validly cued targets. This held in nature group for both exogenous, Fð1; 26Þ ¼ 8:40; po0:01; and endogenous cues, Fð1; 26Þ ¼ 6:17; po0:05; and also in the urban group for both exogenous, Fð1; 26Þ ¼ 4:48; po0:05 and endogenous cues, Fð1; 26Þ ¼ 5:20; po0:05: There were also no differences in RTs between the nature and the urban group in the pre-video attention-orienting task for exogenous validly cued trials, Fð1; 26Þ ¼ 1:08; p > 0:05; exogenous invalidly cued trials, Fð1; 26Þ ¼ 1:02; p > 0:05; endogenous validly cued trials, Fð1; 26Þ ¼ 1:92; p > 0:05; or endogenous invalidly cued trials, Fð1; 26Þ ¼ 1:46; p > 0:05:",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "In the post-video attention-orienting task there was no difference between valid and invalid trials in the nature group either for the exogenous, Fð1; 26Þ ¼ 0:04; p > 0:05; or the endogenous cues, Fð1; 26Þ ¼ 0:09;",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "p > 0:05: In contrast, the urban group maintained the delayed RTs to invalidly relative to validly cued targets for both the exogenous, Fð1; 26Þ ¼ 4:59; po0:05; and the endogenous cues, Fð1; 26Þ ¼ 6:16; po0:05 (see Fig. 4).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The nature group evidenced significantly slower RTs than the urban group to targets validly cued by the exogenous cues, Fð1; 26Þ ¼ 4:14; p ¼ 0:05: The nature group was also slower than the urban group on validly cued trials with endogenous cues, although this difference was only marginally significant Fð1:26Þ ¼ 3:14; p ¼ 0:09: There was no similar difference between the two groups on RTs on invalid cues, either for exogenous, Fð1; 26Þ ¼ 2:26; p > 0:05; or endogenous cues Fð1; 26Þ ¼ 0:47; p ¼ 0:49:",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The main findings in this study were, first, that subjects who watched a video depicting a natural environment had significantly longer IBI (lower HR) measured as the difference from baseline than subjects who watched a video of an urban environment. The nature group also had significantly longer IBI during the video than during the baseline phase, while the subjects viewing the video depicting an urban environment did not show any change relative to their resting baseline level. Second, when performing Posner's (1980) attention-orienting task, after viewing the video, the nature group detected targets presented outside the spatial location of the cue as fast as targets presented inside the cued location. This suggests that the cost-benefit difference between invalidly and validly cued trials was eliminated after subjects watched the natural environment video. This was evident both for exogenous cues (involuntary attention) and endogenous cues (voluntary attention). The urban group, on the other hand, displayed the validity effect both before and after viewing the video from the urban environment, also independently of whether their attention was cued by the exogenous or endogenous cues.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The differences in IBI between the two groups during the video phase were due to an increased IBI (lower HR) in the nature group. The IBI during the video phase in the urban group was the same as the baseline level, while the nature group's IBI was significantly higher. IBI was also longer in the pre-video attention-orienting task than the baseline. The nature group furthermore evidenced a significant increase in IBI from the prevideo attention-orienting task to the video phase. The urban group had decreased IBI from the pre-video attention-orienting task to the video phase, but this difference was not significant. The IBI findings suggest that the video depicting natural environments had a relaxing effect on autonomic functions, which is in line with Ulrich's (1993) theory, where reduced physiological arousal is posited to be a main restorative effect of nature. It is also in line with ART (Kaplan & Kaplan, 1989; Kaplan, 1995), which asserts that nature stimuli attract involuntary attention. Increased involuntary attention is a state of sensory intake, which according to Lacey and Lacey (Lacey, 1967; Lacey & Lacey, 1970, 1974) will result in HR deceleration.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The mean IBI in the baseline might seem low compared to other studies, but it should be recalled that the present sample consisted only of women. Stoney, Davis, and Matthews (1987) for example found that women relative to men had somewhat higher heart rate at rest (IBI values of 763 for women and 883 for men). This is also confirmed by Mulder, Veldman, Rueddel, and Robbe (1991). The resting IBI found for women in these studies are close to the resting IBI found in the present study.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The proofreading task resulted in shorter IBIs (higher HR) compared to baseline. According to Lacey's (1967) distinction between environmental rejection and sensory intake, that mentally loading tasks elicit increased HR, indicates that such a task engaged increased voluntary attention.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "We expected that RTs to endogenously cued targets would be slower than RTs to exogenously cued targets, since it typically has been shown that one attends faster to a stimulus if it involuntary attracts attention (for a discussion see Eimer, Nattkemper, Scr.oger, & Prinz, 1996). There was no such effect in this study. Actually, there was a tendency towards a difference in the opposite direction both for valid and invalid trials. The most likely explanation is that the attention to both the exogenous cue and the endogenous cue was voluntary or directed attention, and that therefore the same effect was obtained on both of these cues after the nature video.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The overall faster RTs in the post-video attentionorienting task compared to the pre-video attentionorienting task is consistent with previous findings that RTs become faster across repeated presentations of the attention-orienting task (Stormark & Hugdahl, 1996). Although it in principle could be argued that the elimination of the validity effect in the nature group might be related to the overall faster RTs across the attentional phases, the results provide no empirical support for this. The urban group in fact showed an equally pronounced validity effect in the post-video attention-orienting task compared to the pre-video attention-orienting task although these subjects tended to respond faster than the subjects in the nature group.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The absence of a validity effect in the nature group's post video attention-orienting task may also indicate that the cue had become less effective in governing the subjects' attention. This explanation is, however, difficult to reconcile with the fact that all subjects, including the nature group, evidenced overall faster RTs in the post-video attention-orienting task than in the pre-video attention-orienting task. Thus, the subjects in both groups became in fact more efficient in processing the cue in the post-video attention-orienting task.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The difference in the validity effect between nature and urban group in the post-video attention-orienting task could be caused either by faster RTs to invalidly cued trials in the nature group (reduced cost), slower RTs to validly cued targets in the nature group (reduced benefit) or a combination of both. The results show that the nature group had no validity effect compared to the urban group in the post-video attention-orienting task because the nature group had longer RTs to validly cued targets than the urban group.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "From ART (Kaplan & Kaplan, 1989; Kaplan, 1995) we expected that subjects would be less mentally fatigued after watching the nature video, that they would then be able to make faster attentional shifts in the task tapping voluntary attention, and that they would thus become more efficient in processing targets invalidly cued by the endogenous stimuli. However, there was no difference between the two groups for invalid trials and this result does not support the hypotheses derived from ART. The nature group was significantly slower than the urban group on valid trials. A possible explanation is that exposure to the natural environment made the subject less spatially selective in their processing of the attention cue. This might be explained from Easterbrook's (1959) and Eysenck's (1982) hypotheses where we would expect that a reduced physiological arousal would be followed by reduced attentional selectivity.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "According to Easterbrook (1959), there is a progressive reduction in the range of cues used as arousal increases. At first, reduction in the number of cues enables improved performance. However, when all irrelevant cues have been excluded, further reduction in the number of cues only affects relevant cues and performance will decline. If a natural environment reduces emotional and physiological arousal and this makes subjects less spatially selective, one could expect that subjects would perform better on tasks requiring a broad attentional focus. This might be a task that involves the processing of multiple cues or stimuli, rather than a simple task. On a simple task involving few stimuli or cues one might expect that subjects who are more aroused (as the urban group in this study) will perform better.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The findings that exposure to nature stimuli compared to urban stimuli elicits reduced physiological arousal and less attentional selectivity provide an important step in understanding why nature stimuli are experienced as restorative. These findings connect the theories about restorative effects of nature to the influential psychophysiological hypotheses of Easterbrook (1959).",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgements",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "This research was financially supported by Grant No. 110795/730 from the Norwegian Research Council. Assistance by Dag Hammerborg is gratefully acknowledged.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Berntson, G. G., Cacioppo, J. T., & Quigley, K. S. (1993). Cardiac psychophysiology and autonomic space in humans: Empirical perspectives and conceptual implications. Psychological Bulletin, 2, 296-322.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Easterbrook, J. A. (1959). The effect of emotion on cue utilization and the organization of behavior. Psychological Review, 66, 183-201.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Eimer, M., Nattkemper, D., Scr.oger, E., & Prinz, W. (1996). Involuntary attention. In O. Neumann, & A. F. Sanders (Eds.), Handbook of perception and action, attention, Vol. 3 (pp. 155-178). London: Academic Press.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Eysenck, M. W. (1982). Attention and arousal: Cognition and performance. Berlin, Heidelberg: Springer.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., Mang, M., & Evans, G. W. (1991). Restorative effects of natural environment experience. Environment and Behavior, 23, 3-26.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Jonides, J. (1981). Voluntary versus automatic control over the mind's eye's movement. In J. B. Long, & A. D. Baddeley (Eds.), Attention and performance, Vol. IX (pp. 187-302). Hillsdale, NJ: Erlbaum.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, R., & Kaplan, S. (1989). The experience of nature. A psychological perspective. Cambridge: Cambridge University Press.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of Environmental Psychology, 15, 169-182.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Kirk, R. E. (1995). Experimental design: Procedures for the behavioral sciences (3rd ed.). Pacific Grove, CA: Brooks/Cole.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Lacey, B. C., & Lacey, J. I. (1974). Studies of heart rate and other bodily processes in sensorimotor behavior. In P. A. Obrist, A. H. Black, J. Brener, & L. V. DiCara (Eds.), Cardiovascular psychophysiology (pp. 538-564). Chicago: Aldine.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Lacey, B. C., & Lacey, J. I. (1978). Two-way communication between the heart and the brain: Significant of time within the cardiac cycle. American Psychologist, 33, 99-113.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Lacey, J. I. (1967). Somatic response patterning and stress: Some revisions of activation theory. In M. H. Appley, & R. Trumbull (Eds.), Psychological stress: Issues and research (pp. 14-142). New York: Appleton-Century-Crofts.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Lacey, J. I., & Lacey, B. C. (1970). Some autonomic-central nervous system interrelationships. In P. Black (Ed.), Physiological correlates of emotion (pp. 205-228). New York: Academic Press.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Laumann, K., G.arling, T., & Stormark, K. M. (2001). Rating scale measures of restorative components of environments. Journal of Environmental Psychology, 21, 31-44.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Moore, E. O. (1981). A prison environment's effect on health care service demands. Journal of Environmental Systems, 11, 17-34.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Mulder, L. J. M. (1992). Measurement and analysis methods of heart rate and respiration for use in applied environments. Biological Psychology, 34, 205-236.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Mulder, L. J. M., Van Roon, A. M., Veldman, J. B. P., Elgersma, A. F., & Mulder, G. (1995). Respiratory pattern, invested effort, and variability in heart rate and blood pressure during the performance of mental tasks. In M. Di Rienzo, G. Mancia, G. Parati, A. Pedotti, & A. Zanchetti (Eds.), Computer analyses of cardiovascular signals (pp. 219-233). Amsterdam: IOS Press.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Mulder, L. J. M., Veldman, J. B., Rueddel, H., & Robbe, H. W. (1991). On the usefulness of finger blood-pressure measurement for studies of mental workload. Homeostasis in Health and Disease, 33, 47-60.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": ". Ohman, A., Hamm, A., & Hugdahl, K. (2000). Cognition and the autonomic nervous system. Orienting, anticipation, and cognition. In J. T. Cacioppo, L. G. Tassinary, & G. G. Berntson (Eds.), Handbook of psychophysiology (2nd ed.) (pp. 533-575). Cambridge: Cambridge University Press.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Parsons, R. (1991). The potential influences of environmental perception on human health. Journal of Environmental Psychology, 11, 1-23.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Posner, M. I. (1980). Orienting of attention. Quarterly Journal of Experimental Psychology, 32, 3-25.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Posner, M. I. (1988). Structures and functions of selective attention. In H. Bouman, & D. Bowhuis (Eds.), Clinical neuropsychology and brain function: Research, assessment and practice (pp. 173-203). Washington, DC: American Psychology Association.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Posner, M. I., Cohen, Y., & Rafal, R. D. (1982). Neural systems control over spatial orienting. Philosophical Transaction Royal Society of London Series B, 2908, 187-198.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Posner, M. I., & Dehaene, S. (1994). Attentional networks. Trends in Neuroscience 17(2), 75-79.\\par.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Posner, M. I., & Petersen, S. E. (1990). The attention system of the human brain. Annual Review of Neuroscience, 13, 814-821.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Posner, M. I., Petersen, S., Fox, P. T., & Raichle, M. E. (1988). Localization of cognitive operations in the human brain. Science, 240, 1627-1631.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Schneider, W. (1995). MEL professional user's guide. Pittburgh: Psychology Software Tools Inc.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Stoney, C. M., Davis, M. C., & Matthews, K. A. (1987). Sex differences in physiological responses to stress and in coronary heart disease: A causal link? Psychophysiology, 24, 127-131.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Stormark, K. L., & Hugdahl, K. (1996). Peripheral cuing of cover spatial attention before and after emotional condition of the cue. International Journal of Neuroscience, 86, 225-240.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Tennessen, C., & Cimprich, G. (1995). Views to nature: Effects on attention. Journal of Environmental Psychology, 15, 77-85.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1981). Natural versus urban scenes: Some psychophysiological effects. Environment and Behavior, 13, 523-556.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1984). View through a window may influence recovery from surgery. Science, 244, 420-421.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1993). Biophilia, biophobia, and natural landscapes. In S. R. Kellert, & E. O. Wilson (Eds.), The biophilia hypothesis (pp. 73-137). Washington, DC: Island Press.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S., Dimberg, U., & Driver, B. L. (1991). Psychophysiological indicators of leisure benefits. In B. L. Driver, P. J. Brown, &",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "L. Peterson (Eds.), Benefits of leisure. state college (pp. 73-89). PA: Venture Publishing.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S., Simons, R. F., Losito, B. D., Fiorito, E., Miles, M. A., & Zelson, M. (1991). Stress recovery during exposure to natural and urban environments. Journal of Environmental Psychology, 11, 201-230.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Van Roon, A. M., Mulder, L. J. M., Veldman, J. B. P., & Mulder, G. (1998). Beat-to-beat blood pressure measurements applied in studies on mental workload. Homeostasis, 36, 316-324.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Verderber, S. (1986). Dimensions of person-window transactions in the hospital environment. Environment and Behavior, 18, 450-466.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Wastell, D. (1990). Mental effort and task performance: towards a psychophysiology of human computer interaction. In D. Diaper, D. Gilmore, G. Cockton, & B. &Shackel (Eds.), Human computer interaction (pp. 107-112). Amsterdam: Elsevier.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Yantis, S., & Jonides, J. (1984). Abrupt visual onset and selective attention: Evidence from visual search. Journal of Experimental Psychology: Human Perception and Performance, 10, 601-621.",
+   "page": 10
+  }
+ ]
+}

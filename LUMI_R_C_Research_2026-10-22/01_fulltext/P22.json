@@ -1,0 +1,1503 @@
+{
+ "paper_id": "P22",
+ "source": "P22_ReST_Natural_vs_Conventional_Mindfulness.pdf",
+ "pages": 18,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "Edited by:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Angelo Panno,",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Università Europea di Roma, Italy",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Reviewed by:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Alessio Matiz, University of Udine, Italy Mark Costa, Syracuse University, United States",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "*Correspondence:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Freddie Lymeus Freddie.Lymeus@psyk.uu.se",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Specialty section:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "This article was submitted to Environmental Psychology, a section of the journal Frontiers in Psychology",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received: 27 February 2020",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Accepted: 10 June 2020",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Published: 12 August 2020",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Citation:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Lymeus F, Ahrling M, Apelman J, Florin CM, Nilsson C, Vincenti J, Zetterberg A, Lindberg P and Hartig T (2020) Mindfulness-Based Restoration Skills Training (ReST) in a Natural Setting Compared to Conventional Mindfulness Training: Psychological Functioning After a Five-Week Course. Front. Psychol. 11:1560.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "doi: 10.3389/fpsyg.2020.01560",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Mindfulness-Based Restoration Skills Training (ReST) in a Natural Setting Compared to Conventional Mindfulness Training: Psychological Functioning After a Five-Week Course",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Freddie Lymeus 1 * , Marie Ahrling 1 , Josef Apelman 1 , Cecilia de Mander Florin 1 , Cecilia Nilsson 1 , Janina Vincenti 1 , Agnes Zetterberg 1 , Per Lindberg 1 and Terry Hartig 1,2",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "1 Department of Psychology, Uppsala University, Uppsala, Sweden, 2 Institute for Housing and Urban Research, Uppsala University, Uppsala, Sweden",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Restoration skills training (ReST) is a mindfulness-based course that draws on restorative nature experience to facilitate the meditation practice and teach widely applicable adaptation skills. Previous studies comparing ReST to conventional mindfulness training (CMT) showed that ReST has important advantages: it supports beginning meditators in connecting with restorative environmental qualities and in meditating with less effort; it restores their attention regulation capabilities; and it helps them complete the course and establish a regular meditation habit. However, mindfulness theory indicates that effortful training may be necessary to achieve generalized improvements in psychological functioning. Therefore, this study tests whether the less effortful and more acceptable ReST approach is attended by any meaningful disadvantage compared to CMT in terms of its effects on central aspects psychological functioning. We analyze data from four rounds of development of the ReST course, in each of which we compared it to a parallel and formally matched CMT course. Randomly assigned participants (total course starters = 152) provided ratings of dispositional mindfulness, cognitive functioning, and chronic stress before and after the 5-week ReST and CMT courses. Round 4 also included a separately recruited passive control condition. ReST and CMT were attended by similar average improvements in the three outcomes, although the effects on chronic stress were inconsistent. Moderate to large improvements in the three outcomes could also be affirmed in contrasts with the passive controls. Using a reliable change index, we saw that over one third of the ReST and CMT participants enjoyed reliably improved psychological functioning. The risk of experiencing deteriorated functioning was no greater with either ReST or CMT than for passive control group participants. None of the contrasts exceeded our stringent criterion for inferiority of ReST compared with CMT. We conclude that ReST is a promising alternative for otherwise healthy people with stress or concentration problems",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "INTRODUCTION",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Restoration skills training (ReST) is a mindfulness-based meditation training course given in a setting rich in natural features and processes (Lymeus et al., 2018, 2019). ReST thus integrates two complementary approaches to helping people who struggle to manage the demands in their lives: one based in clinical and health psychology that employs a method for individual training to strengthen adaptive capabilities (see e.g., Bishop et al., 2004), and one based in restorative environments research that builds on the provision of contextual support for periodic replenishment of adaptive capabilities (see e.g., Hartig et al., 2011). The development of ReST has had two overarching aims: (1) it should help beginning meditators build a meditative state on restorative experiences in a natural setting, and (2) it should confer generalized benefits for psychological functioning at least similar to those of conventional mindfulness training (CMT). Previous studies (Lymeus et al., 2018, 2019) have yielded findings indicating that ReST satisfies the first aim. This article addresses the second aim, with a view to benefits in terms of improved dispositional mindfulness, improved cognitive functioning, and reduced chronic stress.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In the following, we first outline relevant theory and issues in mindfulness research. Second, we outline how we connect mindfulness with restorative environments theory. Third, we describe the development of the practice approach of ReST. Fourth, we summarize the previous findings on the efficacy of ReST. Fifth, we specify our aims and hypotheses regarding the benefits achieved with the two approaches, tested in the empirical work reported in the subsequent sections.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Mindfulness Training",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness is a concept derived from Buddhist philosophy that refers to a particular quality of awareness that arises when someone intentionally attends to present experience and withholds judgments and reactions to it (Kabat-Zinn, 1994; cf. Lutz et al., 2007; Grabovac et al., 2011; Eberth and Sedlmeier, 2012). For an operational conception of mindfulness, we have built mainly on the definition proposed by Bishop et al. (2004). They describe mindfulness as entailing attentiveness to present experience with qualities of curiosity (i.e., experiential openness and acceptance) and decentering (i.e., viewing one's thoughts and feelings about experience as subjective and transient).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness can be construed and observed in several ways (see e.g., Berkovich-Ohana and Glicksohn, 2014; Davidson and Kaszniak, 2015; Lutz et al., 2015). Phenomenologically, mindfulness can be seen as an experiential state that varies in prominence as people go through different environments and activities (including but not limited to meditation). Mindfulness",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "who would be less likely to complete more effortful CMT. By adapting the meditation practices to draw on restorative setting characteristics, ReST can mitigate the demands otherwise incurred in early stages of mindfulness training without compromising the acquisition of widely applicable mindfulness skills.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Keywords: mindfulness, restoration, meditation, nature, environment, training, psychological functioning",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "can also be seen as a cognitive-behavioral practice that people can choose to engage in to alter their relationship with experiences, as in meditation or in the application of mindfulness techniques in daily life situations. Mindfulness can additionally be seen as a personal disposition, or a general tendency to relate mindfully to experiences in many situations. Finally, mindfulness can be seen as a form of training in which people can invest through regular practice that over time will enhance their dispositional mindfulness and other aspects of psychological functioning. Approached in each of these ways, mindfulness can be related to adaptive capability and, ultimately, health outcomes. Our main focus here, however, is on mindfulness training.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Practices and Processes",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In pursuing mindfulness training over time, regular meditators presumably progress through different stages in which different types of practices align with different skill-levels and needs (Lutz et al., 2008, 2015). In the early stages of mindfulness training, the emphasis is typically on practices aimed to improve attention regulation capabilities (Lutz et al., 2008; Tang et al., 2015). This aim is rooted in tradition and has been absorbed into contemporary theory (Lutz et al., 2007; Grabovac et al., 2011; Sedlmeier et al., 2012). In considering how attentional improvements might come about, Tang, Posner, and colleagues (Tang and Posner, 2009; Posner et al., 2010) distinguish between attention network training and attention state training. In attention network training, a person engages in repetitive practice with the aim to stimulate enhancements of the involved neural networks. This is done in so-called focused-attention exercises, in which participants try to sustain attention to a given target stimulus, such as sensations arising with the breath, and repeatedly redirect attention when they inevitably become distracted (Hasenkamp et al., 2012; Lutz et al., 2015). The practice is thought to require considerable effort from beginning practitioners (Lutz et al., 2008; Tang et al., 2015).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In contrast to attention network training, attention state training occurs when a person learns to draw on ongoing experience to balance their bodily and mental state to gain better access to existing attentional functions (Tang and Posner, 2009; Posner et al., 2010). This is mainly done in open-monitoring exercises, in which participants allow attention to rest on any aspect of experience that becomes salient while they try to remain mindful of their attentional shifts and the changing contents of consciousness (Bishop et al., 2004; Lutz et al., 2008, 2015). Such practice is thought to promote reflexive awareness of the subject-object continuum, which in turn can serve a sense of oneness with the surrounding world and, ultimately, insight. Open-monitoring is less effortful than focused-attention practice (Lutz et al., 2015; Fox et al., 2016). However, open-monitoring is commonly thought to be difficult for beginners who lack in ability to balance effortlessness with attentional stability. The established view is that beginners should first train their attention regulation capabilities through focused-attention exercises.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Congruent with an attention network training rationale, most mindfulness courses for beginners emphasize focused-attention practices. These courses typically span several weeks up to a few months during which participants attend classes that entail guided meditation as well as theoretical discussions (Carmody and Baer, 2009; Eberth and Sedlmeier, 2012; Davidson and Kaszniak, 2015; cf. e.g., Kabat-Zinn, 1990; Segal et al., 2002). Most courses also involve instructions to practice regularly with the given meditation exercises between the classes and consultation on how to establish a regular meditation habit.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Issues in Research and Implementation",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Evidence reviews show that beginning mindfulness training improves several aspects of attention regulation and related adaptive capabilities (Brown et al., 2007; Chiesa et al., 2011; Gallant, 2016) and alters some relevant structures and functional patterns in the brain (Fox et al., 2014, 2016; Tang et al., 2015). However, the strength of the evidence for mindfulness training suffers from heterogeneity and vague descriptions of the training methods (Davidson and Kaszniak, 2015; Van Dam et al., 2018). Many studies refer to mindfulness training generically without further description of the course contents or specific practices used. One exception is the well-described and extensively studied Mindfulness-Based Stress Reduction (MBSR) course (KabatZinn, 1990, 2011). Two meta-analytic reviews by Sedlmeier and colleagues (Eberth and Sedlmeier, 2012; Sedlmeier et al., 2018) show that in studies comparing MBSR for non-patient populations to passive control conditions, the average benefit across a range of psychological health outcomes is medium sized (in studies published before 2011, r = 0.31, and in studies published 2011-2015, r = 0.22). However, MBSR involves a mix of focused-attention, open-monitoring, yoga, and compassion practices which may work through different mechanisms.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The evidence also suffers from difficulties in finding and implementing appropriate comparison conditions for evaluating the effects of mindfulness-based interventions (Eberth and Sedlmeier, 2012; Davidson and Kaszniak, 2015). Few studies have used feasible active control conditions and experimental contrasts between different approaches to mindfulness training are rare. With inadequate description and poor experimental control, it is difficult to determine the merits of different practice approaches and it remains uncertain whether attention network training through focused-attention practice is necessary to achieve the desired benefits.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Most research on mindfulness (as well as other heath interventions) rely on group-based statistical approaches to evaluation. To evaluate the practical utility of a health intervention, however, several authors have argued for evaluating outcomes on the individual level, in terms of how many of the participants enjoy improvement (Howard et al., 1996; Chambless and Hollon, 1998). In principle, a group's average change can be reliably positive with a non-trivial effect size even if few of the participants experienced any substantive improvement (Jacobson and Truax, 1991). Indeed, a group's average change can also be reliably positive even if many of the participants actually experienced deterioration. However, few mindfulness studies have reported negative effects (Van Dam et al., 2018). Baer et al. (2019) recently reviewed the literature for reports of harm in mindfulness studies and concluded that transient discomfort, including that associated with effort, may be part of the process in some instances. Undesired change can also occur for external or endogenous reasons that coincide with the training; however, they may still be important to evaluate. Serious adverse events (i.e., suicidal behavior, psychiatric hospitalization) have been reported on rare occasions while symptom deterioration tends to occur for up to 10% of participants in those studies that have reported negative outcomes. However, Baer et al. (2019) note that the risk of deterioration with mindfulness training generally equals that seen in passive control conditions. To determine individual-level change, different approaches are available. One approach is to evaluate individual change against a criterion for a minimal important difference: a construct used in clinical research to represent the smallest difference in a health-related outcome that would be perceived as meaningful by patients and clinicians (Revicki et al., 2008). Another is the statistical approach of the reliable change index (RCI) proposed by Jacobson and Truax (1991).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "A problem that may be related to transient discomfort or longer-lasting deterioration is that a substantial proportion of participants drop out or comply poorly with the intended training program in conventional mindfulness courses. In their meta-analytic review of attrition in randomized controlled mindfulness-based treatment studies, Nam and Toneatto (2016) found an average drop-out rate of 29% (range 5-63%). Sekhon et al. (2017) describe compliance as a reflection of the acceptability of a psychological intervention. Poor acceptability in some subgroups of the target population can be a major problem in evaluations and in practice (Hollon et al., 2002; Nam and Toneatto, 2016). Given that attentional enhancements have been considered as central to achieving generalized functional improvements through mindfulness training, the issue of acceptability is a major concern with people who enter into training with attention regulation difficulties; they seem to be particularly unlikely to complete the courses and the recommended amounts of homework exercise (Crane and Williams, 2010; Lymeus et al., 2017; Banerjee et al., 2018). Those participants who have the most to gain from a mindfulness training course might therefore be least likely to complete the training. A means to achieve comparable benefits for these people without imposing further strain on their weak attention regulation capabilities could meaningfully improve the practical effectiveness of mindfulness training.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Connecting Mindfulness and Restorative Environments Theory",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Complementarity in Processes",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "In different Buddhist traditions, meditation in nature has deep historical and spiritual roots (Fisher, 2007, 2014; Coleman, 2010; Mahanta and Campus, 2010; Fabja´nski and Brymer, 2017; Van Gordon et al., 2018). However, contemporary research has mainly studied meditation as an intra-individual practice, neglecting contextual factors. In the following, we outline how restorative environments research, and most notably the attention restoration theory (ART) introduced by Kaplan and Kaplan (1989), Kaplan (1995), can serve understanding of the role of the setting in mindfulness. We also indicate how mindfulness theory can inform restorative environments research.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Attention restoration theory is commonly used to explain how access to nature can help people who struggle to focus and manage demands in their usual living and working conditions within modern urbanized societies (Kaplan and Kaplan, 1989; Kaplan, 1995; Hartig et al., 2011; Hartig and Kahn, 2016). With undemanding activities in natural versus indoor or built outdoor settings, overworked attention regulation capabilities can be regained and stress can be reduced more readily (for reviews of the evidence, see Hartig et al., 2014; Ohly et al., 2016; Stevenson et al., 2018). ART holds that when people leave their normal activities and enter a setting that is rich in natural features and processes, they can gain a sense of psychological detachment from demands and routine mental contents, an experiential quality called being away (Kaplan and Kaplan, 1989; Kaplan, 1995). They can also engage with pleasantly interesting aspects of the environment that draw attention effortlessly but not forcibly, an experiential quality called soft fascination. Although little research has studied the progression over time in extended visits, Kaplan and Kaplan (1989) theorize that a person will first tend to experience a clearing of the head from residual fragments of what they just left behind. Then the person will start to regain the capacity to regulate attention and act more deliberately. After that, the person will gain cognitive quiet as their normal concerns settle. Finally, the person may find room for deep reflection that draws towards a sense of oneness with the natural world. The later stages identified by Kaplan and Kaplan are akin to the processes thought to be involved in openmonitoring practice, including reflexive awareness and insight (cf. Lutz et al., 2008, 2015).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "With its focus on processes and outcomes in individual instances of nature contact, research founded in ART is most clearly connected to the branches of mindfulness research that are based in the state and practice views of the phenomenon. In the development of ReST, we have drawn conceptual links between mindful curiosity and soft fascination, and between mindful decentering and the sense of being away (Lymeus et al., 2018, 2019; Lymeus, 2019). Of more concern here, however, we have also recognized the potential that lies in their differences. The mindfulness literature typically sees attentiveness, curiosity and decentering as personal capabilities that are exerted by will. In contrast, restorative environments theory sees soft fascination and being away as transactional phenomena that can arise in the spontaneous exchange between a person and the environment, and the enhanced capacity for willful regulation of attention as an outcome of such transactions. Meditation in nature could therefore momentarily support state mindfulness even when a person lacks in capability to self-regulate the involved processes. With regular meditation in a course of training over time, however, the attention network training rationale would predict that enhanced capability for mindfulness across many situations would come with the regular expenditure of effort, so a greater ease of practice should blunt the benefits. Effortless training would therefore require another mechanism for accumulation of benefits.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Accumulation of Benefits",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Much as with mindfulness training, a long-standing assumption in restorative environments research is that the benefits of nature contacts can accumulate in individuals over time when they access nature repeatedly (see Hartig et al., 2014). Such cumulative effects have been surmised for example from findings of better psychological functioning and health among people who have relatively much green space near their home (e.g., Kuo and Sullivan, 2001; Maas et al., 2006; Mitchell and Popham, 2008; Sugiyama et al., 2008; Ward Thompson et al., 2012), or who regularly engage in extended nature visits (White et al., 2019). However, restorative environments research has predominantly assumed that mere repetition of restoration patterns over time sustains psychological functioning and, ultimately, health (e.g., Hunter et al., 2019; White et al., 2019). With that assumption, the progress has been limited in understanding the learning processes that may be involved and how restorative experiences might shift in quality and meaning with repeated exposures. One notable exception is Kaplan (2001), who draws in part on meditation literature to indicate how people might learn from experience to notice needs for restoration as well as where and how they can draw restorative benefits efficiently in order to enhance adaptation over time. These notions are akin to what Tang and Posner (2009) describe as attention state training, and are at the core of the ReST approach to mindfulness training.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "The ReST Approach to Mindfulness Training",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "As a starting point for the development of ReST, we took the well-established MBSR course (Kabat-Zinn, 1990). In an initial study, Lymeus (2008; later published as Lymeus et al., 2017) administered attention tests before and after meditation exercises, with repeated assessments over 8 weeks of training in MBSR. Between the completion of the study in 2008 and its publication in 2017, considerable development took place in the theoretical and neurophysiological understanding of how effortful processes become engaged in early stages of CMT (see Lutz et al., 2008, 2015; Tang and Posner, 2009; Hasenkamp et al., 2012; Malinowski, 2013; Tang et al., 2015; Fox et al., 2016). However, the Lymeus et al. (2017) publication was, to our knowledge, the first to report performance test data that specifically targets the short-term effects of effort and restoration involved in mindfulness exercise. It showed that, over the eight course weeks, conventional mindfulness exercises incurred increasing effort, as reflected in deteriorated attentional test performance. Presumably, the participants gradually learned the skills needed to regulate the mindful state through attentional effort. In contrast, participants who meditated with nature images had increasingly positive change in test performance over the weeks and improved towards the end of the course. Apparently, as their mindfulness skills improved, they learned to draw support for their meditation from the natural stimuli.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Following those findings, we set out to adapt the training approach in MBSR to draw deliberately on restorative qualities in a natural meditation setting. To accomplish this, the practice approach built on open-monitoring and deemphasized willful attention regulation. Instead, we assumed that restorative environmental qualities would help the beginning meditators by drawing attention to present experiences in the environment, stimulating curiosity, facilitating decentering, and restoring attention regulation capabilities. Compared to the most common MBSR format, ReST uses a briefer, 5-week format and shorter class (90 min) and exercise (ca. 20 min) durations (which is in line with multiple other adapted mindfulness training approaches; e.g., Linehan, 1993; Tang et al., 2007; Zylowska et al., 2008; also see Carmody and Baer, 2009). Like MBSR, ReST retains a progressive structure where each subsequent course week introduces new concepts and practices that build on the preceding weeks' content. We developed the weekly themes and the specific contents over four data collection rounds (see Lymeus, 2019 for additional detail on the development process). In each round, we also updated CMT to formally match ReST.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "In the first data collection round, ReST course contents were quite similar to CMT but placed more emphasis on experiences emanating from contacts with the environment. Building on preliminary evaluations of instructor and participant experiences and data obtained in that round (see Florin and Lundström, 2013 [Lundström n.k.a. author MA]), we considered that some further adaptations of the practice approach could likely support participants in engaging with the environment in a more beneficial manner. In the second data collection round, we therefore dedicated each course week to exploration of experience through a specific sensory modality. We saw room for further improvement (see Apelman, 2013) which, in the third round, led us to develop the instructional language and the connections between the exercises and the theoretical themes. Our preliminary evaluations indicated that we had handled most of the practical issues in how to deliver the ReST course (see Östergren, 2015 [Östergren n.k.a. author CN]).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "We made some further refinements in the fourth round (see Vincenti and Zetterberg, 2017). We introduced a \"basic ReST exercise\" that we used as the only formal homework assignment every week of the course in order to promote overlearning of the most central procedures (for a \"basic CMT exercise\", we used a mindfulness of breath exercise adapted from MBSR). The sensory- modality-specific homework exercises were converted to informal exercises that retained their connection to each weeks' theoretical theme. The first week served as a general introduction to mindfulness. The exercises mainly targeted interoceptive experience and were meant to promote basic familiarity with physiological aspects of stress and relaxation. The second week introduced ideas about effortlessness and direct engagement with experience. The exercises mainly involved exploration of tactile sensations and were meant to illustrate how patience balanced with curiosity can enhance connection with present experience. The third and fourth weeks delved into how thoughts and feelings can contribute to experience without necessarily representing truths or constraints. The exercises mainly involved exploration of auditive and visual aspects of experience and were meant to promote reflexive awareness. The fifth week dealt with the present moment. The exercises involved all senses and allowed greater independence in the practice through extended silences and unguided exploration. (In CMT, a matching progression of exercises and theoretical themes centered on bodily sensations, thoughts, and emotions).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "While centering on each week's theme, the theoretical discussions in ReST also entailed content about management of limited attention resources, including ways to minimize resource expenditure, how to recognize signs of depletion, and the conditions and practices that facilitate restoration. The course contents omitted any reference to training and instead emphasized the ongoing pursuit of a balanced state of mind and activity pattern. The homework instructions also omitted any reference to training the mind and instead emphasized the benefits of regularly stopping usual activities and of connecting with sensory aspects of experience in one's life. This contrasted with CMT, where we also discussed the management of attention and related mindfulness skills but with a training-based rationale for the management strategies and exercises.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Previous Findings From Tests of ReST Mechanisms and Acceptability",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "As mentioned above, the ReST courses were given in four data collection rounds across which the exercises and other aspects of the protocol were successively developed and refined. In each round, university students with stress or concentration problems were randomly assigned to ReST or to a parallel course of CMT. CMT used exercises and an exercise rationale that was adapted fromMBSR, and emphasized focused-attention practices. Across all rounds, the ReST classes were held in a university botanical garden, most often a tropical greenhouse, while the CMT classes were held in classroom settings. In two earlier articles, different segments of data from the four rounds have been used to address two sets of concerns that motivated the development of ReST.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Does ReST Practice Better Promote Restoration and Improve Restoration Skills?",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Studying those participants who went through the entire course, Lymeus et al. (2018) reported results of attention performance tests obtained before and after ReST and CMT practice on weeks 1, 3, and 5 of the courses. Because of methodological improvements in Round 4, data from rounds 1-3 were combined as Study 1 and from Round 4 as Study 2. In Study 1, the ReST and CMT participants completed one test before and after the 90-min classes: the Letter-Digit Substitution Test (LDST; van der Elst et al., 2006) which is sensitive to variations in selective and executive aspects of attention (see e.g., Mirsky et al., 1991). In Study 2, they completed two tests before and after 20-min meditation sessions at the beginning of the classes. In addition to the LDST, they completed a Trail-Making Test (TMT; Reitan, 1958; also see Tombaugh, 2004) where part A involves simple visual search and part B adds a set-switching task. The difference between part A and B scores isolates the performance decrement incurred with the set-switching task (i.e., the switching cost) and so is specifically sensitive to variation in executive attention. The ReST participants meditated with the basic ReST exercise and CMT participants meditated with a conventional analog: a mindfulness of breath meditation adapted from MBSR.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The results showed that across the course weeks, ReST practice was consistently attended by improvement (i.e., restoration) with regard to LDST performance and increasingly attended by improvement with regard to switching cost. Meanwhile, CMT practice was increasingly taxing with regard to LDST performance and did not substantively affect the switching cost. In the last course week, the performance change from before to after meditation differed significantly between ReST and CMT participants in both studies, and in Study 2 for both measures.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Lymeus et al. (2018) also analyzed change across the five course weeks only in the tests obtained before the classes and practice sessions, with a view to generalized improvements in test performance. In Study 1 and with a stronger measurement design in Study 2, ReST and CMT participants showed clear improvements in LDST and TMT part B performance from week 1 to week 3 whereafter performance leveled off. The cumulative benefits of regular and enhanced restoration in effortless exercises were thus similar to the benefits of effortful attention network training. In sum, Lymeus et al. (2018) demonstrated that ReST incurs less effort than CMT and provides restorative short-term benefits as well as generalized attentional improvements.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Is ReST More Acceptable as an Introduction to Mindfulness Training for Beginners With Stress and Concentration Problems?",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In a second article, Lymeus et al. (2019) analyzed compliance records from the four rounds of ReST and CMT. They confirmed that larger numbers of randomly assigned ReST participants completed the course: 90% compared to 73% in CMT. The course completion rate for CMT was much like that seen in studies of mindfulness-based treatments such as MBSR (Nam and Toneatto, 2016), and the advantage for ReST was small to medium in effect size. Lymeus et al. (2019) also saw that those who completed ReST and CMT largely adhered to the recommended homework practice, completing around seven homework exercises per week on average. However, the ReST participants maintained a steady practice habit over the 5 weeks while the more decimated sample of CMT participants, who were potentially more motivated or capable, completed gradually fewer homework exercises. Again, the advantage for ReST was small to medium in effect size.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In two serial mediation models, Lymeus et al. (2019) were able to account for substantial proportions of the differences in dropout and homework completion, respectively, through expected relationships between ratings of state mindfulness (curiosity and decentering) and perceived restorativeness (fascination and being away) obtained in connection with the ReST and CMT classes. In the first model, greater perceived restorative quality in the garden setting supported state mindfulness during the meditation, which in turn explained much of the difference in the course completion rate. In the second model, increase across the course weeks in the degree of state mindfulness achieved in the meditation also increased perceived restorative quality, which in turn explained much of the difference in maintenance of the homework completion rate. These mediation tests affirmed the feasibility of the theoretical model behind ReST and illustrated how ReST",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "training could work to reinforce the restorative quality perceived in the meditation setting.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "The Present Study",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The previous studies found that ReST successfully promotes restoration and trains restoration skills, and that it is a more acceptable introduction to mindfulness training than CMT for the given study population. However, it remains to be seen whether the less effortful ReST approach can match the more demanding CMT with regard to its effectiveness in conferring long-term improvements. We consider effects in the theoretically and practically relevant domains of dispositional mindfulness, cognitive functioning, and chronic stress. We test for effects across the four data collection rounds, checking and controlling for effects of Round, but also break out data from Round 4 for separate analyses involving contrasts between the most refined version of the ReST course, CMT, and a passive control condition.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Our hypotheses and analyses are grouped under three aims: (1) to establish the average effects of ReST compared with initial values and compared with a passive control condition, (2) to compare the average effects of ReST against those of CMT, and (3) to compare the likelihood of experiencing reliable, individuallevel improvement or deterioration with ReST, CMT, and the passive control condition. In addressing aims (2) and (3), we thus use different approaches to determine whether ReST has any meaningful disadvantage compared with CMT with regard to the measured outcomes.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Aim 1: Establishing Average Effects",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "To establish whether ReST and CMT have positive average effects, we study the change scores representing the difference from before to after the course. We first test whether the course participants' psychological functioning improved on average over the time spent inmindfulness training:",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Hypothesis 1: Average improvements compared to values before the course will be evident after the course for both ReST and CMT. We test this hypothesis with separate analyses for dispositional mindfulness (H1a), cognitive functioning (H1b), and chronic stress (H1c).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "However, further comparing the outcomes against change seen without any mindfulness training will strengthen confidence that the outcomes are not simply due to uncontrolled factors associated with the passage of time. It will also allow the calculation of between-subjects effect sizes. In the last data collection round, we therefore included a separately recruited, passive control group against which we compare the outcomes of the fully developed ReST course as well as the CMT course:",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Hypothesis 2: Average improvements among ReST and CMT participants will be greater than any changes in the passive control group. We test this hypothesis with separate analyses for dispositional mindfulness (H2a), cognitive functioning (H2b), and chronic stress (H2c). Only Round 4 data are included in these analyses.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Aim 2: Comparing the Average Effects of ReST Against CMT",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We formulated our central research question in terms of the similarity of the outcomes of ReST and CMT. In determining whether the outcomes of ReST are sufficiently similar to those of CMT, we cannot rely on conventional statistical significance tests that address differences rather than similarity. However, we do not have a sufficiently large sample for formal non-inferiority analyses (see Schumi and Wittes, 2011). Instead, we consider that any disadvantages in the outcomes of ReST should be practically negligible and outweighed by the known advantages of ReST over CMT.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "To determine a criterion for the acceptable degree of disadvantage for ReST, we draw on the previous finding that compliance was higher with ReST than with CMT with small to medium-sized effects (Lymeus et al., 2019). We further consider the minimal important difference (Revicki et al., 2008). In the absence of previous knowledge about what degree of benefit might be expected with our specific CMT course and in the absence of external criteria for meaningful improvement, we rely on distribution-based approaches. Revicki et al. (2008) indicate that some studies have set a criterion as low as 0.25 standard deviations (SD) of difference, where a difference of 0.2 is conventionally interpreted as a small effect.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Building on the above, we reason that if the average improvement should be smaller with ReST than with CMT, but no more so than with a small effect size, then ReST retains some advantage over CMT by allowing more people to complete the training and access those benefits. Furthermore, the disadvantage will likely be practically negligible for the participants. Note, however, that we do not disavow the possibility that ReST will demonstrate superiority over CMT with regard to the outcomes of interest. Using the change scores, we test this hypothesis:",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Hypothesis 3: Any difference in the degree of improvement with ReST and CMT will be no more than small (� 2 p < 0.01) to the disadvantage of ReST. We test this hypothesis with separate analyses for dispositional mindfulness (H3a), cognitive functioning (H3b), and chronic stress (H3c).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Aim 3: Comparing the Likelihood of Improvement and Deterioration With ReST Against CMT and Passive Control",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "To scrutinize the practical utility of ReST, we consider it meaningful to test for any meaningful difference in the likelihood of improvement as well as deterioration compared with CMT and with no intervention. We determine change on the individual level with the RCI (Jacobson and Truax, 1991). The RCI indicates whether a particular participant's post-intervention score is reliably different from the pre-intervention score, beyond any variability that could be due to measurement error. It thus allows classification of participants as reliably improved, possibly unchanged, or reliably deteriorated. To compare the utility of ReST and CMT, we consider a compound score based on all three outcome measures (i.e., dispositional mindfulness, cognitive functioning, and chronic stress). Reliable deterioration on any of the three outcomes qualifies a participant for classification as deteriorated. Among those who do not deteriorate on any of the outcomes, those who reliably improve on at least one outcome qualify as improved. As in the previous contrasts between ReST and CMT, we consider that any disadvantage for ReST in the likelihood of improvement or deterioration has to be no more than small to be practically negligible and preserve some of the known advantage of ReST over CMT in terms of acceptability. However, we do not disavow the possibility that ReST will demonstrate superiority over CMT. Using the RCI, we test two hypotheses:",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Hypothesis 4: Any difference in the likelihood of reliable change with ReST and CMT will be no more than small (' < 0.1) to the disadvantage of ReST. We test this hypothesis with separate analyses for improvement (H4a) and deterioration (H4b).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Hypothesis 5: The likelihood of reliable change with a course in ReST or CMT will be more advantageous than in the passive control group. Specifically, reliable improvement will be more likely than in the passive control group (H5a) and reliable deterioration will be no more likely than in the passive control group (H5b). Only Round 4 data are included in these analyses.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "MATERIALS AND METHODS",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Design",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We ran parallel ReST and CMT courses in four data collection rounds across which ReST was successively developed and refined while CMT was only adjusted to maintain a close match with regard to course and exercise formats. Participants were randomly assigned to ReST or CMT in each round; however, they could not be randomized across the rounds. The overall study design therefore has two between-subjects factors: Course type (ReST, CMT) and Round (1-4). Our aims involved contrasts between the course types across the rounds while checking and controlling for any effects of Round. In Round 4, we allowed for separate analyses by recruiting larger numbers of course participants and additionally including a passive control condition with separately recruited (and so not randomly assigned) participants from the general student population. Although we must assume that these control participants differed in unmeasured ways from the course participants, the control group allowed us to address validity threats from repeated measurements and shared contextual factors (e.g., seasonality, history). In the separate analyses of Round 4 data, we thus have three levels of the between-subjects factor Course type (ReST, CMT, passive control).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The participants provided data on the measures in focus here before and directly after the courses. The study also involved other design features not in focus here (Lymeus et al., 2018, 2019), including a 6-month follow-up with the same measures analyzed here (see Lymeus, 2019).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The ReST classes were held in settings within a botanical garden, as congruent with the ReST practice approach. The CMT",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "classes were held in sparsely furnished indoor settings as is usual for that practice approach. The low level of external stimulation in the indoor settings is presumably congruent with the focusedattention meditation approach targeting internal experiences. Because the design conflates practice and setting, it does not allow conclusions regarding the relative contributions to the outcomes of the practice approach and the setting. Nor does it allow conclusions regarding how either practice approach would have worked in any other type of setting. However, the design does allow practically relevant conclusions regarding the benefits achieved with each of the two bona-fide approaches to mindfulness training, as they would normally be given in a congruent environment.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Participants and Procedures",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Recruitment",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In each data collection round, we posted flyers in several areas of our university campus, asking for volunteers for a study about mindfulness training. We particularly stated that we sought students with self-perceived stress or concentration problems but no other major health issues and with little or no meditation experience. Volunteers were called to a screening interview that included the MINI International Neuropsychiatric Interview (Lecrubier et al., 1997). Criteria for exclusion were based on Dobkin et al. (2012): We excluded those who indicated a history of neuropsychiatric disorder, psychoses, hypomanic or manic episodes or recurring depression, moderate to severe post-traumatic stress symptoms, serious self-harm, or suicide attempts; and those with any current moderate to severe psychiatric disorders, suicidal ideation, or ongoing psychological or psychiatric treatment.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "For the passive control condition in data collection round 4, we approached students in the campus environment asking for volunteers for a study. To be eligible, they had to certify that they had no major health issues and little or no meditation experience.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Assignment",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Within each data collection round, eligible mindfulness training volunteers who provided informed consent to participate were stratified by gender and randomly assigned to either ReST or CMT. Altogether, 159 participants were assigned. Of them, 152 provided usable pre-course data. Additionally, 29 control group participants who provided informed consent were included in Round 4. Supplementary Figure S1 gives details of participant flow through the recruitment, training, and evaluation phases of the study.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In Round 1, the course participants could be accommodated in one ReST and one CMT course group. In the later rounds, which recruited larger numbers, participants were accommodated in multiple course groups of �12 participants. These met on different weekdays. Participants self-selected a course group that fit their schedule and could not switch groups during the course.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Participation in the courses was free of charge. Participants could drop out at any time without facing any further requests or consequences. They were, however, promised three cinema tickets if they completed the course and all measurements in connection with the course. The control group participants were also promised three cinema tickets for completing all measurements.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Ethical Review",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The research was approved by the regional ethical review board in Uppsala, Sweden (registration number: 2013/033) and adhered to the Declaration of Helsinki.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "ReST and CMT Courses",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The courses had one 90-min class each week over five course weeks. Each class included at least two meditation sessions of 15-30 min length, theoretical discussion, and homework consultation. In the homework consultation, instructors gave a rationale and advice for establishing a regular meditation practice. They also gave instructions to practice with one formal and one informal exercise on most of the days leading up to the next class (i.e., in weeks 1-4; no new homework was assigned in the last class). Each formal and informal homework exercise was 15-20 min long. Participants who completed the formal and the informal exercise on four days each course week and additionally participated in all in-class exercises would thus have spent 2 � (17.5 min � 4 times � 4 weeks) C 45 min � 5 classes = 785 min � 13 h in active meditation over the course weeks.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In each data collection round, the ReST and CMT course were matched for structure across the weeks and within the classes, and for the form and amount of assigned homework. An experienced clinical psychologist and mindfulness instructor (FL) led the work and collaborated with different psychologistsin-training (MA, JA, CF, CN, JV, AZ) in providing the courses, participating equally in the ReST and CMT classes. A preliminary script was prepared for each part of the course to ensure quality and consistency (contact the first author to discuss possibilities to use these scripts in replications). An overview of the contents of the ReST and CMT courses in the different rounds of data collection is provided in Supplementary Table S1.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Restoration Skills Training",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The ReST classes were held in a botanical garden located adjacent to several university campus buildings (Supplementary Figure S2 shows photos of the course settings). Most classes used a tropical greenhouse which in pilot studies had shown high perceived restorative quality compared to different indoor campus settings (i.e., higher ratings of fascination and being away; Kihlberg, 2012; Nordfeldt, 2012). The greenhouse had five rooms with different climate, all richly planted with different types of vegetation. Three rooms had large trees providing overhanging foliage. The greenhouse contained several water bodies, some of which held fish. Tropical frogs also inhabited the greenhouse and contributed to the auditory environment with chirping sounds. Sounds also emanated from the climate control system, and to some extent from the outside. Outdoor areas of the botanical garden and an orangery were also used for some classes. These settings, too, were expected to be high in restorative quality.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In the ReST exercises, the instructors led participants in exploration of experiences emanating from sensory connection with stimuli in the environment, and in embracing all contents in the experiential stream. Some exercises were done sitting and others standing or walking. Many of the exercises transitioned from guided practice to unguided exploration of the environment. The homework assignments did not require participants to meditate in outdoor or natural settings because this could have introduced undue constraints on the practice. Instead, they instructed participants to explore aspects of their setting wherever they were. The homework consultations and theoretical discussions directed participants to pursue greater mindfulness by connecting with sensory aspects of their day-today living environments.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Conventional Mindfulness Training",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The CMT classes were held in sparsely furnished, small classrooms in a campus building adjacent to the botanical garden. The rooms had closed curtains to prevent outside views and no artwork or decorations. The auditory environment was generally quiet, given the late hour of the workday. Building on pilot studies (Kihlberg, 2012; Nordfeldt, 2012), these rooms were expected to be low in both restorative qualities and demands for directed attention and therefore thought to be suitable for focusedattention meditation mainly targeting internal experiences.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "For the CMT exercise instructions, we drew on existing instructions for mindfulness of breath-practice, body scan, and other common exercises in MBSR, which we adapted to the briefer format. We selectively included exercises that emphasize focused-attention practice over open-monitoring to preserve the experimental contrast. For most exercises, participants sat in a circle near the center of the room. Some exercises were completed standing or walking around in the same room. The homework assignments instructed participants to find a quiet spot to meditate in stillness with closed eyes and focus on internal experiences. The homework consultations and theoretical discussions directed participants to pursue greater mindfulness by training their capacity for awareness and focus in their day-to-day activities.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Measures",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We measured dispositional mindfulness with a short version of the Five Facet Mindfulness Questionnaire (FFMQ; Baer et al., 2006; Lilja et al., 2011). It has 29 items about how often in the last month a person had experiences of non-judgment, nonreactivity, acting with awareness, observing, and describing. The occurrence of each experience is indicated with a five-point scale (1 = never, 5 = always). After reversal of negatively formulated items, observed internal consistency (Cronbach's a) was = 0.849 before the course and = 0.870 after the course. The score used for analysis was the mean of all item responses, with higher scores indicating higher dispositional mindfulness.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We measured general cognitive functioning with the Cognitive Failures Questionnaire (CFQ; Broadbent et al., 1982). It was presented by Broadbent et al. as an indicator of cognitive vulnerability to stress (see also Kaplan, 1995). It has 25 questions about how often in the last month a person made mistakes in the areas of perception, action, and memory. The occurrence of the mistakes is indicated with a five-point scale (0 = never, 4 = very often). Observed internal consistency was = 0.870 before the course, and = 0.877 after the course. The score used for analysis was the mean of all item responses, with higher scores indicating poorer cognitive functioning.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We measured perceived chronic stress with the Perceived Stress Scale (PSS; Cohen et al., 1983). It measures how often in the last month a person felt unable to handle the demands in their lives. It has 14 questions about experiences of overload, loss of control, and inability to cope. The occurrence of the experiences is indicated with a five-point scale (0 = never, 4 = very often). After reversal of positively formulated items, observed internal consistency was = 0.832 before the course, and = 0.859 after the course. The score used for analysis was the mean of all item responses, with higher scores indicating higher perceived stress.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Statistical Analyses",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The data were analyzed with SPSS 26. We analyzed the data per-protocol, including only completers who provided data both before and after the course, as well as with an intentionto-treat approach. Per-protocol analyses allow straightforward interpretations because they reveal the observed effects of the courses for those who completed them. However, they do not preserve the initial randomization and can bias comparisons when missingness is unequal in the groups (as with the larger drop-out from CMT). As is common in clinical research, we therefore repeated all the hypothesis tests with an intention-to-treat approach that included all course participants who provided data before the course by replacing missing data for those who failed to provide data after the course. Such analyses can preserve the initial randomization but introduce untestable assumptions (Gupta, 2011; White et al., 2011) and can sometimes underestimate differences between intervention groups which is particularly problematic when hypotheses concern similarity (Snapinn, 2000; Schumi and Wittes, 2011). With these complicating factors in mind, we considered that the per-protocol and the intention-to-treat analyses must both yield support for conclusions regarding any advantage for ReST over CMT (see e.g., Snapinn, 2000; Gupta, 2011; Schumi and Wittes, 2011), whereas an indication of a disadvantage for ReST compared to CMT would be accepted even when the analyses yielded inconsistent results.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Dealing With Missing Data",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The intention-to-treat analyses required us to replace the missing outcome data from the drop-outs. Using the variables obtained before the course as predictors, Little's MCAR test showed, as anticipated, that the missing outcome data were not missing completely at random [� 2 (4) = 9776.25, p < 0.001]. Multiple imputation was deemed inappropriate and we proceeded with expectation-maximization imputation, aware that the imputed data could be biased to an unknown degree if missing outcome data were related to poorer outcomes. For control group participants in Round 4, however, we had no interest in making any untestable assumptions about their development (cf. White et al., 2011). Rather, we considered the somewhat decimated sample of control participants who provided complete data as most useful for our contrasts, and so excluded those who failed to provide data after the course.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Initial Levels and Balance",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Before testing our hypotheses, we checked the initial levels and balance between ReST and CMT participants in total and in each data collection round, and between ReST, CMT, and control participants in Round 4. For these analyses, we used a series of univariate ANOVA with Course type as the betweensubjects factor.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Addressing Aim 1: Establishing Average Effects",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "To determine the average effects of ReST and CMT, we used a series of ANCOVA that included the initial value obtained before the course for the respective measures as a covariate, and the change score as the dependent variable (as per Vickers and Altman, 2001).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "To test whether average improvements compared to values before the course were evident after the course (H1), the analyses included participants from all data collection rounds and used two between-subjects factors: Course type (ReST, CMT) and Round (1-4). We considered a reliable effect to be present when the 95% confidence interval (CI) for the average change scores did not overlap zero.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "To test whether average improvements were greater than any changes in the passive control group (H2), we analyzed data from Round 4 with one between-subjects factor: Course type (ReST, CMT, passive control). Here, we based the statistical inference on the 95% CI for pairwise contrasts between the groups. In order to obtain effect size estimates for the contrasts, we also used independent samples t-tests on the change scores, fromwhich we calculated r.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Addressing Aim 2: Comparing the Average Outcomes of ReST Against CMT",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "To test whether any difference in the degree of improvement with ReST and CMT was no more than small to the disadvantage of ReST (H3), we scrutinized the test statistics from the ANCOVA described above. We checked the effect size estimates for the Course type factor for any effect that exceeded the conventional criterion for a small effect (� 2 p � 0.01).",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Addressing Aim 3: Comparing the Likelihood of Improvement and Deterioration With ReST Against CMT and Passive Control (H4, H5)",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "To test whether any difference in the likelihood of reliable change with ReST and CMT was no more than small to the disadvantage of ReST (H4), we used Chi-square analyses on the RCI classifications and the conventional criterion for a small effect (' � 0.1). To obtain RCI classifications, we calculated the RCI for each of the measures as per Jacobson and Truax (1991; also see Wise, 2004). These were based on the test-retest reliability that we observed in the passive control group in Round 4 (for FFMQ r = 0.711, CFQ r = 0.842, PSS r = 0.707), and the observed standard deviations of the course participants' initial scores on the respective measurement scales (see Table 1). This rendered the RCI for 95% confidence in change as follows: FFMQ = 0.65, CFQ = 0.54, PSS = 0.72. For each measure, participants with change scores larger than the RCI were classified The measurement scale for FFMQ is 1-5, with higher scores indicating higher dispositional mindfulness, and for CFQ and PSS it is 0-4 with higher scores indicating more problems. Univariate ANOVA conducted separately for each Round and for the total sample with Course type (ReST, CMT) as a betweensubjects factor.",
+   "page": 10
+  },
+  {
+   "label": "table",
+   "text": "TABLE 1 | Descriptive and test statistics for measures obtained before the course, for restoration skills training (ReST) and conventional mindfulness training (CMT) participants in the four data collection rounds (R1-R4) and in total across the rounds.\nTABLE 1 | Descriptive and test statistics for measures obtained before the course, for restoration skills training (ReST) and conventional mindfulness training (CMT) participants in the four data collection rounds (R1-R4) and in total across the rounds.\n\n|              | Descriptives - M   | Descriptives - SD   |   Between-subjects contrast - F | Between-subjects contrast - df   | Between-subjects contrast - p   |   Between-subjects contrast - � 2 p |\n|--------------|--------------------|---------------------|---------------------------------|----------------------------------|---------------------------------|-------------------------------------|\n| FFMQ         |                    |                     |                                 |                                  |                                 |                                     |\n| Round 1      |                    |                     |                                 |                                  |                                 |                                     |\n| ReST         | 3.15               | 0.52                |                            1.34 | 1,17                             | 0.262                           |                               0.073 |\n| CMT          | 2.88               | 0.46                |                                 |                                  |                                 |                                     |\n| Round 2      |                    |                     |                                 |                                  |                                 |                                     |\n| ReST         | 3.06               | 0.36                |                            4.56 | 1,29                             | 0.041                           |                               0.136 |\n| CMT          | 2.74               | 0.46                |                                 | 1,45                             |                                 |                               0.064 |\n| Round 3      |                    |                     |                                 |                                  |                                 |                                     |\n| ReST         | 2.91               | 0.31                |                            3.06 |                                  | 0.087                           |                                     |\n| CMT Round 4  | 3.10               | 0.43                |                                 | 1,53                             | 0.886 0.668                     |                               0.000 |\n| ReST         | 3.11               | 0.42                |                                 |                                  |                                 |                                     |\n|              | 3.13               | 0.45                |                            0.02 |                                  |                                 |                                     |\n| CMT Total    | 3.04               | 0.40                |                            0.18 | 1,15                             |                                 |                               0.001 |\n|              | 3.01               | 0.47                |                                 |                                  |                                 |                                     |\n| ReST         |                    |                     |                                 |                                  |                                 |                                     |\n| CMT          |                    |                     |                                 |                                  |                                 |                                     |\n| CFQ          |                    |                     |                                 |                                  |                                 |                                     |\n| Round 1      |                    |                     |                                 |                                  |                                 |                                     |\n| ReST         | 1.64               | 0.36                |                            0.10 | 1,17                             | 0.754                           |                               0.006 |\n| CMT          | 1.72               | 0.58                |                                 | 1,29                             | 0.365                           |                               0.028 |\n| Round 2      |                    |                     |                                 |                                  |                                 |                                     |\n| ReST         | 1.92               | 0.52                |                                 |                                  |                                 |                                     |\n| CMT ReST     | 1.77 1.81          | 0.39 0.55           |                            0.85 | 1,45                             | 0.794                           |                               0.002 |\n| Round 3      |                    |                     |                                 |                                  |                                 |                                     |\n| CMT          | 1.85               | 0.57                |                            0.07 |                                  |                                 |                                     |\n| Round 4 ReST | 1.93               |                     |                                 | 1,53                             | 0.288                           |                                     |\n|              | 1.78               | 0.50                |                            1.15 |                                  |                                 |                               0.021 |\n| CMT Total    |                    | 0.52                |                                 |                                  |                                 |                                     |\n| PSS          | 1.80               | 0.50                |                                 |                                  |                                 |                                     |\n| ReST         |                    |                     |                            0.27 | 1,15                             |                                 |                               0.002 |\n| CMT Round 1  | 1.85               | 0.52                |                                 |                                  | 0.607                           |                               0.006 |\n| Round 2      |                    |                     |                                 |                                  |                                 |                                     |\n| ReST CMT     | 1.94               | 0.52                |                            0.10 | 1,17                             | 0.761                           |                                     |\n|              | 1.87               | 0.40                |                                 |                                  |                                 |                               0.010 |\n| CMT ROUND    | 2.10               | 0.49                |                                 |                                  |                                 |                                     |\n| ReST         | 1.99               | 0.61                |                            0.30 | 1,29                             | 0.590                           |                                     |\n| ReST CMT     | 2.06               |                     |                            1.65 | 1,45                             | 0.206                           |                               0.035 |\n| Round 4      |                    |                     |                                 |                                  |                                 |                                     |\n|              | 1.88               | 0.45 0.48           |                                 |                                  |                                 |                                     |\n| ReST CMT     | 1.92 1.89          | 0.51 0.46           |                            0.05 | 1,53                             | 0.816                           |                               0.001 |\n| Total        |                    |                     |                                 |                                  |                                 |                                     |\n| ReST         | 1.98               | 0.51                |                            0.46 |                                  |                                 |                                     |\n| CMT          | 1.93               | 0.47                |                                 | 1,15                             | 0.500                           |                               0.003 |",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 1 | Descriptive and test statistics for measures obtained before the course, for restoration skills training (ReST) and conventional mindfulness training (CMT) participants in the four data collection rounds (R1-R4) and in total across the rounds.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "as reliably improved or, if the change was for the worse, reliably deteriorated. Participants with change scores smaller than the RCI were classified as unchanged. To obtain an overall index, we classified each participant as either improved on at least one of the measures, unchanged on all measures, or deteriorated on at least one of the measures. In the few cases where a participant had improved on some measure(s) but also deteriorated on at least one, we classified them as deteriorated. Where the Chi-square analyses indicated an effect that exceeded the criterion (' � 0.1), we proceeded with post hoc tests to identify the source of the difference. The post hoc tests contrasted improved vs. unchanged and deteriorated participants, and deteriorated vs. unchanged and improved participants.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "To test whether reliable improvement was more likely than in the passive control group (H5a) and reliable deterioration was no more likely than in the passive control group (5b), we subjected RCI classifications from Round 4 to Chi-square analysis which included ReST, CMT, and passive control participants. With regard to improvement, we looked for statistically significant differences to proceed with planned post hoc tests. With regard to deterioration, we proceeded with post hoc tests even for simple numerical differences to address any possibility of a disadvantage for ReST or CMT. The post hoc tests were done as described above but separately for ReST vs. control, CMT vs. control, and ReST vs. CMT.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "RESULTS",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Initial Levels and Balance",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Table 1 shows descriptive statistics for the initial 152 course participants (ReST n = 75, CMT n = 77) who comprise the intention-to-treat sample. The average ratings with FFMQ, CFQ, and PSS were near the center of the respective scales; respondents tended to answer \"sometimes\" with regard to how often in the last month they had different mindfulness experiences, experienced cognitive failures, and felt unable to handle the demands in their lives. For the total sample, the ratings were highly similar for ReST and CMT participants. However, the FFMQ ratings showed unexpected variation between the randomly assigned ReST and CMT participants in Rounds 2 and 3. In Round 4, the passive control group participants provided ratings before the course that were fairly similar to those of ReST and CMT participants: FFMQ M = 3.23 (SD = 0.40), CFQ M = 1.59 (0.42), PSS M = 1.81 (SD = 0.52).",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Aim 1: Establishing Average Effects Hypothesis 1",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Of the 113 participants who completed the courses, 105 (93%; ReST n = 56, CMT n = 49) also completed the assessments after the course and could be included in the completer sample in analyses for Hypothesis 1. Table 2 shows estimated marginal means (adjusted for Round and pre-test score) and CIs for the change seen with the courses. Our main concern is for the CIs for the total of ReST and CMT participants, which we hypothesized would not overlap zero. Data for each data The marginal means were estimated in ANCOVA that included Course type (ReST, CMT) and Round (1-4) as between-subjects factors and the respective pretest scores as a covariate.",
+   "page": 11
+  },
+  {
+   "label": "table",
+   "text": "TABLE 2 | Estimated marginal means (M) and confidence intervals (CI) for the change scores representing the difference from before to after the restoration skills training (ReST) and conventional mindfulness training (CMT) courses in ratings with the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Scale (CFQ), and Perceived Stress Scale (PSS).\nTABLE 2 | Estimated marginal means (M) and confidence intervals (CI) for the change scores representing the difference from before to after the restoration skills training (ReST) and conventional mindfulness training (CMT) courses in ratings with the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Scale (CFQ), and Perceived Stress Scale (PSS).\n\n|         | Completer sample - M   | Completer sample - 95% CI   | Completer sample - 95% CI   | Intention-to-treat sample - M   | Intention-to-treat sample - 95% CI   | Intention-to-treat sample - 95% CI   |\n|---------|------------------------|-----------------------------|-----------------------------|---------------------------------|--------------------------------------|--------------------------------------|\n| FFMQ    |                        |                             |                             |                                 |                                      |                                      |\n| Round 1 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | 0:18                   | �0:08                       | 0:44                        | 0:18                            | �0:02                                | 0:38                                 |\n| CMT     | 0:53                   | 0:23                        | 0:82                        | 0:43                            | 0:24                                 | 0:62                                 |\n| Round 2 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | 0:36                   | 0:12                        | 0:60                        | 0:33                            | 0:18                                 | 0:48                                 |\n| CMT     | 0:26                   | 0:05                        | 0:46                        | 0:25                            | 0:09                                 | 0:41                                 |\n| Round 3 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | 0:31                   | 0:13                        | 0:49                        | 0:29                            | 0:17                                 | 0:42                                 |\n| CMT     | 0:27                   | 0:07                        | 0:47                        | 0:27                            | 0:15                                 | 0:39                                 |\n| Round 4 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | 0:32                   | 0:16                        | 0:47                        | 0:30                            | 0:19                                 | 0:42                                 |\n| CMT     | 0:35                   | 0:17                        | 0:52                        | 0:32                            | 0:21                                 | 0:43                                 |\n| Total   |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | 0:29                   | 0:19                        | 0:40                        | 0:28                            | 0:20                                 | 0:35                                 |\n| CMT     | 0:35                   | 0:24                        | 0:46                        | 0:32                            | 0:24                                 | 0:39                                 |\n| CFQ     |                        |                             |                             |                                 |                                      |                                      |\n| Round 1 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | 0:04                   | �0:24                       | 0:32                        | 0:00                            | �0:22                                | 0:22                                 |\n| CMT     | �0:52                  | �0:84                       | �0:19                       | �0:41                           | �0:62                                | �0:20                                |\n| Round 2 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | �0:42                  | �0:68                       | �0:15                       | �0:35                           | �0:52                                | �0:19                                |\n| CMT     | �0:12                  | �0:34                       | 0:11                        | �0:15                           | �0:32                                | 0:02                                 |\n| Round 3 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | �0:24                  | �0:43                       | �0:05                       | �0:27                           | �0:40                                | �0:13                                |\n| CMT     | �0:26                  | �0:48                       | �0:04                       | �0:27                           | �0:41                                | �0:14                                |\n| Round 4 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | �0:34                  | �0:51                       | �0:17                       | �0:33                           | �0:46                                | �0:20                                |\n| CMT     | �0:27                  | �0:46                       | �0:08                       | �0:28                           | �0:41                                | �0:16                                |\n| Total   |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | �0:24                  | �0:35                       | �0:12                       | �0:24                           | �0:32                                | �0:15                                |\n| CMT     | �0:29                  | �0:41                       | �0:17                       | �0:28                           | �0:36                                | �0:20                                |\n| PSS     |                        |                             |                             |                                 |                                      |                                      |\n| Round 1 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | 0:21                   | �0:09                       | 0:50                        | 0:17                            | �0:07                                | 0:40                                 |\n| CMT     | �0:17                  | �0:51                       | 0:17                        | �0:18                           | �0:40                                | 0:05                                 |\n| Round 2 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | �0:28                  | �0:56                       | 0:01                        | �0:24                           | �0:42                                | �0:07                                |\n| CMT     | 0:02                   | �0:21                       | 0:25                        | 0:00                            | �0:18                                | 0:18                                 |\n| Round 3 |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | �0:12                  | �0:32                       | 0:09                        | �0:13                           | �0:28                                | 0:01                                 |\n| CMT     | �0:17                  | �0:40                       | 0:07                        | �0:18                           | �0:32                                | �0:04                                |\n| Round 4 |                        |                             |                             |                                 |                                      |                                      |\n| Rest    | �0:41                  | �0:59                       | �0:23                       | �0:37                           | �0:50                                | �0:23                                |\n| CMT     | �0:44                  | �0:65                       | �0:24                       | �0:35                           | �0:48                                | �0:22                                |\n| Total   |                        |                             |                             |                                 |                                      |                                      |\n| ReST    | �0:15                  | �0:27                       | �0:03                       | �0:14                           | �0:23                                | �0:06                                |\n| CMT     | �0:19                  | �0:32                       | �0:06                       | �0:18                           | �0:26                                | �0:09                                |",
+   "page": 11
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 2 | Estimated marginal means (M) and confidence intervals (CI) for the change scores representing the difference from before to after the restoration skills training (ReST) and conventional mindfulness training (CMT) courses in ratings with the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Scale (CFQ), and Perceived Stress Scale (PSS).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "collection round are also provided for transparency; note, however, that the individual rounds are not powered to detect effects in the small range.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Average improvements in FFMQ ratings (i.e., positive values) and in CFQ and PSS ratings (i.e., negative values) compared to values before the course were evident for both ReST and CMT participants, for both the completer and ITT samples, affirming our hypotheses regarding effects on dispositional mindfulness (H1a), cognitive functioning (H1b), and chronic stress (H1c).",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Hypothesis 2",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "In Round 4, the completer sample comprised 22 ReST participants, 17 CMT participants, and 21 control participants. The ITT sample comprised 27 ReST participants, 28 CMT participants, and the 21 control participants. Table 3 shows estimated marginal means and CIs for the contrasts between the degree of change seen from before to after ReST, CMT, and the control condition in Round 4. Our main concern is for the CIs for the differences in change from before to after the course between ReST and control participants and between CMT and control participants, which we hypothesized would not overlap zero. Both ReST and CMT participants' average improvements in FFMQ (i.e., positive values) and in CFQ and PSS (i.e., negative values) ratings were greater than the changes in the control group, for both the completer and ITT samples, affirming our hypotheses regarding effects on dispositional mindfulness (H2a), cognitive functioning (H2b), and chronic stress (H2c). ReST and CMT participants did not differ from each other on any of the outcomes.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Table 4 shows t-test results and effect size estimates for the contrasts between ReST and CMT, respectively, and passive controls. All effects (r) were medium to large (range 0.30-0.58).",
+   "page": 12
+  },
+  {
+   "label": "table",
+   "text": "TABLE 3 | Pairwise contrasts between restoration skills training (ReST), conventional mindfulness training (CMT), and passive control (PC) condition participants in data collection round 4, of scores representing change from before the course to directly after the course on the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Questionnaire (CFQ), and Perceived Stress Scale (PSS).\nTABLE 3 | Pairwise contrasts between restoration skills training (ReST), conventional mindfulness training (CMT), and passive control (PC) condition participants in data collection round 4, of scores representing change from before the course to directly after the course on the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Questionnaire (CFQ), and Perceived Stress Scale (PSS).\n\n|            | Completer sample - MDIFF   |   Completer sample - p | Completer sample - 95%CI   | Completer sample - 95%CI   | Intention-to-treat sample - MDIFF   |   Intention-to-treat sample - p | Intention-to-treat sample - 95% CI   | Intention-to-treat sample - 95% CI   |\n|------------|----------------------------|------------------------|----------------------------|----------------------------|-------------------------------------|---------------------------------|--------------------------------------|--------------------------------------|\n| FFMQ       |                            |                        |                            |                            |                                     |                                 |                                      |                                      |\n| ReST - PC  | 0:26                       |                  0.010 | 0:07                       | 0:45                       | 0:25                                |                           0.003 | 0:09                                 | 0:41                                 |\n| CMT - PC   | 0:28                       |                  0.009 | 0:07                       | 0:48                       | 0:26                                |                           0.002 | 0:10                                 | 0:42                                 |\n| ReST - CMT | �0:02                      |                  0.849 | �0:22                      | 0:18                       | �0:02                               |                           0.825 | �0:13                                | 0:17                                 |\n| CFQ        |                            |                        |                            |                            |                                     |                                 |                                      |                                      |\n| ReST - PC  | �0:32                      |                  0.008 | �0:56                      | �0:09                      | �0:30                               |                           0.003 | �0:49                                | �0:10                                |\n| CMT - PC   | �0:25                      |                  0.046 | �0:50                      | �0:01                      | �0:25                               |                           0.013 | �0:45                                | �0:05                                |\n| ReST - CMT | �0:07                      |                  0.569 | �0:31                      | 0:17                       | �0:05                               |                           0.621 | �0:23                                | 0:14                                 |\n| PSS        |                            |                        |                            |                            |                                     |                                 |                                      |                                      |\n| ReST - PC  | �0:30                      |                  0.030 | �0:57                      | �0:03                      | �0:26                               |                           0.029 | �0:49                                | �0:03                                |\n| CMT - PC   | �0:32                      |                  0.028 | �0:61                      | �0:04                      | �0:24                               |                           0.042 | �0:46                                | �0:01                                |\n| ReST - CMT | 0:02                       |                  0.874 | �0:26                      | 0:31                       | �0:02                               |                           0.848 | �0:23                                | 0:19                                 |",
+   "page": 12
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 3 | Pairwise contrasts between restoration skills training (ReST), conventional mindfulness training (CMT), and passive control (PC) condition participants in data collection round 4, of scores representing change from before the course to directly after the course on the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Questionnaire (CFQ), and Perceived Stress Scale (PSS).",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The marginal means were estimated in ANCOVA that included Course type (ReST, CMT, PC) as a between-subjects factor and the respective pretest scores as a covariate.",
+   "page": 12
+  },
+  {
+   "label": "table",
+   "text": "TABLE 4 | Independent samples t-test results and effect size (r) estimates for contrasts between restoration skills training (ReST) and conventional mindfulness training (CMT) against passive control (PC) condition participants in data collection round 4, of scores representing change from before the course to directly after the course on the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Questionnaire (CFQ), and Perceived Stress Scale (PSS).\nTABLE 4 | Independent samples t-test results and effect size (r) estimates for contrasts between restoration skills training (ReST) and conventional mindfulness training (CMT) against passive control (PC) condition participants in data collection round 4, of scores representing change from before the course to directly after the course on the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Questionnaire (CFQ), and Perceived Stress Scale (PSS).\n\n|           |   Completer sample - t |   Completer sample - df |   Completer sample - p |   Completer sample - r |   Intention-to-treat sample - t |   Intention-to-treat sample - df | Intention-to-treat sample - p   |   Intention-to-treat sample - r |\n|-----------|------------------------|-------------------------|------------------------|------------------------|---------------------------------|----------------------------------|---------------------------------|---------------------------------|\n| FFMQ      |                        |                         |                        |                        |                                 |                                  |                                 |                                 |\n| ReST - PC |                   2.89 |                      41 |                  0.006 |                   0.40 |                            2.81 |                               46 | 0:007                           |                            0.38 |\n| CMT - PC  |                   3.36 |                      36 |                  0.002 |                   0.48 |                            3.91 |                               47 | <0:001                          |                            0.49 |\n| CFQ       |                        |                         |                        |                        |                                 |                                  |                                 |                                 |\n| ReST - PC |                   3.19 |                      41 |                  0.003 |                   0.44 |                            3.01 |                               46 | 0:004                           |                            0.40 |\n| CMT - PC  |                   3.45 |                      36 |                  0.001 |                   0.49 |                            4.92 |                               47 | <0:001                          |                            0.58 |\n| PSS       |                        |                         |                        |                        |                                 |                                  |                                 |                                 |\n| ReST - PC |                   2.39 |                      41 |                  0.021 |                   0.34 |                            2.14 |                               46 | 0:038                           |                            0.30 |\n| CMT - PC  |                   2.40 |                      36 |                  0.022 |                   0.37 |                            2.30 |                               47 | 0:026                           |                            0.32 |",
+   "page": 12
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 4 | Independent samples t-test results and effect size (r) estimates for contrasts between restoration skills training (ReST) and conventional mindfulness training (CMT) against passive control (PC) condition participants in data collection round 4, of scores representing change from before the course to directly after the course on the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Questionnaire (CFQ), and Perceived Stress Scale (PSS).",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Aim 2: Comparing the Effects of ReST and CMT",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The analyses for Hypothesis 3 build on the same samples and analyses used in testing Hypothesis 1, described above.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Hypothesis 3",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Table 5 shows additional test statistics from the ANCOVA performed in Step 1, which included Course type, Round, and pretest score as predictors of the degree of improvement from before to after the 5-week courses. Having a poorer pretest score on the given measure (lower for FFMQ, higher for CFQ and PSS) was strongly related to improvement (� 2 p range: 0.266-0.387, p's < 0.001). For FFMQ, the average improvement was large (completer � 2 p = 0.405, ITT � 2 p = 0.463; p's < 0.001) and it was not significantly different across the Rounds. For CFQ, the average improvement was medium to large (completer � 2 p = 0.139, ITT � 2 p = 0.224; p's � 0.001). However, CFQ improvement varied across rounds, as reflected in the significant Course � Round interaction term. As seen in Table 2, the ReST participants failed to show reliable improvement in Round 1 while CMT participants failed to show improvement in Round 2. For PSS, the average improvement was medium to large (completer � 2 p = 0.190, ITT � 2 p = 0.253; p's < 0.001), but for ReST and CMT participants alike, it was only reliable across both the completer and ITT samples in Round 4.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "However, our main concern is for the effect size estimates for the Course type factor, which we hypothesized would be no more than small to the disadvantage of ReST compared with CMT. The effect sizes for the effect of Course type on FFMQ, CFQ, and PSS were all � 2 p < 0.01 (n.s.), for both the completer and ITT samples. The degree of improvement was thus similar with ReST and CMT, affirming our hypotheses with regard to dispositional mindfulness (H3a), cognitive functioning (H3b), and chronic stress (H3c).",
+   "page": 12
+  },
+  {
+   "label": "table",
+   "text": "TABLE 5 | ANCOVA test statistics for explanation of change from before to after the two mindfulness training courses in ratings with the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Scale (CFQ), and Perceived Stress Scale (PSS) by Course type (restoration skills training vs. conventional mindfulness training), data collection round of the study (Round 1-4), and the respective pretest scores, for the intention-to-treat sample and completer sample.\nTABLE 5 | ANCOVA test statistics for explanation of change from before to after the two mindfulness training courses in ratings with the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Scale (CFQ), and Perceived Stress Scale (PSS) by Course type (restoration skills training vs. conventional mindfulness training), data collection round of the study (Round 1-4), and the respective pretest scores, for the intention-to-treat sample and completer sample.\n\n|                              | Completer sample - F   | Completer sample - p   |   Completer sample - � 2 p | Intention-to-treat - F   | Intention-to-treat - p   |   Intention-to-treat - sample � 2 p |\n|------------------------------|------------------------|------------------------|----------------------------|--------------------------|--------------------------|-------------------------------------|\n| FFMQ                         |                        |                        |                            |                          |                          |                                     |\n| Corrected Model (df = 8)     | 6:82                   | <0:001                 |                      0.363 | 13:01                    | <0:001                   |                               0.421 |\n| Intercept (df = 1)           | 65:35                  | <0:001                 |                      0.405 | 123:15                   | <0:001                   |                               0.463 |\n| Pretest (df = 1)             | 47:47                  | <0:001                 |                      0.331 | 90:39                    | <0:001                   |                               0.387 |\n| Course type (df = 1)         | 0:54                   | 0:464                  |                      0.006 | 0:62                     | 0:432                    |                               0.004 |\n| Round (df = 3)               | 0:54                   | 0:945                  |                      0.004 | 0:08                     | 0:972                    |                               0.002 |\n| Course type � Round (df = 3) | 0:54                   | 0:315                  |                      0.036 | 1:24                     | 0:296                    |                               0.025 |\n| CFQ                          |                        |                        |                            |                          |                          |                                     |\n| Corrected Model (df = 8)     | 6:40                   | <0:001                 |                      0.348 | 12:93                    | <0:001                   |                               0.420 |\n| Intercept (df = 1)           | 15:56                  | <0:001                 |                      0.139 | 41:35                    | <0:001                   |                               0.224 |\n| Pretest (df = 1)             | 34:84                  | <0:001                 |                      0.266 | 85:39                    | <0:001                   |                               0.374 |\n| Course type (df = 1)         | 0:38                   | 0:537                  |                      0.004 | 0:49                     | 0:485                    |                               0.003 |\n| Round (df = 3)               | 0:14                   | 0:935                  |                      0.004 | 0:47                     | 0:701                    |                               0.010 |\n| Course type � Round (df = 3) | 3:29                   | 0:024                  |                      0.093 | 3:49                     | 0:018                    |                               0.068 |\n| PSS                          |                        |                        |                            |                          |                          |                                     |\n| Corrected Model (df = 8)     | 6:91                   | <0:001                 |                      0.365 | 11:92                    | <0:001                   |                               0.400 |\n| Intercept (df = 1)           | 22:53                  | <0:001                 |                      0.190 | 48:53                    | <0:001                   |                               0.253 |\n| Pretest (df = 1)             | 34:79                  | <0:001                 |                      0.266 | 73:76                    | <0:001                   |                               0.340 |\n| Course type (df = 1)         | 0:20                   | 0:654                  |                      0.002 | 0:27                     | 0:604                    |                               0.002 |\n| Round (df = 3)               | 5:22                   | 0:002                  |                      0.140 | 6:33                     | <0:001                   |                               0.117 |\n| Course type � Round (df = 3) | 1:83                   | 0:146                  |                      0.054 | 2:75                     | 0:045                    |                               0.055 |",
+   "page": 13
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 5 | ANCOVA test statistics for explanation of change from before to after the two mindfulness training courses in ratings with the Five Facet Mindfulness Questionnaire (FFMQ), Cognitive Failures Scale (CFQ), and Perceived Stress Scale (PSS) by Course type (restoration skills training vs. conventional mindfulness training), data collection round of the study (Round 1-4), and the respective pretest scores, for the intention-to-treat sample and completer sample.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "For Course, CMT = 0 and ReST = 1. Round = 1-4. Completer N = 105 (error term degrees of freedom = 96), intention-to-treat N = 152 (error term degrees of freedom = 143).",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Aim 3: Comparing the Likelihood of Improvement and Deterioration With ReST Versus CMT and Passive Control",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The analyses for Hypotheses 4 and 5 build on the same samples used in testing Hypothesis 1.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Hypothesis 4",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Table 6 shows frequencies and Chi-square test statistics for the contrasts between ReST and CMT participants in the likelihood of reliable change with the courses. Of the 105 participants who completed the ReST and CMT courses, forty (38%) improved reliably. Of the 152 participants who were included in the ITT sample, 52 (34%) improved reliably. However, reliable deterioration was seen in seven participants (7% of the completer sample). The effect sizes for the contrasts between the ReST and CMT distributions in change classifications were ' < 0.1 for both the completer and ITT samples, and thus did not give reason to proceed with post hoc tests. The likelihood of reliable change Expected frequencies are given in parentheses. *Denotes a p-value derived from Fisher's Exact Test due to small expected values in some cells.",
+   "page": 13
+  },
+  {
+   "label": "table",
+   "text": "TABLE 6 | Classification plots and Chi-square test statistics for the number of restoration skills training (ReST) and conventional mindfulness training (CMT) participants who improved, remained unchanged, and deteriorated from before to directly after the course, based on reliable change index scores.\nTABLE 6 | Classification plots and Chi-square test statistics for the number of restoration skills training (ReST) and conventional mindfulness training (CMT) participants who improved, remained unchanged, and deteriorated from before to directly after the course, based on reliable change index scores.\n\n|              | Completer sample - ReST   | Completer sample - CMT   | Intention-to-treat sample - ReST   | Intention-to-treat sample - CMT   |\n|--------------|---------------------------|--------------------------|------------------------------------|-----------------------------------|\n| Improved     | 19 (21.3)                 | 21 (18.7)                | 23 (25.7)                          | 29 (26.3)                         |\n| Unchanged    | 33 (30.9)                 | 25 (27.1)                | 48 (45.9)                          | 45 (47.1)                         |\n| Deteriorated | 4 (3.7)                   | 3 (3.3)                  | 4 (3.5)                            | 3 (3.5)                           |\n|              | � 2 (2) = 0.88,           | � 2 (2) = 0.88,          | � 2 (2) = 0.91,                    | � 2 (2) = 0.91,                   |\n|              | p = 0.673*, ' = 0.092     | p = 0.673*, ' = 0.092    | p = 0.686*, ' = 0.077              | p = 0.686*, ' = 0.077             |",
+   "page": 13
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 6 | Classification plots and Chi-square test statistics for the number of restoration skills training (ReST) and conventional mindfulness training (CMT) participants who improved, remained unchanged, and deteriorated from before to directly after the course, based on reliable change index scores.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "was thus similar with ReST and CMT, affirming H4a (regarding improvement) and H4b (regarding deterioration).",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Hypothesis 5",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Table 7 shows observed frequencies and Chi-square test statistics for the contrasts between ReST, CMT, and passive control participants in Round 4 in the likelihood of reliable change with the courses. Of the 39 participants who completed the ReST and CMT courses in Round 4, 18 (46%) were reliably improved compared to two (10%) of the 21 passive control participants. Of the 55 participants who were included in the Round 4 ITT sample, 21 (38%) were reliably improved. However, reliable deterioration was seen in two course participants (5% of the completer sample) and 2 passive control participants (10%). The change distributions differed significantly between the groups for both the completer and ITT samples. The post hoc tests performed with the completer sample confirmed that ReST participants were more likely than control participants to improve [� 2 (1, N = 43) = 9.92, Exact p = 0.003, ' = 0.480] and no more likely than control participants to deteriorate [� 2 (1, N = 43) < 0.01, Exact p = 1.00, ' = 0.007]. However, CMT participants did not differ significantly from control participants in their likelihood of improvement [� 2 (1, N = 38) = 3.75, Exact p = 0.107, ' = 0.314]. They were no more likely than control participants to deteriorate [� 2 (1, N = 38) = 1.71, Exact p = 0.492, ' = 0.212 to the advantage of CMT]. The conclusions were the same in post hoc tests with the ITT sample. For ReST, reliable improvement was thus more likely than in the passive control group, affirming H5a, and reliable deterioration was no more likely than in the passive control group, affirming H5b. For CMT, the analyses only support H5b.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "DISCUSSION",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Taking the 5-week ReST course conferred benefits for the average participant, with regard to dispositional mindfulness and cognitive functioning. Regarding chronic stress, the benefits were less consistent in this study, emerging as reliable only with the last iteration of the ReST course. Looking at change on the individual level, over one-third of those who completed Expected frequencies are given in parentheses. *Denotes a p-value derived from Fisher's Exact Test due to small expected values in some cells.",
+   "page": 13
+  },
+  {
+   "label": "table",
+   "text": "TABLE 7 | Classification plots and Chi-square test statistics for the number of restoration skills training (ReST), conventional mindfulness training (CMT), and passive control (PC) participants who improved, remained unchanged, and deteriorated from before to directly after the course in data collection round 4, based on reliable change index scores.\nTABLE 7 | Classification plots and Chi-square test statistics for the number of restoration skills training (ReST), conventional mindfulness training (CMT), and passive control (PC) participants who improved, remained unchanged, and deteriorated from before to directly after the course in data collection round 4, based on reliable change index scores.\n\n|              | Completer sample - ReST   | Completer sample - CMT       | Completer sample - PC   | Intention-to-treat sample - ReST   | Intention-to-treat sample - CMT   | Intention-to-treat sample - PC   |\n|--------------|---------------------------|------------------------------|-------------------------|------------------------------------|-----------------------------------|----------------------------------|\n| Improved     | 12 (7.3)                  | 6 (5.7)                      | 2 (7.0)                 | 12 (8.2)                           | 9 (8.5)                           | 2 (6.4)                          |\n| Unchanged    | 8 (13.2)                  | 11 (10.2)                    | 17 (12.6)               | 13 (17.4)                          | 19 (18.1)                         | 17 (13.5)                        |\n| Deteriorated | 2 (1.5) � 2 (4) =         | 0 (1.1) 11.79, p = ' = 0.443 | 2 (1.4) 0.007*,         | 2 (1.4) � 2 (4) =                  | 0 (1.5) 9.30, p = = 0.350         | 2 (1.1) 0.026*,                  |",
+   "page": 14
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 7 | Classification plots and Chi-square test statistics for the number of restoration skills training (ReST), conventional mindfulness training (CMT), and passive control (PC) participants who improved, remained unchanged, and deteriorated from before to directly after the course in data collection round 4, based on reliable change index scores.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "ReST enjoyed reliable improvement in their psychological functioning. The likelihood of improvement with ReST was substantially greater than among passive controls, and the likelihood of deterioration was small and no greater than among passive controls. In our conservative comparisons against a CMT course, we could not identify any meaningful disadvantage for ReST.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "In Round 4, both ReST and CMT had medium to large average effects compared with the passive controls. Our interventions were thus not less effective than the average for MBSR in controlled studies with non-patient samples (Eberth and Sedlmeier, 2012; Sedlmeier et al., 2018). Our CMT comparison condition thus largely worked as expected, conferring benefits with regard to dispositional mindfulness and cognitive functioning. As with ReST, its effects on chronic stress were inconsistent. In contrast to ReST, however, the likelihood of improvement with CMT was not reliably greater than among passive controls.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "We conclude that ReST is efficacious and safe with regard to the measured domains of psychological functioning. Any possible disadvantages of ReST compared with the conventional approach are small enough to be outweighed by the advantages of ReST in terms of its higher acceptability (Lymeus et al., 2019) and short-term restorative effects (Lymeus et al., 2018). Any possible disadvantages are also likely to be practically negligible for the participants. Although we do not measure skill acquisition directly (a complex matter: see e.g., Grossman, 2008; Sauer et al., 2013; Abdoun et al., 2019), the results are coherent with theory and previous findings that suggest that the ReST approach to mindfulness training can teach skills that have broad relevance for adaptation. Importantly, ReST improves psychological functioning without relying on participants' willingness and ability to practice with effortful focused-attention exercises, as conventional mindfulness courses for beginners typically do.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Strengths and Limitations",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "We have compared ReST against a bona-fide, formally comparable alternative treatment. Such comparisons are rare in meditation training studies (Davidson and Kaszniak,",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "2015). Furthermore, the comparison was done with experimental methods applied in field conditions. This allows practically relevant conclusions regarding the relative merits of ReST and CMT. However, our CMT course was not a strict replication of any established mindfulness course, so we cannot directly generalize to MBSR or any other specific course package. Rather, our CMT was an application of the proposed dominant mechanism behind early improvements in psychological functioning with mindfulness training: attention network training through effortful focused attention practice. Our results have implications for the validity of that proposition.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Our contrasts between ReST, CMT, and the passive control condition in Round 4 bolster confidence that any effects seen with the mindfulness training are not only artifacts of shared external factors in the population or setting. Because the control participants were recruited separately, however, the passive condition is an imperfect counterfactual: the control participants were from the same general population but had not sought mindfulness training so they might have developed differently from the course participants in some respects even if the course participants had not undergone training.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "We recruited university students not merely for convenience but because we view them as people engaged in a challenging occupation who might better manage the particular demands of their work if they acquire the skills we taught in the courses. Using otherwise healthy students who experience stress or concentration problems in trying to meet the high cognitive demands in their daily lives, we consider our sample a fair representation of large segments of the modern, urban population. When they volunteered for the study, the participants were unaware that they could be assigned to mindfulness training in a garden setting, so the benefits of ReST are not exclusive to people who are specifically attracted to nature-based interventions. However, because the participants volunteered for a study about mindfulness training, we cannot assume that either ReST or CMT would work well for people who would not spontaneously seek mindfulness training. We also cannot assume that ReST would work similarly for people living and working under different conditions, with other sociodemographic characteristics, or with any specific disorders or disabilities. Furthermore, the study was not conducted as a clinical trial: Replication with full adherence to clinical trial principles could extend the scope of conclusion to a health care context.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "We advertised for participants who experienced stress or concentration problems, but we conducted no tests to ascertain the objective presence of such problems before inclusion. We saw that the sample included participants with varying initial values on CFQ and PSS, including those with poorer values; however, the average initial scores were not high in some absolute sense. We also saw that those participants with more initial problems tended to improve more. The inclusion of participants with fewer initial problems would therefore have constrained the ability to detect average improvements; our tests of average effects may therefore be considered conservative.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The drop-out rate from CMT was similar to the average in mindfulness treatment studies, and high enough to pose a problem for the evaluation of its outcomes (Nam and Toneatto, 2016; also see Lymeus et al., 2019), We could not obtain outcome data from the course drop-outs because we had promised them at enrollment that they could drop out without facing any further requests. The imputed data estimates improvements among the drop-outs based on observed improvements among the completers. It is, however, unlikely that those who left the course had improved or would have continued to improve comparably as those who completed it. The ITT analyses could therefore have overestimated the benefits of CMT. We thus consider the ITT analyses as a quite stringent test of how ReST compares with CMT.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "We rely on retrospective, self-reported outcome assessments. The FFMQ, CFQ, and PSS are all established and valid measures of foundational aspects of real-life functioning (Cohen, 1988; Sauer et al., 2013; Carrigan and Barkus, 2016). However, each of these measures has been debated (see e.g., Grossman, 2008; Nielsen et al., 2016; Könen and Karbach, 2018), and so have retrospective self-report assessments more generally (e.g., Shiffman et al., 2008). For cognitive functioning, the outcomes we report here are consistent with the trajectory of development in repeated performance test data reported by Lymeus et al. (2018). Inclusion of more direct approaches to measuring mindfulness and stress could possibly have achieved greater precision and confidence in the achieved functional improvements. It could also have been relevant to assess potential mediators of outcomes such as psychological flexibility (Kashdan and Rottenberg, 2010) and self-compassion (Neff and Dahm, 2015).",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Implications for Practice and Research",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Otherwise healthy individuals with stress or concentration problems can enjoy improvements in dispositional mindfulness and cognitive functioning through ReST. With ReST, the average participant can expect no more risk and no less benefit in any of the measured domains than with a more demanding conventional approach to mindfulness training. ReST is therefore a viable alternative to CMT for people who struggle under heavy demands in their daily lives. It remains to be determined how long and to what degree these benefits are sustained after completion of the course: 6-month follow-up data will be published in a separate article (also see Lymeus, 2019).",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Given that ReST works through low-effort practices supported by restorative nature experience, the findings of benefits that are similar to those achieved with CMT cast further doubt on the assumption that attention network training is a key mechanism behind the improvements in psychological functioning seen in early stages of mindfulness training (cf. Lutz et al., 2008; Tang et al., 2015). Instead, much of the early improvement with conventional approaches to mindfulness training might occur during a short initial honeymoon phase when the meditation experience may be dominated by restorative processes (Lymeus et al., 2018, 2019 and Lymeus, 2019 discuss the involved processes at length). When beginners learn to self-regulate the meditative state, practice may become more dominated by attention network training processes, and therefore more effortful. It would be at this stage that compliance problems could ensue for participants who have insufficient access to the needed cognitive resources.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "The spread of experiences of distraction and stress in modern society is feasibly connected to increasing intensity and constancy of demands on our limited cognitive resources (Kaplan, 1995; Kaplan and Berman, 2010). Many of those who seek mindfulness training may pursue respite from demands and renewal of a sense of presence lost in efforts to maintain focus and composure while completing the many tasks associated with modern work and living. These individuals may not be well served by focused-attention practice in the early stages of mindfulness training, which might instead exacerbate fatigue and cause frustration (Lymeus et al., 2018; Baer et al., 2019). In the monastic settings where mindfulness training was first developed and formalized, people may have entered into and engaged with the training under quite different premises, more supportive of effortful pursuits.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Environmental approaches to the management of adaptive resources have the advantage over individual, skill-based approaches that they mitigate fatigue and reinstate lost capacities without imposing further demands. This study is part of a larger effort to study the users, and the potential uses and benefits of a historic botanical garden that spatially and organizationally is part of the Uppsala University. Studies in other university campus settings have indicated that access to natural features and settings can help mitigate the stress of student life and potentially boost learning outcomes (Felsten, 2009; Hipp et al., 2015; van den Bogerd et al., 2018). On the other hand, skillbased approaches have the advantage that they can train adaptive capabilities that then can be deployed at later times and even in unsupportive contexts. Studies on mindfulness-based interventions for students have, for instance, shown improved ability to handle the stress of taking an exam (e.g., Shapiro et al., 1998; Shearer et al., 2016). ReST joins the advantages of the environmental and skill-based approaches, drawing on restorative processes supported by natural environments while also teaching widely applicable skills.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "We cannot disentangle the effects of the ReST practices as such from those of the natural practice setting in the present design. However, we note that ReST appeared to perform relatively poorly in our first data collection round, when the ReST course was most similar to the CMT course. When we progressed with the development of a practice approach more fit to the environment, we saw better outcomes. We propose that adaptations of the conventional approach to mindfulness training are necessary to achieve a working congruence between the practice and a natural meditation setting. To advance understanding of these issues, we have initiated further research to disentangle effects of the practice and the setting (see Shamsaee, 2016 and Bergsten, 2020 for some preliminary findings).",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "DATA AVAILABILITY STATEMENT",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "The datasets generated for this study are available via the Swedish National Data Service (https://doi.org/10.5878/p34t-9j15).",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "ETHICS STATEMENT",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "The studies involving human participants were reviewed and approved by Swedish Ethical Review Authority. The patients/participants provided their written informed consent to participate in this study.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "AUTHOR CONTRIBUTIONS",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "FL designed the study, led the work to develop and teach the ReST and CMT courses, and led the data collection under the supervision of TH and PL. In different data collection rounds, MA, JA, CF, CN, JV, and AZ contributed to the development of course materials and the collection of data, and performed preliminary analyses on subsets of the data under the supervision of TH and FL. The manuscript was drafted by FL building in part on unpublished Master of Science theses by MA, JA, CF, CN, JV, and AZ. Those MSc theses each covered different subsets of the study and were completed under the supervision of TH and FL. Critical revisions were provided by TH and PL. All authors contributed to the article and approved the submitted version.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "REFERENCES",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Abdoun, O., Zorn, J., Poletti, S., Fucci, E., and Lutz, A. (2019). Training novice practitioners to reliably report their meditation experience using shared phenomenological dimensions. Consciou. Cogn. 68, 57-72. doi: 10.1016/j. concog.2019.01.004",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Apelman, J. (2013). Medveten närvaro i Gynnsamma Miljöer: Undersökning av en Utåtriktad Respektive Konventionell Träningsform (in Swedish). Uppsala: Uppsala University.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Baer, R., Crane, C., Miller, E., and Kuyken, W. (2019). Doing no harm in mindfulness-based programs: Conceptual issues and empirical findings. Clin. Psychol. Rev. 71, 101-114. doi: 10.1016/j.cpr.2019. 01.001",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., and Toney, L. (2006). Using self-report assessment methods to explore facets of mindfulness. Assessment 13, 27-45. doi: 10.1177/1073191105283504",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Banerjee, M., Cavanagh, K., and Strauss, C. (2018). Barriers to mindfulness: A path analytic model exploring the role of rumination and worry in predicting psychological and physical engagement in an online mindfulnessbased Intervention. Mindfulness 9, 980-992. doi: 10.1007/s12671-017-0 837-4",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Bergsten, L. (2020). Naturmiljö ger Fördel vid Meditation med Öppen Monitorering (in Swedish). Uppsala: Uppsala University.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Berkovich-Ohana, A., and Glicksohn, J. (2014). The consciousness state space (CSS): A unifying model for consciousness and self. Front. Psychol. 5:341. doi: 10.3389/fpsyg.2014.00341",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Bishop, S. R., Lau, M., Shapiro, S., Carlson, L., Anderson, N. D., Carmody, J., et al. (2004). Mindfulness: a proposed operational definition. Clin. Psychol. Sci. Pract. 11, 230-241. doi: 10.1093/clipsy.bph077",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Broadbent, D. E., Cooper, P. F., FitzGerald, P., and Parkes, K. R. (1982). The Cognitive Failures Questionnaire (CFQ) and its correlates. Br. J. Clin. Psychol. 21, 1-16. doi: 10.1111/j.2044-8260.1982.tb01 421.x",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "FUNDING",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "The research was completed with support from the Department of Psychology, Institute for Housing and Urban Research, and Linnaean Botanical Gardens at Uppsala University. It received no specific grant or other external funding.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "ACKNOWLEDGMENTS",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "We thank the two reviewers for their constructive comments; Örjan Frans and Ulf Dimberg, who initially made available the needed resources and support for the project from the Department of Psychology at Uppsala University; Mats Block and the staff of the Linnaean Botanical Gardens at Uppsala University, who graciously welcomed us and facilitated our work in the garden settings; the Institute for Housing and Urban Research at Uppsala University for material support; and not least the many participants in the different rounds of the mindfulness courses who made invaluable contributions of time, effort, and inspiration.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "SUPPLEMENTARY MATERIAL",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fpsyg. 2020.01560/full#supplementary-material",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Brown, K. W., Ryan, R. M., and Creswell, J. D. (2007). Mindfulness: theoretical foundations and evidence for its salutary effects. Psychol. Inquiry 18, 211-237. doi: 10.1080/10478400701598298",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Carmody, J., and Baer, R. A. (2009). How long does a mindfulness�based stress reduction program need to be? A review of class contact hours and effect sizes for psychological distress. J. Clin. Psychol. 65, 627-638. doi: 10.1002/jclp.20555",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Carrigan, N., and Barkus, E. (2016). A systematic review of cognitive failures in daily life: Healthy populations. Neurosci. Biobehav. Rev. 63, 29-42. doi: 10.1016/ j.neubiorev.2016.01.010",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Chambless, D. L., and Hollon, S. D. (1998). Defining empirically supported therapies. J. Consult. Clin. Psychol. 66:7. doi: 10.1037//0022-006X.66.1.7",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Chiesa, A., Calati, R., and Serretti, A. (2011). Does mindfulness training improve cognitive abilities? A systematic review of neuropsychological findings. Clin. Psychol. Rev. 31, 449-464. doi: 10.1016/j.cpr.2010.11.003",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, S. (1988). \"Perceived stress in a probability sample of the United States,\" in The Claremont Symposium on Applied Social Psychology. The Social Psychology of Health, eds S. Spacapan, and S. Oskamp (Thousand Oaks, CA: Sage Publications, Inc), 31-67.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, S., Kamarck, T., and Mermelstein, R. (1983). A global measure of perceived stress. J. Health Soc. Behav. 24, 385-396. doi: 10.2307/2136404",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Coleman, M. (2010). Awake in the Wild: Mindfulness in Nature as a Path of Self-Discovery. Novato, CA: New World Library.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Crane, C., and Williams, J. M. G. (2010). Factors associated with attrition from mindfulness-based cognitive therapy in patients with a history of suicidal depression. Mindfulness 1, 10-20. doi: 10.1007/s12671-010-0003-8",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Davidson, R. J., and Kaszniak, A. W. (2015). Conceptual and methodological issues in research on mindfulness and meditation. Am. Psychol. 70, 581. doi: 10.1037/a0039512",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Dobkin, P. L., Irving, J. A., and Amar, S. (2012). For whom may participation in a mindfulness-based stress reduction program be contraindicated? Mindfulness 3, 44-50. doi: 10.1007/s12671-011-0079-9",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Eberth, J., and Sedlmeier, P. (2012). The effects of mindfulness meditation: a meta-analysis. Mindfulness 3, 174-189. doi: 10.1007/s12671-012-0101-x",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Fabja´nski, M., and Brymer, E. (2017). Enhancing health and wellbeing through immersion in nature: a conceptual perspective combining the Stoic and Buddhist traditions. Front. Psychol. 8:1573. doi: 10.3389/fpsyg.2017.01573",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Felsten, G. (2009). Where to take a study break on the college campus: an attention restoration theory perspective. J. Environ. Psychol. 29, 160-167. doi: 10.1016/j. jenvp.2008.11.006",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Fisher, C. S. (2007). Dismantling Discontent: Buddha's Way Through Darwin's World. Delhi: Elite Books.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Fisher, C. S. (2014). Meditation in the Wild: Buddhism's Origin in the Heart of Nature. Hampshire: John Hunt Publishing.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Florin, C. de, M., and Lundström, M. (2013). Effekter av Konventionell Miljö Kontra Trädgårdsmiljö vid Träning i Medveten Närvaro: En Randomiserad Studie (in Swedish). Uppsala: Uppsala University.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Fox, K. C. R., Dixon, M. L., Nijeboer, S., Girn, M., Floman, J. L., Lifshitz, M., et al. (2016). Functional neuroanatomy of meditation: A review and metaanalysis of 78 functional neuroimaging investigations. Neurosci. Biobehav. Rev. 65, 208-228. doi: 10.1016/j.neubiorev.2016.03.021",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Fox, K. C. R., Nijeboer, S., Dixon, M. L., Floman, J. L., Ellamil, M., Rumak, S. P., et al. (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. Neurosci. Biobehav. Rev. 43, 48-73. doi: 10.1016/j. neubiorev.2014.03.016",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Gallant, S. N. (2016). Mindfulness meditation practice and executive functioning: Breaking down the benefit. Conscious. Cogn. 40, 116-130. doi: 10.1016/j.concog. 2016.01.005",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Grabovac, A. D., Lau, M. A., and Willett, B. R. (2011). Mechanisms of mindfulness: a Buddhist psychological model. Mindfulness 2, 154-166. doi: 10.1007/s12671011-0054-5",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Grossman, P. (2008). On measuring mindfulness in psychosomatic and psychological research. J. Psychosom. Res. 64, 405-408. doi: 10.1016/j. jpsychores.2008.02.001",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Gupta, S. K. (2011). Intention-to-treat concept: a review. Perspect. Clin. Res. 2, 109-112. doi: 10.4103/2229-3485.83221",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., and Kahn, P. H. (2016). Living in cities, naturally. Science 352, 938-940. doi: 10.1126/science.aaf3759",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., Mitchell, R., De Vries, S., and Frumkin, H. (2014). Nature and health. Ann. Rev. Public Health 35, 207-228. doi: 10.1146/annurev-publhealth-032013182443",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T., Van den Berg, A. E., Hagerhall, C. M., Tomalak, M., Bauer, N., Hansmann, R., et al. (2011). \"Health benefits of nature experience: psychological, social and cultural processes,\" in Forests, Trees and Human Health, eds K. Nilsson, M. Sangster, C. Gallis, T. Hartig, S. de Vries, K. Seeland, et al. (Dordrecht: Springer), 127-168. doi: 10.1007/978-90-481-9806-1_5",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Hasenkamp, W., Wilson-Mendenhall, C. D., Duncan, E., and Barsalou, L. W. (2012). Mind wandering and attention during focused meditation: a finegrained temporal analysis of fluctuating cognitive states. Neuroimage 59, 750760. doi: 10.1016/j.neuroimage.2011.07.008",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Hipp, J. A., Gulwadi, G. B., Alves, S., and Sequeira, S. (2015). The relationship between perceived greenness and perceived restorativeness of university campuses and student-reported quality of life. Environ. Behav. 48, 1292-1308. doi: 10.1177/0013916515598200",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Hollon, D., Miller, I. J., and Robinson, E. (2002). Criteria for evaluating treatment guidelines. Am. Psychol. 57, 1052-1059. doi: 10.1037//0003-066X.57.12.1052",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Howard, K. I., Moras, K., Brill, P. L., Martinovich, Z., and Lutz, W. (1996). Evaluation of psychotherapy: efficacy, effectiveness, and patient progress. Am. Psychol. 51, 1059. doi: 10.1037/0003-066X.51.10.1059",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Hunter, M. R., Gillespie, B. W., and Chen, S. Y.-P. (2019). Urban nature experiences reduce stress in the context of daily life based on salivary biomarkers. Front. Psychol. 10:722. doi: 10.3389/fpsyg.2019.00722",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Jacobson, N. S., and Truax, P. (1991). Clinical significance: a statistical approach to defining meaningful change in psychotherapy research. J. Consult. Clin. Psychol. 59:12. doi: 10.1037/0022-006X.59.1.12",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kabat-Zinn, J. (1990). Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness. New York, NY: Delacorte.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kabat-Zinn, J. (1994). Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life. New York, NY: Hyperion.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kabat-Zinn, J. (2011). Some reflections on the origins of MBSR, skillful means, and the trouble with maps. Contemp. Buddh. 12, 281-306. doi: 10.1080/14639947. 2011.564844",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, R., and Kaplan, S. (1989). The Experience of Nature: A Psychological Perspective. New York, NY: Cambridge University Press.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. (1995). The restorative benefits of nature: toward an integrative framework. J. Environ. Psychol. 15, 169-182. doi: 10.1016/0272-4944(95)90 001-2",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. (2001). Meditation, restoration, and the management of mental fatigue. Environ. Behav. 33, 480-506. doi: 10.1177/00139160121973106",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S., and Berman, M. G. (2010). Directed attention as a common resource for executive functioning and self-regulation. Perspect. Psychol. Sci. 5, 43-57. doi: 10.1177/1745691609356784",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kashdan, T. B., and Rottenberg, J. (2010). Psychological flexibility as a fundamental aspect of health. Clin. Psychol. Rev. 30, 865-878. doi: 10.1016/j.cpr.2010.03.001",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kihlberg, C.-E. (2012). Platser för vila: En experimentell studie om återhämtning av riktad uppmärksamhet genom vistelse i växthus respektive vilrum (in Swedish). Uppsala: Uppsala University.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Könen, T., and Karbach, J. (2018). Self-reported cognitive failures in everyday life: a closer look at their relation to personality and cognitive performance. Assessment 27, 982-995. doi: 10.1177/1073191118786800",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Kuo, F. E., and Sullivan, W. C. (2001). Aggression and violence in the inner city: Effects of environment via mental fatigue. Environ. Behav. 33, 543-571. doi: 10.1177/00139160121973124",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lecrubier, Y., Sheehan, D., Weiller, E., Amorim, P., Bonora, I., Harnett Sheehan, K., et al. (1997). The Mini International Neuropsychiatric Interview (MINI). A short diagnostic structured interview: Reliability and validity according to the CIDI. Eur. Psychiatry 12, 224-231. doi: 10.1016/S0924-9338(97)83296-8",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lilja, J. L., Frodi-Lundgren, A., Hanse, J. J., Josefsson, T., Lundh, L.-G., Sköld, C., et al. (2011). Five facets mindfulness questionnaire-reliability and factor structure: a swedish version. Cogn. Behav. Therapy 40, 291-303. doi: 10.1080/ 16506073.2011.580367",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Linehan, M. (1993). Skills Training Manual for Treating Borderline Personality Disorder. New York, NY: Guilford Press.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lutz, A., Dunne, J. D., and Davidson, R. J. (2007). \"Meditation and the neuroscience of consciousness: an introduction,\" in The Cambridge Handbook of Consciousness, eds P. D. Zelazo, M. Moscovitch, and E. Thompson (New York, NY: Cambridge University Press), 499-551.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lutz, A., Jha, A. P., Dunne, J. D., and Saron, C. D. (2015). Investigating the phenomenological matrix of mindfulness-related practices from a neurocognitive perspective. Am. Psychol. 70:632. doi: 10.1037/a0039585",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lutz, A., Slagter, H. A., Dunne, J. D., and Davidson, R. J. (2008). Attention regulation and monitoring in meditation. Trends Cogn. Sci. 12, 163-169. doi: 10.1016/j.tics.2008.01.005",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lymeus, F. (2008). Attention as an Outcome and a Predictor of Mindfulness Practice: Attentional Restoration and Capacity in Beginning Practitioners (in Swedish). Uppsala: Uppsala University.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lymeus, F. (2019). Mindfulness Training Supported by a Restorative Natural Setting: Integrating Individual and Environmental Approaches to the Management of Adaptive Resources. Digital Comprehensive Summaries of Uppsala Dissertations from the Faculty of Social Sciences, 171. Uppsala: Uppsala University.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lymeus, F., Lindberg, P., and Hartig, T. (2018). Building mindfulness bottomup: Meditation in natural settings supports open monitoring and attention restoration. Conscious. Cogn. 59, 40-56. doi: 10.1016/j.concog.2018.01.008",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lymeus, F., Lindberg, P., and Hartig, T. (2019). A natural meditation setting improves compliance with mindfulness training. J. Environ. Psychol. 64, 98-106. doi: 10.1016/j.jenvp.2019.05.008",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Lymeus, F., Lundgren, T., and Hartig, T. (2017). Attentional effort of beginning mindfulness training is offset with practice directed toward images of natural scenery. Environ. Behav. 49, 536-559. doi: 10.1177/0013916516657390",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Maas, J., Verheij, R. A., Groenewegen, P. P., de Vries, S., and Spreeuwenberg, P. (2006). Green space, urbanity, and health: How strong is the relation? J. Epidemiol. Commun. Health 60, 587-592. doi: 10.1136/jech.2005.043125",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Mahanta, A. P. D. D., and Campus, K. (2010). \"The Isan forest meditation tradition: a praxis of mental well-being vis-à-vis global recovery,\" in Global Recovery: The Buddhist Perspective, eds L. Wang, and N. Ayutthaya (Thailand: Mahachulalongkornrajavidyalaya University), 582-600.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Malinowski, P. (2013). Neural mechanisms of attentional control in mindfulness meditation. Front. Neurosci. 7:8. doi: 10.3389/fnins.2013.00008",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Mirsky, A. F., Anthony, B. J., Duncan, C. C., Ahearn, M. B., and Kellam, S. G. (1991). Analysis of the elements of attention: a neuropsychological approach. Neuropsychol. Rev. 2, 109-145. doi: 10.1007/BF01109051",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Mitchell, R., and Popham, F. (2008). Effect of exposure to natural environment on health inequalities: an observational population study. Lancet 372, 1655-1660. doi: 10.1016/S0140-6736(08)61689-X",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Nam, S., and Toneatto, T. (2016). The influence of attrition in evaluating the efficacy and effectiveness of mindfulness-based interventions. Int. J. Ment. Health Addict. 14, 969-981. doi: 10.1007/s11469-016-9667-1",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Neff, K. D., and Dahm, K. A. (2015). \"Self-compassion: what it is, what it does, and how it relates to mindfulness,\" in Handbook of Mindfulness and Self-Regulation, eds B. Ostafin, M. Robinson, and B. Meier (Berlin: Springer), 121-137. doi: 10.1007/978-1-4939-2263-5_10",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Nielsen, M. G., Ørnbøl, E., Vestergaard, M., Bech, P., Larsen, F. B., Lasgaard, M., et al. (2016). The construct validity of the perceived stress scale. J. Psychosom. Res. 84, 22-30. doi: 10.1016/j.jpsychores.2016.03.009",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Nordfeldt, S. (2012). Tillämpad Avslappning i En Grön Miljö: En Randomiserad Kontrollerad Studie (in Swedish). Uppsala: Uppsala University.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Ohly, H., White, M. P., Wheeler, B. W., Bethel, A., Ukoumunne, O. C., Nikolaou, V., et al. (2016). Attention restoration theory: a systematic review of the attention restoration potential of exposure to natural environments. J. Toxicol. Environ. Health Part B 19, 305-343. doi: 10.1080/10937404.2016.119 6155",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Östergren, C. (2015). Medveten Närvaro: Utåtriktad träning i Naturmiljö Kontra Konventionell Träning - En randomiserad Studie (in Swedish). Uppsala: Uppsala University.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Posner, M. I., Rothbart, M. K., Rueda, M. R., and Tang, Y. (2010). \"Training effortless attention,\" in Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action, ed. B. Bruya (Cambridge, MA: MIT Press), 409-424. doi: 10.7551/mitpress/9780262013840.003.0017",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Reitan, R. M. (1958). Validity of the trail making test as an indicator of organic brain damage. Percept. Motor Skills 8, 271-276. doi: 10.2466/PMS.8.7.271-276",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Revicki, D., Hays, R. D., Cella, D., and Sloan, J. (2008). Recommended methods for determining responsiveness and minimally important differences for patientreported outcomes. J. Clin. Epidemiol. 61, 102-109. doi: 10.1016/j.jclinepi.2007. 03.012",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Sauer, S., Walach, H., Schmidt, S., Hinterberger, T., Lynch, S., Büssing, A., et al. (2013). Assessment of mindfulness: review on state of the art. Mindfulness 4, 3-17. doi: 10.1007/s12671-012-0122-5",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Schumi, J., and Wittes, J. T. (2011). Through the looking glass: Understanding non-inferiority. Trials 12:106. doi: 10.1186/1745-6215-12-106",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Sedlmeier, P., Eberth, J., Schwarz, M., Zimmermann, D., Haarig, F., Jaeger, S., et al. (2012). The psychological effects of meditation: a meta-analysis. Psychol. Bull. 138:1139. doi: 10.1037/a0028168",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Sedlmeier, P., Loße, C., and Quasten, L. C. (2018). psychological effects of meditation for healthy practitioners: an update. Mindfulness 9, 371-387. doi: 10.1007/s12671-017-0780-4",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Segal, Z. V., Williams, J. M. G., and Teasdale, J. D. (2002). Mindfulness-Based Cognitive Therapy for Depression: A New Approach to Preventing Relapse. New York, NY: Guilford Publications.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Sekhon, M., Cartwright, M., and Francis, J. J. (2017). Acceptability of healthcare interventions: An overview of reviews and development of a theoretical framework. BMC Health Services Res. 17:88. doi: 10.1186/s12913-017-2031-8",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Shamsaee, N. (2016). Återhämtning Genom Meditationsträning och Utsikt mot Naturmiljö: En Randomiserad Kontrollerad Studie (in Swedish). Uppsala: Uppsala University.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Shapiro, S. L., Schwartz, G. E., and Bonner, G. (1998). Effects of mindfulnessbased stress reduction on medical and premedical students. J. Behav. Med. 21, 581-599. doi: 10.1023/A:1018700829825",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Shearer, A., Hunt, M., Chowdhury, M., and Nicol, L. (2016). Effects of a brief mindfulness meditation intervention on student stress and heart rate variability. Int. J. Stress Manag. 23:232. doi: 10.1037/a0039814",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Shiffman, S., Stone, A. A., and Hufford, M. R. (2008). Ecological momentary assessment. Ann. Rev. Clin. Psychol. 4, 1-32. doi: 10.1146/annurev.clinpsy.3. 022806.091415",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Snapinn, S. M. (2000). Noninferiority trials. Trials 1:19. doi: 10.1186/cvm-1-1-019 Stevenson, M. P., Schilhab, T., and Bentsen, P. (2018). Attention restoration theory II: a systematic review to clarify attention processes affected by exposure",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "to natural environments. J. Toxicol. Environ. Health 18, 1-42. doi: 10.1080/ 10937404.2018.1505571",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Sugiyama, T., Leslie, E., Giles-Corti, B., and Owen, N. (2008). Associations of neighbourhood greenness with physical and mental health: do walking, social coherence and local social interaction explain the relationships? J. Epidemiol. Commun. Health 62:e9. doi: 10.1136/jech.2007.064287",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Tang, Y.-Y., Holzel, B. K., and Posner, M. I. (2015). The neuroscience of mindfulness meditation. Nat. Rev. Neurosci. 16, 213-225. doi: 10.1038/nrn3916",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Tang, Y.-Y., Ma, Y., Wang, J., Fan, Y., Feng, S., Lu, Q., et al. (2007). Short-term meditation training improves attention and self-regulation. Proc. Natl. Acad. Sci. U.S.A. 104, 17152-17156. doi: 10.1073/pnas.0707678104",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Tang, Y.-Y., and Posner, M. I. (2009). Attention training and attention state training. Trends Cogn. Sci. 13, 222-227. doi: 10.1016/j.tics.2009.01.009",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Tombaugh, T. N. (2004). Trail making Test A and B: normative data stratified by age and education. Arch. Clin. Neuropsychol. 19, 203-214. doi: 10.1016/S08876177(03)00039-8",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Van Dam, N. T., van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Olendzki, A., et al. (2018). Mind the hype: a critical evaluation and prescriptive agenda for research on mindfulness and meditation. Perspect. Psychol. Sci. 13, 36-61. doi: 10.1177/1745691617709589",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "van den Bogerd, N., Dijkstra, S. C., Seidell, J. C., and Maas, J. (2018). Greenery in the university environment: students' preferences and perceived restoration likelihood. PLoS One 13:e0192429. doi: 10.1371/journal.pone.0192429",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "van der Elst, W., van Boxtel, M. P. J., van Breukelen, G. J. P., and Jolles, J. (2006). The letter digit substitution test: normative data for 1,858 healthy participants aged 24-81 from the maastricht aging study (MAAS): influence of age, education, and sex. J. Clin. Exp. Neuropsychol. 28, 998-1009. doi: 10.1080/ 13803390591004428",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Van Gordon, W., Shonin, E., and Richardson, M. (2018). Mindfulness and nature. Mindfulness 9, 1655-1658. doi: 10.1007/s12671-018-0883-6",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Vickers, A. J., and Altman, D. G. (2001). Analysing controlled trials with baseline and follow up measurements. BMJ 323:1123. doi: 10.1136/bmj.323.7321.1123",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Vincenti, J., and Zetterberg, A. (2017). Effekter på Stress, Uppmärksamhet, Upplevd Medveten Närvaro och Självmedkänsla av Träning i Medveten Närvaro i en Restorativ Eller Konventionell Miljö: Kan Självmedkänsla Påverka Följsamhet? (in Swedish). Uppsala: Uppsala University.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Ward Thompson, C., Roe, J., Aspinall, P., Mitchell, R., Clow, A., and Miller, D. (2012). More green space is linked to less stress in deprived communities: Evidence from salivary cortisol patterns. Landsc. Urban Plann. 105, 221-229. doi: 10.1016/j.landurbplan.2011.12.015",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "White, I. R., Horton, N. J., Carpenter, J., and Pocock, S. J. (2011). Strategy for intention to treat analysis in randomised trials with missing outcome data. BMJ 342:d40. doi: 10.1136/bmj.d40",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "White, M. P., Alcock, I., Grellier, J., Wheeler, B. W., Hartig, T., Warber, S. L., et al. (2019). Spending at least 120 minutes a week in nature is associated with good health and wellbeing. Sci. Rep. 9:7730. doi: 10.1038/s41598-019-44097-3",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Wise, E. A. (2004). Methods for analyzing psychotherapy outcomes: a review of clinical significance, reliable change, and recommendations for future directions. J. Pers. Assess. 82, 50-59. doi: 10.1207/s15327752jpa8201_10",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Zylowska, L., Ackerman, D. L., Yang, M. H., Futrell, J. L., Horton, N. L., Hale, T. S., et al. (2008). Mindfulness meditation training in adults and adolescents with ADHD: A feasibility study. J. Atten. Disord. 11, 737-746. doi: 10.1177/ 1087054707308502",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Conflict of Interest: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Copyright © 2020 Lymeus, Ahrling, Apelman, Florin, Nilsson, Vincenti, Zetterberg, Lindberg and Hartig. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+   "page": 18
+  }
+ ]
+}

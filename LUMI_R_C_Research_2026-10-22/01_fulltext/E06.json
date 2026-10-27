@@ -1,0 +1,1288 @@
+{
+ "paper_id": "E06",
+ "source": "E06_2022_Trupp_Can_a_Brief_Interaction_With_Online_Digital_Art_Improve_Wellbeing_A_Co.pdf",
+ "pages": 17,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "Edited by:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Stephen Clift, Canterbury Christ Church University, United Kingdom",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Reviewed by:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Daniela Villani, Catholic University of the Sacred Heart, Italy Dorina Cadar, Brighton and Sussex Medical School, United Kingdom",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "*Correspondence:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "MacKenzie D. Trupp mackenzietrupp@gmail.com",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "† ORCID:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "MacKenzie D. Trupp orcid.org/0000-0003-3542-7787 Giacomo Bignardi orcid.org/0000-0002-7439-0684 Eva Specker",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "orcid.org/0000-0003-0836-045X",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Specialty section:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "This article was submitted to Health Psychology, a section of the journal Frontiers in Psychology",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received: 23 September 2021",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Accepted: 13 April 2022",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Published: 30 June 2022",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Citation:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Trupp MD, Bignardi G, Chana K, Specker E and Pelowski M (2022) Can a Brief Interaction With Online, Digital Art Improve Wellbeing? A Comparative Study of the Impact of Online Art and Culture Presentations on Mood, State-Anxiety, Subjective Wellbeing, and Loneliness. Front. Psychol. 13:782033.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "doi: 10.3389/fpsyg.2022.782033",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Can a Brief Interaction With Online, Digital Art Improve Wellbeing? A Comparative Study of the Impact of Online Art and Culture Presentations on Mood, State-Anxiety, Subjective Wellbeing, and Loneliness",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "MacKenzie D. Trupp 1 * † , Giacomo Bignardi 2,3† , Kirren Chana 1 , Eva Specker 1† and Matthew Pelowski 1,4",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "1 Department of Cognition, Emotion, and Methods in Psychology, Faculty of Psychology, University of Vienna, Vienna, Austria, 2 Max Planck School of Cognition, Leipzig, Germany, 3 Department of Language and Genetics, Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands, 4 Vienna Cognitive Science Hub, University of Vienna, Vienna, Austria",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "When experienced in-person, engagement with art has been associated-in a growing body of evidence-with positive outcomes in wellbeing and mental health. This represents an exciting new field for psychology, curation, and health interventions, suggesting a widely-accessible, cost-effective, and non-pharmaceutical means of regulating factors such as mood or anxiety. However, can similar impacts be found with online presentations? If so, this would open up positive outcomes to an evenwider population-a trend accelerating due to the current COVID-19 pandemic. Despite its promise, this question, and the underlying mechanisms of art interventions and impacts, has largely not been explored. Participants (N = 84) were asked to engage with one of two online exhibitions from Google Arts and Culture (a Monet painting or a similarly-formatted display of Japanese culinary traditions). With just 1-2 min exposure, both improved negative mood, state-anxiety, loneliness, and wellbeing. Stepdown analysis suggested the changes can be explained primarily via negative mood, while improvements in mood correlated with aesthetic appraisals and cognitive-emotional experience of the exhibition. However, no difference was found between exhibitions. We discuss the findings in terms of applications and targets for future research.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: cultural engagement, receptive art engagement, wellbeing, mental health, digital art, art viewing",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "INTRODUCTION",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "With the spread of the novel Coronavirus around early 2020, governments asked their citizens to stay at home to slow the rate of infection and protect the most vulnerable, forcing large parts of society to close their doors and everyday activities to move online. This included engagement with art and cultural institutions, which greatly increased online access to collections to connect with people now stuck at home (Radermecker, 2020; Samaroudi et al., 2020). Virtual tours emerged, encouraging people to \"visit the museum from their couches\" (Romano, 2020) and, for the first time, engaging with art and culture online was on the minds of a broad audience (Unitt, 2020).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "At the same time, many online formats of art and culture signaled their potential application for a pragmatic purposeameliorating the negative pandemic-related effects on wellbeing and mental health. A number of projects and discussion in the press were built around suggestions that a brief engagement with a few works of art, or a trip to a virtual museum, might help soothe anxiety, boost one's mood (Barbican Center, 2020), provide better wellbeing (International Arts and Mind Lab, 2020), or even help those isolated and lonely (Belvedere Museum, 2020). These aims seem to have been well received by the public, especially by those with low wellbeing and mental health issues, with evidence suggesting that a notable portion of individuals were, for the first time, seeking out online art encounters (Bu et al., 2021).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "These developments are not unique. Rather, the present world-wide pandemic accelerated two trends that have come to define the arts' pragmatic application for wellbeing and health: (1) Researchers and practitioners have considered art as a powerful tool to positively modulate wellbeing, which is widely-accessible, cost-effective, and non-pharmaceutical. In a growing body of evidence, when experienced in-person, engagements with art have been associated with positive outcomes (Fancourt and Finn, 2019 for review). (2) With the ubiquity of the internet, it is being increasingly recognized that digital, online formats might reach an even wider audience and present new possibilities for healthrelated use. If online engagement could provide a systematic impact, this would represent an even more cost-effective means of reaching large numbers in society (Clayton and Potter, 2017; Thomson et al., 2018), especially individuals who cannot visit museums, bringing doses of art into homes, hospital beds, or places of work without installation of a costly artwork. As put by one museum director (Gilman, in Rice, 2020), summarizing these dual trends changing the role of the arts, \"right now, art: : : [is] more important than ever. It is one of the key things sustaining us while we are cocooning at home,\" especially in its new online presence, \": : :it is what will nourish us as we adjust to the new normal of a post-COVID-19 world.\"",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "However, despite this promise, this also raises several questions that have not seen much empirical research: Can art or cultural engagements actually impact mental states such as wellbeing, state-anxiety, mood, satisfaction with life, or loneliness? If so, in which ways and by how much? An answer to these questions has immediate pragmatic importance and raises important issues about the role and nature of typical art interventions, the potential importance of \"real\" artworks, and which factors might be key when considering impacts on wellbeing. Similarly, especially considering the wealth of other interventions that might be found onlinehow does online art stack up against similar, non-art cultural engagements, such as other materials that might typically be found in museums and are similarly moving to the digital realm? Is there anything particularly different about engaging with visual art? Further, this topic raises several tangential questions of interest, regarding how the nature of the art experience, and appraisal of an online exhibition might maximize or unlock specific wellbeing outcomes.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "This is the aim of the present paper. Employing a quasirandomized design in which individuals, via the internet, engaged briefly with art content (impressionist painting), we explore the potential impact on a number of factors-wellbeing (mood, life satisfaction, and subjective wellbeing), state anxiety, and loneliness-measured before and after viewing. We compare this intervention to another type of online cultural content (a display of Japanese culinary traditions), which employed a similar presentation format, but was generally expected to be seen as \"not art\" by participants and aligning more with receptive engagement such as visiting a history or science museum. We also consider secondary topics in an exploratory analysis, such as the nature of the experience at the appraisal and cognitive-emotional level, individuals' label of the stimuli as \"art,\" and the interrelation of dependent wellbeing variables.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "BACKGROUND-(ONLINE) ART AS A WELLBEING INTERVENTION",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The argument that art, in an online format, could be a tool for addressing wellbeing and mental health can be traced through past research; as can many outstanding questions.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Engagement with a variety of forms of arts and culturein person-is now well-documented to support wellbeing and mental health. A 2019 World Health Organization review, included, for example, results from more than 900 publications (Fancourt and Finn, 2019) suggesting that engaging with various artistic or cultural activities can lead to meaningful impacts both in regards to preventative capacities (maintaining physical and mental wellbeing) and in support of a wide range of psychological issues. Among the many possible receptive or creative interventions (attending performances, making or viewing visual art or music, etc.), visually engaging artwork or visiting museums and galleries have increasingly been employed in partnership with public health initiatives, and healthcare providers in several countries have started to prescribe such activities as psychological health interventions (Packer and Bond, 2010; Camic and Chatterjee, 2013; Chatterjee and Noble, 2017; Todd et al., 2017; Thomson et al., 2018).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Among the various effects, empirical evidence has shown that on-site art interactions have been particularly associated with decreased loneliness by providing museums as spaces to learn and socially engage. This type of sustained engagement with institutions like art museums over the life span is associated with feeling less lonely and having greater levels of eudaimonic wellbeing (Todd et al., 2017; Tymoszuk et al., 2019, 2020). Further, participation in arts and cultural leisure activities was associated in cross-sectional studies with greater life-satisfaction, and mental health in a cohort of 8200 Norwegian adolescents (symptoms of anxiety and depression; Roberts et al., 2011; Hansen et al., 2015; Clayton and Potter, 2017). In many studies, the impact on mood and subjective wellbeing has also been illustrated. For example, in paradigms eliminating the activity of visiting a museum, Nanda et al. (2011) showed that simply hanging paintings of restorative nature scenes in common rooms led psychiatric patients to have reduced agitation (as reported by nurses) and need for anxiety medication compared to days without the paintings. Similar studies of art in patient or common rooms have been found to improve the anxiety, stress levels, depression, mood, and general wellbeing of both patients and staff. Further, the addition of a contemporary art gallery or bringing art to the patient's bedside in a hospital, allows staff, patients and family members the ability to access art in difficult times and can lead to better mood and subjective wellbeing (Binnie, 2010; Roberts et al., 2011; Karnik et al., 2014; Hansen et al., 2015; Ho et al., 2015; Bennington et al., 2016; Davies et al., 2016; Wang et al., 2020). In regard to stress and anxiety, similar to the interventions that will be explored in this paper, Clow and Fredhoi (2006) asked individuals to take a 35-min visit to an art gallery on their lunch break and found that even short exposures lead to significantly lower self-reported stress (�2.4 points on a pre-/post-visit 10-point scale) and cortisol concentrations. Impacts have also been found, see also Kweon et al. (2008), for similar paradigms showing lower reported stress following art installations in an office. Overall, there is a wealth of evidence that in-person art engagement can impact aspects of wellbeing including, subjective wellbeing, mood, anxiety, loneliness, and satisfaction with life.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The explanations of such impacts are themselves under debate (Mastandrea et al., 2019). However, they have been suggested to involve enjoyable or pleasurable experiences (Sachs et al., 2015; Chatterjee and Noble, 2017; Fancourt et al., 2020), which might improve aspects of subjective wellbeing by regulating mood. If this were the case, one might expect that the more enjoyable the experience with art is, the better improvement to aspects of wellbeing. They may be tied to shared social, communal factors (Roberts et al., 2011; Cuypers et al., 2012), escapism or removal from daily routine (see Kaplan, 1995), or even experiences of beauty as part of an aesthetic experience (Fancourt and Finn, 2019; Mastandrea et al., 2019). However, such aspects have received little attention systematically and need further research to examine which parts of art experiences are particularly important to impact wellbeing.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Digital, Online Art-Would This Translate to Similar Wellbeing Impacts?",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Online and digital technology might offer a natural ability to further empower the use of the arts in health and wellbeing formats. Today, art viewing, cultural engagements, and trips to art or other types of museums can take place via computers, tablets, smartphones and even virtual reality. This would certainly make it possible for many more individuals to engage art (Leng et al., 2014; Bu et al., 2021). Personal media, bringing artworks directly to a viewer could perhaps duplicate many of the same results, especially if beneficial effects are tied to the visual or cognitive-emotional aspects of experience. The potential for targeted, bite-size interactions with augmented information, seen in the comfort of one's personal space without need for extra effort or distractions, perhaps could overcome some of the issues often given for why individuals may not enjoy art (Pelowski et al., 2014), allowing art to be more accessible, understandable, personal, even increasing impact beyond traditional installations or museum visits (Alelis et al., 2015).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "At the same time, a long-running argument in especially artcritical, and more recently, psychological discussions suggests that art, for its full effect, might require to be seen in person, and that digital formats or other reproductions lose necessary aspects-immediacy, ambiance, level of engagement or importance, even artwork size-of the experience (Benjamin, 1968; Berger, 2008; Pelowski et al., 2017a; Specker et al., 2021). A handful of studies have suggested that art especially in digital formats, when compared to in-person gallery viewing, may lead to lower ratings of pleasantness (Locher et al., 1999, 2001; Locher and Dolese, 2004), interest (Locher et al., 2001; Locher and Dolese, 2004), liking, time spent viewing (Brieber et al., 2014) or even positive emotion or arousal (Brieber et al., 2015), all of which might be important for wellbeing benefits. Beyond this, if art impacts are driven more by the tangential aspects of an in-person visit-making a special trip, being with other people; even taking a break from everyday life activity or physical exertion itself (McLean, 2011)-these might be lost or diminished in online formats, or may connect to different results, for example, with factors such as life satisfaction or loneliness. 1",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The ability for online engagements to lead to wellbeingrelated impacts especially requires further research. To our knowledge, only two studies have begun to provide tentative evidence. Leng et al. (2014) compared cultural activities (cooking and craft exercises) via tablets to traditional inperson activities, finding that participants displayed similar or better levels of wellbeing in the tablet group. Tyack et al. (2017) actually examined if art interventions could be delivered through touchscreen tablets. Assessing dementia patients in their homes; wellbeing (happiness, wellness and interestedness, 1-100 scale) was measured before and after freely viewing a set of artworks (with the ability to select and move between styles) via a specialized app designed for the study. The results showed that after each session of around 20 min, wellbeing increased, although not significantly. These papers conducted their studies with specialized samples of dementia patients, and as part of therapy programs (see also Zubala et al., 2021 for research on digital creative art therapy). Even inperson interventions have, somewhat surprisingly, not typically considered art brought into individuals' homes. However, an ongoing mental health survey, conducted by University College London in the United Kingdom (Covid-19 Social Study, 2020), found a fifth of 70,000 respondents engaged more with the arts during lockdown than before. Those individuals who identified as having a mental illness or disability were likely to engage more in the first 22 weeks, which was speculated to be due to the move of cultural institutions online (Bu et al., 2021), however, this study did not quantify whether such use translated to actual effects.",
+   "page": 3
+  },
+  {
+   "label": "footnote",
+   "text": "1 Interestingly, although one might surmise that a solution to loneliness requires being with other people or engaging at least in communal activity, one of the topics specifically addressed in Covid-19 times-related online art was loneliness, with several exhibitions featuring works on this theme (Jones, 2020; Knott, 2020).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "\"Art\" Versus \"Non-art\" Cultural Engagements?",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The above issues touch another aspect that we explore in this paper, regarding how engagements with art might impact individuals via online formats in comparison to other varieties of cultural engagements. On one hand, engaging with \"art\" might be an ideal means to induce pleasurable and enjoyable experiences (Pelowski et al., 2017b). Previous research has found that viewing objects that one believes to be \"art\" (either via external cues or labels or derived from personal opinion) can lead to higher liking, beauty, pleasure (Locher et al., 2001; Leder et al., 2004; Pelowski et al., 2017b), positive affective experiences (Cupchik et al., 2009; Kirk et al., 2020), and even elicit greater activation of reward-related brain areas (Kirk et al., 2009; Lacey et al., 2011), all of which may lead to greater wellbeing or mood benefits (Berridge and Kringelbach, 2011; Becker et al., 2019). Having stronger aesthetic experiences, which is noted as a possible wellbeing mechanism (Fancourt and Finn, 2019), are likely to be particularly pronounced with art. This may be due to the perspective that one takes when engaging with something that they believe to be art. It is well known that such aesthetic perspectives are more evaluative, appreciative and contemplative of an object (Cupchik et al., 2009), which may specifically be the state that can enhance wellbeing. If the act of stopping to admire is important in wellbeing interventions, as supported by a study by Martínez-Martí et al. (2018) that found that learning to stop and admire beauty was effective in improving wellbeing, art could be much better than another type of engagement as it is, philosophy aside, there to be looked at, contemplated and admired.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "On the other hand, wellbeing impacts can be tied to many other types of cultural engagement. For example, the in-person research referenced above is inclusive of a broad range of, often overlapping, cultural activities (see Davies et al., 2016). In just museum visits, one can find, among others, history, or science museums, which have been linked to wellbeing (Wheatley and Bickerton, 2017, 2019). Research has found positive impacts from the simple presence of other visual materials such as photos of nature (White et al., 2010). However, most research to date has not considered the impact of art in direct comparison to other types of cultural engagement in terms of health and wellbeing, and such distinction and comparison is argued to be a target for research (Ander et al., 2013). This is especially true with the internet, where there is a wealth of activities that offer potential wellbeing benefits (e.g., Son and Lee, 2021 for a recent study on stress and online shopping).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Summary of Research Questions",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "To summarize, our main research questions include: How does art and cultural engagements impact mental states such as wellbeing, state-anxiety, mood, satisfaction with life, and loneliness? Second, how does online art compare to a similar, non-art online cultural engagement?",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "In addition, we examine the importance of several other dependent and independent factors in assessing the impact of online art, each of which, we address in our results section as post hoc and exploratory analysis.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "First, we address if there are specific relationships between the different aspects of wellbeing outcomes (i.e., mood, anxiety, loneliness), which can also help to define the mechanisms underlying interventions. For example, past research has suggested that some aspects such as mood or state-anxiety may be particularly variable to immediate fluctuations in the environment, like an art intervention (e.g., Fredrickson and Branigan, 2005). These factors may then subsequently contribute to changes in more complex cognitive states such as loneliness and evaluative aspects of subjective wellbeing or life satisfaction and call for consideration.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Further, we explore how outcomes can depend on differing aspects of the individual's experience. Research suggests that individuals' reactions to art, and likely all forms of culture, are quite subjective (Pelowski et al., 2017b). Most basically, regardless of what kind of cultural engagement, this involves appraisal aspects such as whether one would like to visit again, finds beautiful or meaningful what they are engaging with.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Similarly, research has shown that-at the emotional and cognitive level-individuals respond differently to the same artwork. For example, the extent to which an engagement with art is more or less intellectually stimulating, educational, novel, harmonious, or boring, among other felt emotions (Pelowski et al., 2017c for review). Here we examine how these factors also differentiate impacts to wellbeing.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "MATERIALS AND METHODS",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Participants",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "To test the above questions, the study included a final sample of 84 participants (65 women, 17 men, 1 other, 1 unknown; Mage = 34.89, SD = 14.47, range = 21-74). Participants were further divided between two conditions of cultural engagement, with 40 individuals (31 women, Mage = 35.40, SD = 14.44, range = 22-74) exposed to an \"art\" condition (see below) and 44 (34 women, Mage = 34.43, SD = 14.64, range = 21-72) exposed to a \"non-art\" condition. Participants were recruited as a convenience sample through advertisements on social media and consisted of nationals from Europe (43%), the Americas (48%), Asia (8%), and Africa (1%). They received no compensation for participation. They engaged in the study between April 17 to June 6, 2020 during the first wave of the COVID-19 pandemic when most nations had instituted various degrees of lockdown.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The final sample was derived from an initial sample of 143, with participants removed due to exclusion criteria (see section \"Results\"). The study followed the ethical standards of the Declaration of Helsinki and the University of Vienna ethics board.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Stimuli",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The online cultural engagement conditions consisted of two interactive exhibitions, broadly argued to be generally thought of as \"art\" and \"non-art,\" counterbalanced between subjects. 2 See Figure 1 for stimuli examples and Supplementary Materials for an access link and all accompanying texts. Both sets of stimuli were selected from Google Arts and Culture, a free online repository of virtual art galleries, interactive experiences, and educational materials on a range of topics covering culture, history, and art (About Google Cultural Institute, 2020), and consisted of a single visual image which could be appreciated by itself, as well as zooming in on various details accessed by scrolling with the mouse. Though the order of details was predetermined, the participants had the autonomy to scroll up and down as they liked. Each detail was accompanied by related text (e.g., \": : :This is one of 18 canvases of this view in differing light conditions: : :\"). Thus, in both cases they were aimed at duplicating what might be an engagement with a single painting or exhibit, where one might move forward or backwards and read accompanying labels or materials.",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 1 | Study design, stimuli composition. (A) The procedure was a pre-post design which could be taken on both personal computers and smartphones. (B) Demonstration of stimuli showing \"Waterlilies condition\" as an example depicting Claude Monet, The Water-Lily Pond, 1899. (Oil on canvas, 88.3 � 93.1 cm. public domain image, Wikimedia commons). Stimuli from Google Arts and Culture were interactive, where smaller compositions of one main image (B) could be scrolled through (C) with accompanying text that faded away when scrolling down (D). Available from: https://commons.wikimedia.org/wiki/File:Water-Liliesand-Japanese-Bridge-(1897-1899)-Monet.jpg.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "For the \"art\" condition (hereafter, \"Water-lilies condition\"), we used an exhibition of Monet's The Water-Lily Pond; An in-painting tour from the National Gallery, London (Google Cultural Institute, 2020). This displays the single painting (The Water Lily Pond, 1899) of a bridge over a water-lily-festooned pond in Giverny, and was chosen because landscape and waterscape artworks have been suggested to be especially useful to reduce stress and anxiety among both patient and non-patient populations (Ulrich and Gilpin, 2003). The accompanying text in each frame focused on painting features (color, brushstrokes) or contextual information about the artist and painting.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "2 Note, we are not making any ontological claim regarding the definition of art, however, we selected our stimuli so the painting was an example of objects highly popular and well-known to the general public as fine art, whereas the non-art condition had no clear connection to art and was focused on a different aspect of culture, namely the cultural/history of food.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The \"non-art\" stimulus (hereafter, \"Bento condition\") was A Bitesize History of Japanese Food; Explore a mouthwatering box of Japan's iconic cuisine (Google Cultural Institute, 2020). This explored a diagram in the shape of a bento box, containing photos and facts introducing the viewer to the history and traditions of Japanese food, and included images of food and food-related activities, such as harvesting or drinking. The text covered aspects of Japanese culture, including origins of specific dishes, agricultural traditions, and food preparation.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Procedure",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The study employed a mixed Two (Time: pre vs. post, withinparticipant) � Two (Online Cultural Engagement: art vs. non-art, between-participant) design. Participants were supplied with a survey link via Qualtrics, which led them to a short description of the study. The description noted that the study was designed to test participants before and after they freely explored an online exhibit, and the types of experiences that could be engendered. After agreeing to participate, participants were first asked to provide demographic information, and then completed a previewing baseline measure of our dependent variables. The order of the scales for both the pre-viewing baseline and the post test was randomized for each participant to avoid any sequence bias. Upon beginning this, participants were also already assigned, unbeknownst to them, to one of the two types of online engagements, with the general description being the same for both the Water-lilies and Bento conditions. In both cases, we refrained from using the term \"art\" but rather referred to an \"online experience\" or \"exhibit\" in all instructions. Participants were explicitly instructed not to enter any other parts of the website or other webpages and to return to the post survey once finished. They were then presented with a hyperlink button which, upon clicking, would open either the art or non-art Google Arts and Culture exhibition in a new window, where they were able to spend as much time as they liked viewing and interacting with the stimuli.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Pre-viewing Survey - Demographics and Personality, and COVID Related Conditions",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In the pre-study survey, participants provided demographic descriptions (age, gender, nationality, location of current residence) as well as the status of their lives during the present lockdown, including lockdown severity (ranging from \"I am staying only in my personal residence\" to \"I am not in lockdown at all,\" see Supplementary Table 1), duration, and number of other people living in the participant's residence. The Ten Item Personality Inventory (TIPI) was used to assess personality traits (Gosling et al., 2003). Art expertise was assessed through four items derived from the Vienna Art Interest and Art Knowledge Questions (Specker et al., 2020) on art education or training, art interest, and art related behavior. We also asked if participants had ever visited any online art presentation previously in their lives.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Pre-/Post-viewing Survey-Wellbeing, Anxiety, Mood, Loneliness",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "To measure the impact of visiting the online material, we assessed six dependent variables (hereafter \"Wellbeing DVs\"). These were presented in random order in both the pre- and post-viewing survey to assess change after the brief online engagement; (1) The De Jong Gierveld 6-Item Loneliness Scale (De Jong Gierveld and Van Tilburg, 2010); (2) State-Trait Anxiety Inventory (Marteau and Bekker, 1992); (3) The Satisfaction with Life scale (Diener et al., 1985); (4) The Subjective Wellbeing scale (Tinkler and Hicks, 2011); (5-6) Mood was assessed by two questions asking participants to rate their overall positive and negative mood. Note, all Likert-type scale-based questions here and in the post-study were adapted to seven points to aid consistency of answering.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Online Experience Evaluations",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In the post-viewing questionnaire, participants also appraised the stimuli via four questions on a 7-point scale (1 = 'not at all,' 7 = 'very much'), indicating how beautiful, meaningful, and good the stimuli were, and how much they would like to visit the website again. Participants were also asked if they felt they had seen 'art' during the experience or not (binary forced-choice: \"I saw art\"/\"I saw something else\").",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "As an exploratory means of collecting more information on the nature of the experience, participants were presented with a list of 55 cognitive-emotional terms (e.g., \"serenity,\" \"bored,\" \"angry,\" and \"harmonious,\" etc.), and asked to express how much they felt each of them while they were viewing the stimulus (1 = 'not at all,' 7 = 'very much'). See Supplementary Table 2 for full list. Previously, variations of this list have been used to further examine types of art experiences (Pelowski, 2015; Pelowski et al., 2018, 2019).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "RESULTS",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Participants were included in the final sample if they had completed more than 65% of the total survey, allowing at least one pairwise comparison, and if they had spent at least 10 s viewing the online materials. This cut off was selected based on the mode viewing time reported in a classic study of art viewing by Smith et al. (2016) which was 10 s, also consistent with other studies (see for review Smith and Smith, 2001; Pelowski et al., 2017c; Verhavert et al., 2018). Forty participants were excluded due to insufficient survey completion; 19 were excluded due to overly short viewing times. A histogram of the time spent viewing can be found in the Supplementary Figure 1.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Supplementary Table 1 provides the demographic and art interest descriptive statistics across the final sample of participants divided between conditions, as well as between-conditions statistical comparisons. A comparison of individual's average art interest, typical art engagement, and art training found no significant differences between groups (Supplementary Table 1). In addition, there were no significant differences in days spent in lockdown (M = 50.6), age, or personality.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Here, and throughout the results section, we employed a mix of parametric and equivalent non-parametric analyses on a caseby-case basis, depending on violation of assumptions. These are indicated where applicable.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Descriptive Results of Viewing Time, Appraisal and Experience of Online Engagements",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Mean results of reported appraisal and cognitive-emotional terms are shown in Figure 2 (see also Supplementary Table 2 for descriptive statistics). Comparison between conditions for whether individuals believed they had seen a work of \"art\" versus \"something else\" revealed, as expected, a significant difference [$ 2 (1,84) = 5.25, p = 0.02], with 92% of individuals in the Water-lilies condition agreeing they saw art, compared to 70% in the Bento condition (this, a still rather high result, is also considered further below).",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 2 | (A) Shows means and 95% CI intervals for participants ratings of cognitive-emotional states during the online cultural engagements for the Water-lilies (light blue) and Bento (light orange) conditions. † shorthand labels, see Supplementary Material for the complete labels. (B) Box plots showing the ratings for aesthetic evaluation for the Water-lilies and Bento conditions, showing that in general Water-lilies condition was rated more highly. (C) Pie chart showing percentages of participants who reported to see art or something else while engaging online with the Water-lilies and Bento conditions.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Participants in both conditions, on average, evaluated their online engagements positively, with Wilcoxon ranksum tests conducted for each variable independently revealing comparatively higher beautifulness and goodness appraisals in the Water-lilies condition (Z = �4.18, p < 0.001, and Z = �4.56, p > 0.001), whereas meaningful and desire to visit again did not show differences (Z = �1.81, p = 0.279 and Z = �2.06, p = 0.157, respectively; p-values adjusted with a Bonferroni correction for multiple comparisons; Non-parametric tests employed due to violation of normality of appraisals' distributions, see Supplementary Figure 4). The four appraisals themselves also showed positive intercorrelation (rs = 0.55-0.71) across conditions.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "On average, participants engaged with the online content for around one-and-a-half to two minutes (Water-lilies: M = 107 s, SD = 69 s, range = 11-274 s; Bento: M = 209 s, SD = 249 s, range = 10-1401 s). A Wilcoxon rank-sum test comparing conditions was not significant (Z = �1.76, p = 0.08). Across conditions, viewing time was also not correlated with the four appraisals of the material themselves (all rs = 0.04-0.1, scatterplots of relationship between time spend and each DV per condition can be found in Supplementary Figure 3).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "When asked how they felt while engaging the online content, participants indicated quite similar positive-valence emotions and cognitive states (e.g., serenity, happy, stimulated, insight), with low levels of negative emotions (fear, embarrassed, anger, etc.), in both conditions (see Figure 2 for comparisons at the individual item level).",
+   "page": 7
+  },
+  {
+   "label": "table",
+   "text": "TABLE 1 | Average participant self-report ratings for each time condition per group (means and standard deviations).\nTABLE 1 | Average participant self-report ratings for each time condition per group (means and standard deviations).\n\n| Variable          |        |   Water-lilies a - Pre | Water-lilies a - Pre   |   Water-lilies a - Post | Water-lilies a - Post   |   Bento b - Pre | Bento b - Pre   |   Bento b - Post | Bento b - Post   |\n|-------------------|--------|------------------------|------------------------|-------------------------|-------------------------|-----------------|-----------------|------------------|------------------|\n| Negative mood     | M (SD) |                   3.08 | (1.32)                 |                    2.75 | (1.36)                  |            2.95 | (1.53)          |             2.64 | (1.60)           |\n| Positive mood     | M (SD) |                   4.31 | (1.39)                 |                    4.75 | (1.18)                  |            4.69 | (1.24)          |             4.86 | (1.34)           |\n| Anxiety           | M (SD) |                   3.60 | (1.18)                 |                    3.19 | (1.16)                  |            3.31 | (1.32)          |             3.09 | (1.24)           |\n| Loneliness        | M (SD) |                   3.49 | (1.10)                 |                    3.32 | (0.93)                  |            3.50 | (0.93)          |             3.34 | (0.97)           |\n| Life satisfaction | M (SD) |                   4.54 | (1.28)                 |                    4.95 | (1.30)                  |            4.52 | (1.21)          |             4.41 | (1.40)           |\n| Wellbeing         | M (SD) |                   4.26 | (1.12)                 |                    4.49 | (1.11)                  |            4.41 | (1.14)          |             4.66 | (1.14)           |",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 1 | Average participant self-report ratings for each time condition per group (means and standard deviations).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "N a = 36, N b = 42, (see exclusion criteria). For a positive impact to occur, negative mood, anxiety, and loneliness should decrease whereas positive mood, satisfaction with life and wellbeing should increase.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "What Is the Impact of Art and Non-art Online Engagements on Wellbeing and How Do They Compare?",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Descriptive statistics for the Wellbeing DVs, pre- and postviewing, are provided in Table 1 and visualized as violin plots with individual slopes for each participant, in Figure 3. Effect sizes for each condition and the total sample are shown in Figure 3. Correlations between Wellbeing DVs (pre-, post-, and post-pre changes) are shown in Supplementary Figure 2.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "As can be seen, in general, participants showed mean baseline scores (before viewing) at just below the midpoints for most DV scales, albeit with a rather large spread across participants. We also found a general moderate correlation between most baseline Wellbeing DVs (Supplementary Figure 2). No differences in baseline scores were found, for all Wellbeing DVs, when comparing between condition groups (Supplementary Table 1).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In general (Figure 3) the Wellbeing DVs, when considered after the online engagements, tended to show mean changes in the expected directions (i.e., decreased state-anxiety, loneliness, negative mood; increased positive mood and wellbeing), with the Water-lilies conditions tending to have generally larger effect sizes.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "To statistically test the results, we first conducted a two-way mixed repeated measures multivariate analysis of variance (MANOVA) on the six Wellbeing DVs, with Time (pre, post; within-subjects) and engagement Condition (Waterlilies, Bento; between-subjects) as independent variables (conducted in Rstudio, R version 3.6.2; RStudio Team, 2019). In MANOVA, group differences are tested by creating a linear combination of the Wellbeing DVs that maximize group differences, and is considered to be optimal when Wellbeing DVs show correlation (Tabachnick and Fidell, 2013). This was conducted on a reduced sample of 78 participants (36 Water-lilies, 42 Bento) due to three participants having missing data and the detection of three multivariate outliers (2 Bento, 1 Water-lilies) with Mahalanobis distance exceeding the critical value (22.46; df = 6, MD1 = 23.35, MD2 = 24.52, MD3 = 24.81). Analyses including the outliers did not substantially differ, however, it impacted the marginal significance of a covariate in one of the post hoc analysis (see Table 2). The Wellbeing DVs were not multivariate normally distributed, however, MANOVA has been shown to be robust to violations of the assumption of multivariate normality when the sample is, as in our case, >30 per condition (Tabachnick and Fidell, 2013). The data met assumptions for homogeneity of variance (all Levene's tests p > 0.05) and multicollinearity for Wellbeing DVs (correlations between Wellbeing DVs were < 0.8).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The analysis showed a main effect of Time {F(6,71) = 3.65, p = 0.003; ! 2 p = 0.24, 90% CI = [0.05; 0.31]} across both conditions. However, neither the main effect of Condition [F(6,71) = 0.56, p = 0.763] nor the Condition � Time interaction [F(6,71) = 0.64, p = 0.700] significantly affected the linear combination of Wellbeing DVs. These results suggested that both types of online cultural engagement significantly impacted the combined Wellbeing DVs; however, there was not a significant difference between the impact of the Water-lilies and Bento conditions (! 2 p = 0.05, 90% CI = [0; 0.07]). An additional series of repeated measures ANOVAs, run independently for each of the Wellbeing DVs and looking at potential differences between conditions, showed all interactions with Time not to be significant, with p-values ranging from p = 0.171 to p = 0.971 (all p-values uncorrected, see Supplementary Table 3).",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "What Is the Impact of Online Engagement on Individual Wellbeing DVs?",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "To further consider the impact of the online interventions on the specific Wellbeing DVs which were assessed above, as well as their potential interrelation, we carried out a Roy-Bargman stepdown analysis. This approach is suggested as a best-practice follow up for MANOVA (Tabachnick and Fidell, 2013), especially in cases of correlation between Wellbeing DVs as noted above. This procedure consisted of, first, univariate post-hoc ANOVAs on each individual DV, in order to examine main effects of time at the individual DV level.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "This was followed by a set of ANCOVAs, which tested for the effects of Time on each of the Wellbeing DVs, taking into account other Wellbeing DVs as covariates in a prioritized, step-down order. This second step allowed us to control for effects that are shared between the Wellbeing DVs, a phenomenon found in past studies looking at factors of wellbeing (i.e., Dua, 1993; Cohen et al., 2017). As a consequence of the above findings of a significant impact of the online engagements across both conditions with a non-significant difference between them, the samples were combined for these two subsequent analyses. All independent p-values for each of the main effects in the following tests were corrected for the number of comparisons (N = 6, p-values for covariates were not corrected).",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 3 | (A-F) Raincloud plots showing the distributions of rating pre and post online cultural experience grouped by condition. The boxplots display the median (horizontal line middle of box), the data within the 25th and the 75th percentile (inside box), and the data within the 10th to the 25th and the 75th to the 90th percentile (vertical line); Dots represent individual ratings; Slopes represent changes between pre and post. Images were computed following Langen's tutorial (Allen et al., 2021; see https://github.com/jorvlan/raincloudplots); (G) forest plot of the effect sizes (partial eta square) of the online experience on the six DVs. Vertical dashed lines are used to indicate intervals to interpret the strength of the effect. S, M, L indicate small, medium, and large effect size intervals.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "At the univariate level, the results, reported in Table 2 (see also Figure 3 for effect sizes), indicated that the online cultural engagements had a significant impact on four of the Wellbeing DVs-negative mood, state-anxiety, subjective wellbeing, and loneliness-but not on positive mood or satisfaction with life.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "For the stepdown analysis, the effects of the online engagement on the Wellbeing DVs were prioritized as follows: (1) effect on mood (negative and positive); (2) effect on negative variables (state-anxiety and loneliness), after having controlled for the effect of mood; and (3) the effect on positive wellbeing variables (satisfaction with life and subjective wellbeing) after accounting for changes in mood and negative variables. This order was selected because, as noted in the introduction, changes in mood and stateanxiety are argued to be potentially more variable as a result of changes in one's immediate environment, which can possible contribute to changes in more complex cognitive states (Fredrickson and Branigan, 2005). Homogeneities of the regression slopes were obtained for all of the subsequent univariate analyses.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The results suggested that changes observed in state-anxiety and wellbeing were not uniquely impacted by the online cultural engagements beyond the shared effect on mood. For loneliness, although significantly impacted by the online engagements, the effect was accounted for by changes in state-anxiety, after controlling for the effect of changes in mood.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Exploratory Analyses",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We then turned to a post hoc exploratory analysis, considering some of the other research questions noted in this study, as well as some of the above-reported findings.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Do Appraisals of the Experience Relate to Impacts on Wellbeing?",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "First, as a general consideration of the relation between the nature of experience and its impact, we considered the correlation between appraisals of the online material (meaning, beauty, goodness, desire to visit again) and the change scores (post-pre) for the individual Wellbeing DVs. We similarly considered viewing time. Due to the violations of normality, we used Spearman's Rank correlations. Results for combined online conditions are shown in Figure 4. Results split between conditions can be found in Supplementary Table 4.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Decreases especially in negative mood, as well as stateanxiety and positive mood, were significantly related to relatively higher appraisals. Changes in negative mood were a Before exclusion of three multivariate outliers, negative mood explained a significant proportion of the change in loneliness, p = 0.032.",
+   "page": 9
+  },
+  {
+   "label": "table",
+   "text": "TABLE 2 | Stepdown analysis statistics.\nTABLE 2 | Stepdown analysis statistics.\n\n| Variable          | Analysis   | Covariate         | Pre - M (SD)   | Post - M (SD)   | df    |     F | p(adj)   |   ! 2 p |   90% - LL |   CI - UL |\n|-------------------|------------|-------------------|----------------|-----------------|-------|-------|----------|---------|------------|-----------|\n| Negative mood     | Univariate | -                 | 3.01 (1.43)    | 2.69 (1.49)     | 1, 77 |  7.81 | 0.039    |    0.09 |       0.15 |      0.21 |\n| Positive mood     | Univariate | -                 | 4.51 (1.32)    | 4.81 (1.26)     | 1, 77 |  5.92 | 0.104    |    0.07 |       0.00 |      0.18 |\n|                   | Step-down  | Negative mood     |                |                 | 1, 76 | 49.72 | <0.001   |    0.40 |       0.25 |      0.51 |\n|                   | Step-down  |                   |                |                 | 1, 76 |  0.83 | 0.353    |    0.01 |       0.00 |      0.08 |\n| Anxiety           | Univariate | -                 | 3.44 (1.26)    | 3.14 (1.20)     | 1, 77 |  5.92 | 0.001    |    0.12 |       0.03 |      0.24 |\n|                   | Step-down  | Negative mood     |                |                 | 1, 75 | 29.71 | <0.001   |    0.28 |       0.15 |      0.41 |\n|                   | Step-down  | Positive mood     |                |                 | 1, 75 | 13.72 | <0.001   |    0.15 |       0.05 |      0.28 |\n|                   | Step-down  |                   |                |                 | 1, 75 |  3.68 | 0.406    |    0.05 |       0.00 |      0.15 |\n| Loneliness        | Univariate | -                 | 3.50 (1.00)    | 3.33 (0.95)     | 1, 77 |  9.64 | 0.016    |    0.11 |       0.03 |      0.23 |\n|                   | Step-down  | Negative mood a   |                |                 | 1, 74 |  3.47 | 0.067    |    0.06 |       0.00 |      0.16 |\n|                   | Step-down  | Positive mood     |                |                 | 1, 74 |  1.26 | 0.265    |    0.02 |       0.00 |      0.09 |\n|                   | Step-down  | Anxiety           |                |                 | 1, 74 |  6.14 | 0.016    |    0.08 |       0.00 |      0.18 |\n|                   | Step-down  |                   |                |                 | 1, 74 |  4.54 | 0.219    |    0.05 |       0.00 |      0.14 |\n| Life satisfaction | Univariate | -                 | 4.53 (1.24)    | 4.50 (1.35)     | 1, 77 |  0.00 | >0.999   |    0.01 |       0.00 |      0.01 |\n|                   | Step-down  | Negative mood     |                |                 | 1, 73 |  0.01 | 0.932    |    0.01 |       0.00 |      0.07 |\n|                   | Step-down  | Positive mood     |                |                 | 1, 73 |  0.18 | 0.281    |    0.01 |       0.00 |      0.09 |\n|                   | Step-down  | Anxiety           |                |                 | 1, 73 |  0.14 | 0.705    |    0.00 |       0.00 |      0.01 |\n|                   | Step-down  | Loneliness        |                |                 | 1, 73 |  0.13 | 0.721    |    0.00 |       0.00 |      0.05 |\n|                   | Step-down  |                   |                |                 | 1, 73 |  0.53 | 0.353    |    0.00 |       0.00 |      0.05 |\n| Well-being        | Univariate | -                 | 4.34 (1.12)    | 4.58 (1.12)     | 1, 77 |  9.90 | 0.014    |    0.11 |       0.03 |      0.23 |\n|                   | Step-down  | Negative mood     |                |                 | 1, 72 |  6.19 | 0.015    |    0.08 |       0.01 |      0.19 |\n|                   | Step-down  | Positive mood     |                |                 | 1, 72 |  4.57 | 0.036    |    0.06 |       0.00 |      1.16 |\n|                   | Step-down  | Anxiety           |                |                 | 1, 72 |  1.31 | 0.256    |    0.00 |       0.00 |      0.06 |\n|                   | Step-down  | Loneliness        |                |                 | 1, 72 |  3.26 | 0.075    |    0.04 |       0.00 |      0.15 |\n|                   | Step-down  | Life satisfaction |                |                 | 1, 72 |  0.30 | 0.588    |    0.02 |       0.00 |      0.10 |\n|                   | Step-down  |                   |                |                 | 1, 72 |  3.44 | 0.353    |    0.04 |       0.00 |      0.14 |",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 2 | Stepdown analysis statistics.",
+   "page": 10
+  },
+  {
+   "label": "footnote",
+   "text": "CI, confidence interval; LL, lower limit; UL, upper limit. The bolded values indicate statistically significant values.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "related to reported desire to visit the experience again, meaningfulness, beauty, and marginally related to goodness. Similarly, changes in state-anxiety and positive mood were significantly related to desire to visit again, goodness, with state-anxiety also marginally related to beauty. Goodness alone also was correlated with lower loneliness. Note, however, that, only the relationships between meaningfulness and changes in negative mood and goodness and changes in loneliness remained significant or marginally significant (after multiple comparisons testing) (adjusted ps = 0.049 and 0.067, respectively; Bonferroni correction for 24 tests). Amount of time spent by individuals was not significantly related with any DV change (rs = -0.21-0.19).",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Does Seeing \"Art\" Influence Impact on Wellbeing?",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "We then followed up on participants' classification of the stimuli as \"art,\" considering the large number of individuals that considered even the Bento condition to be an artwork. A breakdown between participants who said they saw either \"art\" or \"something else,\" regardless of their actual Waterlilies/Bento assignment, comparing appraisals of beauty, goodness, meaningfulness, and desire to visit again are shown in Supplementary Table 5. A breakdown of DV change scores for \"I saw art\" and \"something else\" is shown in Supplementary Table 6. Difference in appraisals and Wellbeing DVs are shown in Figure 4. To consider these distinctions, we used multivariate analysis with groups, \"I saw art\" group (N = 63) or \"I did not see art\" (N = 15). Wilcoxon rank sum test suggested that participants who indicated that they saw \"art,\" regardless of assigned condition, reported significantly higher meaningfulness (Z = �2.29, p = 0.022), beauty (Z = �3.72, p < 0.001), and goodness (Z = �3.99, p < 0.001), and marginally significant higher desire to visit again (Z = �1.91, p = 0.055).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "However, a series of two-sample nonparametric Welch's t-tests, comparing change scores between conditions, did not reveal significant differences between those who reported seeing \"art\" or \"something else\" for any DV (all p-values > 0.26).",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Do Cognitive-Emotional Experience Factors Predict Impact on Wellbeing?",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Finally, we returned to the list of the cognitive-emotional items that participants reported feeling during their experiences. To reduce the data and to identify potential patterns, we conducted a Principal Component Analysis (PCA) on all 55 items. A parallel analysis using Monte Carlo simulation with permutations (5000) of the raw data set, conducted in SPSS with the rawpar.sps script",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 4 | Subjective experience of participants, including (A) DV changes grouped by perception of if participants considered they say art or not, bar plots showing the breakdown of changes in Wellbeing DVs. Error bars represent 95% CI. (B) Box plots showing the breakdown of the aesthetic ratings grouped by subjective reports (i.e., seeing art), Error bars represent SD. *p < 0.05, ***p < 0.001. p-values uncorrected. (B) Appraisals shown broken down by I saw art or not. (C) Correlations between viewing time, appraisals and changes in Wellbeing DVs. Correlation plot was computed using ggstatplot (Patil, 2021).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "(O'Connor, 2000), suggested four significant components. These were then assessed using a Direct Oblimen rotation, which allows for an orthogonal or oblique solution, expected to provide a more natural fit for the data. The Kaiser-Meyer-Olkin measure verified sampling adequacy (KMO = 0.65; Field, 2009). Bartlett's test of sphericity X 2 = 3359.9, p < 0.001, also indicated sufficient correlations between items to support the PCA analysis.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "The resulting rotated components solution (Supplementary Table 7) accounted for 48.48% of the variance, with a breakdown of items more or less in line with past findings (Pelowski, 2015; Pelowski et al., 2019). The first component (26.20% of variance) largely consisting of items related to positive or socially focused terms (highest loadings: confident, changed self-image, compassion, gratitude, free, sublime, etc.). The second component (11.11%) described largely negative and again socially focused terms (fear, like crying, sad, powerless, stress, shame, guilt, vulnerable). The third component (5.91%) included items previously suggested to indicate largely \"facile\" (Pelowski, 2015) or unrewarding experience (disappointed, bored, need to leave, embarrassed, and confused). The fourth component (5.30%) described more insightful or transformative aspects (absorbed, thrilled, insight, change mind, epiphany, etc.).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Component scores were then calculated per component for each participant (via regression method). These scores were then used in a series of multiple regressions to predict change in the Wellbeing DVs. See Supplementary Tables 8-10 for all results both considering combined or split between conditions. Once again, changes in especially negative mood emerged as being significantly predicted by the combined model [F(4,69) = 6.29, p < 0.001, R 2 = 0.27]. Further analysis revealed that such changes were significantly driven by Component 1 (\"positive/social affect\"; t = �2.15, p = 0.035), with higher scores relating to a decrease in negative mood, and to lower scores of Component 3 (\"facile\"; t = 3.75, p > 0.001).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Decreasing state-anxiety was also significantly predicted, again, by component one [t = �2.39, p = 0.020; main model (F(4,69) = 2.285, p = 0.069, R 2 = 0.12]. No other Wellbeing DVs were significantly predicted by any of the components (p-values are uncorrected). Interestingly, as with the appraisals above, the relationships between the cognitive-emotional components and Wellbeing DVs also tended to emerge more saliently in the Water-lilies condition, whereas with the Bento condition no significant state-anxiety or mood-related effects were found.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "DISCUSSION",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "We found a significant impact on several wellbeing variables in a pre-/post-paradigm in which individuals were asked to briefly visit an online art exhibition (one Monet painting) or another similarly-formatted, \"non-art\" cultural engagement (a display of Japanese culinary tradition, aligning more to what might be encountered in a history museum offline). This included lowered state-anxiety, negative mood, loneliness, and increased subjective wellbeing. This occurred, in the art condition, with an interactive display of one painting, and in the other display of cultural material, and in both cases, over durations averaging one-anda-half to two minutes, notably with no significant relationship between positive impact and actual time spent engaging.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "A stepdown analysis found that the changes in Wellbeing dependent variables (Wellbeing DVs) tended to be explained by changes in negative mood (in the case of positive mood, stateanxiety and wellbeing), while improved loneliness was explained by improvements in state-anxiety. Finally, the \"art\" condition had generally larger effect sizes, but was not significantly 'better' than",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "\"non-art\" at improving any Wellbeing DV. When considering the nature and appraisals of the experience, a significant relationship was found between decreases in negative mood, and to a lesser extent state-anxiety and positive mood, and positive appraisals of the experience (desire to visit again, beauty, and, most pronounced, meaningfulness). Similarly, changes in negative mood and state-anxiety related to higher reported positive or socially focused cognitive-emotional states (Component 1).",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "General Efficacy for Online Art and Cultural Interventions",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "These results raise several implications for both pragmatic and theoretical application of the arts for wellbeing. First, this provides initial evidence that such wellbeing effects can be found via brief interactions with art and similar cultural materials online, impacting many of the same variables as considered in in-person studies. This finding, detected with an adult sample of convenience, during a unique COVID-19-induced lockdown period, might be viewed as proof of concept that technology, via the internet, can deliver targeted doses of art and culture into the everyday lives of individuals. The findings also contribute evidence to the potential of digital reproductions to produce similar effects to those found with real artworks installed in common spaces or seen in-museum visits.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The reduction of reported loneliness also merits specific mention. While probably only tangentially connected to the art experience-via the changes in anxiety-a claim could be made that the loneliness-reducing aspects of cultural engagements, routinely found in-person (Todd et al., 2017; Tymoszuk et al., 2019), might come about from the social connection or collaborative nature of visiting a museum or sharing art experiences. Here, however, we found that even visiting an exhibit, likely by oneself via the internet, led to significant effects. This is possibly due to the communal nature of visiting a public website and seeing another person's art or design. In support of such a communal claim, loneliness was one of the only variables that showed slightly larger effects in the Bento condition, which focused on human activities in a more explicit way. This adds credence to recent initiatives, especially arising during COVID19, for online arts and culture exhibitions to target loneliness during isolation from others-another compelling target for future research.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "In both conditions we found lack of significant effects on positive mood and satisfaction with life. When considering satisfaction with life, this is likely due to the more global wellbeing nature of the construct, in that the questions are asking about a more overall assessment of one's satisfaction, which is possibly not likely to change on short timescales. It would be interesting, however, to include more testing timepoints to address this in future study as satisfaction with life has been noted to be related to cultural engagement like visiting art museums (Lee et al., 2020). In regard to positive mood, it was slightly surprising to find a non-significant effect but at the same time to find a significant effect in the reduction of negative mood. It seems that both art and cultural engagement may be specifically better targeted at decreasing negative feelings while not as effective at increasing positive ones. Here it could be seen that visiting an online art and cultural website, like Google Arts and Culture, may help decrease feelings like sadness, anxiety or agitation but may not increase feelings of happiness, warmth, satisfaction. It would be especially valuable for future research to include a measurement of mood that has a variety of feeling items that can help to disentangle this further.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "When comparing the effect of online art interventions to past literature, our findings are similar. Looking to the two most salient effects found in this paper-improvement in mood and state-anxiety-we found moderate to large effects in the art condition (negative mood ! 2 p = 0.12, positive mood ! 2 p = 0.17, and state-anxiety ! 2 p = 0.19). These are in line, for example with Ho et al. (2015) who reported a pre/post change (assessed via Brief Mood Introspection Scale) following an art exhibition visit in a hospital. As well as Paddon et al. (2014), who reported medium effect sizes in negative mood (Cohen's d = 0.38) and positive mood (d = 0.69), assessed via Positive and Negative Affect Schedule (PANAS), following a cultural museum objecthandling session in a hospital [also see Clow and Fredhoi's (2006) report of reduction in self-reported stress after individuals spent a lunch break in-person in a museum of art].",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Even comparing to other domains, our results remain roughly equivalent. For example, Cracknell et al. (2016) reported a change in affective valence (assessed via 11-point bipolar Feeling Scale), following a roughly 5-min intervention in which participants observed an aquarium fish tank, ! 2 p = 0.47 (negative-topositive). Comparing across interactions with nature, which have been routinely shown to provide impacts on mood, a metaanalysis (McMahan and Estes, 2015) of both lab or in-person interventions reported a standardized reduction in negative affect across studies of r = 0.12 (increase in positive affect r = 0.31). In emerging results of other online interventions, Howells et al. (2015) report a smartphone-based mindfulness intervention impact on affect (measured via PANAS after 10 days of use) of medium size effect (! 2 = 0.071) for positive affect and small effect (! 2 = 0.010) for negative mood. Keeping in mind the selfreport method of the present study, differences in assessment scales, and leaving open the question of the duration of impact or whether self-report might relate to physical or behavioral differences, our results provide compelling evidence for art and culture in online spaces.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Is There Anything Different About Engaging Art Versus Other Cultural Content?",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "In regards to our second research question, we found mixed, albeit still compelling, suggestions about the potential role that \"art\" might play in improving wellbeing. We did not find a significant difference between conditions. One probable explanation for the lack of difference is that both conditions, which were selected to be formally similar, evoked similar responses-for example, a generally positive interaction with visually pleasing material. Note, while the artwork was rated as more beautiful and good, both conditions were equally meaningful and evoked a desire to experience them again.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "One telling result in line with the above argument was that, despite explicitly not labeling it as such on our part, we found almost 70% of those in the Bento condition actually believed that they had engaged with \"art.\" This finding that individuals would label something-even if not intended to be seen as art in a classic sense-as an \"art\" example, is in line with past research. For example, Pelowski et al. (2017b) reported this with photographs of a number of random every-day objects, suggesting that individuals may use \"art\" as a general label of particularly appreciated visual stimuli. Thus, it is reasonable to assume that we were not in fact comparing apples to oranges as we had designed, but more likely that we were comparing apples to a different variety of apples. Indeed, it is also worth noting that culinary traditions are also seen as a form of art, possibly also contributing to these results.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The fact that participants reported higher appraisals in the case of the artworks suggests that this design indeed did elicit slightly more positive responses. On the one hand, it is important to note that, the subjective \"art\"/\"not-art\" label provided by the participants for their interventions (regardless of the actual assigned condition), did not result in significant differences between the impact of the cultural engagement at the level of our Wellbeing DVs, regardless of the higher appraisals. Thus, our conclusion and overall interpretation is that the label of art alone does not appear to be a necessarily important factor of cultural interventions but rather the subjective experience that the individual has with the content is much more important. This being said, these interpretation rest upon the design of the study with the inclusion of stimuli that were chosen to be similar. It would be important to further any claim based on the label of art or non-art with stimuli that are more distinct, or possibly to use a top-down manipulation of art context (see Kirk et al., 2009). We encourage further research to address participants' subjective experience in both arts and cultural interventions rather than assuming that art by way of 'aura' is necessarily better.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Potential Mechanisms for the Modulation of Mood, Anxiety, and Wellbeing",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Our study also sheds light on possible potential underlying mechanisms for how art and culture can lead to wellbeing impacts. Our stepdown analysis highlighted that online cultural engagement might especially be an avenue to regulating mood, which possibly drives other positive impacts (state-anxiety, subjective wellbeing). This highlight of mood regulation is supported by past research, which has found emotion and mood regulation as a common beneficial outcome of a variety of types of arts and cultural engagement (Ivcevic and Brackett, 2015; Fancourt et al., 2019, 2021).",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The significant relationships between the impacts on mood and individuals' appraisals and cognitive-emotional experience adds new data to our understanding of how art interventions might work. The finding that higher positive cognitive-emotional states (e.g., joy, and social terms such as confident, compassion, gratitude) and more profound states such as free, moved, awe, sublime, raise interesting implications for past arguments that contributors to wellbeing impacts beyond mere pleasure. For example, many of these terms could be argued to overlap with Kaplan's (1995) discussion of \"fascination\" as a pillar of restorative effects from viewing nature. Empirical evidence for such nuanced aspects in art engagement is only recently emerging (Pelowski et al., 2017c). However, it seems plausible that encouraging specific types of cognitive-emotional states, perhaps through choice of content, is an important consideration when designing interventions and is another target for further research.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Several of these states (awe, moved) are also suggested to be prototypical emotions in aesthetic experience (Fingerhut and Prinz, 2020). Along with our findings of the relationship of beauty, meaningfulness, and other positive appraisals to individual's change in mood, one could make a claim that the present results support arguments highlighting aesthetic experiences as an important factor in art interventions (Sachs et al., 2015; Fancourt and Finn, 2019; Mastandrea et al., 2019). Fancourt and Finn (2019), include aesthetic experience in their summary of the mechanisms underlying the impact of art engagement on health and wellbeing while Mastandrea et al. (2019) further note that aesthetic experiences from visual art can induce highly pleasurable states and these states can impact affect and aid mood regulation. In future research, these features of art and cultural interventions need to be further teased apart so that we may understand what types of experiences, and which aspects of those experiences can impact which types of individuals.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Duration and Dosage",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Another interesting finding of the study involves the required time and amount of art. Unlike previous studies that have typically either installed some works of art or asked individuals to have a complete museum experience, in the present study we found improvement in wellbeing variables even with an interactive exhibition of one painting in under 5 min. This viewing duration aligns with typical ranges of individual artwork engagement in museums (Pelowski et al., 2017a). The results are also in line with other wellbeing findings. For example, the Cracknell et al. (2016) study of aquarium-viewing found that peak impacts on mood tended to be delivered within the first 5 min. Our results provide a suggestion for the possibility of \"microdosing\" art and culture that might fit into everyday routines, delivered online.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Caveats and Targets for Future Research",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "This study is, of course, not without its limitations. It should, we would argue, be treated as a first exploratory step, with its findings viewed primarily as calls for future research. Readers should also take our results and interpretations with our sample size in mind. Although we found that, indeed, there is a measurable, systematic effect on a variety of variables related to wellbeing as they are self-reported by participants, it is important to consider several factors that could be raised about this result. First, in regard to the intervention itself, we had little control over what type of device was used (computer or phone), in which setting (home, office, while commuting, in hospital), and how intently participants engaged with the chosen stimuli. Similarly, in line with the nature of this type of ecological online experiment we were unable to supervise participants to see if they viewed the stimuli with a desirable amount of concentration.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "We recommend that future study should therefore not only test for replication, but also include more rigorous and more controlled paradigm (e.g., using a webcam to monitor engagement, recording screen and mouse movement, etc.). That said, it could also be argued that the experience of viewing the online exhibitions, where participants could freely engage with the stimuli in their home environments, represents a strength of this study, as it reflects findings that can be generalized to more ecologically valid scenarios. Indeed, regardless of the confounding behavior that participants might have engaged in, we still found a systematic improvement in their wellbeing, suggesting that such online engagement, not in a lab where researchers ensure no distractions, but rather in the real world, is viable and deserves further study.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "It is also possible due to the pre-post nature of our design that participants' answers may have been impacted by, for example, a placebo effect or more social-driven factors such as the Hawthorne effect (Adair, 1984) in which participants might guess the study goals and respond how they feel they should (desirability effect or command bias). Although this is possible, as is the case for many psychological studies, we do not believe this precludes our results from a meaningful interpretation. Indeed, the supposed Hawthorne effect was neither consistent across all wellbeing variables (e.g., we did not find significant overall changes in positive mood or satisfaction with life) nor across all individuals (for each variable, some participants indicated that their positive mood, for example, decreased, see Figure 4). Further, due to the randomization of the six batteries of DV questions, it would be difficult for individuals to remember so many questions to then seek based on their figuring out the hypothesis to fake their answers. Thus, despite these noteworthy limitations, our results still suggest that online cultural intervention on specific facets of wellbeing is a viable area for more research. As a next step, we strongly encourage the addition of a control condition to strengthen the interpretability of the effect possibly through larger sample sizes based on these reported effect sizes, and the inclusion of a post only comparison group or other control groups.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Additionally, we are unable to determine the causality of the relationship between appraisals, cognitive-emotional experience, and impacts on mood and anxiety. Participants first viewed the cultural content, then indicated which cognitive-emotional states they experienced while viewing, and subsequently provided their appraisals of the exhibition, followed by their actual mental wellbeing state. We would encourage further research to examine if subjective experiences, such as beauty and meaningfulness, mediate the impact of said intervention on mood and anxiety. Or, alternately, if an improved cognitive, emotional, or physiological state influence reported appraisals. It would be interesting to compare these effects to otherperhaps less visually appealing or more information-focusedconditions, or stimuli that might not be spontaneously labeled as art but rather lacking any trace of intentionally of human connection.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "CONCLUSION",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "In conclusion, the results of this paper suggest that online cultural engagement, including but not limited to fine art, does seem to be a viable tool to support individuals' mood, anxiety, loneliness and wellbeing especially when such content is beautiful, meaningful, and inspires positive cognitive-emotional states in the viewer.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "DATA AVAILABILITY STATEMENT",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found below: https://github.com/ giacomobignardi/Trupp-online-art-wellbeing.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "ETHICS STATEMENT",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Ethical review and approval was not required for the study on human participants in accordance with the local legislation and institutional requirements. The patients/participants provided their written informed consent to participate in this study.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "AUTHOR CONTRIBUTIONS",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "MT, KC, and MP contributed to the design of the study. MT and KC conducted the literature review. MT prepared the materials and collected and processed the data. MT, GB, ES, and MP contributed to the planning of the analysis. GB and MP conducted the analysis. MT and ES validated the analytical work. MT, GB, and KC drafted the manuscript. MP supervised the study. MT and MP revised the manuscript. All authors contributed to the article and approved the submitted version.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "FUNDING",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The writing of this article was supported by a Grant to MP from the EU Horizon 2020 TRANSFORMATIONS-17-2019, Societal Challenges and the Arts (870827 - ARTIS, Art and Research on Transformations of Individuals of Society). GB was supported by the German Federal Ministry of Education and Research (BMBF) and Max Planck Society.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "ACKNOWLEDGMENTS",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "We would like to thank Corinna Kühnapfel, Joerg Fingerhut, and Sandra Trupp for feedback on this manuscript and the members of the Empirical Visual Aesthetics Lab for feedback on this project.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "SUPPLEMENTARY MATERIAL",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fpsyg.2022. 782033/full#supplementary-material",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "REFERENCES",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "About Google Cultural Institute (2020). Bringing the World's Art and Culture Online for Everyone. Available online at: https://about.artsandculture.google. com/ (accessed April 15, 2020).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Adair, J. G. (1984). The Hawthorne effect: a reconsideration of the methodological artifact. J. Appl. Psychol. 69, 334-345. doi: 10.1037/0021-9010.69.2.334",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Alelis, G., Bobrowicz, A., and Ang, C. S. (2015). Comparison of engagement and emotional responses of older and younger adults interacting with 3D cultural heritage artefacts on personal devices. Behav. Inf. Technol. 34, 1064-1078. doi: 10.1080/0144929X.2015.1056548",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Allen, M., Poggiali, D., Whitaker, K., Marshall, T. R., van Langen, J., and Kievit, R. A. (2021). Raincloud plots: a multi-platform tool for robust data visualization. Wellc. Open Res. 4:63. doi: 10.12688/wellcomeopenres.15191.2",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Ander, E., Thomson, L., Blair, K., Noble, G., Menon, U., Lanceley, A., et al. (2013). Using museum objects to improve wellbeing in mental health service users and neurological rehabilitation clients. Br. J. Occup. Ther. 76, 208-216. doi: 10.4276/030802213X13679275042645",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Barbican Center (2020). Barbican Announces New Content to Coincide with Mental Health Awareness Week and Human Rights Watch Film Festival [Press Release]. London: Barbican Center.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Becker, S., Bräscher, A.-K., Bannister, S., Bensafi, M., Calma-Birling, D., Chan, R. C. K., et al. (2019). The role of hedonics in the human affectome. Neurosci. Biobehav. Rev. 102, 221-241. doi: 10.1016/j.neubiorev.2019.05.003",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Belvedere Museum (2020). Isolation - Sammlungsbereiche - Sammlung Online [Online Collection]. Available online at: https://sammlung.belvedere.at/ collections/219483/sitzen;jsessionid=F5863ED64B9450128617C950900477E9 (accessed august 10, 2020).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Benjamin, W. (1968). The Work of Art in the Age of Mechanical Reproduction. Illuminatioins.Trans. By H. Zohn. New York, NY: Shocken Books.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Bennington, R., Backos, A., Harrison, J., Etherington Reader, A., and Carolan, R. (2016). Art therapy in art museums: promoting social connectedness and psychological wellbeing of older adults. Arts Psychother. 49, 34-43. doi: 10.1016/ j.aip.2016.05.013",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Berger, J. (2008). Ways of Seeing. London: Penguin Classics.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Berridge, K., and Kringelbach, M. (2011). Building a neuroscience of pleasure and wellbeing. Psychol. Well Being 1, 1-3. doi: 10.1186/2211-1522-1-3",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Binnie, J. (2010). Does viewing art in the museum reduce anxiety and improve wellbeing? Mus. Soc. Issues 5, 191-201. doi: 10.4324/9781315421735-4",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Brieber, D., Nadal, M., and Leder, H. (2015). In the white cube: museum context enhances the valuation and memory of art. Acta Psychol. 154, 36-42. doi: 10.1016/j.actpsy.2014.11.004",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Brieber, D., Nadal, M., Leder, H., and Rosenberg, R. (2014). Art in time and space: context modulates the relation between art experience and viewing time. PLoS One 9:e99019. doi: 10.1371/journal.pone.0099019",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Bu, F., Mak, H. W., Bone, J. K., and Fancourt, D. (2021). Longitudinal changes in home-based arts engagement during and following the first national lockdown due to the COVID-19 pandemic in the United Kingdom. MedRxiv [Preprint]. doi: 10.1101/2021.05.14.21257233",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Camic, P. M., and Chatterjee, H. J. (2013). Museums and art galleries as partners for public health interventions. Perspect. Public Health 133, 66-71. doi: 10.1177/ 1757913912468523",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Chatterjee, H. J., and Noble, G. (2017). Museums, Health and Well-Being, 1st Edn. London: Routledge.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Clayton, G., and Potter, S. (2017). Arts on Prescription: A Creative and CostEffective Approach to Improving Mental Health. Arts, Health and Wellbeing: A Theoretical Inquiry for Practice. Newcastle upon Tyne: Cambridge Scholars Publishing, 160-181.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Clow, A., and Fredhoi, C. (2006). Normalisation of salivary cortisol levels and selfreport stress by a brief lunchtime visit to an art gallery by London City workers. J. Holist. Healthc. 3, 29-32.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, J. N., Taylor Dryman, M., Morrison, A. S., Gilbert, K. E., Heimberg, R. G., and Gruber, J. (2017). Positive and negative affect as links between social anxiety and depression. Behav. Ther. 48, 820-833. doi: 10.1016/j.beth.2017.07.003",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Covid-19 Social Study (2020). Understanding the Psychological and Social Impact of the Pandemic. Available online at: https://www.covidsocialstudy.org/ (accessed May 12, 2021).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Cracknell, D., White, M. P., Pahl, S., Nichols, W. J., and Depledge, M. H. (2016). Marine biota and psychological wellbeing: a preliminary examination of doseresponse effects in an aquarium setting. Environ. Behav. 48, 1242-1269. doi: 10.1177/0013916515597512",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Cupchik, G. C., Vartanian, O., Crawley, A., and Mikulis, D. J. (2009). Viewing artworks: contributions of cognitive control and perceptual facilitation to aesthetic experience. Brain Cogn. 70, 84-91. doi: 10.1016/j.bandc.2009.01.003",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Cuypers, K., Krokstad, S., Holmen, T. L., Knudtsen, M. S., Bygren, L. O., and Holmen, J. (2012). Patterns of receptive and creative cultural activities and their association with perceived health, anxiety, depression and satisfaction with life among adults: the HUNT study, Norway. J. Epidemiol. Community Health 66, 698-703. doi: 10.1136/jech.2010.113571",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Davies, C., Knuiman, M., and Rosenberg, M. (2016). The art of being mentally healthy: a study to quantify the relationship between recreational arts engagement and mental wellbeing in the general population. BMC Public Health 16:15. doi: 10.1186/s12889-015-2672-7",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "De Jong Gierveld, J., and Van Tilburg, T. (2010). The De Jong Gierveld short scales for emotional and social loneliness: tested on data from 7 countries in the UN generations and gender surveys. Eur. J. Ageing 7, 121-130. doi: 10.1007/s10433010-0144-6",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Diener, E., Emmons, R. A., Larsen, R. J., and Griffin, S. (1985). The satisfaction with life scale. J. Pers. Assess. 49, 71-75. doi: 10.1207/s15327752jpa4901_13",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Dua, J. K. (1993). The role of negative affect and positive affect in stress, depression, self-esteem, assertiveness, Type A behaviors, psychological health, and physical health. Genet. Soc. Gen. Psychol. Monographs 119, 515-552.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Fancourt, D., and Finn, S. (2019). What is the Evidence on the Role of the Arts in Improving Health and Wellbeing? A scoping Review. Copenhagen: WHO Regional Office for Europe.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Fancourt, D., Aughterson, H., Finn, S., Walker, E., and Steptoe, A. (2021). How leisure activities affect health: a narrative review and multi-level theoretical framework of mechanisms of action. Lancet Psychiatry 8, 329-339. doi: 10.1016/ S2215-0366(20)30384-9",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Fancourt, D., Garnett, C., and Müllensiefen, D. (2020). The relationship between demographics, behavioral and experiential engagement factors, and the use of artistic creative activities to regulate emotions. Psychol. Aesthet. Creat. Arts. doi: 10.1037/aca0000296 [Epub ahead of print].",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Fancourt, D., Garnett, C., Spiro, N., West, R., and Müllensiefen, D. (2019). How do artistic creative activities regulate our emotions? Validation of the emotion regulation strategies for artistic creative activities scale (ERS-ACA). PLoS One 14:e0211362. doi: 10.1371/journal.pone.0211362",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Field, A. (2009). Discovering Statistics Using SPSS. Thousand Oaks, CA: SAGE Publications.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Fingerhut, J., and Prinz, J. J. (2020). Aesthetic emotions reconsidered. Monist 103, 223-239. doi: 10.1093/monist/onz037",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B. L., and Branigan, C. (2005). Positive emotions broaden the scope of attention and thought-action repertoires. Cogn. Emot. 19, 313-332. doi: 10.1080/02699930441000238",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Google Cultural Institute (2020). Bringing the World's Art and Culture Online for Everyone. Available online at: https://about.artsandculture.google.com/ (accessed April 15, 2020).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Gosling, S. D., Rentfrow, P. J., and Swann, W. B. Jr. (2003). A very brief measure of the Big-Five personality domains. J. Res. Pers. 37, 504-528. doi: 10.1016/S00926566(03)00046-1",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Hansen, E., Sund, E., Knudtsen, M. S., Krokstad, S., and Holmen, T. L. (2015). Cultural activity participation and associations with self-perceived health, lifesatisfaction and mental health: the Young HUNT Study, Norway. BMC Public Health 15, 544. doi: 10.1186/s12889-015-1873-4",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Ho, R. T. H., Potash, J. S., Fang, F., and Rollins, J. (2015). Art viewing directives in hospital settings effect on mood. HERD 8, 30-43. doi: 10.1177/ 1937586715575903",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Howells, A., Eiroa Orosa, F. J., and Ivtzan, I. (2015). Putting the 'app' in happiness: a randomised controlled trial of a smartphone-based mindfulness intervention to enhance wellbeing. J. Happiness Stud. 17, 163-185. doi: 10.1007/s10902-0149589-1",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "International Arts and Mind Lab (2020). A Global Call to Art: The Covid-19 Archives. Available online at: https://www.artsandmindlab.org/a-global-callto-art-archive/ (accessed May 12, 2021).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Ivcevic, Z., and Brackett, M. (2015). Predicting creativity: interactive effects of openness to experience and emotion regulation ability. Psychol. Aesthet. Creativ. Arts 9, 480-487. doi: 10.1037/a0039826",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Jones, J. (2020). We are all Edward Hopper Paintings Now': Is He the Artist of the Coronavirus age? The Guardian, International Edition. Available online at: https://www.theguardian.com/artanddesign/2020/mar/27/we-areall-edward-hopper-paintings-now-artist-coronavirus-age (accessed March 28, 2020).",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. (1995). The restorative benefits of nature: toward an integrative framework. J. Environ. Psychol. 15, 169-182. doi: 10.1016/0272-4944(95)90 001-2",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Karnik, M., Printz, B., and Finkel, J. (2014). A hospital's contemporary art collection: effects on patient mood, stress, comfort, and expectations. HERD 7, 60-77. doi: 10.1177/193758671400700305",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Kirk, U., Lilleholt, L., and Freedberg, D. (2020). Cognitive framing modulates emotional processing through dorsolateral prefrontal cortex and ventrolateral prefrontal cortex networks: a functional magnetic resonance imaging study. Brain Behav. 10:e01761. doi: 10.1002/brb3.1761",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Kirk, U., Skov, M., Hulme, O., Christensen, M. S., and Zeki, S. (2009). Modulation of aesthetic value by semantic context: an fMRI study. NeuroImage 44, 11251132. doi: 10.1016/j.neuroimage.2008.10.009",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Knott, K. (2020). Online art Exhibition Captures Pandemic Scenes in Hong Kong - of Loneliness, Fear, but also the Triumph of the Human Spirit. South China Morning Post. Available online at: https://www.scmp.com/lifestyle/arts-culture/ article/3105590/online-art-exhibition-captures-pandemic-scenes-hong-kong (accessed April 15, 2020).",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Kweon, B.-S., Ulrich, R. S., Walker, V. D., and Tassinary, L. G. (2008). Anger and stress: the role of landscape posters in an office setting. Environ. Behav. 40, 355-381. doi: 10.1177/0013916506298797",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Lacey, S., Hagtvedt, H., Patrick, V. M., Anderson, A., Stilla, R., Deshpande, G., et al. (2011). Art for reward's sake: visual art recruits the ventral striatum. NeuroImage 55, 420-433. doi: 10.1016/j.neuroimage.2010.11.027",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Leder, H., Belke, B., Oeberst, A., and Augustin, D. (2004). A model of aesthetic appreciation and aesthetic judgments. Br. J. Psychol. (Lond. Engl. 1953) 95(Pt 4), 489-508. doi: 10.1348/0007126042369811",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Lee, C. W., Lin, L. C., and Hung, H. C. (2020). Art and cultural participation and life satisfaction in adults: the role of physical health, mental health, and interpersonal relationships. Front. Public Health 8:582342. doi: 10.3389/fpubh. 2020.582342",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Leng, F. Y., Yeo, D., George, S., and Barr, C. (2014). Comparison of iPad applications with traditional activities using person-centred care approach: impact on wellbeing for persons with dementia. Dementia (Lond. Engl.) 13, 265-273. doi: 10.1177/1471301213494514",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Locher, P., and Dolese, M. (2004). A comparison of the perceived pictorial and aesthetic qualities of original paintings and their postcard images. Empir. Stud. Arts 22, 129-142. doi: 10.2190/EQTC-09LF-JRHA-XKJT",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Locher, P., Smith, J. K., and Smith, L. F. (2001). The influence of presentation format and viewer training in the visual arts on the perception of pictorial and aesthetic qualities of paintings. Perception 30, 449-465. doi: 10.1068/p3008",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Locher, P., Smith, L., and Smith, J. (1999). Original paintings versus slide and computer reproductions: a comparison of viewer responses. Empir. Stud. Arts 17, 121-129. doi: 10.2190/r1wn-taf2-376d-efuh",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Marteau, T. M., and Bekker, H. (1992). The development of a six-item shortform of the state scale of the Spielberger State-Trait Anxiety Inventory (STAI). Br. J. Clin. Psychol. 31, 301-306. doi: 10.1111/j.2044-8260.1992.tb0 0997.x",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Martínez-Martí, M. L., Avia, M. D., and Hernández-Lloreda, M. J. (2018). Effects of an appreciation of beauty randomized-controlled trial web-based intervention on appreciation of beauty and wellbeing. Psychol. Aesthet. Creativ. Arts 12, 272-283. doi: 10.1037/aca0000164",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Mastandrea, S., Fagioli, S., and Biasi, V. (2019). Art and psychological wellbeing: linking the brain to the aesthetic emotion. Front. Psychol. 10:739. doi: 10.3389/ fpsyg.2019.00739",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "McLean, J. (2011). An Evidence Review of the Impact of Participatory Arts on Older People. Edinburgh: Mental Health Foundation.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "McMahan, E. A., and Estes, D. (2015). The effect of contact with natural environments on positive and negative affect: a meta-analysis. J. Posit. Psychol. 10, 507-519. doi: 10.1080/17439760.2014.994224",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Nanda, U., Eisen, S., Zadeh, R. S., and Owen, D. (2011). Effect of visual art on patient anxiety and agitation in a mental health facility and implications for the business case. J. Psychiatr. Ment. Health Nurs. 18, 386-393. doi: 10.1111/j.13652850.2010.01682.x",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "O'Connor, B. P. (2000). SPSS and SAS programs for determining the number of components using parallel analysis and Velicer's MAP test. Behav. Res. Methods Instr. Comput. 32, 396-402. doi: 10.3758/BF03200807",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Packer, J., and Bond, N. (2010). Museums as restorative environments. Curator 53, 421-436. doi: 10.1111/j.2151-6952.2010.00044.x",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Paddon, H., Thomson, L., Menon, U., Lanceley, A., and Chatterjee, H. (2014). Mixed methods evaluation of wellbeing benefits derived from a heritage-inhealth intervention with hospital patients. Arts Health 6, 24-58. doi: 10.1080/ 17533015.2013.800987",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Patil, I. (2021). Visualizations with statistical details: the 'ggstatsplot' approach. J. Open Source Softw. 6:3167. doi: 10.21105/joss.03167",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M. (2015). Tears and transformation: feeling like crying as an indicator of insightful or \"aesthetic\" experience with art. Front. Psychol. 6:1006. doi: 10.3389/fpsyg.2015.01006",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M., Forster, M., Tinio, P., Scholl, M., and Leder, H. (2017a). Beyond the lab: an examination of key factors influencing interaction with 'real' and museum-based art. Psychol. Aesthet. Creativ. Arts 11, 245-264. doi: 10.1037/ aca0000141",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M., Gerger, G., Chetouani, Y., Markey, P. S., and Leder, H. (2017b). But is it really art? The classification of images as \"art\"/\"not art\" and correlation with appraisal and viewer interpersonal differences. Front. Psychol. 8:1729. doi: 10.3389/fpsyg.2017.01729",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M., Markey, P. S., Forster, M., Gerger, G., and Leder, H. (2017c). Move me, astonish me. . . delight my eyes and brain: the Vienna integrated model of top-down and bottom-up processes in Art Perception (VIMAP) and corresponding affective, evaluative, and neurophysiological correlates. Phys. Life Rev. 21, 80-125. doi: 10.1016/j.plrev.2017.02.003",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M., Hur, Y.-J., Cotter, K., Ishizu, T., Christensen, A., Leder, H., et al. (2019). Quantifying the if, the when, and the what of the sublime: a survey and latent class analysis of incidence, emotions, and distinct varieties of personal sublime experiences. Psychol. Aesthet. Creativ. Arts. 15, 216-240. doi: 10.1037/ aca0000273",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M., Leder, H., Mitschke, V., Specker, E., Gerger, G., Tinio, P. P. L., et al. (2018). Capturing aesthetic experiences with installation art: an empirical assessment of emotion, evaluations, and mobile eye tracking in Olafur Eliasson's \"Baroque, Baroque!\" Front. Psychol. 9:1255. doi: 10.3389/fpsyg.2018. 01255",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M., Liu, T., Palacios, V., and Akiba, F. (2014). When a body meets a body: an exploration of the negative impact of social interactions on museum experiences of art. Int. J. Educ. Arts 15:n14.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Radermecker, A.-S. V. (2020). Art and culture in the COVID-19 era: for a consumer-oriented approach. SN Bus. Econ. 1:4. doi: 10.1007/s43546-02000003-y",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Rice, G. (2020). The Necessity of the Arts in a Time of Pandemic: How the University of Wisconsin-Madison is Responding. Madison, WI: Division of the Arts.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Roberts, S., Camic, P. M., and Springham, N. (2011). New roles for art galleries: artviewing as a community intervention for family carers of people with mental health problems. Arts Health 3, 146-159. doi: 10.1080/17533015.2011.561360",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Romano, A. (2020). 12 Museums From Around the World That You Can Visit Virtually. Travel+Leisure. Available online at: https://www.travelandleisure. com/attractions/museums-galleries/museums-with-virtual-tours (accessed April 15, 2020).",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "RStudio Team (2019). RStudio: Integrated Development for R. Boston, MA: RStudio, PBC.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Sachs, M. E., Damasio, A., and Habibi, A. (2015). The pleasures of sad music: a systematic review. Front. Hum. Neurosci. 9:404. doi: 10.3389/fnhum.2015.00404",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Samaroudi, M., Echavarria, K. R., and Perry, L. (2020). Heritage in lockdown: digital provision of memory institutions in the UK and US of America during the COVID-19 pandemic. Mus. Manag. Curatorsh. 35, 337-361. doi: 10.1080/ 09647775.2020.1810483",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, J., and Smith, L. (2001). Spending time on art. Empir. Stud. Arts 19, 229-236. doi: 10.2190/5MQM-59JH-X21R-JN5J",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, L., Smith, J., and Tinio, P. (2016). Time spent viewing art and reading labels. Psychol. Aesthet. Creativ. Arts 11, 77-85. doi: 10.1037/aca0000049",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Son, H., and Lee, J. (2021). Does online shopping make people feel better? The therapeutic effect of online shopping on Korean female consumers' mood, selfesteem, and self-efficacy?: based on the context of fashion product shopping. J. Glob. Scholars Mark. Sci. 31, 580-597. doi: 10.1080/21639159.2020.1808821",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Specker, E., Fekete, A., Trupp, M. D., and Leder, H. (2021). Is a \"real\" artwork better than a reproduction? A meta-analysis of the genuineness effect. Psychol. Aesthet. Creat. Arts. doi: 10.1037/aca0000399 [Epub ahead of print].",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Specker, E., Forster, M., Brinkmann, H., Boddy, J., Pelowski, M., Rosenberg, R., et al. (2020). The Vienna art interest and art knowledge questionnaire (VAIAK): a unified and validated measure of art interest and art knowledge. Psychol. Aesthet. Creativ Arts 14, 172-185. doi: 10.1037/aca0000205",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Tabachnick, B. G., and Fidell, L. S. (2013). Using Multivariate Statistics, Vol. 6. Boston, MA: Pearson.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Thomson, L. J., Lockyer, B., Camic, P. M., and Chatterjee, H. J. (2018). Effects of a museum-based social prescription intervention on quantitative measures of psychological wellbeing in older adults. Perspect. Public Health 138, 28-38. doi: 10.1177/1757913917737563",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Tinkler, L., and Hicks, S. (2011). Measuring Subjective Well-being. London: Office for National Statistics.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Todd, C., Camic, P. M., Lockyer, B., Thomson, L. J., and Chatterjee, H. J. (2017). Museum-based programs for socially isolated older adults: understanding what works. Health Place 48, 47-55. doi: 10.1016/j.healthplace.2017.08.005",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Tyack, C., Camic, P. M., Heron, M. J., and Hulbert, S. (2017). Viewing art on a tablet computer: a wellbeing intervention for people with dementia and their caregivers. J. Appl. Gerontol. 36, 864-894. doi: 10.1177/0733464815617287",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Tymoszuk, U., Perkins, R., Fancourt, D., and Williamon, A. (2019). Cross-sectional and longitudinal associations between receptive arts engagement and loneliness among older adults. Soc. Psychiatry Psychiatr. Epidemiol. 55, 891-900. doi: 10. 1007/s00127-019-01764-0",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Tymoszuk, U., Perkins, R., Spiro, N., Williamon, A., and Fancourt, D. (2020). Longitudinal associations between short-term, repeated, and sustained arts engagement and wellbeing outcomes in older adults. J. Gerontol. B Psychol. Sci. Soc. Sci. 75, 1609-1619. doi: 10.1093/geronb/gbz085",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R., and Gilpin, L. (2003). \"Healing arts: nutrition for the soul,\" in Putting Patients First: Designing and Practicing Patient-Centered Care, eds S. B. Frampton, L. Gilpin, and P. A. Charmel (San Francisco, CA: Jossey Bass), 117-146. doi: 10.1007/s12098-009-0047-8",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Unitt, C. (2020). Actually Yes, People Do Want Virtual Museum Tours. Cultural Digital Newsletter. Available online at: https://www.chrisunitt.co.uk/2020/",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "05/actually-yes-people-do-want-virtual-museum-tours/ (accessed March 28, 2020).",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Verhavert, S., Wagemans, J., and Augustin, M. D. (2018). Beauty in the blink of an eye: the time course of aesthetic experiences. Br. J. Psychol. 109, 63-84. doi: 10.1111/bjop.12258",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Wang, S., Mak, H. W., and Fancourt, D. (2020). Arts, mental distress, mental health functioning & life satisfaction: fixed-effects analyses of a nationallyrepresentative panel study. BMC Public Health 20:208. doi: 10.1186/s12889019-8109-y",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Wheatley, D., and Bickerton, C. (2017). Subjective wellbeing and engagement in arts, culture and sport. J. Cult. Econ. 41, 23-45. doi: 10.1007/s10824-016-9270-0 Wheatley, D., and Bickerton, C. (2019). Measuring changes in subjective wellbeing from engagement in the arts, culture and sport. J. Cult. Econ. 43, 421-442.",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "doi: 10.1007/s10824-019-09342-7",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "White, M., Smith, A., Humphryes, K., Pahl, S., Snelling, D., and Depledge, M. (2010). Blue space: the importance of water for preference, affect, and restorativeness ratings of natural and built scenes. J. Environ. Psychol. 30, 482-493. doi: 10.1016/j.jenvp.2010.04.004",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Zubala, A., Kennell, N., and Hackett, S. (2021). Art therapy in the digital world: an integrative review of current practice and future directions. Front. Psychol. 12:5955360. doi: 10.3389/fpsyg.2021.600070",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Conflict of Interest: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Publisher's Note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Copyright © 2022 Trupp, Bignardi, Chana, Specker and Pelowski. This is an openaccess article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+   "page": 17
+  }
+ ]
+}

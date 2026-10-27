@@ -1,0 +1,633 @@
+{
+ "paper_id": "P31",
+ "source": "P31_2019_Holt_Cognitive_and_Affective_Benefits_of_Coloring_user_manuscript.pdf",
+ "pages": 26,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "Cognitive and affective benefits of coloring: Two randomized controlled crossover studies",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Article",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Art Therapy: Journal of the American Art Therapy Association",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "ARTTHERAPY-D-18-00024",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Nicola J. Holt, PhD University of the West of England Bristol, United Kingdom",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Leah Furbert, BSc",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "University of the West of England",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Bristol, United Kingdom",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Emily Sweetingham, BSc University of the West of England Bristol, United Kingdom",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Editor's Note: Nicola J. Holt, PhD is Senior Lecturer in Psychology, Leah Furbert, BSc is a psychology graduate, and Emily Sweetingham, BSc is a psychology graduate in the Department of Health and Social Sciences, University of the West of England, Bristol, United Kingdom. Correspondence concerning this article may be addressed to the first author at Nicola.holt@uwe.ac.uk.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The current research sought to replicate and extend work suggesting that coloring can reduce anxiety, asking whether coloring can improve cognitive performance. In two experiments undergraduates (N = 47; N = 52) colored and participated in a control condition. Subjective and performance measures of mood and mindfulness were included: an implicit mood test (Experiment 1) and a selective attention task (Experiment 2) along with a divergent thinking test. In both experiments coloring significantly reduced anxiety and increased mindfulness compared with control and baseline scores. Following coloring participants scored significantly lower on implicit fear, than the control condition, and significantly higher on selective attention and original ideation. Coloring may not only reduce anxiety, but also improve mindful attention and creative cognition.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Keywords: Coloring, anxiety, mindfulness, selective attention, divergent thinking",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Cognitive and affective benefits of coloring: Two randomized controlled crossover studies",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Research on the therapeutic benefits of coloring has burgeoned in recent years (Sandmire et al., 2016; Powell, Alcorn & Lindsay, 2017), driven by the popularity of coloring amongst the general population, as evidenced by increased sales of adult coloring books (Quartz, 2016). Coloring for well-being is frequently advocated in community settings, for example, as a stress-reduction tool for university students (Independent, 2016). As such, it is important to build an evidence base for coloring as a well-being intervention.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "While the evidence base for the therapeutic benefits of the arts more widely is compelling (Clift & Camic, 2016), research on coloring is in its early stages. Nevertheless, a reduction in anxiety, pre- to post coloring is consistently reported (e.g., Eaton & Tieber, 2017). For example, the first study of this kind, by Curry and Kasser (2005), reported that, following an anxiety induction, coloring for twenty minutes led to a reduction in anxiety, to levels significantly below that of baseline anxiety. Subsequent studies have replicated this anxiety reduction effect, both with (Carsley & Heath, 2018; van der Vennet & Serice, 2012) and without (Eaton & Tieber, 2017; Mantzios & Giannou, 2018; Sandmire et al., 2016; Small, 2006) an anxiety induction.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness, focusing attention on one's current activity (Brown & Ryan, 2003), has been postulated as a mechanism for the reduction in anxiety following coloring, potentially by focusing attention on an enjoyable activity rather than negative ruminations (Curry & Kasser, 2005). However, mindfulness has only been included as an outcome in two recent studies (Carsley & Heath, 2018; Mantzios & Giannou, 2018). Only Carsley and Heath (2018) reported a significant effect, where mindfulness significantly increased pre- to post-coloring. Hence, further research is required to explore the impact of coloring on mindfulness. Overall, previous research supports the efficacy of coloring as a stress reduction technique, both to repair and to improve mood, but there are methodological problems with this body of work, including the need for control conditions to test whether extraneous factors, such as experimenter effects, explain the reductions in anxiety.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Only two coloring studies have used a control condition (Powell et al., 2017; Sandmire et al., 2016). Both compared coloring with sitting passively in groups, although participants were allowed to socially interact. Only Powell et al. reported that coloring reduced self-reported anxiety to a significantly greater degree than the control, necessitating further controlled research. Consideration of the type of control condition is important. A passive control consists merely of the absence of potential therapeutic elements and enables variation in activities in which participants engage, whereas an active control group, where a specific activity is assigned, seeks to homogenize experience, enabling clearer comparisons (Karlsson & Bergmark, 2015).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Another important methodological consideration is the reliance of previous research upon self-report measures, which are sensitive to response bias, including demand characteristics (where participants form expectations about an experiment that unconsciously influence their behavior) (Davidson & Kaszniak, 2015). For example, Eaton and Tieber (2017) reported reduced scores on all mood scales following coloring, including positive affect, which may be indicative of acquiescence bias. Only Sandmire et al. (2016) used an objective measure in coloring research, measuring vagal tone as an inverse physiological index of anxiety. This indicated significantly lower levels of physiological stress following coloring compared with the control condition, better supporting the hypothesis that coloring reduces anxiety than the self-report measure. Indeed, given discrepancies between physiological and self-report data in mindfulness research, Davidson and Kaszniak (2015) recommend that a range of outcome measures be included, including cognitive measures, since these may be differentially responsive to demand characteristics.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Present Study",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "In light of the call for more objective measures in coloring research (Sandmire et al., 2016), the current study assessed the impact of coloring on mood and attention using both self-report and performance measures. Rather than using a passive control condition, coloring was compared with reading, an activity that requires focused attention, like coloring, and which represents a typical student experience. In order to better control for confounding variables (such as social interaction) a crossover design was used, so that all participants were in the same environment at the same time. Mood was measured with both self-report and implicit measures. Implicit mood tasks seek to avoid response bias in mood reports by masking the mood measure as an evaluative task, where ambiguous stimuli are judged according to affective qualities (Bartoszek & Cervone, 2017). In addition to a self-report measure of mindful attention, as previously used (Carsley & Heath, 2018), a selective attention task was included as a performance measure (Robertson, Ward, Ridgeway & Nimmo-Smith, 1996). Selective attention improves concentration by orienting attention, and appears to be increased following mindfulness meditation (Jha, Krompinger & Baime, 2007).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The current research tested a further cognitive benefit of coloring: creative cognition; since moderate positive moods facilitate creativity (Baas, Dreu & Nijstad, 2008). Fredrickson's (2004) broaden-and-build theory explains this by proposing that positive mood widens attention, promoting the discovery of original ideas. Mindfulness has likewise been associated with improved creativity (Lebuda, Zabelina & Karwowski, 2016). Since coloring may improve both hedonic tone and mindfulness, it was therefore predicted that coloring would also improve creative thinking, in particular, the production of original ideas. Therefore, figural divergent thinking was included as an outcome measure, which requires making original responses to stimuli.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Experiment 1",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Experiment 1 aimed to replicate previous research showing a reduction in state anxiety following coloring, including both self-report and implicit measures of mood. A mandala design (a concentric pattern, forming around a central point) was chosen for participants to color, since all previous studies have used this design (other than Eaton and Tieber [2017], who used an unspecified abstract design). Self-report measures of mindfulness and the flow state (feeling immersed in an activity) were included to examine the impact of coloring on attention, and whether coloring is associated with an absorbed, attentive state as proposed by Curry and Kasser (2005). It was hypothesized that participants would score significantly higher on mood (hedonic tone, calmness and energetic arousal), mindfulness and the flow state following coloring, compared with both control and baseline scores. Secondly, it was hypothesized that participants would score significantly differently on implicit mood (with reduced fear, anger and sadness, and increased happiness) compared with the control condition.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Methods",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Research Design. This experimental study consisted of the following dependent variables: mood (hedonic tone, energetic arousal and tense arousal); the flow state; mindfulness; and implicit mood (happiness, anger, fear and sadness). The presentation of all measures, and alternate forms, was counterbalanced. This research received ethical approval from the University of the West of England (UWE) Research Ethics Committee.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Participants. Forty-seven year one undergraduate psychology students (36 females) with a mean age of 20.62 (ranging between 18 and 37) were recruited through opportunity sampling. Participation was not compulsory, rewarded or part of assessment on the module.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Measures.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Short Mood Scale (SMS; Wilhelm & Schoebi, 2007). A six-item scale measuring three dimensions of mood: hedonic tone, tense arousal and energetic arousal. Each item is presented on a dipole with a seven-point scale between two 'opposites' (e.g., calm and agitated). This scale was designed to repeatedly sample individual's mood and has been found to be reliable and sensitive to individual change (Wilhelm & Schoebi, 2007).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Flow Short Scale (FSS; Engeser & Rheinberg, 2008). A 10-item scale designed to measure phenomenological features of the flow state, including absorption and experiencing a balance between challenges and skills. Items are responded to on a 7-point Likert scale and include \"I am totally absorbed in what I am doing\". The scale has excellent psychometric properties.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Mindful Attention Awareness Scale (MAAS; Brown & Ryan, 2003). A five-item scale to measure the features of a mindful state, including focusing attention without being preoccupied. An example item (reversed) is: \"I was rushing through something without really paying attention to it\". Items are responded to on a 7-point Likert Scale. The MAAS has demonstrated good reliability, concurrent and predictive validity (MacKillop & Anderson, 2007).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Implicit Emotion Assessment Task (IEAT; Bartoszek & Cervone, 2017). Twenty abstract expressionistic images (14 greyscale; 6 color) are rated according to the emotion expressed: 'anger', 'fear', 'happiness', 'sadness' or 'none'. Bartoszek and Cervone (2017) report that the measure adequately detects changes in distinct emotions following appropriate mood inductions. The task was delivered in two parts in the current study, presenting 10 images (randomly selecting 7 monochrome and 3 colored images) after reading and coloring. There were no significant differences on implicit mood scores between the two halves of the task, suggesting that both elicited mood responses in a similar way.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Procedures. Participants were tested in a group setting in a large teaching room at UWE. Rectangular study tables were arranged in two circles. Each table had ample space for two participants. Participant information forms, consent forms, booklets of measures (placed face down), copies of the reading (a chapter on time management by Lee-Davies [2007]), coloring sheets (a preset mandala pattern), and 12 felt tip pens, each of a different color, were set out on every table. A random point was selected on each circle of tables, from which instructions to read and color first were alternated. At the start of the session participants were welcomed and invited to take a seat where they chose. Participants were asked to read an information sheet about the study, reminded of their ethical rights, invited to ask questions and to sign a consent form if they wished to participate. Participants were informed that they each had a booklet that guided them through the stages of the study. Participants were asked to begin by completing the baseline measures in this booklet, and then to turn a page to see whether they were coloring or reading first. Participants were randomized to either read or color for twenty minutes (n = 25 completed reading first). Following this, they completed the self-report measures again, and rated ten abstract images according to the emotions they appeared to represent. Participants then participated in the crossover condition (reading or coloring) for twenty minutes. Finally, they completed the self-report measures and rated another ten abstract images. Participants were then debriefed about the aims of the study and thanked for their time. Data Analysis. A randomized controlled crossover MANOVA design, with two factors: a repeated measures factor (condition) with three levels (baseline, coloring and control); and a between-participants factor (order) with two levels (reading first and coloring first).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Results",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "A 3 x 2 MANOVA (Condition: baseline, coloring and control; Order: reading first, coloring first) was conducted, with five dependent variables: hedonic tone, tense arousal, energetic arousal, flow and mindfulness. There were significant differences between mean levels of all dependent variables across conditions: hedonic tone (SMS) (F2,86 = 38.25, p < .001); tense arousal (SMS) (F2,86 = 21.65, p < .001); energetic arousal (SMS) (F2,86 = 29.84, p < .001); flow (FSS) (F2,86 = 55.17, p < .001); and mindfulness (MAAS) (F2,86 = 26.06, p < .001; Table 1). Post-hoc analyses revealed that participants reported feeling significantly more content, calm, alert, mindful and in a state of 'flow' after coloring compared with the control condition. Further, participants had significantly higher scores after coloring than at baseline on all measures apart from energetic arousal, where they were significantly less energetic after coloring. There were no significant order effects, suggesting that the order in which participants took part in conditions did not significantly impact upon reported experience.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "A 2 x 2 MANOVA (Condition: coloring and control; Order: reading first, coloring first) was conducted, with four dependent variables: implicit happiness, anger, sadness and fear. Participants rated abstract images as being 'happy' (IEAT) more often after coloring than the control condition (F1,45 = 2.67, p = .13, p 2 = .05), less angry (IEAT) (F1,45 = 2.18, p = .15, p 2 = .05), and sadder (IEAT) (F1,45 = 1.04, p = .31, p 2 = .02), but none of these effects were statistically significant (Table 2). The only significant effect was for fear (IEAT), where participants were less likely to rate pictures as representing fear after coloring (F1,45 = 4.30, p = .04, p 2 = .09). There were no significant order effects.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Partial eta squared (p 2 ) is the most commonly reported effect size for ANOVA, and represents the proportion of variance explained by an effect when the variance of other effects in the analysis has been partialled out. As a rough guide, a small effect size is .01, medium .06 and large .14 (Cohen, 1988). It is of note that the effect sizes for the implicit mood task are small to medium (.02 to .09), while those for the self-report measures are large, especially those for the flow state (.24 to .65).",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The hypothesis that participants would report improved mood and attention following coloring, compared with both baseline and control was met for all variables except energetic arousal. This replicates previous research reporting a reduction in anxiety following coloring (e.g., Curry & Kasser, 2005) and extends it to suggest that coloring may also increase positive affect. The hypothesis that participants would show improved hedonic tone following coloring (compared to the control group) using an implicit measure was only partially met, for fear only. Nevertheless, this suggests that the reduction in anxiety (an overlapping construct) reported previously may not be due to response bias. Further, experiment one supports previous work where coloring significantly affected attentional state (Carsley & Heath, 2018), since participants reported being more focused and engaged while coloring. However, only self-report measures of attention were used, leaving open the influence of demand characteristics.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Experiment 2",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Experiment 2 was designed to further understand the impact of coloring on cognition, including performance measures of attention and creativity, firstly, to help assess the impact of demand characteristics on self-report measures of attention, and secondly to test whether coloring improves creative cognition. It was hypothesized that participants would score significantly differently on self-report measures of anxiety (lower) and mindfulness (higher) following coloring, compared with both the control condition and baseline scores. Secondly, it was hypothesized that participants would score significantly higher on selective attention and divergent thinking (in particular originality) following coloring compared with reading.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Methods",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Research Design.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "This experimental study consisted of the following dependent variables: anxiety, mindfulness, figural divergent thinking (fluency, flexibility and originality) and selective attention. The presentation of these measures, and the order of alternate forms, was counterbalanced. This research received ethical approval from the UWE's Research Ethics Committee.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Participants. Fifty-two psychology undergraduate students (40 females) with a mean age of 21.04 (ranging between 18 and 32), were sampled through opportunity sampling, using the department's participant pool. Participants were rewarded course credit.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Measures.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Short state form of the Spielberger State-Trait Anxiety Inventory (STAI; Marteau & Bekker, 1992). A six-item scale where higher scores indicate greater levels of anxiety. An example items is \"I feel calm\", with a 4-point Likert Scale. The scale has adequate concurrent validity and reliability (Marteau & Bekker, 1992).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Mindful Attention Awareness Scale (MAAS; Brown & Ryan, 2003). Please refer to Experiment 1 for a description.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Figural divergent thinking activity from the Torrance Tests of Creative Thinking (TTCT; Torrance, 1990). The activity consists of nine identical shapes on a sheet of A4 paper (triangles or circles), with the request to \"see how many objects you can make from the triangles/circles below\". Responses are scored according to fluency (number of responses), flexibility (how many different ideas are represented) and originality (how rare responses are compared with normative responses). The TTCT have good reliability and predictive validity (Torrance, 1990).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Map Search, from the Test of Everyday Attention (TEA, Robertson et al., 1996). A measure of visual selective attention, requiring the location of an everyday symbol repeatedly printed on a colored map. The TEA has adequate concurrent and predictive validity and reliability, including test-retest reliability (Robertson et al., 1996). Two parallel forms were used (locating either a knife and fork or a screwdriver and spanner symbol).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Procedures. Participants took part individually in a small research room in the psychology laboratory. After being greeted by the researcher participants read an information sheet describing the study and their ethical rights and signed a consent form if they wished to participate. Participants then completed baseline state measures (STAI and MAAS), before being informed whether they were either to color or read first. Participants were randomized to either color in a mandala (a preset pattern) using 12 Crayola coloring pencils or read the chapter 'Effective Time Management' (Bird, 2011), for twenty minutes (n = 24 completed reading first). Subsequently, participants completed the MAAS and STAI followed by both the Map Search test and the TTCT. Map Search involved locating (and circling) a symbol on a printed map as many times as possible in two minutes (out of a possible 80). The TTCT involved drawing on nine identical shapes in order to transform them into something else (e.g., a clock face or a pyramid), in three minutes. After completing the first condition, participants were offered a short break before completing the cross-over condition (reading or coloring). They then completed the same state measures and alternate forms of the cognitive tasks. At the end of the study, participants were debriefed and any questions answered.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Data Analysis. A randomized controlled crossover MANOVA design, with two factors: a repeated measures factor (condition) with three levels (baseline, coloring and control); and a between-participants factor (order) with two levels (reading first and coloring first).",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Results",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "A 3 x 2 MANOVA (Condition: baseline, coloring and control; Order: reading first, coloring first) was conducted, with two dependent variables: self-reported state anxiety and mindfulness. Significant differences across Condition were found for both state anxiety (STAI) (F1,51 = 26.388, p < .001) and mindfulness (MAAS) (F1,51 = 13.770, p < .001) (mean scores can be seen in Table 3 along with post hoc statistics). Post hoc analyses demonstrated that state anxiety was significantly lower after coloring compared with the control condition and mindfulness was significantly higher. Anxiety was also significantly lower after coloring than at baseline and mindfulness increased significantly. There were no significant effects for the order in which conditions were completed.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "A 2 x 2 MANOVA (Condition: coloring and control; Order: reading first, coloring first) was conducted, with four dependent variables: selective attention and dimensions of divergent thinking (fluency, flexibility and originality). After coloring, compared with the control condition, participants scored significantly higher on originality (TTCT) (F1,51 = 5.53, p = .02, p 2 = .10) but neither fluency (TTCT) (F1,51 = .35, p = .74, p 2 < .01) nor flexibility (TTCT) (F1,51 = 1.47, p = .23, p 2 = .03) (mean scores can be seen in Table 4). Participants located significantly more symbols on the selective attention task (TEA) following coloring compared with the control (F1,51 = 17.58, p < .001, p 2 = .26). There were no significant effects for the order in which conditions were taken. As in Experiment 1, the effect sizes for self-reported variables were large, as was the effect for improved attention, while increased originality was a moderate effect.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The hypothesis that coloring would lead to reduced anxiety and focused attention, compared with both baseline and the control condition was accepted, replicating both the results of Experiment 1, and previous research (e.g., Carsley & Heath, 2018). Importantly, Experiment 2 provides predictive validity for the mindfulness effect, since performance on a test of selective attention following coloring was also improved. Hypotheses were only partially met for creativity - participants did not produce more ideas, but the ideas that they did produce were more original. Nevertheless, the results of Experiment 2 suggest that coloring can not only benefit wellbeing by reducing anxiety, but by improving the subsequent ability to focus attention and generate original responses to problems.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "General Discussion",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Previous research, using pre-post designs had reported a significant reduction in anxiety after coloring (e.g., Eaton & Tieber, 2017; van der Vennet & Serice, 2012). However, the only two studies to use a control condition reported equivocal results (Powell et al., 2017; Sandmire et al., 2016). The experiments reported in the current paper provide needed support for the hypothesis that coloring is a useful tool for reducing anxiety in a university student population, using controlled comparisons, and based on both self-report and objective measures. However, mood consists of distinct dimensions (Baas et al., 2008), and while coloring improved hedonic tone and reduced activating moods (anxiety and alertness) on selfreport measures, performance measures of mood only supported the reduction of anxiety. This might suggest that coloring only affects negative mood, alternatively a more statistically powerful study may be required to detect small effect sizes, or alternate objective measures of mood employed (Sandmire et al., 2016). It must also be noted that the use of ten implicit mood items after each condition (rather than 20) might have weakened the task's ability to detect implicit moods.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The current research was the first to compare mindfulness coloring both with a control condition and with a performance measure of mindful attention. The findings support those of Carsley and Heath (2018), that coloring can improve mindfulness. Both their study and the current research used the MAAS, which measures focused attention, while Mantzios and Giannou (2018) used a measure of global attention to the present moment (including bodily awareness and transitioning feelings). Hence, further research into the attentional state generated through coloring is required - it may simply be that coloring engages attention, acting as a temporary distraction from daily stresses, rather than developing open mindfulness, for example. That coloring led to the flow state supports this interpretation, since this measures engagement in one's current activity, rather than merely concentrating attention.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The most novel outcome from the current research was that coloring for a short period of time might improve one's ability to make original associations to stimuli. Hence, coloring might not only affect wellbeing by improving hedonic tone, but also by increasing one's capacity to solve problems in daily life (Fredrickson, 2004). However, future research could seek to better understand the mechanism involved (e.g. positive affect and/or attentional networks), especially since some mindfulness research suggests that focused attention (measured by the MAAS) can inhibit divergent thinking (Lebuda et al., 2016). Explanatory factors might include: reduced anxiety (since anxiety can impede attention and creativity [Eysenck & Derakshan 2011]), increased motivation to engage in cognitive tasks following coloring; or neurocognitive factors, since both original ideation and mindfulness have been associated with alpha synchronization (Lomas, Ivtzan & Fu, 2015; Schwab et al., 2014).",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Practical Implications",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "The results of the research support suggestions made by previous authors (e.g. Sandmire et al., 2016) that university wellbeing centers might profitably offer coloring mandalas as a method to help reduce student anxiety as an adjunct to other treatments. However, caution is required, since research to examine the efficacy of such interventions is necessary. It is not clear how useful coloring mandalas is for high levels of anxiety, what the duration of any effects are, or how best to maintain any beneficial effects (e.g., duration and frequency of coloring, or the need for accompanying instructions). Future research on coloring as a wellbeing intervention could examine these issues.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "The current research also supports the use of coloring mandalas within art psychotherapy (Forkosh & Drake, 2017), not only to help reduce anxiety, but also to broaden attention and facilitate problem solving and social interaction (Fredrickson, 2004). Firstly, coloring might be useful as a non-intimidating entry into art making for those who are not confident with art-making (Kaimal et al., 2017). Secondly, the findings support Forkosh and Drake's (2017) suggestion that coloring could be used strategically by art therapists to help clients regulate emotions, for example, after the expression of traumatic memories. Importantly, the current research expands understanding of this resource by suggesting that coloring might not only be used to repair or improve mood, but might also help to refocus attention and broaden cognitive associations crucial to problem solving and the making of new insights that may potentially help create a healthier self. Thirdly, coloring mandalas could be used as a tool to help people enter a playful and attentive mind set before beginning more challenging art work in a therapeutic setting. Replication and extension of the current findings are required to explore the efficacy of coloring in the context of art therapy as an entry activity, for affect regulation and for facilitating an attentive, creative state.",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Limitations",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Future research could further consider problems with control groups and expectation effects. The current study attempted to select outcome measures that are not influenced by demand characteristics (implicit mood and selective attention). However, measuring and manipulating expectation effects could further examine their import (Davidson & Kaszniak, 2015). Additional comparison groups would also be useful, such as a mindfulness intervention, to test whether coloring has similar benefits, or other artistic tasks, such as drawing or doodling, to examine whether any attentional effects are limited to coloring (perhaps due to its low cognitive demand and accessibility).",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Caution must be taken with generalizing these results, based on coloring a mandala design, to the broad range of designs available in commercial coloring books. It is not clear whether any wellbeing effects are specific to mandala designs. Only four studies have explored this issue, with mixed outcomes. One study found mandalas to be more effective than a 'plaid' grid-like design at reducing anxiety (van der Vennet & Serice, 2012) and two studies found both designs to be equally effective (Curry & Kasser, 2005; Small, 2006). The fourth study compared coloring mandalas with an underwater scene depicting a sea turtle, which was not effective at reducing anxiety (Powell et al., 2017). Therefore, future research might further explore the parameters required of the coloring design to improve wellbeing (e.g. whether it is abstract, symmetrical, circular), and perhaps the attitude of the participant towards it.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "Conclusion",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "The current research supports the hypothesis that coloring mandalas for twenty minutes not only has affective consequences, reducing anxiety and improving positive mood, but also has cognitive consequences, improving one's ability to focus attention and produce original responses to problems, which in turn could improve one's wellbeing and performance. However, further research is required to explore the role of expectation effects, and examine the longitudinal impact of coloring on mood and cognition.",
+   "page": 17
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgements",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "The authors gratefully acknowledge the following psychology undergraduate research assistants, who helped with data collection and entry for Experiment 1 and the formatting of references: Flora Strange, Kayla Simmons, Kate Bailey and Katerina Stankova.",
+   "page": 17
+  },
+  {
+   "label": "section_header",
+   "text": "Funding",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Funding to purchase psychometric tests provided by the Psychological Sciences Research Group at the University of the West of England.",
+   "page": 17
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Baas, M., De Dreu, C., & Nijstad, B. (2008). A meta-analysis of 25 years of mood-creativity research: Hedonic tone, activation, or regulatory focus? Psychological Bulletin,",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "134(6), 779-806. doi: 10.1037/a0012815",
+   "page": 17
+  },
+  {
+   "label": "list_item",
+   "text": "Bartoszek, G., & Cervone, D. (2017). Toward an implicit measure of emotions: Ratings of abstract images reveal distinct emotional states. Cognition and Emotion, 31(7), 13771391. doi: 10.1080/02699931.2016.1225004",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Bird, P. (2011). Effective time management. Abingdon, Oxon: Hodder Education.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Brown, K., & Ryan, R. (2003). The benefits of being present: mindfulness and its role in psychological well-being. Journal of Personality and Social Psychology, 84(4), 822848. doi: org/10.1037/0022-3514.84.4.822",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Carsley, D., & Heath, N. (2018). Effectiveness of mindfulness-based coloring for test anxiety in adolescents. School Psychology International, 39(3), 251-272. doi: 10.1177/0143034318773523",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Clift, S., & Camic, P. (Eds.). (2016). Oxford textbook of creative arts, health, and wellbeing. Oxford: OUP.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, J. (1988). Statistical power analysis for the behavioral sciences. Hillsdale, NJ: Erlbaum.",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Curry, N., & Kasser, T. (2005). Can coloring mandalas reduce anxiety? Art Therapy, 22(2), 81-85. doi: 10.1080/07421656.2005.10129441",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Davidson, R., & Kaszniak, A. (2015). Conceptual and methodological issues in research on mindfulness and meditation. American Psychologist, 70(7), 581-592. doi: org/10.1037/a0039512",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Drake, C., Searight, H., & Olson-Pupek, K. (2014). The influence of art making on negative mood states in university students. American Journal of Applied Psychology, 2, 6972. doi:10.12691/ajap-2-3-3",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Eaton, J., & Tieber, C. (2017). The effects of coloring on anxiety, mood, and perseverance. Art Therapy, 34(1), 42-46. doi: 10.1080/07421656.2016.1277113",
+   "page": 18
+  },
+  {
+   "label": "list_item",
+   "text": "Engeser, S., & Rheinberg, F. (2008). Flow, performance and moderators of challenge-skill balance. Motivation and Emotion, 32(3), 158-172. doi: 10.1007/s11031-008-9102-4",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Eysenck, M., & Derakshan, N. (2011). New perspectives in attentional control theory. Personality and Individual Differences, 50(7), 955-960. doi: 10.1016/j.paid.2010.08.019",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Forkosh, J. & Drake, J. (2017) Coloring versus drawing: Effects of cognitive demand on mood repair, flow, and enjoyment. Art Therapy, 34(2), 75-82. Doi: 10.1080/07421656.2017.1327272",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B. (2004). The broaden-and-build theory of positive emotions. Philosophical Transactions of the Royal Society B: Biological Sciences, 359(1449), 1367-1377. doi: 10.1098/rstb.2004.1512",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Independent (2016). US colleges handing out adult coloring books to students to reduce stress. Retrieved from: https://www.independent.co.uk/student/us-colleges-adultcoloring-books-reduce-stress-a7321191.html",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Jha, A., Krompinger, J., & Baime, M. (2007). Mindfulness training modifies subsystems of attention. Cognitive, Affective, & Behavioral Neuroscience, 7(2), 109-119. doi: 10.3758/CABN.7.2.109",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Kaimal, G., Mensinger, J., Drass, J., & Dieterich-Hartwell, R. (2017). Art therapist-facilitated open studio versus coloring: Differences in outcomes of affect, stress, creative agency, and self-efficacy. Canadian Art Therapy Association Journal, 30, 2, 56-68. doi: 10.1080/08322473.2017.1375827",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Karlsson, P., & Bergmark, A. (2015). Compared with what? An analysis of control-group types in Cochrane and Campbell reviews of psychosocial treatment efficacy with substance use disorders. Addiction, 110(3), 420-428. doi: 10.1111/add.12799",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Lebuda, I., Zabelina, D., & Karwowski, M. (2016). Mind full of ideas: A meta-analysis of the mindfulness-creativity link. Personality and Individual Differences, 93, 22-26. doi: 10.1016/j.paid.2015.09.040",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Lee-Davies, L. (2007). Time management. In L. Lee-Davies, Developing work and study skills, 170-180. London: Thompson Learning.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Lomas, T., Ivtzan, I., & Fu, C. (2015). A systematic review of the neurophysiology of mindfulness on EEG oscillations. Neuroscience & Biobehavioral Reviews, 57, 401410. doi: 10.1016/j.neubiorev.2015.09.018",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "MacKillop, J., & Anderson, E. (2007). Further psychometric validation of the Mindful Attention Awareness Scale. Journal of Psychopathology and Behavioral Assessment, 29(4), 289-293. doi: 10.1007/s10862-007-9045-1",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Mantzios, M., & Giannou, K. (2018). When did coloring books become mindful? Exploring the effectiveness of a novel method of mindfulness-guided instructions for coloring books to increase mindfulness and decrease anxiety. Frontiers in Psychology, 9, 56. doi: 10.3389/fpsyg.2018.00056",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Marteau, T., & Bekker, H. (1992). The development of a six-item short-form of the state scale of the Spielberger State-Trait Anxiety Inventory. British Journal of Clinical Psychology, 31(3), 301-306. doi: 10.1111/j.2044-8260.1992.tb00997.x",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Powell, A., Alcorn, K., & Lindsay, K. (2017). Effect of coloring on student stress levels. American Journal of Recreation Therapy, 16(1), 9-16. doi: 10.5055/ajrt.2017.0122",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Quartz (2016). The explosive rise of adult coloring books charted. Retrieved from: https://qz.com/637238/the-explosive-rise-of-adult-coloring-books-charted/",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Robertson, I., Ward, T., Ridgeway, V., & Nimmo-Smith, I. (1996). The structure of normal human attention: The Test of Everyday Attention. Journal of the International Neuropsychological Society, 2(6), 525-534. doi: 10.1017/S1355617700001697",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Sandmire, D., Rankin, N., Gorham, S., Eggleston, D., French, C., Lodge, E., & Grimm, D. (2016). Psychological and autonomic effects of art making in college-aged students. Anxiety, Stress, & Coping, 29, 561-569. doi:10.1080/10615806.2015.1076798",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Schwab, D., Benedek, M., Papousek, I., Weiss, E., & Fink, A. (2014). The time-course of EEG alpha power changes in creative ideation. Frontiers in Human Neuroscience, 8, 310. doi: 10.3389/fnhum.2014.00310",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Small, S. (2006). Anxiety reduction: Expanding previous research on mandala coloring. The Undergraduate Journal of Psychology, 19(1), 15-21.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Torrance, E. P. (1990). Norms-technical manual: Figural streamlined forms A & B, TTCT. Bensenville, IL: Scholastic Testing Service.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "van der Vennet, R., & Serice, S. (2012). Can coloring mandalas reduce anxiety? A replication. Art Therapy, 29, 87-92. doi: 10.1080/07421656.2012.680047",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Wilhelm, P., & Schoebi, D. (2007). Assessing mood in daily life. European Journal of Psychological Assessment, 23(4), 258-267. doi: 10.1027/1015-5759.23.4.258.",
+   "page": 21
+  },
+  {
+   "label": "section_header",
+   "text": "List of Tables",
+   "page": 22
+  },
+  {
+   "label": "text",
+   "text": "Table 1. Experiment 1 Self-report Measures Table 2. Experiment 1 Implicit Mood Ratings Table 3. Experiment 2 Self-report Measures",
+   "page": 22
+  },
+  {
+   "label": "text",
+   "text": "Table 4. Experiment 2 Cognitive Performance Measures Note. For the descriptive statistics standard deviations are indicated in parentheses. For the inferential statistics, detailing the post-hoc tests of differences between groups, the following are reported: F-ratio, p-value and effect size (p 2 ). The effect sizes are in parentheses. * indicates p <.01, ** p < .001.",
+   "page": 22
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Descriptive statistics (mean scores and standard deviations) for self-report measures at baseline, following coloring and following reading (control), and statistical differences between self-reports at each measurement point (coloring, control and baseline)\nTable 1 Descriptive statistics (mean scores and standard deviations) for self-report measures at baseline, following coloring and following reading (control), and statistical differences between self-reports at each measurement point (coloring, control and baseline)\n\n| Dependent variables   | Descriptive statistics - Baseline   | Descriptive statistics - Coloring   | Descriptive statistics - Control   | Inferential statistics - Coloring and Baseline   | Inferential statistics - Coloring and Control   | Inferential statistics - Control and Baseline   |\n|-----------------------|-------------------------------------|-------------------------------------|------------------------------------|--------------------------------------------------|-------------------------------------------------|-------------------------------------------------|\n| Hedonic tone (SMS)    | 5.02                                | 8.62                                | 7.27                               | 59.83**,                                         | 20.29**,                                        | 24.92**,                                        |\n| Energetic arousal     | (2.42) 7.98                         | (2.28) 6.22                         | (2.22) 4.33                        | <.001 (.58) 12.71**,                             | <.001 (.32) 30.76**,                            | <.001, (.36) 44.25**,                           |\n| (SMS)                 | (2.38)                              | (2.48)                              | (2.39)                             | <.001 (.24)                                      | <.001 (.42)                                     | <.001 (.50)                                     |\n| Tense arousal         | 8.11                                | 9.44                                | 7.18                               | 15.32**,                                         | 38.31**,                                        | 8.32*,                                          |\n| (SMS)                 | (2.21)                              | (1.89)                              | (2.54)                             | <.001 (.27)                                      | <.001 (.45)                                     | .006 (.36)                                      |\n| Flow (FSS)            | 32.02                               | 41.53                               | 27.29                              | 66.20**,                                         | 88.34**,                                        | 9.23*,                                          |\n|                       | (7.12)                              | (8.47)                              | (8.03)                             | <.001 (.61)                                      | <.001 (.65)                                     | .004 (.17)                                      |\n| Mindfulness           | 16.62                               | 20.90                               | 12.95                              | 16.19**,                                         | 52.82**,                                        | 9.04*,                                          |\n| (MAAS)                | (5.92)                              | (4.08)                              | (6.21)                             | <.001 (.28)                                      | <.001 (.55)                                     | .004 (.17)                                      |",
+   "page": 23
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Descriptive statistics (mean scores and standard deviations) for self-report measures at baseline, following coloring and following reading (control), and statistical differences between self-reports at each measurement point (coloring, control and baseline)",
+   "page": 23
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 Descriptive statistics (mean scores and standard deviations) for implicit mood ratings after",
+   "page": 24
+  },
+  {
+   "label": "text",
+   "text": "reading (control) and coloring, and statistical differences across conditions",
+   "page": 24
+  },
+  {
+   "label": "table",
+   "text": "| Implicit mood    | Descriptive statistics - Coloring   | Descriptive statistics - Control   |   Inferential statistics - F-ratio | Inferential statistics - p-value   |   Inferential statistics - p 2 |\n|------------------|-------------------------------------|------------------------------------|------------------------------------|------------------------------------|---------------------------------|\n| Happiness (IEAT) | 2.72 (1.41)                         | 2.39 (.95)                         |                               2.67 | .13                                |                             .05 |\n| Anger (IEAT)     | 1.94 (1.02)                         | 2.34 (1.34)                        |                               2.18 | .15                                |                             .05 |\n| Fear (IEAT)      | 1.78 (.78)                          | 2.02 (.99)                         |                               4.30 | .04*                               |                             .09 |\n| Sadness (IEAT)   | 2.12 (1.22)                         | 1.92 (1.14)                        |                               1.04 | .31                                |                             .02 |",
+   "page": 24
+  },
+  {
+   "label": "text",
+   "text": "Note. Standard deviations are indicated in parentheses. * indicates p <.05.",
+   "page": 24
+  },
+  {
+   "label": "caption",
+   "text": "Table 3",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "Descriptive statistics (mean scores and standard deviations) for self-report measures at baseline, following coloring and following reading (control), and statistical differences between self-reports at each measurement point (coloring, control and baseline)",
+   "page": 25
+  },
+  {
+   "label": "table",
+   "text": "| Dependent variables   | Descriptive statistics - Baseline   | Descriptive statistics - Coloring   | Descriptive statistics - Control   | Inferential statistics - Coloring and Baseline   | Inferential statistics - Coloring and Control   | Inferential statistics - Control and Baseline   |\n|-----------------------|-------------------------------------|-------------------------------------|------------------------------------|--------------------------------------------------|-------------------------------------------------|-------------------------------------------------|\n| State anxiety (STAI)  | 12.06                               | 9.27                                | 12.58                              | 34.79*,                                          | 41.05*,                                         | 1.30,                                           |\n|                       | (3.27)                              | (3.24)                              | (3.10)                             | <.001 (.41)                                      | <.001 (.45)                                     | .26 (.03)                                       |\n| Mindfulness           | 18.42                               | 22.29                               | 17.54                              | 14.34*,                                          | 31.10*,                                         | .82,                                            |\n| (MAAS)                | (6.42)                              | (5.21)                              | (5.99)                             | <.001 (.22)                                      | <.001 (.38)                                     | .37 (.02)                                       |",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "Note. For the descriptive statistics standard deviations are indicated in parentheses. For the inferential statistics, detailing the post-hoc tests of differences between groups, the following are reported: F-ratio, p-value and effect size (p 2 ). The effect sizes are in parentheses. * indicates p < .001.",
+   "page": 25
+  },
+  {
+   "label": "table",
+   "text": "Table 4 Descriptive statistics (mean scores and standard deviations) for cognitive performance measures following coloring and following reading and coloring, and statistical differences across conditions\nTable 4 Descriptive statistics (mean scores and standard deviations) for cognitive performance measures following coloring and following reading and coloring, and statistical differences across conditions\n\n| Dependent variables       | Descriptive statistics - Coloring   | Descriptive statistics - Control   |   Inferential statistics - F-ratio | Inferential statistics - p-value   |   Inferential statistics - p 2 |\n|---------------------------|-------------------------------------|------------------------------------|------------------------------------|------------------------------------|---------------------------------|\n| Fluency (TTCT)            | 5.54 (2.28)                         | 5.42 (2.17)                        |                                .35 | .74                                |                             .01 |\n| Flexibility (TTCT)        | 2.57 (0.98)                         | 2.42 (1.04)                        |                               1.47 | .23                                |                             .03 |\n| Originality (TTCT)        | 3.10 (1.99)                         | 2.42 (1.88)                        |                               5.53 | .02*                               |                             .10 |\n| Selective attention (TEA) | 71.92 (7.63)                        | 67.46 (8.36)                       |                              17.58 | <.001**                            |                             .26 |",
+   "page": 26
+  },
+  {
+   "label": "caption",
+   "text": "Table 4 Descriptive statistics (mean scores and standard deviations) for cognitive performance measures following coloring and following reading and coloring, and statistical differences across conditions",
+   "page": 26
+  },
+  {
+   "label": "text",
+   "text": "Note. Standard deviations are indicated in parentheses. * indicates p <.05, ** p < .001.",
+   "page": 26
+  }
+ ]
+}

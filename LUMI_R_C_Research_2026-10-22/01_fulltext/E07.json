@@ -1,0 +1,1008 @@
+{
+ "paper_id": "E07",
+ "source": "E07_2023_Trupp_Who_benefits_from_online_art_viewing_and_how_The_role_of_pleasure_meanin.pdf",
+ "pages": 12,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Contents lists available at ScienceDirect",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Computers in Human Behavior",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "journal homepage: www.elsevier.com/locate/comphumbeh",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Who benefits from online art viewing, and how: The role of pleasure, meaningfulness, and trait aesthetic responsiveness in computer-based art interventions for well-being",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "MacKenzie D. Trupp a,* , Giacomo Bignardi b,c , Eva Specker a , Edward A. Vessel d , Matthew Pelowski a,e",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "a Department of Cognition, Emotion, and Methods in Psychology, Faculty of Psychology, University of Vienna, Vienna, Austria",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "b Department of Language & Genetics, Max Planck Institute for Psycholinguistics, Nijmegen, the Netherlands",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "c Max Planck School of Cognition, Leipzig, Germany",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "d Max Planck Institute for Empirical Aesthetics, Frankfurt Am Main, Germany",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "e Vienna Cognitive Science Hub, University of Vienna, Vienna, Austria",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A R T I C L E I N F O",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Handling Editor: Paul Kirschner",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: Online art Art interventions Well-being Mechanisms/mediators SEM Aesthetic responsiveness Meaning-making",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Pleasure",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A B S T R A C T",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "When experienced in-person, engagement with art has been associated with positive outcomes in well-being and mental health. However, especially in the last decade, art viewing, cultural engagement, and even 'trips' to museums have begun to take place online, via computers, smartphones, tablets, or in virtual reality. Similarly, to what has been reported for in-person visits, online art engagements-easily accessible from personal devi­ ces-have also been associated to well-being impacts. However, a broader understanding of for whom and how online-delivered art might have well-being impacts is still lacking. In the present study, we used a Monet interactive art exhibition from Google Arts and Culture to deepen our understanding of the role of pleasure, meaning, and individual differences in the responsiveness to art. Beyond replicating the previous group-level effects, we confirmed our pre-registered hypothesis that trait-level inter-individual differences in aesthetic responsiveness predict some of the benefits that online art viewing has on well-being and further that such interindividual differences at the trait level were mediated by subjective experiences of pleasure and especially meaningfulness felt during the online-art intervention. The role that participants' experiences play as a possible mechanism during art interventions is discussed in light of recent theoretical models.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "The arts are increasingly becoming an important partner for wellbeing and health promotion (Fancourt & Finn, 2019). Emerging evi­ dence has indicated that art viewing can be an effective intervention in various settings. For example, a short visit to an art museum over a lunch break can offer respite from a stressful day, improving self-reported stress and mood, lowering cortisol levels (Clow & Fredhoi, 2006) and blood pressure (Mastandrea, Maricchiolo, et al., 2019). Hospital rooms with artwork result in happier, less stressed, and less medicated patients than those in rooms without art (Froggett & Little, 2012; Ho, Potash, Fang, & Rollins, 2015; Karnik, Printz, & Finkel, 2014).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Beyond in-person, art viewing can now take place in a range of contexts through the rise of the internet and digital technology. Today, computers, smartphones, and even virtual reality headsets provide new means of delivering art into homes, hospital rooms, or places of work.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Art institutions have also embraced these trends by moving en masse online, providing new access to their collections, and expanding their reach to new visitors (e.g., Bu, Mak, Bone, & Fancourt, 2021 ; Rice, 2020; Trupp, Bignardi, Chana, Specker, & Pelowski, 2022). This is matched by social media and several new digital channels (streaming, digitizing, non-fungible tokens (NFTs; see e.g., Paul, 2021)), allowing individuals to create and share their art online. In combination, digital art viewing is occurring to such an extent that it has been called the most common means of 'real life' art engagement (Leder, Hakala, Peltoketo, Valuch, & Pelowski, 2022).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "This rise in digital art engagement could also provide innovative avenues for designing and implementing well-being interventions. Outside the arts, various well-being interventions have been successfully translated into the digital realm (Fleming et al., 2018). For example,",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "* Corresponding author. Faculty of Psychology, University of Vienna, W¨achtergasse 1/306, 1010, Vienna, Austria. E-mail address: mackenzietrupp@gmail.com (M.D. Trupp).",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "https://doi.org/10.1016/j.chb.2023.107764",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received 1 December 2022; Received in revised form 27 February 2023; Accepted 25 March 2023",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "smartphone-based game interventions have been shown to assist with lowering anxiety (Cumino et al., 2017) and web-based training pro­ grams for beauty appreciation (Martínez-Martí et al., 2018) and tablet-enabled cooking or craft exercises (Leng, Yeo, George, & Barr, 2014) have shown positive well-being impacts. Recently, a new study reported the first evidence of similar effects from viewing online art. Trupp et al. (2022) asked individuals to visit a Google Arts and Culture exhibition of one Water lily painting by Monet on their personal com­ puters or smart devices. Using a pre-/post-intervention survey design, the authors reported significant reductions in reported negative mood, anxiety, and loneliness and an increase in subjective well-being, with the latter two effects primarily driven by the former. These effects occurred with only brief visits-within an average viewing time of less than 2 m (range 11-274 s)-providing an exciting glimpse into the potential for embedding art engagement in everyday lives.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "However, although there is evidence that online art viewing may be an effective well-being intervention (Trupp et al., 2022; see also Cotter et al., 2022), replication is needed to ascertain whether we might find consistent and actionable patterns of evidence. Even more, in all art-viewing modalities on- and offline, very little work has focused on the circumstances-for whom and how-successful well-being impacts might occur. It is becoming increasingly clear that art engagements and well-being effects are not one-size-fits-all, with interventions working better for specific individuals and/or with certain types of art experi­ ences. For example, in Trupp et al. (2022), despite a sample-wide gen­ eral effect, there were inter-individual differences related to the type of subjective experiences participants had while viewing the online art. However, without controlled evidence exploring these aspects, this limits the ability to design effective interventions and has led to calls for a better understanding of the necessary ingredients of the experience and explanations of mechanisms through which impacts could emerge (Warran, Burton, & Fancourt, 2022).",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "1. The present study",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The aim of this study is to address whether, for whom, and how online-delivered art might have well-being impacts in a pre-registered, hypothesis-driven fashion replicating the design of Trupp et al. (2022) with improved methodology (larger sample, more controlled assessment of viewing behaviour, better measurements). First, we replicated the reported effects, further solidifying the potential of online art experi­ ences to be delivered via personal computers, tablets, and smartphones as an effective intervention and provide more robust evidence regarding the specific well-being outcomes impacted. Second, moving beyond simple replication, we examined whether and how art viewing is espe­ cially beneficial. We considered a theoretical framework including two contextual factors at the state and trait level, involving the subjective art experience (state) and \"aesthetic responsiveness\" (trait), a new measure of individual differences in the way that people typically seek out and respond to aesthetic stimuli (Schlotz et al., 2020). As we present below, both of these have been previously suggested to influence art viewing intervention efficacy and are related to well-being. However, why these factors are related to well-being has not been investigated, leaving a gap in our understanding of how art viewing leads to improved well-being. As presented in our model below, we investigated the possibility that aesthetic responsiveness (trait) influences well-being outcomes because it influences subjective art experience (state).",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2. Theoretical framework",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. State factors: pleasure, meaningfulness, and well-being outcomes",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "First, we present theoretical literature and empirical evidence relating to the specific state factors of subjectively felt pleasure and meaningfulness. These aspects represent often-noted features of aesthetic and art engagements, pertaining to the reward individuals receive from or the depth of processing of art or aesthetic stimuli. They are connected to the outcomes of an art experience (appraisals, sense of importance, desire to revisit; Pelowski, Markey, Forster, Gerger, & Leder, 2017), and several theoretical papers have proposed meaning and pleasure as mediators of art's impact on well-being (Eekelaar, Camic, & Springham, 2012; Fancourt & Finn, 2019; Mastandrea, Fagioli, & Biasi, 2019; Silverman, 2002). Throughout the literature, viewing art is most frequently suggested to have beneficial effects through feelings of pleasure. This is supported by literature on general affect, where felt pleasure is considered to be a fundamental contributor and component to overall well-being (Berridge & Kringelbach, 2011; Mastandrea, Fagioli, & Biasi, 2019) and in art contexts is associated with regulation of negative emotions and stress through activation of the reward network (Sachs, Damasio, & Habibi, 2015).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Similarly, the cognitive process of meaning-making has been theo­ rized to underlie how art viewing can impact well-being (Eekelaar et al., 2012; Silverman, 2002) through processes of reminiscing, self-referential memory evocation, and cognitive re-framing (Chiang et al., 2010; Eekelaar et al., 2012; O'Rourke et al., 2011). In general, having a sense of meaning in life (goals, rewarding commitments, pos­ itive beliefs about life and self) is associated with health and well-being (Koenig, 2012), and the active process of meaning-making, in particular, is known to be a health and well-being resource (Alea & Bluck, 2012; Knizek et al., 2021). Meaning-making is the reflective process through which individuals balance situational meaning, such as interpreting events, objects, and discourses in their lives within the context of their past experiences, knowledge, and their global meaning in life (Park, 2010). The arts, especially, have been heralded for their ability to be a catalyst for such processes by presenting opportunities for self-exploration, renewal of self-esteem, and re-framing of attitudes and beliefs (Knizek et al., 2021).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Corresponding empirical evidence supports these theoretical claims, with associations between well-being outcomes and subjective states experienced while art viewing. The previous Trupp et al. (2022) study noted individuals who reported the online art as more meaningful and beautiful and who wished to visit again had larger improvements in negative mood, while improvements in anxiety were associated with the desire to visit again and with the subjectively rated goodness of the art. Similarly, an online training program by Martínez-Martí et al. (2018) reported a connection between experiences of beauty and greater well-being effects, and Fekete et al. (Under Review), found that enjoy­ ment and being moved during an in-person (museum) art intervention predicted well-being outcomes (see also Fancourt, Garnett, and Mül­ lensiefen (2020) for similar findings for the enjoyment of creative ac­ tivities and mood regulation). Lastly, Fr´ois & Silvia (2014) found that the individuals (artists, in this case) who mentioned feelings of well-being while viewing art also referred more often to experiencing processes of meaning-making while viewing art.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "These findings are consistent with work in the fields of empirical aesthetics and neuroaesthetics, which have consistently found that ex­ periences with art frequently evoke meaningful and pleasurable states (Belfi et al., 2019; Vessel, Gabrielle Starr, & Rubin, 2012), possibly explaining the success that art experiences have in positively impacting well-being. However, there is little empirical evidence addressing the mediating role of pleasure and meaning-making in art interventions. Furthermore, correlations between subjective experiences and affective outcomes can also be mixed. For example, Mastandrea, Fagioli, and Biasi (2019) reported that systolic blood pressure reductions after an art gallery visit were not associated with liking the artwork. Therefore, taking into consideration the mixed results, in addition to the small number of studies, the variety of types of subjective experiences assessed (i.e., enjoyment, desire to visit again, meaningfulness, or liking), and the correlational nature of the analyses, it is challenging to draw conclusions about possible mediators without experimental examination, making this paper a significant step forward by considering these aspects.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Trait features: aesthetic responsiveness predicting the impact of art interventions",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The expectations and personality traits that one brings to art, or any intervention, also represent a crucial target for research. Although there is little understanding of how individuals' characteristics might specif­ ically influence the efficacy of art-viewing interventions, there is ample cross-sectional evidence indicating that well-being is related to an in­ dividual's relationships with and expectations of art, and aesthetic stimuli more generally. Such evidence suggests that an appreciative attitude towards what individuals deem to be aesthetic stimuli-notic­ ing more, having intense physiological reactions, liking, finding it meaningful and important-may contribute to overall well-being. For example, as summarized in Table 1., those higher in trait appreciation of beauty, aesthetic sensitivity, or savouring of art have higher subjective well-being (i.e., Martínez-Martí et al., 2016), life satisfaction (i.e., Litt­ man-Ovadia & Lavy, 2012), lower depression (i.e., Diessner, Solom, Frost, Parsons, & Davidson, 2008), and better health (i.e., Lee, Lee, & Choi, 2021). Additionally, in the case of Lee et al. (2021), results remained significant after inclusion of openness to experience as a co­ variate, placing stronger weight on the specifics of these traits (see Table 1 Outlining associations between each trait, their definitions, and specific well-being outcomes).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Recently, a study explicitly tested if similar trait aspects could pre­ dict the outcome of an art intervention on well-being (Fekete et al., Under Review). This employed a new battery, the Aesthetic Respon­ siveness Assessment (AReA), a measure of a trait characteristic that captures many of the above features in a domain-specific context regarding an individual's likelihood to respond strongly to aesthetic stimuli such as art (Schlotz et al., 2020). The AReA provides a general measure composed of three sub-aspects: intense aesthetic experiences (i. e., heart beating faster, feeling awe, or overwhelmed by art and nature), aesthetic appreciation (i.e., visiting museums, noticing beauty, being moved by art), and creative behaviour (i.e., drawing or writing poetry). In the above study, those with higher aesthetic responsiveness showed greater benefits to their well-being after a 10-15-min art intervention that combined music and visual art in a museum setting.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Moreover, higher scores on the AReA have also been related to more pleasurable or intense responses to music, visual art, and poetry (Schlotz et al., 2020), suggesting that this trait could predict important states during art engagement that are associated with, and could lead to well-being impacts, explaining its effect. Thus, these findings and the literature on related traits (appreciation of beauty, aesthetic sensitivity, savouring) provide support for the hypothesis that aesthetic respon­ siveness would predict the impact of art interventions. However, it is not known if the better art experience had while viewing, predicted by aesthetic responsiveness could explain the impact of this trait on well-being outcomes. Similarly, questions arise about whether such ef­ fects might be domain-specific and particularly related to an in­ dividual's trait responsiveness to art and aesthetics (as in the AReA) or more domain-general sensitivity to reward in an individual's environ­ ment, which we tease apart.",
+   "page": 3
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Overview of literature on trait aesthetic responsiveness constructs in relation to well-being.\nTable 1 Overview of literature on trait aesthetic responsiveness constructs in relation to well-being.\n\n| Construct                             | Construct Measurement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Paper                          | Well-being Measure                                                                    |   N | r/R 2                                                     |\n|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|---------------------------------------------------------------------------------------|-----|-----------------------------------------------------------|\n| Appreciation of Beauty and Excellence | Engagement with Beauty scale (EBS; Diessner et al., 2008) \"I notice beauty in one or more aspects of nature\", \"When perceiving beauty in a work of art, I feel changes in my body, such as a lump in my throat, an expansion in my chest, faster heartbeat, or other bodily response\", \"When perceiving an act of moral beauty, I feel emotional, it \"moves me,\" such as feeling a sense of awe, or wonder or excitement or admiration or                                                                                                                                                                                                                                                     | Diessner et al. (2008)         | Life satisfaction (SWLS) Depression (BDI)                                             | 206 | r = .20* r = � .12*                                       |\n|                                       | upliftment.\" Values in Action Inventory of Strengths (VIA-IS; Peterson & Seligman, 2004) Appreciation of Beauty subscale e.g., \"I am often been left speechless by the beauty depicted in a movie\" \"I often fail to notice beauty until others comment on it (reversed)\".                                                                                                                                                                                                                                                                                                                                                                                                                     | Littman-Ovadia and Lavy (2012) | PANAS PA PANAS NA Life satisfaction (SWLS) Subjective well-being (SWB)                | 184 | r = .31* r = � .02 r = .18* r = .26*                      |\n|                                       | Appreciation of Beauty and Excellence Scale (Martínez-Martí et al., 2016) Appreciation of beauty: e.g., \"I am a person who is very sensitive to beauty\". Appreciation of moral excellence: e.g., \"When I witness somebody doing something good for others without reciprocation, I feel a lot of appreciation.\"Appreciation of non-moral excellence: e.g., \"I like very much to surround myself with people who have outstanding talents or skills\" Aesthetic Sensitivity (AES) Subscale of Highly Sensitive Person Scale (                                                                                                                                                                   | Martínez-Martí et al. (2016)   | PANAS PA Life satisfaction (SWLS) Vitality                                            | 329 | r = .18* r = .18* r = .24* r = .25* r = � r = .09 r = .07 |\n| Aesthetic Sensitivity                 | Aron & Aron, 1997; Smolewska, McCabe, & Woody, 2006) e.g., \"Do you seem to be aware of subtleties in your environment?\", \"are you deeply moved by the arts or music\", \"Do you notice and enjoy delicate of fine scents, tastes, sounds, works of art\".                                                                                                                                                                                                                                                                                                                                                                                                                                        | Sobocko and Zelenski (2015)    | PANAS PA PANAS NA Life Satisfaction (SWLS) Subjective Happiness Scale (SHS)           | 154 | .10                                                       |\n|                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                | PANAS PA PANAS NA                                                                     | 118 | r = .01 r = .08                                           |\n| Savoring Art                          | Savoring Art (Lee et al., 2021) e.g., \"I enjoy the beauty of art\", \"I believe in the importance of art\", \"I get deeply immersed in music\" and \"I need a creative outlet\".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Lee et al. (2021)              | Psychological well- being (PWB) Subjective well-being (SWLS + PANAS)                  | 501 | r = .21* r = .21*                                         |\n| Aesthetic Responsiveness              | Aesthetic Responsiveness Assessment (AReA Schlotz et al., 2020) Aesthetic appreciation: e.g., \"I notice beauty when I look at art\" I am emotionally moved by music\", \"I experience joy, serenity, or other positive emotions when looking at art\". Intense Aesthetic Experience: e.g., \"When I look at art, my heart beats faster, I perspire, get dizzy, or have other physical effects\", \"I experience awe, fear, or a feeling of being overwhelmed when look at art\". Creative Behaviour: e.g., \"I sculpt, paint, draw, direct films or do design work\", \"I write poetry or fiction\", \"Presently (or in the past) I take (or have taken) classes in art, creative writing, or aesthetics\". | (Under Review)                 | PANAS PA change pre/ post art intervention PANAS NA change pre/ post art intervention | 204 | R 2 = .01, β = 0.138* R 2 = .02, β = -0.158*              |",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Overview of literature on trait aesthetic responsiveness constructs in relation to well-being.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Hypotheses",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "In sum, we test the following hypotheses: (1) the replicability of wellbeing improvement on mood and state anxiety, which were the two most salient results in the Trupp et al. (2022), (2) if trait aesthetic respon­ siveness (AReA) predicts the well-being impact of art viewing, and if this is mediated by the states of pleasure and meaning felt during the art experience.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "To achieve this, we use an experimental design similar to Trupp et al. (2022) in which observers engage with a Google Arts and Culture online art exhibition of a Monet Water Lily painting and measure the effec­ tiveness of online art viewing on aspects of experienced well-being (Fig. 1a). We evaluate the contributions of aesthetic responsiveness and two mediating variables (liking as a proxy of felt pleasure, and meaning) to individual differences in well-being change from pre-to post-measurement (Fig. 1b) by means of structural equation modelling (SEM). As seen in our hypothesized model in Fig. 1c-d, AReA scores are the exogenous variable, and the subjective experience variables are mediating factors, all acting upon changes caused by the online art exhibition in positive mood, negative mood, and anxiety (referred to as well-being outcomes).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "We also test whether the contributions from AReA and mediators act distinctly on individual well-being variables or similarly through a common well-being factor. Lastly, we examined the importance of domain-specificity in trait assessments by including domain-general reward sensitivity as a possible confounder to assess the importance of responsiveness to aesthetic stimuli as a predictor of the specific artmedia response and well-being impacts.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3. Methods",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "As noted above, this study design, hypotheses, and analysis plan were pre-registered with the Open Science Framework (OSF). For preregistration see https://doi.org/10.17605/OSF.IO/TWNDM.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Participants",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The study involved 240 participants collected from the University of Vienna (Age M = 23.35 y, SD = 4.46 y, 150 identified as female, 82 as male, and eight as other). Participants were recruited using a university system that allows students to sign up for research studies as part of a requirement for undergraduate students to participate in and learn about research. For participation, students received course credit to­ wards meeting this requirement. The final sample of students was derived from an initial total of 283 completed surveys (see results sec­ tion for details of participant exclusion). The study was approved by the University of Vienna ethics board.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "4. Materials",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "4.1. Stimuli-Online art viewing intervention",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The art stimulus (used by Trupp et al., 2022) consisted of an inter­ active online art exhibition entitled Monet's The Water-Lily Pond; An in-painting tour from the National Gallery, London, selected from Google Arts and Culture, an online repository of museum and art collections (About Google Cultural Institute, 2020). This exhibition allowed partici­ pants to view a single visual image (The Water-Lily Pond, 1899, dis­ playing a pond covered in water-lilies under a bridge in Giverny) that could be appreciated by itself, as well as by zooming in to enlarge various details that were accompanied by written descriptions (see Supplementary Materials for all texts). The details were accessed by scrolling with a mouse causing text and smaller sections of the main image to be shown on the screen. As noted in Trupp et al. (2022), the impressionist artwork was itself selected because such land­ scape/waterscape artworks have been identified as particularly good candidates for stress and anxiety-reducing or restorative experiences among both patient and non-patient populations (Ulrich & Gilpin, 2003).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "4.2. Well-being measures",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "As our main well-being outcomes, we assessed self-reported state anxiety and mood, which are key assessments of experiential well-being. As outlined by Stone and Mackie (2013), distinct from evaluative (life satisfaction) or eudemonic well-being (meaning in life), experiential well-being is the moment-to-moment positive and negative emotions and sensations, such as stress, mood, and anxiety, that individuals experience. These aspects of well-being are especially susceptible to changes in the environment, making them an ideal target for in­ terventions. Additionally, the specific scales we used were selected for their length, as the task of answering 20 mood and six anxiety-related questions about particular states was expected to decrease the likeli­ hood that participants would remember pre-test answers and inten­ tionally or subconsciously change them on the post-test (e.g., Chen & Risen, 2010; Warren, McGraw, & Van Boven, 2011). The range of items also provided detailed information on what kinds of specific affective states might be impacted for future exploratory analysis. Both scales were assessed pre-and post-intervention.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "State anxiety was assessed with the state subscale of the State-Trait Anxiety Inventory (STAI; Marteau & Bekker, 1992), following Trupp et al. (2022). The STAI-S includes six items, for which individuals indicate to what extent they feel each state (i.e., calm, tense) at the moment (1 =Not at all, 4 =Very much). The STAI-S is noted to be valid compared to longer and other versions of state anxiety measures (Mar­ teau & Bekker, 1992) and is widely used (Emons, Habibovi´c, & Peder­ sen, 2019).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Mood was assessed with the Positive Affect Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988). This battery was included as an improvement to the design of Trupp et al. (2022), which employed only two questions asking participants to rate their overall positive and negative mood. The PANAS instead is comprised of 20 mood adjectives, half of which were positive (i.e., determined, enthusiastic) and half negative (i.e., afraid, distressed), and which can be summed into posi­ tive and negative mood scores. Individuals were asked to indicate the extent to which they felt each adjective at the moment (1 =Very slightly or not at all, 5 = Extremely). This scale was also selected due to its wide use in both assessments of clinical interventions (i.e., Molinari et al., 2020) as well as in cultural interventions such as art museum visits (i.e., Thomson, Ander, Menon, Lanceley, & Chatterjee, 2011), and its reli­ ability and validity, especially in non-clinical samples (Crawford & Henry, 2004). The present study also used the original English versions, as validated in the previously cited studies.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "4.3. Measures of subjective art experience, subjective pleasure and meaningfulness",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "As our two target mediating factors regarding subjective experience, we focused on pleasure and meaningfulness. Subjective felt pleasure was quantified by asking participants to indicate to what extent they agreed with the statement, \"I liked my experience.\" This phrasing marked a modification of the previous Trupp et al. (2022) paper, which had included several questions regarding stimulus beauty, goodness, and desire to revisit (showing moderate-to-high correlation, r = 0.55-0.71). Liking was selected following past literature (Berridge & Kringelbach,",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. Graphic Abstract of Design and Methods. A), well-being outcomes were measured before and after interacting with a Google Arts and Culture exhibition of Claude Monet's The Water-Lily Pond (1899, The National Gallery, London). Most users opted to complete the survey and view the art with a laptop computer over smartphones or desktop computers. B), the pre-and post-measures of each well-being outcome were converted into a change score, which is plotted in a frequency distribution to show the individual differences in the impact of art viewing. The dotted line represents the no-change line at zero, and the dark solid line indicates the mean for each outcome distribution. The portion of the distribution on the right for positive mood (left for neg. mood and anxiety) indicates improvements in these psychological states. C), this Structural Equation Model was pre-registered to test the impact of trait AReA on well-being outcomes mediated by subjective experience states. D), the observed and implied variance-covariance matrix, which visualize the comparison of the predicted model with the data collected.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "2008) as a proxy for felt pleasure. Meaningfulness was assessed by asking participants to indicate to what extent they agreed with the statement \"The experience was meaningful to me\" (following Trupp et al., 2022). This questioning style is in keeping with the field of empirical art and aesthetic perception, whereas dimensions of aesthetic experience are assessed with single items and map onto physiological and neurological correlates (see Pelowski et al., 2017 for review). In addition to these two questions selected for their targeted ability to measure our theoretically informed subjective states, beyond the pre-registered plan and target questions, for separate additional exploratory studies, we also included questions regarding how much participants felt that their experience was enjoyable, self-relevant, and beautiful, and which types of emotions they experienced.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "All ratings above were quantified by using a continuous sliding scale, allowing participants to register precise increments (using two decimal places) from 0 = 'Not at all to 7 = 'Extremely'. This method was selected again as a modification of the Trupp et al. (2022) method, which used a standard 7-point Likert-type approach, to provide more continuous data.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "4.4. Individual differences, aesthetic responsiveness",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Aesthetic responsiveness, our target interpersonal trait factor, was measured with the Aesthetic Responsiveness Assessment (AReA Schlotz et al., 2020), with 14 items assessing individual differences in respon­ siveness to the arts, nature, and beauty, and containing three subfactors, Aesthetic Appreciation (AA; i.e., visiting museums, noticing beauty, being moved by art), Intense Aesthetic Experience (IAE; i.e., heart beating faster, feeling awe, or overwhelmed by art and nature), and Creative Behaviour (CB; i.e., drawing or writing poetry). Items could be scores between 0 =never, 1 = rarely, 2 = sometimes, 3 =often, 4 =very often.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "For the purpose of comparison, we also included an assessment of Reward Sensitivity using the Temporal Experience of Pleasure Scale (TEPS; Gard et al., 2006). The TEPS was designed to measure, with 18 items, two aspects of experiences of pleasure; anticipatory pleasure (TEPS-A), the pleasure that is experienced in anticipation of an event, and consummatory pleasure (TEPS-C), the pleasure experienced at the moment (combined as TEPS). This is a domain-general trait that cap­ tures individual differences in the experience of pleasure in the sensory environment. This trait has also been associated with well-being, with low levels of reward sensitivity indicating anhedonia, an aspect of depression (Rømer Thomsen et al., 2015). Higher levels, conversely, have also been associated with having more pleasurable and beautiful experiences with art and music (Belfi & Loui, 2020; Brielmann & Pelli, 2019), making it a good comparison point to the AReA's focus on arts and aesthetic specific contexts. Items are scored between 1 = very false for me and 6 = very true for me.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Finally, general relation to the arts was assessed by asking partici­ pants whether they had studied fine art or art history (ranging from \"no\" to \"I am a professional\", see descriptive results for each item) and how interested they were in art (1 = not at all, 7 = very much). 1",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "1 As above, for exploratory purposes (i.e., not included in the preregistered SEM plan), we also included an assessment of Openness to experience, measured with the Openness facet of the Big Five Inventory (BFI; John, Donahue, & Kentle, 1991). This trait was included for an unrelated study and will not be further discussed in the paper.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "4.5. Quality control measures-attention and actual visit with the art",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Finally, to ensure the acquisition of high-quality data, we included several measures in the survey. First, three questions asked participants to move the slider to the position of 'extremely' on the scale. These were embedded in the pre-and post-PANAS and in the subjective experience evaluation and were included as a measure of attention to the survey items.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Second, to check that individuals had visited the online art website and spent at least some time with the art, after returning to the survey, participants were asked if they had visited and viewed the online exhibition if they had any problems doing so, and to specify what happened. This was also matched to the page submission metadata provided by Qualtrics. Lastly, to check for confounds, we asked if par­ ticipants had ever visited virtual or online galleries, if they had seen this exact exhibition, or if they had visited similar experiences in the past.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "4.6. Design and procedure",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The procedure largely followed Trupp et al. (2022). This used a matched pre-/post-design. Participants, using their own computers or other devices (see also Results for breakdown), joined the study from a provided link, taking them to an online survey platform (Qualtrics). They were first told that they would be participating in a study about online engagement. After obtaining informed consent, a pre-viewing survey was conducted. Participants reported their demographic data, their level of art interest, education, and whether they had previously visited online art presentations. This was followed by the target well-being outcome measures, mood and anxiety scales. These were presented in randomized order to avoid any systematic effect of one scale preceding the other. Then participants were presented with a hy­ perlink window that opened the Google Arts and Culture exhibition in a new tab. They were asked to click on the link and to \"spend a few mi­ nutes viewing\" the stimulus. After they had looked for as long as they desired, they were asked to navigate back to the survey tab. Participants were then asked quality control questions (attention, issues with visiting) about their subjective art experience states, followed by, once again, the mood and anxiety scales (order randomized). Last, partici­ pants completed individual difference scales.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "5. Results",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "5.1. Descriptive statistics",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Participants were excluded for one or more of the following reasons: duplicates (N = 8), 2 failing the attention check (N = 11), viewing times under a 10 s cut off (following Trupp et al., 2022; N =4), or being part of previous pilot testing (N = 8). The final (N = 240 participants) sample had a wide range of interest in art (range 1-7, M =4.34, or just above the midpoint on the 'not at all to 'very much' 7-point scale; SD =1.45); 80% of participants were taking or had taken at least one fine art or art his­ tory classes in school or university. However, only 18% were pursuing or had completed a minor in fine art or art history, and only 1% (N = 2) were working or had worked towards an art degree.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The sample had an average aesthetic responsiveness score of M = 1.50, (SD = 0.73, representing average responses between 'rarely' and 'sometimes') and an average reward sensitivity of M = 4.41 (SD = 0.69, out of possible range of 1-6). Twenty percent of participants reported that they had previously visited an online art gallery. However, only 2% reported having visited an online presentation similar to the intervention; less than 1% (N = 2) reported visiting the specific Monet Water-Lily exhibition before. About 71% of participants completed the experiment on a laptop, 17% used a smartphone, and 12% used a computer with a desktop monitor. (We note that liking and changes in positive mood were lower when participants viewed the art on their phones compared to laptops and desktop computers [liking: F(2, 237) = 5.24, p = .036, change in positive mood: F(2, 237) =5.17, p = .038], see supplement for detailed results split by device type).",
+   "page": 6
+  },
+  {
+   "label": "footnote",
+   "text": "2 Due to a technical error in the participant recruitment platform credit granting system, some participants completed the survey twice. These in­ dividuals were identifiable by their unique participant code and their second set",
+   "page": 6
+  },
+  {
+   "label": "footnote",
+   "text": "of data was removed.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "5.2. Online art-viewing experience-viewing time and liking/meaning ratings",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The average viewing time was M = 2 min and 7 s (127 s; SD = 75 s), ranging from 10 to 529 s (8 min 49 s). This compared similarly to the average viewing time of M = 107 s (SD = 69 s; range = 11-274 s) re­ ported in Trupp et al. (2022), and is even at the long end of viewing time ranges typically reported for museum or lab-based engagements with one work of art (e.g., median/mean results often suggest 10-40s; see Smith, Smith, & Tinio, 2016 for review).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The ratings of the art experience suggested that, on average, par­ ticipants tended to report moderately high liking when viewing the art (M = 5.16, SD = 1.52), while average meaningfulness was more midrange (M = 3.52, SD = 1.71). As in the earlier paper, we also found that, when considered across the participants, there was quite a high variance in the ratings, showing a range across the full scale.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "6. Confirmatory analyses",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "6.1. Online art viewing impacts well-being outcomes",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Turning to the well-being outcomes, as can be seen in Fig. 2, both negative mood and anxiety showed a general decrease, across all par­ ticipants, from pre-to post-assessment. Negative mood changed from M pre = 1.55 (SD = 0.62) to M post = 1.30 (SD = 0.47). Anxiety changed from M pre = 3.46 (SD = 0.63) to M post = 3.28 (SD = 0.54). Positive mood, however, remained stable with a slight decrease, with M pre = 2.42 (SD = 0.61) and M post = 2.39 (SD = 0.71).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "To test whether the differences in pre-to post-assessment were sta­ tistically significant, we aimed to first replicate the analysis carried out by Trupp et al. (2022). This involved a one-way repeated measure multivariate analysis of variance (MANOVA) with time (pre/post) as the independent variable (IV) and individuals' positive mood, negative mood and anxiety as DVs. The pre/post variable distributions, however, did not meet MANOVA assumptions of multivariate normality (Shapir­ o-Wilk W = 0.99, p = .011) and homogeneity of variance (all Levene's tests p < .05). Thus, as opposed to the original paper and our pre-registered plan, we used a non-parametric alternative to MANOVA as implemented in the R statistical package MANOVA.RM (Friedrich, Konietschke, & Pauly, 2018). We calculated the multivariate Wald sta­ tistic, F(3,237) = 24.04, p = <.001, which indicated that the combina­ tion of effects was significant from pre-to post-assessment, suggesting that the online art exhibition significantly impacted the psychological states of individuals (the interpretation of the result was unchanged following the pre-registered MANOVA, F(3,237) = 49.29, p =<.001). A post hoc Wilcoxon signed-rank test (Bonferroni corrected for multiple comparisons) indicated that while negative mood and anxiety signifi­ cantly changed (Z = � 10.38, p < .001 and Z = � 6.05, p < .001, respectively), positive mood did not (Z = � 0.98, p = .981).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "6.2. Aesthetic Responsiveness explains the impact of online art on mood and anxiety via liking and meaning",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "We then moved to the second aspect of our analysis. The relationship between changes in the well-being measures and reported art experience (pleasure, meaning) are plotted as the distribution of the pre-and postscores for each variable in Fig. 2d-f, where the size and colour of the dot indicate the intensity of liking and meaning. From these plots, it appears that individuals' subjective experiences appeared related to changes in mood and anxiety. This was particularly the case for positive mood (Fig. 2d), where the larger brighter dots are distinctly clustered above the black line, and smaller darker dots below, indicating that those participants who experienced a positive change in positive mood (dots above the black line) liked the art experience more and found it more meaningful. A similar pattern was observed for negative mood and anxiety, with decreases in both (dots below diagonal) associated with greater liking and meaning.",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2. Pre- and post-changes in PANAS and STAI after online viewing of the Monet Water Lily Google Art and Culture exhibition. A), B) and C), show the group distributions and individual slopes from pre-to post-assessment (Allen et al., 2021). Negative mood and anxiety significantly changed, while positive mood did not. D), E), and F) show the relationship between the changes in the well-being outcomes and subjective experience variables liking and meaningfulness. On the x-axis are pre-distributions, and on the y-axis are post-distributions. The solid black line indicates the position of no change from pre to post. The colour of the dots indicates the strength of liking, while the size of the dot indicates meaningfulness. For positive mood, larger, brighter dots are found above the black line, indicating that those participants who experienced an increase in positive mood were also those who reported liking the art more and found it more meaningful. For negative mood and anxiety, the larger, brighter dots are under the black line, similarly indicating that those who experienced decreases in these variables were also those who liked the art experience more and found it more meaningful.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "6.2.1. SEM",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "To then statistically assess these relationships, we applied structural equation modelling (SEM). In the following sections, we first report (6.2.2) the fitting of the SEM, including first fitting our theoretical model (Fig. 1, panel c, above) to test if aesthetic responsiveness predicts changes in the well-being outcomes and if this is mediated by liking and meaning. (6.2.3) Second, we fit a common factor model, testing if aesthetic responsiveness and mediators act differently on each wellbeing outcome. Further, we (6.2.4) conduct path suppression to test for full or partial mediation and report the path coefficients and sum­ marize the main mediation results. All SEM analyses were conducted with the R package Lavaan (Rosseel, 2012).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "6.2.2. Model fitting",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "To increase the interpretability of the model coefficients, all vari­ ables were z-scored prior to model fitting. Absolute Model fit was assessed by CFI (Comparative Fit Index), TLI (Tucker-Lewis Index), SRMR (Standardized Root Mean Square Residual), and RMSEA (Root Mean Square Error of Approximation), while the relative model fit by the AIC (Akaike Information Criteria). Following standard recommen­ dations (Brown, 2015), the threshold indicating a good fit for CFI and TLI are values >. 90 (1 represents perfect fit), and for the RMSEA and SRMR, 0 indicates a perfect fit, with values below <0.08 considered a satisfactory fit.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Prior to model fitting, we validated the measurement model of the AReA. Confirmatory Factor Analysis (CFA) indicated that a model composed of the AA, IAE, and CB facets, as specified by Schlotz et al. (2020), was a good fit to the data, CFI =0.97, TLI =0.97, SRMR =0.04, and RMSEA = 0.05.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We then fit our proposed model (Fig. 1c). Fit indices were only poor to satisfactory, χ 2 (3) =33.33, p =< .001, CFI =0.89, TLI =0.47, SRMR = 0.07. Based on current best practices in SEM, we deviated from our pre-registered analysis by directly estimating the AReA factor-scores by including the three facets of the instrument. This allowed us to estimate more precisely the weighted contribution of each facet to the total AReA score and to disregard unique variance related to each of the individual facets. By refitting the data to the updated model, we observed an improved model fit, χ 2 (28) =643.42, p =< .001, CFI =0.92, TLI =0.83, RMSEA = 0.12, SRMR = 0.07. However, model fit was still below an acceptable threshold. As such, we investigated the residual matrix, which captures the differences between the implied and the observed variance-covariance matrix, to examine if the model could be further improved.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The residual matrix indicated a likely correlation between changes in anxiety and positive mood residuals. Further deviating from our initial model, we allowed for the residual variance of the change in anxiety to covary with the residual variance of the changes in both positive and negative mood. Fit indices for this third model were good, χ 2 (11) = 643.42, p = < .001, CFI = 0.97, TLI = 0.92, RMSEA = 0.09, SRMR = 0.05 (Restricting the residual covariance resulted in worsened model fit, F(2,13) =29.96, p =<. 001). This deviation implied that, at least in this sample, covarying changes in anxiety and mood following the online intervention were also affected by other trait or state variables not considered in the model.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "6.2.3. Aesthetic responsiveness and mediators act differently on well-being outcomes",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "To investigate whether individual differences in AReA, liking, and meaning acted independently on well-being outcome changes or if they exerted their effect in a specific fashion, we compared SEM fit indices for the independent and common pathway models. The independent pathway estimates the direct and mediated effects of the AReA on each DV independently, while in contrast, the common pathway estimates such effects on an additional hypothetical latent factor capturing simi­ larity across DV changes. Fit indices for the common structural factor model were poor, χ 2 (28) = 643.42, p =<. 001, CFI = 0.76, TLI = 0.60, RMSEA = 0.19, SRMR = 0.12. This indicated that the AReA and medi­ ators acted heterogeneously on the well-being outcomes, and that the changes in well-being were not captured by a common factor.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "6.2.4. Sequential path suppression indicating full mediation",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "We then examined if liking or meaning were full mediators of the effect of the AReA on well-being outcome changes. We sequentially constrained the indirect paths, from meaning and liking to the outcome changes, and the direct paths, from the AReA to outcome changes. We also compared it to the unconstrained model. Excluding liking resulted in a significant worsening of the fit, F(3,14) = 17.90, p < .001 (AIC = 4890.35). Similarly, excluding meaning significantly worsened the fit, F (3,14) =15.77, p = .001 (AIC =4888.22). In contrast, when suppressing all direct paths from the AReA to the changes in the DVs, the constrained model did not significantly differ, F(3,14) = 1.55, p = .670 (AIC = 4874.00), indicating that the effects of AReA on changes in well-being outcomes were fully mediated by liking and meaning. This resulted in a final model shown in Fig. 3.",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3. Final SEM Model with Observed and Implied Variance Covariance matrices. A), the final model is depicted with significant paths in bold and path estimates. The final model depicts the predictive influence of AReA on well-being outcome variables as mediated through subjective experiences states. In the case of liking, only changes in positive mood were significantly predicted by liking, while meaning predicted all outcome changes. All Paths are Standardized. B), the observed variance covariance matrix is shown next to the implied variance covariance matrix demonstrating the expected relationships as predicted by our pre-registered model and the actual relationships observed from the data.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "6.3. Summary of mediation results",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "As hypothesized and shown in Fig. 3 and Table 2, the paths between the AReA and both liking (β =0.34, p =<.001) and meaning (β =0.40, p =<.001) were significant. The AReA accounted for 12% and 16% of the variance in liking and meaning, respectively. To our surprise, however, liking was only associated with changes in positive mood (β = 0.32, p = <.001), indicating that as participants liked their experience more (experiencing more pleasure), they also experienced larger benefits, with 10% of the variance in changes in positive mood accounted for by liking. Meaning, on the other hand, was associated with all well-being outcome changes (pos. mood, β = 0.24, p = .001; neg. mood, β = � 0.22, p = .008; anxiety β = � 0.20, p = .017). Thus, if the experience was more meaningful, the improvements in well-being were larger. Meaning accounted for 6% of the variance in positive affect and 5% and 4% of the variance in negative mood and anxiety, respectively. Furthermore, the overall results indicate that the effect of the AReA on the changes in DVs is partially explained by experiencing stronger states of pleasure (liking) and meaningfulness while viewing the art, partially confirming our prediction.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "6.4. Sensitivity analysis-Comparison of AReA with reward sensitivity",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Lastly, to further compare the specific role of aesthetic responsive­ ness, we conducted a follow-up SEM, adding reward sensitivity as a possible confounder to the final model. Looking at changes in path co­ efficients, this allowed us to test whether general reward sensitivity acted as a common confounder for our results, biasing the estimates between aesthetic responsiveness and both liking and meaning. To do so, we simultaneously regressed the TEPS from the AReA, liking and meaning. The model including the latent TEPS as confounder fit the data well, χ 2 (26) = 44.32, p = .014, CFI = . 97, TLI = 0.96, RMSEA = 0.05, SRMR =0.05 (See Supplementary Fig. 2 For indexes and estimates). The TEPS was a strong predictor for the AReA (β = 0.67, p < .001), but not for liking (β = 0.17, p = .087) or meaning (β = 0.05, p = .621). This indicated that reward sensitivity was not a common cause for how much individuals liked the online art exhibition or found it meaningful, as predicted by AReA. The observed drop in the path coefficients from the AReA to both liking and meaning indicated that some of the effects we estimated from the AReA to the state variables were partially accounted for by the TEPS differences. However, the drop was only partial, indi­ cating that aesthetic responsiveness predicted liking and meaning of the online art experience above and beyond general reward sensitivity to the sensory environment, highlighting the importance of a specific predis­ position to respond strongly to art and aesthetic stimuli.",
+   "page": 9
+  },
+  {
+   "label": "table",
+   "text": "Table 2 Model estimates for final SEM model.\nTable 2 Model estimates for final SEM model.\n\n| From - Regression Parameters   | To - Regression Parameters   | Final Model A - λ   | Final Model A - 95% CI   |   Final Model A - SE | Final Model A - p   |\n|--------------------------------|------------------------------|---------------------|--------------------------|----------------------|---------------------|\n| AA                             | AReA                         | .90                 | [.79, 1.02]              |                  .06 | <.001               |\n| IAE                            | AReA                         | .86                 | [.75, .97]               |                  .06 | <.001               |\n| CB                             | AReA                         | .56                 | [.43, .68]               |                  .06 | <.001               |\n| AReA                           | Liking                       | .34                 | [.21, .47]               |                  .07 | <.001               |\n| AReA                           | Meaning                      | .40                 | [.28, .53]               |                  .07 | <.001               |\n| Liking                         | PM Δ                         | .32                 | [.18, .47]               |                  .07 | <.001               |\n| Liking                         | NM Δ                         | � .003              | [-.17, .16]              |                 0.08 | .968                |\n| Liking                         | STAI Δ                       | � 0.08              | [-.25, .08]              |                 0.08 | .308                |\n| Meaning                        | PM Δ                         | 0.24                | [.10, .39]               |                 0.07 | <.001               |\n| Meaning                        | NM Δ                         | ¡0.22               | [-.38, -.06]             |                 0.08 | .008                |\n| Meaning                        | STAI Δ                       | ¡0.20               | [-.36, -.04]             |                 0.08 | .017                |",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 Model estimates for final SEM model.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Note: Path diagram is shown in Fig. 3. PMΔ = Positive Mood Change, NMΔ = Negative Mood Change, STAIΔ = STAI change. λ = standardized parameters, 95% CI =95% confidence interval, SE = standard error, p =p-value. Note model is shown with the covariance between the residuals of change in anxiety and change in positive and negative mood.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "7. Discussion",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "This paper provides evidence for the potential of online art inter­ ventions-viewing one artwork for a short (1-2 min) period on one's personal internet-enabled device-to have a detectible positive effect on well-being (negative mood, anxiety). The results replicate a recent publication (Trupp et al., 2022) employing one water-lily painting by Claude Monet, curated by Google Arts and Culture, which suggested first evidence of such effects but, more than anything, called for more research and replication. In the present study, we found that the same online art exhibition could once again reduce negative mood and state anxiety and was consistent with Trupp et al. (2022), yielding no group-level effect on positive mood. The current evidence provided in this study is more robust, building on previous work by including a larger, more controlled data set and improved measurement of depen­ dent variables. Overall, the results contribute to the growing body of evidence highlighting the potential of online art to be used as a well-being intervention (Cotter et al., 2022; Trupp et al., 2022) and, importantly, open up further avenues for direct real-life application for digital technology in arts and well-being spaces.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Beyond the fundamental question of whether improvements in wellbeing aspects at the group level were detectable, this study investigated state and trait factors impacting individual differences in the effective­ ness of art viewing on improving well-being. Based on past literature, we hypothesized that those who do show traits suggesting that they are more prone to strong reactions in response to aesthetic and art stimuli, such as experiencing states of pleasure and meaning, would be more susceptible to art viewing intervention benefits. We expected that the predictive power of trait aesthetic responsiveness on well-being out­ comes caused by the art intervention would be mediated by the measured states of pleasure and meaning experienced by participants while viewing the online art. The results were consistent with our hy­ potheses as we were able to fit our predicted structural equation model with minor adjustments. We found that the effect of aesthetic respon­ siveness on art intervention outcomes was fully mediated by the states that individuals experienced. These findings indicate that there is a type of person who can benefit more from art viewing due to their tendency to have more impactful experiences while engaging with art online. Further, with the comparison of domain-general reward sensitivity as a confounder, we found that this trait proneness seems to be a specific predisposition that is art and aesthetic-related, above and beyond gen­ eral sensitivity to rewards from the sensory environment (i.e., enjoying a deep breath of fresh air or a good yawn). This approach and the results provide an assessment of the role of individual differences in art in­ terventions at the trait and state level, which was previously unexamined.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "These findings offer new insights. In light of past research, these results lead to a more nuanced understanding of the literature refer­ enced in the introduction. Summarized above, both aesthetic respon­ siveness and related traits (savouring, aesthetic sensitivity, and appreciation of beauty) were noted to predict art interventions' impact or crosssectional overall well-being (Diessner et al., 2008; Lee et al., 2021; Littman-Ovadia & Lavy, 2012; Martínez-Martí et al., 2016 also see Table 1). We showed that this predictive ability of aesthetic respon­ siveness in acute settings, such as individual art interventions or singular visits to museums, may be due to an individual's proneness to have more pleasurable and meaningful experiences. On a more long-term basis, one could speculate, and future research should examine, if the cross-sectional associations between the above traits and overall well-being can be explained by those individuals consistently experi­ encing strong states of pleasure and meaning in their general lives in response to aesthetic and artistic stimuli on digital platforms or other­ wise through design, architecture, nature, etc. From a practice perspective, the findings emphasize the importance of designing digital art interventions to enhance individuals' viewing experiences, regard­ less of their trait aesthetic responsiveness. Perhaps, this is doubly crucial due to the possibility of digital art interventions' embeddedness in users' lives, allowing for bite-size art experiences on demand, ready to shift them from the everyday into therapeutic states of pleasure and meaning-making.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Interestingly, as reported at the beginning of the descriptive results of our sample, we discovered that the device type that participants used to visit the online Monet art exhibition had an impact on their changes in positive mood. We found that there was a possible detrimental effect of viewing art on a smartphone compared to a laptop or desktop computer and that this impact was predicted by lower levels of liking (with po­ tential moderation of the relationship between liking and changes in positive mood by device type). Although this did not change the main finding of the present study, and is beyond the scope of our aim, we do delve further into this, for the interested reader, in the Supplementary Material. Further study should address not only why individuals can benefit from art but what factors may inhibit the efficacy of art in­ terventions. Research should examine the best design choices (presen­ tation size and style, intractability, accessory text) and how to implement them (digital optimization across devices) to bring viewers into beneficial states of pleasure and meaning, with a special focus on those low in aesthetic responsiveness to increase access to the benefits of the arts. The use of qualitative interviews could provide an enriched data set targeting individuals who did not experience benefits from online art viewing or who in some cases reported worse psychological states after the art experience.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "7.1. Summary of results in connection to avenues for future research and practical applications",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "This study calls for future application and study. First, the results of this paper offer recommendations for how to design art-viewing in­ terventions. When considering the experiences of pleasure and meaning, it was clear that those who had better experiences had greater impacts on their well-being after viewing the artwork. Interestingly, we found that the state and trait predictors differed in their ability to explain the variability in changes in well-being outcomes caused by art viewing. Our model was more effective at explaining variance in changes in positive mood compared to either negative mood or anxiety changes, with roughly a quarter of the variance explained in positive mood and less than 10% in changes in negative mood and anxiety, as seen in the re­ sidual variances. This could offer some insight into the reoccurring finding that art viewing does not lead to group-level effects on positive mood but rather has large individual differences, as found in Trupp et al. (2022) and again here. Our results indicate that changes in positive mood are more susceptible to impacts from states that individuals experience while viewing and to their trait likelihood to have these types of responses in general. Further research could confirm whether changes in positive mood have a special susceptibility to mediations or design choices before or during art viewing implemented to increase the pleasure and meaning that viewers experience.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Further, our findings reveal that pleasure and meaning acted distinctly on aspects of well-being. Whereas pleasure was a mediator of only changes in positive mood, meaning mediated changes in all wellbeing outcomes. From an application standpoint, this could help to inform intervention design. Suppose well-being benefits are sought across both positive and negative outcomes, it could be more strategic to design an intervention that prompts meaning-making, memory evoca­ tion, and cognitive reframing instead of something the viewer prefers or finds pleasant. However, more research is required to solidify this finding.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Pragmatically, the enhancement of experiences in art interventions could be accomplished in several ways, including through artwork choice and priming viewing behaviour. For example, the enhancement could be achieved by having self-selected artwork instead of artworks pre-selected by academics, curatorial staff, or intervention practitioners. Self-selection is a paradigm commonly utilized in music interventions",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "(Howlin & Rooney, 2020), and is recently starting to be implemented in empirical laboratory research on the impact of art interventions (Cotter et al., 2022). Supporting these advancements, a recent study on the ef­ fect of self-relevance of artwork found that self-relevant paintings led to better ratings of aesthetic appeal (Vessel, Pasqualette, Uran, Koldehoff, & Vinck, Under Review), which are related to well-being outcomes through past literature and confirmed by these findings. Self-selection is especially relevant for digital art interventions. One of the central powers of computer-based art viewing is the accessibility that the internet can provide as, for the first time in history, many individuals can access unlimited free visual artworks on demand. Although in this study we did not allow participants to choose an artwork, as we were specifically seeking a range of subjective experience states, we recom­ mend this be employed in the future. We especially suggest exploring multiple artworks or artwork types, considered in within-participant designs if possible, which would allow for both the expression of indi­ vidual differences to a greater extent and for the consideration of consistent or artwork-specific well-being effects. Future studies could also include full gallery spaces both in-person settings and in virtual reality.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Future studies could also explore the use of priming as a strategy to enhance states of pleasure and meaning. Several papers have shown that art perception and the experiences and appraisals that follow are sus­ ceptible to priming (Brieber, Nadal, Leder, & Rosenberg, 2014; Cupchik, Vartanian, Crawley, & Mikulis, 2009). Intervention design could capi­ talize on this research, using a pragmatic versus aesthetic viewing condition as aesthetic viewing was found to lead to stronger feelings of pleasure (Cupchik et al., 2009). Similarly, a recent pre-print has also attempted to increase immersion through viewing behaviour in­ structions (Cotter et al., 2022), finding potential impacts and offering exciting new design applications.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "7.2. Contribution of results to understanding of art viewing mechanisms",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "These results make a significant contribution to the field of arts and health beyond the utilization of digital technologies. Previous studies have posited mediators or mechanisms for the beneficial effects of art encounters (Eekelaar et al., 2012; Fancourt & Finn, 2019; Mastandrea, Fagioli, & Biasi, 2019; Silverman, 2002); however, they have suffered from a lack of experimental support. From an 'arts in health' standpoint, pleasure and meaningfulness can be considered active ingredients of effective art interventions and mechanisms of action impacting well-being. Using the framework of Warran et al. (2022), when taking a broader perspective of how the arts can impact higher levels of well-being and health, reducing negative states is considered the mechanism of action. At the same time, the aspects of the actual art viewing experiences, such as experiencing pleasure, meaning, or aesthetic experience, are considered active ingredients. In our case, where negative states of mood and anxiety reduction is the outcome, we suggest that subjective experiences are better thought of as mechanisms of action as they enable and include processes of reward activation, dopamine release, memory evocation, cognitive reframing, and insight (Pelowski et al., 2017), leading to reductions in negative outcomes. Our results support these explanations but still call for further evidence. One avenue to provide further data to tease out the role of such mechanisms would be to experimentally manipulate the subjective experience states and directly compare the proportional rise or fall of well-being outcomes.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "7.3. Caveats and limitations",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "No paper is without limitations. Even though this paper is an improvement on Trupp et al. as we pre-registered the design and anal­ ysis, and increased the level of control through the introduction of quality control measures and the exclusion of participants who failed them, the design of this study, as for many other psychological studies, including Trupp et al., 2022, is at risk of methodological artifact (e.g., Hawthorne effect; Adair, 1984). For example, it is possible that partic­ ipants in this study anticipated the study's goal and answered the post-survey accordingly. Although this is possible, here we suggest that this study was less at risk of such artifacts due to the high number of states participants had to responded to (i.e., 26). Further, we note that the directionality of the changes from pre-to-post were far from being homogeneous, (e.g., no average changes in positive mood) and that these changes were systematically related to trait variables, making ef­ fects, such as the Hawthorne effect, a less likely explanation to the data. Nonetheless, we recommend future work include an agreeability trait questionnaire that could be used to estimate how much of the impact was due to participants' hawthorn bias. Furthermore, the single painting that participants could interact with limited our results and, thus, con­ clusions. The painting we selected was liked by many participants, reducing the variability in subjective states that our sample experienced, which limits our model's descriptive ability. Future work should include several examples of art, allowing for greater variability in experiences.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "8. Conclusion",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "To conclude, this paper offers evidence that those who experience art viewing as more pleasurable and meaningful can benefit more from an online art intervention. The impact of these results is a step forward in the empirical investigation of possible mechanisms, as well as a repli­ cation of the potential of computer-based online art viewing for wellbeing benefits.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Author credit statement",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "(https://www.elsevier.com/authors/policies-and-guidelines/creditauthor-statement).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "MT- Conceptualization, Methodology, Investigation, Data Curation, Formal Analysis, Writing-Original Draft, Writing- Review & Editing, Project Administration. GB- Methodology, Formal Analysis, Visualiza­ tion, Writing-Original Draft, Writing- Review & Editing, ES- Methodol­ ogy, Formal Analysis, Validation, Writing- Review & Editing, EVMethodology, Writing- Review & Editing, MP- Methodology, WritingReview & Editing, Supervision, Funding Acquisition.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Data availability",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Data will be made available on request.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgements",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "The authors would like to thank Anna Fekete for pilot data and Aenne Brielmann for assistance in finding scales. This research was supported by a Grant to MP from the EU Horizon 2020 TRANS­ FORMATIONS-17-2019, Societal Challenges and the Arts (870,827 - ARTIS, Art and Research on Transformation of Individuals and Soci­ eties). GB was supported by the German Federal Ministry of Education and Research (BMBF) and the Max Planck Society.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Appendix A. Supplementary data",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Supplementary data to this article can be found online at https://doi. org/10.1016/j.chb.2023.107764.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "About Google Cultural Institute. (2020). https://about.artsandculture.google.com/. Adair, J. G. (1984). The Hawthorne effect: A reconsideration of the methodological artifact. Journal of Applied Psychology, 69(2), 334-345. https://doi.org/10.1037/ 0021-9010.69.2.334",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Alea, N., & Bluck, S. (2012). When does meaning-making predict well-being? Examining young and older adults in two cultures. Memory (Hove, England), 21. https://doi.org/ 10.1080/09658211.2012.704927",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Allen, M., Poggiali, D., Whitaker, K., et al. (2021). Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res., 4, 63. https://doi.org/10.12688/wellcomeopenres.15191.2",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Aron, E. N., & Aron, A. (1997 Aug). Sensory-processing sensitivity and its relation to introversion and emotionality. Journal of Personality and Social Psychology, 73(2), 345-368. https://doi.org/10.1037//0022-3514.73.2.345. PMID: 9248053.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Belfi, & Loui, P. (2020). Musical anhedonia and rewards of music listening: Current advances and a proposed model. Annals of the New York Academy of Sciences, 1464 (1), 99-114. https://doi.org/10.1111/nyas.14241",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Belfi, A. M., Vessel, E. A., Brielmann, A., Isik, A. I., Chatterjee, A., Leder, H., et al. (2019). Dynamics of aesthetic experience are reflected in the default-mode network. NeuroImage, 188, 584-597. https://doi.org/10.1016/j.neuroimage.2018.12.017",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Berridge, K. C., & Kringelbach, M. L. (2008). Affective neuroscience of pleasure: Reward in humans and animals. Psychopharmacology, 199(3), 457-480. https://doi.org/ 10.1007/s00213-008-1099-6",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Berridge, K. C., & Kringelbach, M. (2011). Building a neuroscience of pleasure and wellbeing. Psychology of Well-Being, 1, 1-3. https://doi.org/10.1186/2211-1522-1-3",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Brieber, D., Nadal, M., Leder, H., & Rosenberg, R. (2014). Art in time and space: Context modulates the relation between art experience and viewing time. PLoS One, 9, Article e99019. https://doi.org/10.1371/journal.pone.0099019",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Brielmann, A. A., & Pelli, D. G. (2019). Intense beauty requires intense pleasure. Frontiers in Psychology, 10. https://doi.org/10.3389/fpsyg.2019.02420",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Brown, T. (2015). Confirmatory factor analysis for applied research (2nd ed.) https://www. guilford.com/books/Confirmatory-Factor-Analysis-for-Applied-Research/TimothyBrown/9781462515363/new-to-edition.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Bu, F., Mak, H. W., Bone, J. K., & Fancourt, D. (2021). Longitudinal changes in homebased arts engagement during and following the first national lockdown due to the COVID-19 pandemic in the United Kingdom. MedRxiv [Preprint]. https://doi.org/ 10.1101/2021.05.14.21257233",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Chen, M. K., & Risen, J. L. (2010). How choice affects and reflects preferences: Revisiting the free-choice paradigm. Journal of Personality and Social Psychology, 99(4), 573-594. https://doi.org/10.1037/a0020217",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Chiang, K.-J., Chu, H., Chang, H.-J., Chung, M.-H., Chen, C.-H., Chiou, H.-Y., et al. (2010). The effects of reminiscence therapy on psychological well-being, depression, and loneliness among the institutionalized aged. International Journal of Geriatric Psychiatry, 25(4), 380-388. https://doi.org/10.1002/gps.2350",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Clow, A., & Fredhoi, C. (2006). Normalisation of salivary cortisol levels and self-report stress by a brief lunchtime visit to an art gallery by London City workers. Journal of Holistic Healthcare, 3(2), 29-32. ISSN: 1743-9493.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Cotter, K., Harrouche, M., Rodriguez-Boerwinkle, R., Boerwinkle, M., Silvia, P., & Pawelski, J. (2022). Virtual art visits: Examining the effects of slow looking on wellbeing in an online environment. PsyArXiv. https://doi.org/10.31234/osf.io/k5gje",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Crawford, J. R., & Henry, J. D. (2004). The positive and negative affect schedule (PANAS): Construct validity, measurement properties and normative data in a large non-clinical sample. British Journal of Clinical Psychology, 43(Pt 3), 245-265. https:// doi.org/10.1348/0144665031752934",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Cumino, D. O., Vieira, J. E., Lima, L. C., Stievano, L. P., Silva, R. A. P., & Mathias, L. A. S. T. (2017). Smartphone-based behavioural intervention alleviates children's anxiety during anaesthesia induction: A randomised controlled trial. European Journal of Anaesthesiology, 34(3), 169-175. https://doi.org/10.1097/ EJA.0000000000000589",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Cupchik, G. C., Vartanian, O., Crawley, A., & Mikulis, D. J. (2009). Viewing artworks: Contributions of cognitive control and perceptual facilitation to aesthetic experience. Brain and Cognition, 70(1), 84-91. https://doi.org/10.1016/j.bandc.2009.01.003",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Diessner, R., Solom, R. D., Frost, N. K., Parsons, L., & Davidson, J. (2008). Engagement with beauty: Appreciating natural, artistic, and moral beauty. Journal of Psychology, 142(3), 303-332. https://doi.org/10.3200/JRLP.142.3.303-332",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Eekelaar, C., Camic, P. M., & Springham, N. (2012). Art galleries, episodic memory and verbal fluency in dementia: An exploratory study. Psychology of Aesthetics, Creativity, and the Arts, 6(3), 262-272. https://doi.org/10.1037/a0027499",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Emons, W. H., Habibovi´c, M., & Pedersen, S. S. (2019). Prevalence of anxiety in patients with an implantable cardioverter defibrillator: Measurement equivalence of the HADS-A and the STAI-S. Quality of Life Research, 28(11), 3107-3116. https://doi. org/10.1007/s11136-019-02237-2",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Fancourt, D., & Finn, S. (2019). What is the evidence on the role of the arts in improving health and well-being? A scoping review. World Health Organization. Regional Office for Europe. https://apps.who.int/iris/handle/10665/329834.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Fancourt, D., Garnett, C., & Müllensiefen, D. (2020). The relationship between demographics, behavioral and experiential engagement factors, and the use of artistic creative activities to regulate emotions. Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000296",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Fekete, A., Specker, E., Mikuni, J., Trupp, M. D., & Leder, H. (Under Review). When the painting meets its musical inspiration: The impact of multimodal art experience on aesthetic enjoyment and subjective wellbeing in the museum.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Fleming, T., Bavin, L., Lucassen, M., Stasiak, K., Hopkins, S., & Merry, S. (2018). Beyond the trial: Systematic review of real-world uptake and engagement with digital selfhelp interventions for depression, low mood, or anxiety. Journal of Medical Internet Research, 20(6), e199. https://doi.org/10.2196/jmir.9275",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Friedrich, S., Konietschke, F., & Pauly, M. (2018). Analysis of multivariate data and repeated measures designs with the R package MANOVA.RM. Rice Journal, 11. https://doi.org/10.32614/RJ-2019-051",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Froggett, L., & Little, R. (2012). Pleasure, provocation and value in hospital art: The evaluation of the University College London Hospitals arts programme. Journal of Applied Arts & Health, 3(2), 133-148. https://doi.org/10.1386/jaah.3.2.133_1",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Fr´ois, J. P., & Silva, C. (2014). A Research into Meaning Making Strategies in Encounters with Artworks. Empirical Studies of the Arts, 32, 43-73. https://doi.org/10.2190/ EM.32.1.EOV.5.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Gard, D. E., Gard, M. G., Kring, A. M., & John, O. P. (2006). Anticipatory and consummatory components of the experience of pleasure: A scale development study. Journal of Research in Personality, 40(6), 1086-1102. https://doi.org/ 10.1016/j.jrp.2005.11.001",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Ho, R. T. H., Potash, J. S., Fang, F., & Rollins, J. (2015). Art viewing directives in hospital settings effect on mood. HERD: Health Environments Research & Design Journal, 8(3), 30-43. https://doi.org/10.1177/1937586715575903",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Howlin, C., & Rooney, B. (2020). The cognitive mechanisms in music listening interventions for pain: A scoping review. Journal of Music Therapy, 57. https://doi. org/10.1093/jmt/thaa003",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "John, O. P., Donahue, E. M., & Kentle, R. L. (1991). The Big Five Inventory - versions 4a and 5. Berkeley: University of California, Berkeley, Institute of Personality and Social Research.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Karnik, M., Printz, B., & Finkel, J. (2014). A hospital's contemporary art collection: Effects on patient mood, stress, comfort, and expectations. HERD: Health Environments Research & Design Journal, 7(3), 60-77. https://doi.org/10.1177/ 193758671400700305",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Knizek, B. L., Alsaker, S., Hagen, J., Haugan, G., Lehmann, O., Nilsen, M., et al. (2021). Meaning-making: A underestimated resource for health? A discussion of the value of meaning-making in the conservation and restoration of health and well-being. Encyclopaideia, 25(59). https://doi.org/10.6092/issn.1825-8670/11986",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Koenig, H. G. (2012). Religion, spirituality, and health: The research and clinical implications. ISRN Psychiatry, 2012, Article 278730. https://doi.org/10.5402/2012/ 278730",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Leder, H., Hakala, J., Peltoketo, V.-T., Valuch, C., & Pelowski, M. (2022). Swipes and saves: A taxonomy of factors influencing aesthetic assessments and perceived beauty of mobile phone photographs. Frontiers in Psychology, 13. https://www.frontiersin. org/article/10.3389/fpsyg.2022.786977.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Lee, S. S., Lee, S.-H., & Choi, I. (2021). Do art lovers lead happier and even healthier lives? Investigating the psychological and physical benefits of savoring art. Psychology of Aesthetics, Creativity, and the Arts,. https://doi.org/10.1037/ aca0000441",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Leng, F. Y., Yeo, D., George, S., & Barr, C. (2014). Comparison of iPad applications with traditional activities using person-centred care approach: impact on wellbeing for persons with dementia. Dementia (Lond. Engl.), 13, 265-273. https://doi.org/ 10.1177/1471301213494514",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Littman-Ovadia, H., & Lavy, S. (2012). Character strengths in Israel: Hebrew adaptation of the VIA inventory of strengths. European Journal of Psychological Assessment, 28(1), 41-50. https://doi.org/10.1027/1015-5759/a000089",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Marteau, T. M., & Bekker, H. (1992). The development of a six-item short-form of the state scale of the Spielberger State-trait Anxiety Inventory (STAI). British Journal of Clinical Psychology, 31(3), 301-306. https://doi.org/10.1111/j.2044-8260.1992. tb00997.x",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Martínez-Martí, M. L., Avia, M. D., & Hern´andez-Lloreda, M. J. (2018). Effects of an appreciation of beauty randomized-controlled trial web-based intervention on appreciation of beauty and well-being. Psychology of Aesthetics, Creativity, and the Arts, 12(3), 272-283. https://doi.org/10.1037/aca0000164",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Martínez-Martí, M. L., Hern´andez-Lloreda, M. J., & Avia, M. D. (2016). Appreciation of beauty and excellence: Relationship with personality, prosociality and well-being. Journal of Happiness Studies, 17(6), 2613-2634. https://doi.org/10.1007/s10902015-9709-6",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Mastandrea, S., Fagioli, S., & Biasi, V. (2019). Art and psychological well-being: Linking the brain to the aesthetic emotion. Frontiers in Psychology, 10. https://doi.org/ 10.3389/fpsyg.2019.00739",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Mastandrea, S., Maricchiolo, F., Carrus, G., Giovannelli, I., Giuliani, V., & Berardi, D. (2019). Visits to figurative art museums may lower blood pressure and stress. Arts & Health, 11(2), 123-132. https://doi.org/10.1080/17533015.2018.1443953",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Molinari, G., Miragall, M., Enrique, ´A., Botella, C., Ba˜nos, R. M., & García-Palacios, A. (2020). How and for whom does a positive affect intervention work in fibromyalgia: An analysis of mediators and moderators. European Journal of Pain, 24(1), 248-262. https://doi.org/10.1002/ejp.1481",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "O'Rourke, N., Cappeliez, P., & Claxton, A. (2011). Functions of reminiscence and the psychological well-being of young-old and older adults over time. Aging & Mental Health, 15(2), 272-281. https://doi.org/10.1080/13607861003713281",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Park, C. L. (2010). Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events. Psychological Bulletin, 136, 257-301. https://doi.org/10.1037/a0018301",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Paul, K. (2021). NFTs are helping artists solve a vital problem: Who owns digital artwork? The guardian. https://www.theguardian.com/artanddesign/2021/apr/03/non-fungible-t okens-digital-art-artists.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Pelowski, M., Markey, P. S., Forster, M., Gerger, G., & Leder, H. (2017). Move me, astonish me delight my eyes and brain: The Vienna Integrated Model of top-down and bottom-up processes in Art Perception (VIMAP) and corresponding affective, evaluative, and neurophysiological correlates. Physics of Life Reviews, 21, 80-125. https://doi.org/10.1016/j.plrev.2017.02.003",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Peterson, C., & Seligman, M. E. P. (2004). Character strengths and virtues: A handbook and classification. American Psychological Association ; Oxford University Press. Rice, G. (2020). The Necessity of the Arts in a Time of Pandemic: How the University of",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Wisconsin-Madison is Responding. Madison, WI: Division of the Arts.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Rømer Thomsen, K., Whybrow, P. C., & Kringelbach, M. L. (2015). Reconceptualizing anhedonia: Novel perspectives on balancing the pleasure networks in the human brain. Frontiers in Behavioral Neuroscience, 9. https://doi.org/10.3389/ fnbeh.2015.00049",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. Journal of Statistical Software, 48, 1-36. https://doi.org/10.18637/jss.v048.i02",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Sachs, M. E., Damasio, A., & Habibi, A. (2015). The pleasures of sad music: A systematic review. Frontiers in Human Neuroscience, 9. https://doi.org/10.3389/ fnhum.2015.00404",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Schlotz, W., Wallot, S., Omigie, D., Masucci, M. D., Hoelzmann, S. C., & Vessel, E. A. (2020). The aesthetic responsiveness assessment (AReA): A screening tool to assess individual differences in responsiveness to art in English and German. Psychology of Aesthetics, Creativity, and the Arts. https://doi.org/10.1037/aca0000348",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Silverman, L. H. (2002). The therapeutic potential of museums as pathways to inclusion. In Museums, society, inequality (1st ed., pp. 89-103). https://doi.org/10.4324/ 9780203167380-12 Routledge.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, L., Smith, J., & Tinio, P. (2016). Time spent viewing art and reading labels. Psychology of Aesthetics, Creativity, and the Arts, 11, 77-85. https://doi.org/10.1037/ aca0000049",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Smolewska, K. A., McCabe, S. B., & Woody, E. Z. (2006). A psychometric evaluation of the Highly Sensitive Person Scale: The components of sensory-processing sensitivity and their relation to the BIS/BAS and \"Big Five\". Personality and Individual Differences, 40(6), 1269-1279. https://doi.org/10.1016/j.paid.2005.09.022",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Sobocko, K., & Zelenski, J. M. (2015). Trait sensory-processing sensitivity and subjective well-being: Distinctive associations for different aspects of sensitivity. Personality and Individual Differences, 83, 44-49. https://doi.org/10.1016/j.paid.2015.03.045",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Stone, A. A., & Mackie, C. (Eds.). (2013). Subjective well-being: Measuring happiness, suffering, and other dimensions of experience (p. 188). National Academies Press.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Thomson, L. J., Ander, E. E., Menon, U., Lanceley, A., & Chatterjee, H. J. (2011). Evaluating the therapeutic effects of museum object handling with hospital patients: A review and initial trial of well-being measures. Journal of Applied Arts & Health, 2 (1), 37-56. https://doi.org/10.1386/jaah.2.1.37_1",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Trupp, M. D., Bignardi, G., Chana, K., Specker, E., & Pelowski, M. (2022). Can a brief interaction with online, digital art improve wellbeing? A comparative study of the impact of online art and culture presentations on mood, state-anxiety, subjective wellbeing, and loneliness. Frontiers in Psychology, 13. https://www.frontiersin. org/articles/10.3389/fpsyg.2022.782033.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R., & Gilpin, L. (2003). Healing arts: nutrition for the soul,\" in Putting Patients First: Designing and Practicing Patient-Centered (pp. 117-146). San Francisco, CA: Charmel. https://doi.org/10.1007/s12098-009-0047-8",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Vessel, E. A., Gabrielle Starr, G., & Rubin, N. (2012). The brain on art: Intense aesthetic experience activates the default mode network. Frontiers in Human Neuroscience. htt ps://www.scopus.com/inward/record.uri?eid=2-s2.0-84933678853&doi=10.3389 %2ffnhum.2012.00066&partnerID=40&md5=719d834d28c57906eeebf947e89c4a 06.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Vessel, E.A., Pasqualette, L.B.B.B., Uran, C., Koldehoff, S., & Vinck, M. (Under Review). Self-relevance predicts the aesthetic appeal of real and synthetic artworks generated via neural style transfer. PsyArXiv. https://psyarxiv.com/pnu3r/.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Warran, K., Burton, A., & Fancourt, D. (2022). What are the active ingredients of 'arts in health' activities? Development of the INgredients iN ArTs in hEalth (INNATE) framework. Wellcome Open Research, 7, 10. https://doi.org/10.12688/ wellcomeopenres.17414.2. https://pubmed.ncbi.nlm.nih.gov/35600003/",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Warren, C., McGraw, A. P., & Van Boven, L. (2011). Values and preferences: Defining preference construction. Wiley Interdisciplinary Reviews. Cognitive Science, 2(2), 193-205. https://doi.org/10.1002/wcs.98",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology, 54(6), 1063-1070. https://doi.org/10.1037//00223514.54.6.1063",
+   "page": 12
+  }
+ ]
+}

@@ -1,0 +1,753 @@
+{
+ "paper_id": "P24",
+ "source": "P24_Default_Mode_Network_Natural_Viewing.pdf",
+ "pages": 10,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Contents lists available at ScienceDirect",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Neurobiology of Stress",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "journal homepage: www.elsevier.com/locate/ynstr",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Default mode network connectivity contributes the augment effect stress recovery by natural viewing",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Zini Chen a,1 , Chanyu Wang a,1 , Timothea Toulopoulou b,c,d , Xiayan Chen a , Lijing Niu a , Haowei Dai a , Qingzi Zhu a , Yuanyuan Zeng a , Ruibin Zhang a,e,f,*",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "a Cognitive Control and Brain Healthy Laboratory, Department of Psychology, School of Public Health, Southern Medical University, Guangzhou, China",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "b Department of Psychology, Department of Neuroscience, National Magnetic Resonance Research Center (UMRAM) & Aysel Sabuncu Brain Research Center, Bilkent University, 06800, Ankara, Turkey",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "c 1 st Department of Psychiatry, National and Kapodistrian University of Athens, Athens, Greece",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "d Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, USA",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "e Department of Psychiatry, Zhujiang Hospital, Southern Medical University, Guangzhou, China",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "f Guangdong-Hong Kong-Macao Greater Bay Area Center for Brain Science and Brain-Inspired Intelligence, Guangdong-Hong Kong Joint Laboratory for Psychiatric Disorders, Guangdong Basic Research Center of Excellence for Integrated Traditional and Western Medicine for Qingzhi Diseases, Southern Medical University, China",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A R T I C L E I N F O",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Handling Editor: Dr. Rongjun Yu",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: Connection to nature Stress Restorative effect Default mode network",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Functional connectivity",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A B S T R A C T",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "The psychological benefits of exposure to natural environments are well established. However, whether simply viewing nature images produce similar restorative effects and the brain mechanisms involved remain unclear. For study purposes, we recruited 131 healthy university students and randomly assigned them to a nature image viewing group (NG) or a city image viewing group (CG), with 49 participants further selected (NG = 26, CG = 23) to undergo functional magnetic resonance imaging while performing behavioral tasks. First, we compared changes in subjective ratings and salivary cortisol levels, related to affect and stress between the NG and CG after stress induction and image viewing. Next, we examined differences in functional connectivity (FC) patterns of the default mode network (DMN) between the groups during image viewing. Finally, we explored correlations be­ tween the recovery effects observed after viewing nature images, along with alterations in FC. Under stress, NG participants reported greater changes in subjective ratings of positive affect (t = 2.610, p = 0.010), lower negative affect (t = � 3.008, p = 0.003), and less state rumination (t = � 2.103, p = 0.037). Neural data also suggest that connectivity of the DMN subsystems with attentional and executive regions plays a crucial role in modulating stress-related responses during natural experiences. Increased FC between the medial DMN sub­ system and other networks was significantly correlated with behavioral recovery scores for both affect and state rumination. These findings indicate that viewing images of natural scenes can aid in stress recovery, highlighting the potential for indoor nature viewing to help mitigate psychological challenges faced in urban environments.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "As urbanization accelerates and the challenges of city life increase, people find themselves in increasingly stressful environments. Pro­ longed and excessive stress can lead to illness and negatively affect mental health. Research indicates that mood and anxiety disorders are more prevalent in urban centers, and their incidence has been increasing (Costa E Silva and Steffen, 2019). A study investigating the relationships between urban environments and psychiatric symptoms found that exposure to urban environments dominated by high degrees of poverty and air pollution is associated with increased negative emotional symptoms (Xu et al., 2023). In recent years, the restoration benefits of natural environments have been emphasized as a means to reduce the effects of stress on human cognition and mood. Human beings' physical and mental health has been closely linked to the natural environment (Remme et al., 2021). A growing body of research has demonstrated that spending time in natural environments can improve mental health. Meta-analyses revealed moderate to large positive effects of natural environments on anxiety, fatigue, positive affect, and vigor (Wicks et al., 2022). Walking in green spaces and built green environments such as",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "* Corresponding author. Department of Psychology, School of Public Health, Southern Medical University, China. E-mail address: ruibinzhang@foxmail.com (R. Zhang).",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "1 These authors contributed equally to this work.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "https://doi.org/10.1016/j.ynstr.2025.100759",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "parks has been linked to improvements in depressive mood (Roberts et al., 2019). Moreover, immersion in nature, such as in forested areas, has been found to significantly reduce symptoms of depression and anxiety and to improve mood (Wen et al., 2019; Lim et al., 2020; Siah et al., 2023). Relevant neuroimaging studies have shown that rumina­ tion decreases after a walk in a natural environment, and neural acti­ vation in both the subgenual prefrontal cortex (Bratman et al., 2015) and the amygdala (Sudimac et al., 2022) is also reduced. Thus, having a connection to nature plays an important protective role for the mental health of urban dwellers under stress.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "There is no doubt that one of the consequences of urbanization is the loss of the natural environment and the depletion of natural resources. If more accessible ways to connect with nature existed beyond hiking and walking, opportunities for mental health improvement would be greatly expanded. Recently, many studies have focused on the effects of indirect contact with nature by viewing images or videos and using virtual re­ ality technology. Several studies have shown that exposure to the nat­ ural environments by viewing images has a potential role in human health and well-being, facilitating the restoration of attention, improving executive functioning, and alleviating negative affect and stress (Chiang et al., 2017; Yamashita et al., 2021; van Oordt et al., 2022). However, it has also been suggested that virtual nature simula­ tions, even those incorporating videos, may not fully replicate the experience of being in nature outdoors or effectively restore attentional resources (Hartanto et al., 2023). This suggests that the impact of viewing nature images on mental health still requires further explora­ tion. In particular, static nature images are more convenient and accessible than videos or virtual reality, making them a promising tool for stress relief. If the effectiveness of viewing nature images in pro­ moting stress recovery can be demonstrated, such could offer a simple, practical way for urban dwellers to alleviate stress-such as by setting nature images as their computer screensaver or cellphone wallpaper to quickly and easily relax during daily life.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The biophilia hypothesis proposes that humans have an innate ten­ dency to interact positively with nature (Wilson, 1984). Previous studies have found that natural views held viewers' attention and interest more effectively than urban scenes (Ulrich, 1981; Kaplan, 1995). The Atten­ tion Restoration Theory (ART) posits that exposure to nature can pro­ vide a specific stimulus for attention to recover from the mental fatigue associated with the urban environments (Kaplan, 1983). Recent neuro­ imaging studies have attempted to explain biophilia in terms of the mechanisms of how the brain responds to exposure to nature. A study using functional magnetic resonance imaging (fMRI) found that viewing green urban landscapes elicits changes in the activity of the ventral posterior cingulate cortex (PCC), which modulates attentional and ex­ ecutive regions in a predominantly feedforward manner to regulated behavioral stress-related responses (Chang et al., 2021). Another study also observed that functional connectivity (FC) was significantly greater in the default mode network (DMN) and other networks such as the dorsal attention network (DAN) when participants viewed photographs of natural settings rather than built environments (Kühn et al., 2021). These findings suggest that the involvement of the DMN and attention-related regions in response to viewing nature may help explain how natural environments allow individuals to disengage from effortful directed attention, supporting the core principles of ART.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Neuroimaging literature has uncovered three key networks particu­ larly linked to stress responsiveness and regulation: the salience network (SN), the executive control network (ECN), and the default mode network (DMN) (Rab and Admon, 2021). Studies examining stress-induced changes in FC have reported that stress-induced cortisol increases are associated with increased connectivity within the SN but with decreased coupling of the DMN at both local (within the network) and global (synchronization with brain regions also outside the network) levels (Zhang et al., 2019b). More recently, exposure to stress was shown to induce a dynamic functional interplay between heart rate variability and neural network connectivity, and thus heart rate variability was associated with DMN-ECN functional coupling before, but not after, stress exposure (Chand et al., 2020). Collectively, these findings highlight how stress alters brain network dynamics, particu­ larly implicating altered FC both within the DMN and involving its in­ teractions as a key neural signature of the stress response.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The DMN is a collection of distributed and interconnected brain re­ gions that are typically inhibited when an individual is focused on external stimuli; however, in the absence of attention to external stimuli, the DMN switches or ''defaults'' to internally focused thought processes, such as self-referential processing and introspection (Rab and Admon, 2021; Menon, 2023). As research continues, the DMN has evolved from being viewed as a unitary network to exhibiting distinct regional func­ tions, leading to its conceptualization of it as containing at least three subsystems, the core DMN (cDMN), dorsal DMN (dDMN), and medial DMN (mDMN) (Andrews-Hanna et al., 2010). The cDMN consists of the anterior medial prefrontal cortex (aMPFC) and PCC, which are hy­ pothesized to integrate the function of the other subsystems and is involved in the introspection about one's own mental states (Andrews-Hanna et al., 2010, 2014). The dDMN encompasses the dorsal medial prefrontal cortex (dMPFC), the temporoparietal junction (TPJ), the lateral temporal cortex (LTC), and the temporal pole (TempP), whose function are associated with mentalizing and social cognition, as well as story comprehension and semantic/conceptual processing (Andrews-Hanna et al., 2014; Zhou et al., 2020). The mDMN includes the ventral medial prefrontal cortex (vMPFC), posterior inferior parietal lobule (pIPL), retrosplenial cortex (Rsp), parahippocampal cortex (PHC), and the hippocampal formation (HF), which are involved in episodic/contexture retrieval, mental simulations of the future, and autobiographical recall (Andrews-Hanna et al., 2010, 2014). Alterations in DMN connectivity have consistently been implicated in various psy­ chiatric disorders and particularly in stress-related disorders; for example, DMN dysfunction has been implicated in both rumination (Hamilton et al., 2015) and major depression (Yan et al., 2019; Tozzi et al., 2021; Qiu et al., 2024). Previously, a meta-analysis including 14 fMRI studies linking DMN subsystems to rumination highlighted prominent roles of the cDMN and dDMN subsystems (Zhou et al., 2020). Similarly, a study inducing rumination in healthy participants found that, compared to when participants were in a distracted state, rumi­ nation generally decreased within-DMN FC while increasing FC between the cDMN and mDMN subsystems and decreasing FC between the cDMN and dDMN subsystems (Chen et al., 2020). Thus, an improved under­ standing of the interactions between different DMN regions and sub­ systems may be important to explore stress-related neural underpinnings.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "As mentioned previously, the restorative effects of viewing natural images have yet to be further investigated, and exploring the in­ teractions between different DMN regions and DMN subsystems may help to disentangle key neural mechanisms of stress response and regulation. If it could be experimentally demonstrated that viewing nature images achieves a restorative effect similar to that of physical contact with the natural environment, we could then expect to observe the activation of regions within the DMN and the interactions between DMN subsystems, and the connectivity of the DMN subsystems and other networks. Accordingly, our study aimed to examine the recovery effects of viewing nature images after stress induction compared to viewing city images. Specifically, we conducted a behavioral experiment to deter­ mine whether exposure to natural stimuli would accelerate recovery from stress and improve mood (affect) compared to viewing urban stimuli following a stress-induction procedure. Additionally, we explored the FC patterns of the DMN using fMRI to assess the recovery effects of exposure to natural stimuli following stress induction. We hypothesized that participants in the stress condition who viewed nature images (nature group [NG]) would report more significant restoration of mood and reduced stress levels, as well as changes in salivary cortisol levels, compared to their counterparts who viewed city images (city group [CG]). Notably, rumination-characterized by sustained negative emotional immersion and self-referential focus-has been shown to alter DMN connectivity in specific ways (Chen et al., 2020; Zhou et al., 2020). In contrast, natural viewing is posited to act as a restorative process that alleviates stress by redirecting attention toward the external environ­ ment and facilitating the recovery of directed attention, a mechanism involving functional coupling between the DMN and attention-related regions (Chang et al., 2021; Kühn et al., 2021). Given that rumination (a stress-maintaining state) is associated with decreased within-DMN FC and specific interactions between DMN subsystems, we reasoned that natural viewing (a stress-reducing state) might exhibit opposing or distinct patterns. While our investigation of the neural mechanisms underlying how natural viewing accelerates stress recovery was exploratory, we expected FC differences within the DMN and between DMN subsystems to emerge between NG and CG during natural viewing. These differences might involve alterations in the coupling between DMN subsystems and whole-brain networks, such as enhanced connec­ tivity between the DMN subsystems and attention-related regions.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2. Materials and methods",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. Participants",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Participants were recruited through online and offline postings and registered through a link containing the Patient Health Questionnaire (PHQ-9) demographic information. A total of 131 healthy university students (33 men and 98 women; aged 18� 28 years) were recruited, with 49 of them (18 men and 28 women) further randomly selected and invited to undergo fMRI while performing behavioral tasks 1 month later. The allocation process of the participants can be seen in Fig. 1a.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "For inclusion, participants were required to be aged ≥18 years and to have a PHQ-9 score of <10 points. Conversely, we excluded female participants who were menstruating (to avoid its reported effect on cortisol) and individuals majoring in psychology or psychiatry. Mean­ while, those participants who underwent fMRI imaging were also required to meet the following criteria: (i) no metallic implants in the body, such as pacemakers, cochlear implants, tattoos, and prostheses, and (ii) no claustrophobia. All subjects were told not to consume drinks containing caffeine, such as coffee or tea, after 6 p.m. on the day before the experiment and to avoid engaging in very vigorous sports before examination on the day of the experiment. The institutional review board at Zhujiang Hospital of Southern Medical University approved the overall study protocol, and all participants provided signed written informed consent and were remunerated at the end of the experiment.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Procedure",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "All materials were in the form of scripts that were run through the EPrime 3.0 software (https://pstnet.com/products/e-prime/) (Psychol­ ogy Software Tools, Pittsburgh, PA, USA). Through this software, a se­ ries of baseline scales were presented, along with the nature or city pictures and subjective ratings.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Participants were randomly assigned to either the NG or CG. Upon arrival at the laboratory, participants first completed informed consent forms and the following questionnaires: basic demographic information, the Beck Depression Inventory, the Positive and Negative Affect Scale, the Perceived Stress Scale, the Connectedness to Nature Scale, the Pro­ file of Mood States, and the State-Trait Anxiety Inventory. Additionally, baseline measurements were collected for positive affect, negative affect, relaxation, nervousness, and state rumination items (Supplementary Table 1). Subjective ratings were based on a visual analog scale ranging from \"not at all\" (0 points) to \"very much\" (100 points). State rumination was measured by summing the scores of items 6 and 8 of the Brief State Rumination Inventory (Wang et al., 2022). After a 15-min interval between the subjective ratings, participants underwent salivary cortisol measurement. Then, they completed the Trier Social Stress Test (TSST) to induce psychological stress.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Following the TSST, participants performed a series of image viewing tasks. After each task, participants were asked to complete",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. Schematic overview of the study.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "a Allocation of participants. A total of 131 participants who met the criteria were recruited. Participants were then randomized to either the nature image viewing group (n = 68) or the city image viewing group (n = 63), with 49 participants (NG = 26, CG = 23) were randomly selected and invited to undergo fMRI while performing behavioral tasks one month later. b The experimental paradigm. All participants successively underwent baseline measurement stage, stress induction stage, and stress recovery stage. After each task, participants were required to complete subjective rating and salivary cortisol measurements before moving on to the next stage. c The stress recovery paradigm. Participants engaged in an image viewing task, where they viewed either nature images or city images. Each participant viewed a total of 30 images, each displayed for 20 s.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "subjective ratings and salivary cortisol measurements before moving on to the next task. The whole procedure could be found in Fig. 1b.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Stress-induced paradigm",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Trier Social Stress Test (TSST). The classical TSST was employed to induce stress responses in participants (Kirschbaum et al., 1993). The entire procedure consisted of a 5-min preparation for the speech task, a 5-min speech task, and a 5-min serial subtraction task. The speech task was required to last approximately 5 min, during which participants were instructed as follows: \"You will now engage in a speech task where you will describe your future job and the reasons you believe you are suited for it. Your entire speech will be recorded, and two evaluators will rate your verbal and non-verbal behaviors. You will have 5 min to prepare for the interview. During this preparation period, you may take notes using pen and paper, but these notes will not be permitted during the actual interview.\" Whenever the participants finished their speeches in less than 5 min, the interviewers responded in a standardized way. First, they told the participant \"You still have some time left. Please continue!\" Should the subjects finish a second time before the 5 min were over, the interviewers were quiet for 20 s and then asked prepared questions. Upon completing the speech task, participants proceeded with the serial subtraction task, during which the interviewer instructed: \"You will now complete a 5-min arithmetic task. Please subtract 13 continuously and as quickly and accurately as possible from 1022 and say each answer aloud in English. If you make an error, you will need to start over.\" Our requirement of English to verbally report arithmetic results was intended to induce greater stress.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Stress recovery paradigm",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Experimental picture material. Two sets of image materials for the experimental conditions were selected from the internet. All pictures had the same resolution of 1200 ×800 pixels. Chosen pictures of natural environments featured natural elements like trees, grass, or plants, without any man-made structures such as buildings, vehicles, or roads. Conversely, images depicting urban environments included man-made features like buildings, roads, and brick walls. To control for potential confounding variables, it is important to note that a key characteristic of built environments is the absence of natural features and the promi­ nence of urban amenities. Results of naturalness and urbanization rat­ ings of experimental picture material are seen in Supplementary Fig. 1.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "In the stress-recovery stage, participants performed picture viewing for approximately 10 min. Each picture was displayed for 20 s, and a total of 30 images were presented to each group. Participants were asked to look at each picture throughout when it was presented and to imagine that they were in the environment depicted by the picture (Fig. 1c).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.5. Imaging acquisition and preprocessing",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Participants were scanned using a 3.0 Prisma-fit magnetic resonance imaging device with a 64-channel head coil (Siemens, Erlangen, the Netherlands). Functional imaging was performed using a gradient echoplanar imaging sequence for the collection of blood oxygen lev­ el-dependent signals from the brain in the task state. The scanning pa­ rameters were as follows: repetition time (TR) = 1500 ms, echo time (TE) = 31 ms, thickness = 2.4 mm, slices = 60, time points = 530, field of view = 88 × 88 × 60 mm, flip angle (FA) = 70◦ , and voxel size = 2.4 ×2.4 ×2.4 mm 3 . Three-dimensional T1-weighted images were acquired using a sagittal high-resolution T1-weighted three-dimensional MPRAGE sequence with the following scanning parameters: TR = 1800 ms, TE = 2.07 ms, thickness = 0.8 mm, slices = 208, field of view =320 ×320 ×208 mm, FA =9◦ , and voxel size =0.8 ×0.8 ×0.8 mm 3 .",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Preprocessing of the task-based fMRI data was performed using the GRETNA toolbox (http://www.nitrc.org/projects/gretna/) based on statistical parametric mapping (SPM12, http://www.fil.ion.ucl.ac.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "uk/spm) and MATLAB version R2018b (MathWorks, Inc., Natick, MA, USA). For each participant, the first seven volumes were discarded, resulting in a total of 532 volumes. Then, the data were realigned to the first volume for head-motion correction, and three participants with head motion >3.0 mm or rotation in the x, y, or z directions of >3.0◦ were excluded. Afterward, the data were segmented into gray matter, white matter, and cerebrospinal fluid and spatially normalized to the Montreal Neurological Institute (MNI) template with resampling voxel size = 3 × 3 × 3 mm; the resulting images were then linear-detrended and temporally bandpass-filtered (0.01� 0.1 Hz).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.6. FC analysis",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "FC analysis was performed using the DPABI software (https://rfmri. org/DPABI), and the results were visualized using the BrainNet Viewer software (https://www.nitrc.org/projects/bnv/) based on MATLAB. To analyze the average FC within the overall DMN and each individual DMN subsystem, we used a seed-based analysis, according to reported DMN regions of interest (ROIs) (Andrews-Hanna et al., 2014), where we used a sphere (radius, 5 mm) as the seed for three subsystems of the DMN. Specifically, the cDMN included the aMPFC (MNI coordinates, � 6, 52, � 2) and the PCC (MNI coordinates, � 8, � 56, 26); the dDMN included the dMPFC (MNI coordinates, 0, 52, 26), TPJ (MNI co­ ordinates, � 54, � 54, 28), LTC (MNI coordinates, � 60, � 24, � 18), and TempP (MNI coordinates, � 50, 14, � 40); and the mDMN included the vMPFC (MNI coordinates, 0, 26, � 18), pIPL (MNI coordinates, � 44, � 74, 32), Rsp (MNI coordinates, � 14, � 52, 8), PHC (MNI coordinates, � 28, � 40, � 12), and HF (MNI coordinates, � 22, � 20, � 26) (Fig. 2). Since strong correlations were seen between mirrored (right/left) seed regions and strong laterality was present in lateral parietal regions, we only used 11 left-lateralized ROIs. We first extracted time series from these 11 ROIs and created an 11 × 11 correlation matrix for each participant. After performing Fisher's r-to-z transformation of correla­ tion values, we averaged the FCs of the 11 ROIs to obtain the FC of the overall DMN, then averaged the sum of each pair of FCs within/between each subsystem. The final mean FC was defined as the within/between DMN subsystem FC.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Further, to assess FC between DMN subsystems and other brain networks, we calculated seed-to-whole-brain r-FC maps for each subject and then transformed them into z-FC maps using Fisher's r-to-z trans­ formation. Then, we divided all brain regions into seven networks (Yeo et al., 2011), including the visual network (VN), somatomotor network (SMN), dorsal attention network (DAN), ventral attention network (VAN), limbic network (LN), frontoparietal network (FPN), and DMN.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.7. Data analysis",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The statistical analyses were conducted with IBM SPSS 26 (https://www.ibm.com/cn-zh/spss) (IBM Corporation, Armonk, NY, USA). Subjective rating changes in behavioral performance and salivary cortisol changes in physiology were quantified based on the three stages: t0 was measured at baseline, ts was measured after TSST stress induction, and tx was measured after image viewing stress recovery. We normalized t0, ts and tx to R1 = [(ts-t0) /(ts +t0)] to test the success of inducing stress, while R2 = [(tx-ts) /(tx +ts)] was used to measure the stress recovery ef­ fect. For R1, higher values in negative affect, nervousness, state rumi­ nation, and salivary cortisol, along with lower values in positive affect and relaxation, indicate that the TSST paradigm effectively induced stress. Conversely, for R2, lower values in negative affect, nervousness, state rumination, and salivary cortisol, coupled with higher values in positive affect and relaxation, suggest that the image-viewing paradigm was successful in promoting stress recovery. The characteristics of par­ ticipants are presented using descriptive statistics, including the number of participants recruited in the two groups, with means and standardized deviations noted for continuous variables. A one-sample t-test (p <0.05) was used to investigate whether changes in the normalized subjective rating scores and salivary cortisol levels occurred after stress induction and image viewing, while a two-sample t-test (p < 0.05) was used to check whether changes in the normalized subjective rating scores and salivary cortisol levels were different between the two groups.",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2. Left-lateralized seeds used in FC analysis. ROIs of the DMN, including the cDMN (seeds: aMPFC, PCC) dots by red color, dDMN (seeds: dMPFC, TPJ, LTC, TempP) dots by green color and mDMN (seeds: vMPFC, pIPL, Rsp, PHC, HF) dots by blue color.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Two-sample t testing was used to compare the FC of DMN, FC within and between DMN subsystems, and FC between the DMN subsystems and other networks between the NG and CG. Participants' age, sex, and head motion were treated as a nuisance during between-group com­ parison. The significantly two-tailed voxel-wised threshold was set to p < 0.005 with a cluster threshold of p <0.05 for the seed-to-whole-brain FC analysis. Gaussian random field correction was used to correct for multiple comparisons across multiple seeds and subsystems as needed (Cui et al., 2022; Zhang et al., 2022b). Finally, we performed Spearman correlation analyses between all identified FCs and the stress-recovery effect ratings in NG to explore the relationships between brain activity patterns and positive affect, negative affect, relaxation, nervousness, and state rumination, respectively.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Stress-induced effects",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "No significant differences were observed between NG and CG in age, sex, and baseline scales as well as subjective rating scores (p > 0.05) (Supplementary Table 2). We normalized the subjective ratings and salivary cortisol levels at baseline stage and after TSST stress induction to calculate the stress-induction effect. After the induction of psycho­ logical stress, subjective rating scores and salivary cortisol levels (R1) in both NG and CG were significantly changed (p < 0.001). Two-sample t testing showed that there were no significant differences in the change of subjective scores and salivary cortisol levels between the two groups (p >0.05) (Supplementary Fig. 2 and Supplementary Table 3). Together, these findings indicate that stress was successfully induced.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. Recovery effects after image viewing",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "To quantify the recovery effects after image viewing, we normalized the subjective ratings and salivary cortisol levels after TSST stress in­ duction and image viewing. After participants viewed the images, all subjective rating scores (R2) were significantly changed in NG (p < 0.001) except for salivary cortisol levels, while subjective rating scores and salivary cortisol levels (R2) were also significantly changed in CG (p ≤ 0.001), except for negative affect. Two-sample t testing revealed sig­ nificant differences between NG and CG subjective ratings after image viewing in terms of positive affect (mean ± SD: NG, 0.22 ± 0.23; CG, 0.11 ± 0.26, t = 2.610, p = 0.010), negative affect (mean ± SD: NG,",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "� 0.29 ± 0.42; CG, � 0.07 ± 0.40, t = � 3.008, p = 0.003), and state rumination (mean ± SD: NG, � 0.32 ± 0.35; CG, � 0.19 ± 0.33, t = � 2.103, p = 0.037). However, we did not find significant differences in subjective ratings of relaxation (t = � 0.254, p =0.800) and nervousness (t = � 1.151, p =0.252). Moreover, there were no significant differences in salivary cortisol levels (t = 0.532, p = 0.596) between NG and CG (Fig. 3 and Supplementary Table 3). These results suggest that nature viewing has a recovery effect on affect and state rumination after stress.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3.3. FCs of the overall DMN and within and between DMN subsystems",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Forty-nine participants were randomly selected to complete the fMRI task while performing the behavioral experimental task. Since three of them were excluded due to excessive head movement, 46 participants (NG = 25, CG = 21) were finally included in the analysis and the behavioral results are shown in Supplementary Table 4.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "We used a seed-based analysis to examine the average FC on the overall DMN and within/between each subsystem in this subpopulation. No significant differences in FC of the overall DMN were observed be­ tween NG and CG (p > 0.05). Similarly, no significant differences in the mean FC within and between the DMN subsystems were observed be­ tween NG and CG (p > 0.05).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3.4. FCs between DMN subsystems and the whole-brain network",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "To further evaluate FC between DMN subsystems and other brain networks, we computed the seed-whole-brain r-FC maps for each sub­ ject and converted them to z-FC maps. We used a two-sample t-test to compare FC between the DMN subsystem and other networks between NG and CG, controlling for age, sex, and head motion as nuisance var­ iables. The significantly two-tailed voxel-wised threshold was set to p < 0.005 with a cluster threshold of p <0.05 for the seed-to-whole-brain FC analysis, Gaussian random field correction was used to correct for multiple comparisons across multiple seeds and subsystems as needed. FC difference results for NG and CG are shown in Fig. 4a. We then illustrated the results by dividing all brain regions into seven networks (Yeo et al., 2011).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3.4.1. The cDMN",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Compared with CG, NG showed significantly enhanced FC of the aMPFC with VN (the right inferior occipital gyrus [IOG] and left middle occipital gyrus [MOG]) (Fig. 4b and Supplementary Table 5). A followup Spearman correlation analysis found that cDMN and VN (aMPFC-MOG.L) connectivity strength positively correlated with the R2 negative affect recovery score (r = 0.542, p = 0.005) in NG (Fig. 4b).",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3. Recovery effects of subjective rating scores and salivary cortisol levels (R2). Results showed the changes in subjective rating scores and salivary cortisol levels of all participants (n = 131) after viewing the nature and city images (one-sample, two-tailed Student's t-test). Two-sample t-test revealed differences in subjective ratings for affect and state rumination after viewing the images between NG and CG. Dots correspond to individual recording sites. Stars indicate sig­ nificance (*p < 0.05, **p < 0.01, ***p < 0.001, ns: represents no significant difference, two-tailed).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.4.2. The dDMN",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "NG showed significantly enhanced FCs of the TPJ and DMN (the right parahippocampal gyrus [PHG]) and the TempP and SMN (left supple­ mentary motor area [SMA]) compared to CG (Fig. 4b and Supplemen­ tary Table 5).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.4.3. The mDMN",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Relative to CG, NG showed significantly increased FCs of the vMPFC and FPN (the right supramarginal gyrus [SMG] and the right middle frontal gyrus [MFG]) and VAN (the left SMG), respectively, and the Rsp and FPN (the right inferior parietal [IPL], the left MFG, and the right dorsolateral superior frontal gyrus [SFGdor]) (Fig. 4b and Supplemen­ tary Table 5). In NG, mDMN-FPN (Rsp-IPL.R) connectivity strength positively correlated with the R2 negative affect recovery score (r = 0.411, p = 0.041) (Fig. 4b).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Compared to CG, NG also showed increased FCs of the PHC and DAN (the right SMG), VAN (the left SMG, the left MFG, and the right MFG), and FPN (the right IPL), respectively, but decreased FC of the PHC and VN (the left lingual gyrus [LING], the left MOG, and the right LING) (Fig. 4b and Supplementary Table 5). In NG, mDMN-DAN (PHC-SMG.R) connectivity strength positively correlated with the R2 positive affect recovery score (r = 0.444, p = 0.030). Separately, the mDMN-VAN (PHC-SMG.L; PHC-MFG.L) connectivity strength positively correlated with the R2 positive affect recovery score (r = 0.452, p = 0.027; r = 0.629, p = 0.001), while mDMN-VAN (PHC-MFG.R) connectivity strength positively correlated with the R2 state rumination recovery score (r = 0.417, p = 0.038) in NG. In addition, the mDMN-VN (PHC-LING.L) connectivity strength positively correlated with the R2 positive affect recovery score (r = 0.489, p = 0.015) and mDMN-VN (PHC-LING.R) connectivity strength positively correlated with the R2",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "state rumination recovery score (r = 0.526, p = 0.007) in NG (Fig. 4b).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "This study examined the effects of exposure to nature on recovery from stress and revealed FC patterns of the DMN at the overall and subsystem levels. We found that (1) participants in the stress condition who viewed nature images reported greater levels of positive affect and lower levels of negative affect and state rumination than those who viewed the city images; (2) no significant differences in FC activity be­ tween exposure to natural versus city stimuli were observed in the overall DMN, along with within and between the DMN subsystems; (3) the FC patterns of each DMN subsystem with other networks differed when compared between natural and city stimuli; and (4), during exposure to nature stimuli, increased FC of the cDMN with other net­ works correlated positively with negative affect recovery scores, while increased FC of mDMN with other networks positively correlated with positive and negative affect as well as state rumination recovery scores. These results partially validate our hypothesis that indoor experiments of nature viewing have restorative benefits and revealed differences in FC patterns between the DMN subsystem and the whole-brain network when comparing nature- and urban-viewing groups.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "4.1. Nature viewing contributes to recovery from psychological stress",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Previous studies have found that even the use of video may not be able to replicate the experience of nature in the outdoors and restore attentional resources (Hartanto et al., 2023). However, we observed that participants reported more significant improvements in affect and state rumination, except for relaxation and nervousness, after viewing nature images compared to city images. This finding, along with those of most previous studies (Jo et al., 2019; Chiang et al., 2017; Tang et al., 2017; Yamashita et al., 2021; van Oordt et al., 2022), confirms that, even without realistically experiencing natural environments, the mere viewing of nature images can be effective to at least some degree in relieving psychological stress and leading to a more positive affect. It also supports ART, suggesting that the feelings evoked by images of natural scenes may contribute to faster attention-shifting after stress and enhance cognitive resources. Although we did not observe significant changes in cortisol levels, the self-reported improvements in mood (affect) and state rumination imply that viewing nature images allows for better top-down emotion regulation, enabling individuals to inten­ tionally control their emotions and manage psychological stress more effectively. Taken together, our findings suggest that passive exposure to natural images, even indoors, can be an accessible and cost-effective strategy for alleviating psychological distress in high-pressure urban environments. Additionally, such may serve as a valuable complement to active cognitive regulation techniques, such as reappraisal, to effectively modulate emotions (Zhu et al., 2024).",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 4. FCs between the DMN subsystems and other network. a Functional MRI show maps of significant FC in NG compared to CG. Regions showing FC dif­ ferences between NG and CG. Color bar: red represents increased FC in participants with NG compared with CG, blue represents decreased FC in participants with NG compared with CG. b FCs between the DMN subsystems and other network in NG. Results showed the connectivity between the DMN subsystems and other networks, as well as Spearman correlations (age, sex, and head motion as covariates) in NG. Red connection lines indicate increased FC, blue connection lines indicate decreased FC. Stars (*) showed correlations between its FC and the stress recovery effect ratings (R2).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "4.2. DMN connectivity patterns underpin stress-related responses in natural viewing",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Contrary to our initial hypotheses, we did not observe significant differences in FC within the DMN, as well as within and between the DMN subsystems, during exposure to natural versus urban stimuli. However, further analysis revealed that the FC patterns of each DMN subsystem with other networks significantly differed when participants saw natural rather than city images. In other words, the coupling be­ tween DMN subsystems and other networks may play a potentially key role in modulating stress-related responses during natural experiences. In general, DMN activity increases during ''task-free'' states of wake­ fulness and is decreased during task performance associated with external cognitive loads (He et al., 2021). Functional brain imaging studies have found that stress-induced cortisol increases are associated with decreased coupling within the DMN (Zhang et al., 2019b). Recent studies have identified areas in the DMN that are critically involved in ruminative processes, and rumination-related hyperactivation has been predominantly observed in the cDMN and dDMN subsystems (Zhou et al., 2020). Our finding may suggest that the neural mechanisms un­ derlying the restorative effects of natural viewing are more complex and not solely reflected in the FC patterns within the DMN, but rather that the connectivity between DMN subsystem and other brain networks, such as attentional and executive function regions, plays a more prom­ inent role.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The cDMN is involved in information integration, the dDMN is involved in semantic/conceptual processing, and the mDMN is involved in episodic/contexture retrieval (Andrews-Hanna et al., 2010, 2014; Zhou et al., 2020). Our neural data identified increased FC of the mDMN with the FPN, DAN, and VAN. Previous research showed that the ventral PCC, which is regarded as a key node of the DMN, is correlated with behavioral stress-related responses and regulates these responses through its connections to the prefrontal and hippocampal regions (Chang et al., 2021). Another study found that FC was significantly higher when participants saw photographs of natural rather than built environments in circuits consisting of the DMN and DAN (Kühn et al., 2021). Consistent with our hypothesis, the neural data support the view of ART that natural environments modestly capture attention in a bottom-up manner, providing an opportunity for top-down directe­ d-attention abilities-such as those we use in academic learning and problem solving-to be replenished (Kaplan, 1995). More specifically, the increased FC observed in cDMN-VN combined with the decreased FC in dDMN-VN suggests that natural stimuli play a role in disengaging and recovering directed-attention. When individuals view natural im­ ages that evoke emotions, memories, and a sense of tranquility, the cDMN processes visual information in a bottom-up manner, relying on immediate sensory information. Conversely, the reduced coupling in dDMN-VN indicates a disengagement of top-down directed-attention (Zhou and Lei, 2018; Zhang al., 2019a; Zhang et al., 2022a). This means that nature images help shift one's focus away from a self-referential focus, such as rumination, and foster a more positive connection with the natural environment. As a result, this transition facilitates the restoration of directed-attention resources. In addition, enhanced brain connectivity between the whole DMN and specific regions involved in attention and executive function during natural scene-viewing plays a crucial role in coping with stress, as it enables individuals to reframe their thinking, prioritize positive emotions, and engage in emotional management following stressors through top-down processing.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "4.3. The mDMN subsystem is associated with affect and rumination recovery",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Interestingly, our data show that, when viewing images of natural scenes, increased FC of the cDMN-VN positively correlated with negative affect recovery scores, whereas increased FC of the mDMN with other networks (FPN, DAN, VAN, and VN) positively correlated with both positive and negative affect as well as state rumination recovery scores. Such appears to suggest that the mDMN subsystem is more involved in the recovery of both affect and state rumination during viewing natural images. Current research has found that both the ret­ rosplenial cortex and parahippocampal cortex are important neural bases in spatial navigation, as well as contextual learning and memory (Todd et al., 2019; Alexander et al., 2023; Liang et al., 2023). We interpret the restoration of affect and state rumination after stress, possibly because the natural environment evokes feelings of escape, fascination, and a sense of harmony (Kaplan, 2001), which in turn en­ hances contextual memory and spatial awareness and imagery, allowing us to focus attention on natural environments and accelerating the re­ covery of directed-attention. Furthermore, the strengthened FC between the mDMN and regions involved in attention and executive function may support top-down regulation processes, helping individuals to reinter­ pret stressful experiences and foster positive emotional states. Overall, these results imply that engaging the mDMN subsystem during natural exposure promotes a restorative mechanism, combining contextual and spatial cognition with emotional regulation to facilitate recovery.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "4.4. Limitations",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "One limitation of the present study is the short interval between salivary cortisol collection and each task, resulting in a failure to accu­ rately reveal the dynamic relationship between stressors, rumination, and cortisol responses. Cortisol is a steroid hormone produced by the hypothalamic-pituitary-adrenal axis that initiates well-established catabolic, antigrowth, and immunosuppressive effects (Tsigos and Chrousos, 2002). Previous studies have shown that rumination is asso­ ciated with greater cortisol reactivity and cortisol peak (Rodriguez-Stanley et al., 2024). Cortisol typically rises during and after exposure to a stressor, returning to baseline levels once the stressor is resolved. However, given the delay in the cortisol response, our mea­ surements may not have fully captured the physiological recovery pro­ cess following the stressors, thereby limiting our ability to assess the physiological recovery effects of natural viewing. Another limitation of the present study is that we mainly focused on subjective ratings related to affect and stress, lacking measurements of other physiological in­ dicators such as heart rate variability, which has been shown to be induced by stress (Chand et al., 2020). Including relevant physiological indicators in future studies would provide a more holistic understanding of autonomic nervous system activity and physiological recovery pro­ cess. Finally, we did not include a neutral condition, such as a distracted state (no-task condition), which limits our ability to distinguish the ef­ fects of natural versus urban environments. In the absence of neutral conditions, it becomes challenging to determine whether observed changes are due to the positive influence of the natural environment or are simply a result of the relaxation process or other confounding fac­ tors. Distraction may serve as a potential modality in stress recovery, and exploring whether emotional recovery can be facilitated by distraction in the absence of environmental cues is an interesting avenue for future research.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "5. Conclusion",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In conclusion, we demonstrated that viewing images of nature is associated with the improvements of affect and state rumination and alterations in FC in DMN subsystems and other networks. These results highlight that natural viewing allows the disengagement of top-down directed-attention by attracting attention in a bottom-up manner, thus facilitating recovery from stress. By demonstrating functional coupling between the DMN subsystems and other networks, such as the brain connectivity between the mDMN and regions involved in attention and executive function, the neuroimaging data expand our current understanding of the restorative effects of indoor nature viewing and contribute to positive coping approaches to psychological issues in stressful urban environments. Future studies exploring activity within the DMN and among the DMN subsystems with other networks are needed to investigate the specific alterations in attention and thought processes associated with distinct pattern of brain activation during nature viewing.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "CRediT authorship contribution statement",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Zini Chen: Writing - review & editing, Writing - original draft, Visualization, Formal analysis, Data curation. Chanyu Wang: Writing - review & editing, Writing - original draft, Investigation, Data curation, Conceptualization. Timothea Toulopoulou: Writing - review & edit­ ing. Xiayan Chen: Writing - review & editing. Lijing Niu: Writing - review & editing. Haowei Dai: Writing - review & editing. Qingzi Zhu: Writing - review & editing. Yuanyuan Zeng: Writing - review & edit­ ing. Ruibin Zhang: Writing - review & editing, Supervision, Funding acquisition, Conceptualization.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Declaration of competing interest",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgement",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "This study was supported by National Key R & D Program of China (STI2030-Major Projects 2022ZD0214300), Nature Science Foundation of China (ref: 32271139, 31900806), Guangdong Basic and Applied Basic Research Foundation (ref: 2023A1515011331), Guangzhou Phi­ losophy and Social Science Project for 2022 Yangcheng Young Scholar during the fourteenth Five-year Plan Period (ref: 2022GZQN30). The funding organization played no further role in study design, data collection, analysis and interpretation, and paper writing.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Appendix A. Supplementary data",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Supplementary data to this article can be found online at https://doi. org/10.1016/j.ynstr.2025.100759.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Data availability",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Data will be made available on request.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Alexander, A.S., Place, R., Starrett, M.J., Chrastil, E.R., Nitz, D.A., 2023. Rethinking retrosplenial cortex: perspectives and predictions. Neuron 111, 150-175.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Andrews-Hanna, J.R., Reidler, J.S., Sepulcre, J., Poulin, R., Buckner, R.L., 2010. Functional-anatomic fractionation of the brain's default network. Neuron 65, 550-562.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Andrews-Hanna, J.R., Smallwood, J., Spreng, R.N., 2014. The default network and selfgenerated thought: component processes, dynamic control, and clinical relevance. Ann. N. Y. Acad. Sci. 1316, 29-52.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Bratman, G.N., Hamilton, J.P., Hahn, K.S., Daily, G.C., Gross, J.J., 2015. Nature experience reduces rumination and subgenual prefrontal cortex activation. Proceedings of the National Academy of Sciences of the United States of America 112, 8567-8572.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Chand, T., Li, M., Jamalabadi, H., Wagner, G., Lord, A., Alizadeh, S., et al., 2020. Heart rate variability as an index of differential brain dynamics at rest and after acute stress induction. Front. Neurosci. 14, 645.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Chang, D.H.F., Jiang, B., Wong, N.H.L., Wong, J.J., Webster, C., Lee, T.M.C., 2021. The human posterior cingulate and the stress-response benefits of viewing green urban landscapes. Neuroimage 226, 117555.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Chen, X., Chen, N.-X., Shen, Y.-Q., Li, H.-X., Li, L., Lu, B., et al., 2020. The subsystem mechanism of default mode network underlying rumination: a reproducible neuroimaging study. Neuroimage 221, 117185.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Chiang, Y.-C., Li, D., Jane, H.-A., 2017. Wild or tended nature? The effects of landscape location and vegetation density on physiological and psychological responses. Landsc. Urban Plann. 167, 72-83.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Costa E Silva, J.A., Steffen, R.E., 2019. Urban environment and psychiatric disorders: a review of the neuroscience and biology. Metab., Clin. Exp. 100S, 153940.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Cui, L., Li, H., Li, J.B., Zeng, H., Zhang, Y., Deng, W., et al., 2022. Altered cerebellar gray matter and cerebellar-cortex resting-state functional connectivity in patients with bipolar disorder I. J. Affect. Disord. 302, 50-57.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Hamilton, J.P., Farmer, M., Fogelman, P., Gotlib, I.H., 2015. Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. Biol. Psychiatry 78, 224-230.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Hartanto, A., Teo, N.L.A., Lua, V.Y., Tay, K.J., Chen, N.R., Majeed, N.M., 2023. Does watching videos with natural scenery restore attentional resources? Exp. Psychol.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "He, H., Li, Y., Chen, Q., Wei, D., Shi, L., Wu, X., Qiu, J., 2021. Tracking resting-state functional connectivity changes and mind wandering: a longitudinal neuroimaging study. Neuropsychologia 150, 107674.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Jo, H., Song, C., Miyazaki, Y., 2019. Physiological benefits of viewing nature: a systematic review of indoor experiments. Int. J. Environ. Res. Publ. Health 16, 4739. Kaplan, S., 1983. A model of person-environment compatibility. Environ. Behav. 15, 311-332.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S., 1995. The restorative benefits of nature: toward an integrative framework. J. Environ. Psychol. 15, 169-182.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S., 2001. Meditation, restoration, and the management of mental fatigue. Environ. Behav. 33, 480-506.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Kirschbaum, C., Pirke, K.M., Hellhammer, D.H., 1993. The 'Trier Social Stress Test'-a tool for investigating psychobiological stress responses in a laboratory setting. Neuropsychobiology 28, 76-81.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Kühn, S., Forlim, C.G., Lender, A., Wirtz, J., Gallinat, J., 2021. Brain functional connectivity differs when viewing pictures from natural and built environments using fMRI resting state analysis. Sci. Rep. 11, 4110.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Liang, Q., Liao, J., Li, J., Zheng, S., Jiang, X., Huang, R., 2023. The role of the parahippocampal cortex in landmark-based distance estimation based on the contextual hypothesis. Hum. Brain Mapp. 44, 131-141.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Lim, P.Y., Dillon, D., Chew, P.K.H., 2020. A guide to nature immersion: psychological and physiological benefits. Int. J. Environ. Res. Publ. Health 17, 5989.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Menon, V., 2023. 20 years of the default mode network: a review and synthesis. Neuron 111, 2469-2487.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Qiu, H., Zhang, L., Gao, Y., Zhou, Z., Li, H., Cao, L., et al., 2024. Functional connectivity of the default mode network in first-episode drug-naïve patients with major depressive disorder. J. Affect. Disord. 361, 489-496.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Rab, S.L., Admon, R., 2021. Parsing inter- and intra-individual variability in key nervous system mechanisms of stress responsivity and across functional domains. Neurosci. Biobehav. Rev. 120, 550-564.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Remme, R.P., Frumkin, H., Guerry, A.D., King, A.C., Mandle, L., Sarabu, C., et al., 2021. An ecosystem service perspective on urban nature, physical activity, and health. Proceedings of the National Academy of Sciences of the United States of America 118, e2018472118.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Roberts, H., van Lissa, C., Hagedoorn, P., Kellar, I., Helbich, M., 2019. The effect of shortterm exposure to the natural environment on depressive mood: a systematic review and meta-analysis. Environ. Res. 177, 108606.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Rodriguez-Stanley, J., Knauft, K., Zilioli, S., 2024. State rumination links major life stressors to acute stressor cortisol response in healthy adults. Psychoneuroendocrinology 172, 107234.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Siah, C.J.R., Goh, Y.S., Lee, J., Poon, S.N., Ow Yong, J.Q.Y., Tam, W.-S.W., 2023. The effects of forest bathing on psychological well-being: a systematic review and metaanalysis. Int. J. Ment. Health Nurs. 32, 1038-1054.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Sudimac, S., Sale, V., Kühn, S., 2022. How nature nurtures: amygdala activity decreases as the result of a one-hour walk in nature. Mol. Psychiatr. 27, 4446-4452.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Tang, I.-C., Tsai, Y.-P., Lin, Y.-J., Chen, J.-H., Hsieh, C.-H., Hung, S.-H., et al., 2017. Using functional Magnetic Resonance Imaging (fMRI) to analyze brain region activity when viewing landscapes. Landsc. Urban Plann. 162, 137-144.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Todd, T.P., Fournier, D.I., Bucci, D.J., 2019. Retrosplenial cortex and its role in cuespecific learning and memory. Neurosci. Biobehav. Rev. 107, 713-728.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Tozzi, L., Zhang, X., Chesnut, M., Holt-Gosselin, B., Ramirez, C.A., Williams, L.M., 2021. Reduced functional connectivity of default mode network subsystems in depression: meta-analytic evidence and relationship with trait rumination. Neuroimage: Clinical 30, 102570.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Tsigos, C., Chrousos, G.P., 2002. Hypothalamic-pituitary-adrenal axis, neuroendocrine factors and stress. J. Psychosom. Res. 53, 865-871.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R.S., 1981. Natural versus urban scenes: some psychophysiological effects. Environ. Behav. 13, 523-556.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "van Oordt, M., Ouwehand, K., Paas, F., 2022. Restorative effects of observing natural and urban scenery after working memory depletion. Int. J. Environ. Res. Publ. Health 20, 188.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Wang, C., Song, X., Lee, T.M.C., Zhang, R., 2022. Psychometric properties of the Chinese version of the Brief state rumination inventory. Front. Public Health 10, 824744.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Wen, Y., Yan, Q., Pan, Y., Gu, X., Liu, Y., 2019. Medical empirical research on forest bathing (Shinrin-yoku): a systematic review. Environ. Health Prev. Med. 24, 70.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Wicks, C., Barton, J., Orbell, S., Andrews, L., 2022. Psychological benefits of outdoor physical activity in natural versus urban environments: a systematic review and meta-analysis of experimental studies. Appl. Psychol. Health Well-Being 14, 1037-1061.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Wilson, E.O., 1984. Biophilia. Press, Cambridge (Mass.), Harvard, pp. 1-157. Xu, J., Liu, N., Polemiti, E., Garcia-Mondragon, L., Tang, J., Liu, X., et al., 2023. Effects of urban living environments on mental health in adults. Nat. Med. 29, 1456-1467.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Z. Chen et al.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Yamashita, R., Chen, C., Matsubara, T., Hagiwara, K., Inamura, M., Aga, K., et al., 2021. The mood-improving effect of viewing images of nature and its neural substrate. Int. J. Environ. Res. Publ. Health 18, 5500.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Yan, C.-G., Chen, X., Li, L., Castellanos, F.X., Bai, T.-J., Bo, Q.-J., et al., 2019. Reduced default mode network functional connectivity in patients with recurrent major depressive disorder. Proc. Natl. Acad. Sci. 116, 9078-9083.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Yeo, B.T.T., Krienen, F.M., Sepulcre, J., Sabuncu, M.R., Lashkari, D., Hollinshead, M., et al., 2011. The organization of the human cerebral cortex estimated by intrinsic functional connectivity. J. Neurophysiol. 106, 1125-1165.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhang, M., Bernhardt, B.C., Wang, X., Varga, D., Krieger-Redwood, K., Royer, J., et al., 2022a. Perceptual coupling and decoupling of the default mode network during mind-wandering and reading. eLife 11, e74011.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhang, M., Savill, N., Margulies, D.S., Smallwood, J., Jefferies, E., 2019a. Distinct individual differences in default mode network connectivity relate to off-task thought and text memory during reading. Sci. Rep. 9, 16220.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhang, P., Zhang, Y., Luo, Y., Wang, L., Wang, K., 2022b. Regional activity alterations in Parkinson's disease patients with anxiety disorders: a resting-state functional magnetic resonance imaging study. Front. Aging Neurosci. 14, 1055160.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhang, W., Hashemi, M.M., Kaldewaij, R., Koch, S.B.J., Beckmann, C., Klumpers, F., Roelofs, K., 2019b. Acute stress alters the 'default' brain processing. Neuroimage 189, 870-877.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhou, H.-X., Chen, X., Shen, Y.-Q., Li, L., Chen, N.-X., Zhu, Z.-C., et al., 2020. Rumination and the default mode network: meta-analysis of brain imaging studies and implications for depression. Neuroimage 206, 116287.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhou, X., Lei, X., 2018. Wandering minds with wandering brain networks. Neurosci. Bull. 34, 1017-1028.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhu, L., Fu, T., Yan, X., Yuan, J., Yang, J., 2024. The neurophysiological effects of detached and positive reappraisal during the regulation of self-conscious emotions. Psychoradiology 4, kkae017.",
+   "page": 10
+  }
+ ]
+}

@@ -1,0 +1,1193 @@
+{
+ "paper_id": "P13",
+ "source": "P13_MBCT_Rumination_Meta_Analysis.pdf",
+ "pages": 16,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "SYSTEMATIC REVIEW",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Open Access",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "The effectiveness of mindfulness-based cognitive therapy on rumination and related psychological indicators: a systematic review and meta-analysis",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Siyi Wei 1,2 , Weiqi Qin 2,3 , Zengyan Yu 1,2 , Yunhua Cao 1,2* and Ping Li 1,2*",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Background The effectiveness of Mindfulness-Based Cognitive Therapy (MBCT) on rumination has been reviewed; however, the findings remain inconclusive. The present research will systematically evaluate the effectiveness of MBCT on rumination and related psychological indicators.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Methods We searched the Cochrane Library, EBSCO, Embase, LILACS, PubMed, Web of Science, China Biomedical Literature Database (CBM), China National Knowledge Infrastructure (CNKI), Wanfang Database, and China Science and Technology Journal Database (VIP) for all available records up until December 2024 to include randomized controlled trials (RCTs) examining MBCT on rumination. Rumination scores served as the primary outcome, and the mindfulness, self-compassion, decentering, depression, and anxiety scores served as the secondary outcomes. RevMan and Stata software were applied for data processing.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Results Twenty-nine RCTs comprising 2535 subjects were ultimately selected for analysis. The results revealed that MBCT significantly reduced rumination (SMD = -0.51, 95% CI = [-0.64, -0.39], z = 8.30, P < 0.001), with sustained effectiveness during the follow-up period (SMD = -0.61, 95% CI = [-0.89, -0.32], z = 4.21, P < 0.001). Additionally, we also discovered that MBCT had significant effectiveness on mindfulness (SMD = 0.55, 95% CI = [0.46, 0.63], z = 12.04, P < 0.001), self-compassion (SMD = 0.59, 95% CI = [0.22, 0.96], z = 3.15, P = 0.002), decentering (SMD = 0.62, 95% CI = [0.45, 0.78], z = 7.24, P < 0.001), depressive (SMD = -0.57, 95% CI = [-0.79, -0.34], z = 4.95, P < 0.001) and anxiety symptoms (SMD = -0.37, 95% CI = [-0.56, -0.18], z = 3.78, P < 0.001). Funnel plot analysis and Egger's statistical test did not reveal any significant publication bias (t = -1.47, P = 0.154, 95% CI = [-2.20,0.37]).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Conclusions The present findings confirm the feasibility of MBCT in diminishing rumination and enhancing related psychological indicators. Furthermore, these effects were sustained throughout the follow-up period.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords Mindfulness-based cognitive therapy, Rumination, Randomized controlled trials",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "*Correspondence:",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Yunhua Cao",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "laosanshiwo123@163.com",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Ping Li",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "lipingchxyy@163.com",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "1 Department of Psychiatry, Qiqihar Medical University, Qiqihar, Heilongjiang 161006, China",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creati vecommons.org/licenses/by-nc-nd/4.0/.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "2 Heilongjiang Provincial Key Laboratory of Precise Diagnosis and Neuropsychological Regulation of Mental Disorders, Qiqihar, Heilongjiang 161006, China",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "3 Department of Psychiatry, The Second Affiiliated Hospital of Qiqihar Medical University, Heilongjiang 161006 Qiqihar, China",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Introduction",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Rumination is characterized as an uncontrolled, recurrent cognitive pattern where individuals attempt to alleviate the negative outcomes of life events [1]. However, this process frequently involves an excessive focus on the self, negative emotions, and unresolved issues, rather than on constructive solutions, thereby intensifying and perpetuating adverse effects [2]. As a transdiagnostic symptom, rumination not only manifests across psychiatric conditions but also relates to their development, course, and maintenance [3-7].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness-Based Cognitive Therapy (MBCT) emphasizes individuals' relationship with their thoughts, fostering an open and non-judgmental mindset, alongside the capacity to sustain present-moment awareness [8]. Individuals undergoing MBCT can observe and accept their thoughts in a decentered fashion [9]. Moreover, prior studies have shown that MBCT can effectively alleviate the adverse impacts of rumination [10, 11].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The effectiveness of MBCT on rumination has been reviewed; however, the findings remain inconclusive [11-13]. Additionally, existing quantitative syntheses have concentrated on MBCT's effectiveness for particular conditions, such as depression or cancer, or have examined the overall influence of mindfulness-based interventions (MBIs) upon rumination [11-16]. Currently, there is a lack of a focused, systematic analysis in evaluating the specific effectiveness of MBCT on rumination. Moreover, these meta-analyses often include both randomized controlled trials (RCTs) and non-randomized controlled trials (non-RCTs), which could introduce sample bias and diminish the reliability of the results [11, 16]. To sum up, the conclusions drawn from prior meta-analyses may constrain our comprehension of the therapeutic effectiveness of MBCT in addressing rumination.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Prior research has established mindfulness, selfcompassion, and decentering as active therapeutic components for reducing rumination in MBCT, while depressive and anxious symptoms are also recognized as critical clinical indicators for MBCT intervention [11, 12, 17-20]. In light of these considerations, this research intends to carry out a comprehensive meta-analysis to assess not only the therapeutic effectiveness of MBCT in mitigating rumination across various psychological and psychiatric conditions but also to examine the psychological indicators associated with MBCT intervention.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Methods",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The registration of the study with PROSPERO is under the code CRD42024612750.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Inclusion and exclusion criteria",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Following the PRISMA-PICOS standards, the inclusion criteria were: (i) participants (P): individuals of any age or gender were included. (ii) intervention (I): MBCT intervention. (iii) comparison (C): other intervention methods besides MBCT. (iv) outcomes (O): rumination scores served as the principal outcome, and the mindfulness, self-compassion, decentering, depression, and anxiety scores as the secondary outcomes. (v) study design (S): RCT.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The exclusion criteria were: (i) duplicate publications. (ii) non-empirical studies, reviews, books, etc. (iii) not MBCT intervention. (iv) not rumination scale. (v) not RCT. (vi) not in English or Chinese. (vii) missing or duplicated data. (viii) study protocols.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Search strategy",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "We performed comprehensive literature searches across multiple databases to identify relevant articles published up to December 2024. For English-language publications, we utilized the Cochrane Library, EBSCO, Embase, LILACS, PubMed, and Web of Science. For Chinese-language publications, we accessed the China Biomedical Literature Database (CBM), China National Knowledge Infrastructure (CNKI), Wanfang Database, and China Science and Technology Journal Database (VIP). The keywords/terms were rumination, cognitive/ cognitive rumination/ rumination/ rumin/ brooding/ pondering/ repetitive thought/repetitive thinking/ ruminative thought/ ruminative thinking/ perseverative thought/ repetitive negative thinking/ mental rumination, and MBCT/ mindfulness-based cognitive therapy/ mindfulness cognitive therapy/ mindfulness-based CBT/ mindfulness-based cognitive behavior therapy/ mindfulness-based cognitive behavioral therapy/ mindfulnessbased cognitive behaviour therapy/ mindfulness-based cognitive behavioural therapy/ mindfulness-CBT.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Data extraction",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The main author collected data from each of the incorporated studies. This set of information predominantly encompassed the main investigator, publication time, sample scale, age, and sex of both the control and experimental groups, as well as the types of interventions and follow-up periods for these groups. Additionally, the outcome indicators, along with the mean (M) and standard deviation (SD) associated with the interventions or follow-ups, were also recorded.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Quality evaluation",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Two investigators separately assessed the potential bias risks for all included RCTs, following the Cochrane Handbook recommendations [21]. Seven domains were included in this assessment, and each was rated by the two researchers as either 'high risk of bias', 'low risk of bias', or 'unclear risk of bias'. When disagreements arose, a third researcher was brought in to settle the differences.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "All researchers are experienced in evaluations and trained in the use of the Cochrane risk-of-bias tool.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "To enhance the reliability and quality of this study, we conducted an inter-rater reliability analysis. The results were presented in terms of the consistency coefficient. Specifically, we assigned scores of 0, 1, and 2 to represent \"high\", \"unclear\", and \"low\" risk of bias, respectively, for each item assessed across the seven domains outlined in the Cochrane Handbook. Pearson correlation analysis was employed to calculate the consistency coefficient among researchers. The analysis revealed an inter-rater consistency coefficient of 0.947 (P < 0.010), indicating a high level of agreement among the researchers, thereby supporting the reliability of the study findings.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Statistical analysis",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The analyses for meta-analysis, subgroup, and sensitivity were conducted with RevMan software, and publication bias was checked using Stata software. A sensitivity analysis was performed using the \"leave-one-out\" method in RevMan software, whereby each study was sequentially excluded to evaluate its impact on the overall heterogeneity. To assess potential publication bias, funnel plots and Egger's regression test were conducted using Stata software, with a p-value threshold of less than 0.05 considered indicative of statistically significant bias. The I 2 statistic was applied to quantify inter-study heterogeneity, with I 2 > 50% indicating significant heterogeneity [22]. According to the heterogeneity assessment, studies meeting the criteria of I 2 < 50% and P ≥ 0.1 (indicating homogeneity among studies) were analyzed using a fixed-effects approach, while those with I 2 ≥ 50% or P < 0.1 (suggesting heterogeneity among studies) were processed with a random-effects method [23].",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "When substantial heterogeneity was identified, we conducted sensitivity and subgroup analyses to ascertain the underlying causes of this variation. Subgroup analysis was also executed in the absence of significant heterogeneity to bolster the robustness of the findings. For statistical evaluation, mean difference (MD) was applied to uniform measurement tools and standardized mean difference (SMD) to varied tools. Both were examined using 95% confidence intervals, with p-values under 0.05 indicating significance.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Results",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Search results",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Altogether, 1,043 articles were retrieved from various databases, with 29 RCTs involving 2,535 participants (1,236 in MBCT groups, 1,299 in control groups) ultimately incorporated into our research [24-52]. The procedure is depicted in Fig. 1.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "In the included studies with MBCT intervention, 16 studies focused on individuals with depressive disorder,",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "2 studies on individuals with sexual dysfunction, and 1 study on individuals with anxiety disorder, bipolar disorder, cancer, migraine, multiple sclerosis, psoriasis, diabetes, perfectionism, neuroticism, D personality, and planned antidepressant discontinuation, respectively. Regarding control interventions, 12 studies were treatment as usual (TAU), 5 studies were waitlist (blank control) (WL) controls, 3 studies were cognitive behavioral therapy (CBT), psychoeducation, and medicine treatments, respectively, 2 studies were self-help interventions, and 1 study was transcranial direct current stimulation (tDCS). On the outcomes, 29 studies were using the rumination scales (14 studies with follow-up data), 21 studies were using mindfulness scales, 10 studies were using self-compassion scales, 5 studies were using decentering scales, 19 studies were using depression scales, and 11 studies were using anxiety scales (Table 1).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Risk of bias",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "It was at the initial stage that no marked disparities existed between the experimental and control groups regarding rumination, mindfulness, self-compassion, decentering, depression, and anxiety. Twenty-two studies detailed the methodology for random sequence generation, with 10 of these also addressing allocation concealment. Twenty-five studies provided information on participant withdrawals, including the amounts and reasons, while 28 studies reported all predefined outcome measures. Owing to the inherent characteristics of psychological interventions, double-blind designs were infeasible, likely introducing bias risks in all studies. Five studies employed blinding of outcome assessment. Other potential biases were indeterminate. The evaluation of bias risk across 29 RCTs is depicted in Fig. 2.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Meta-analysis results",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on rumination",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "All 29 RCTs employed data from measurements taken after treatment. This meta-analysis demonstrated that MBCT had a significant effectiveness in reducing rumination (SMD = -0.51, 95% CI = [-0.64, -0.39], z = 8.30, P < 0.001). The random-effects model was used due to study heterogeneity (I 2 = 50%, P = 0.001), with sensitivity analysis demonstrating reduced heterogeneity (I 2 = 15%, P = 0.240) [32, 42]. The therapeutic effectiveness of MBCT remained statistically significant (SMD = -0.46, 95% CI = [-0.55, -0.37], z = 9.92, P < 0.001). Analyses of subgroups were performed based on the types of interventions in the control group, the modalities and periods of MBCT, rumination scales, participant types, age, and gender (Table 2).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "According to subgroup analyses, MBCT was more effectiveness in lowering rumination than medicine",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1 Flow diagram of the study selection process. Abbreviations: EBSCO, EBSCO information services; Embase, excerpta medica database; LILACS, Latin American and Caribbean health sciences literature; CBM, China biomedical literature database; CNKI, China national knowledge infrastructure; VIP, China science and technology journal database; RCT, randomized controlled trial",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "(SMD = -0.62, 95% CI = [-0.94, -0.30], z = 3.81, P < 0.001), self-help intervention (SMD = -0.61, 95% CI = [-1.03, -0.20], z = 2.88, P = 0.004), WL (SMD = -0.56, 95% CI = [-0.80, -0.32], z = 4.63, P < 0.001), TAU (SMD = -0.48, 95% CI = [-0.60, -0.36], z = 7.63, P < 0.001), and CBT (SMD = -0.34, 95% CI = [-0.64, -0.03], z = 2.18, P = 0.030). Nonetheless, MBCT and psychoeducation did not show a statistical variance (SMD = -0.21, 95% CI = [-0.53, 0.11], z = 1.26, P = 0.210).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Both hybrid modality and offline modality of MBCT were all significant (SMD = -0.65, 95% CI = [-1.02, -0.28], z = 3.43, P < 0.001, SMD = -0.45, 95% CI = [-0.55, -0.35], z = 9.07, P < 0.001), whereas online MBCT showed no significant effectiveness (SMD = -0.27, 95% CI = [-0.74, 0.19], z = 1.15, P = 0.250). Subgroup analyses discovered that MBCT significantly improved rumination as measured by the Ruminative Response Scale (RRS) (SMD = -0.52, 95% CI = [-0.67, -0.37], z = 6.70, P < 0.001), Rumination on Sadness Scale (RSS) (SMD = -0.45, 95% CI = [-0.64, -0.26], z = 4.61, P < 0.001), and Ruminative Reflection Questionnaire (RRQ) (SMD = -0.34, 95% CI = [-0.50, -0.17], z = 3.95, P < 0.001). MBCT was significant effectiveness for patients with depression (SMD = -0.55, 95% CI = [-0.66, -0.44], z = 10.10, P < 0.001), but was not significant effectiveness for patients with sexual dysfunction (SMD = -0.07, 95% CI = [-0.32, 0.18], z = 0.55, P = 0.580).",
+   "page": 4
+  },
+  {
+   "label": "table",
+   "text": "Table 1 The features of the involved studies (n = 29)\nTable 1 The features of the involved studies (n = 29)\n\n| Study - Author, Year     |   Sample - Experimental |   Control | Gender - Female,%   | Age - Mean(SD)   | Participants                                               | Intervention measures - Experimental   | Intervention measures - Control   |   Inter- vention - duration Week (s) | Inter- vention - Min- ute (s)   | Follow-up (month(s))   | Out- come scales                       |\n|--------------------------|-------------------------|-----------|---------------------|------------------|------------------------------------------------------------|----------------------------------------|-----------------------------------|--------------------------------------|---------------------------------|------------------------|----------------------------------------|\n| Arm- strong 2016 [24]    |                      17 |        17 | 94.15               | 29.40(8.70)      | High levels of neuroticism                                 | MBCT                                   | Self-help                         |                                    8 | 960                             | NA                     | RRQ- Ru, FFMQ, PHQ-9, GAD- 7,SCS,      |\n| Bieling 2012 [25]        |                      26 |        28 | 50.00               | 44.80(9.40)      | Major depres- sive disorder                                | MBCT                                   | Medicine                          |                                    8 | 1320                            | NA                     | EQ EQ-R, TMS-D                         |\n| Brotto 2021 [26]         |                      70 |        78 | 100.00              | 39.30(13.20)     | Sexual arousal disorder                                    | MBCT                                   | Psycho- education                 |                                    8 | 1080                            | 6                      | RRQ                                    |\n| Brotto 2024 [27]         |                      60 |        56 | 100.00              | 49.00(11.00)     | Sexual dysfunction                                         | MBCT(online)                           | Psycho- education                 |                                    8 | 960                             | 6                      | RRQ, FFMQ                              |\n| Cladder- Micus 2018 [28] |                      49 |        57 | 65.31               | 46.86(9.53)      | Treatment- resistant depression                            | MBCT                                   | TAU                               |                                    8 | 1560                            | NA                     | RRS, FFMQ, IDS-SR, SCS                 |\n| Compen 2018 [29]         |                      77 |        78 | 87.01               | 52.10(11.40)     | Cancer                                                     | MBCT                                   | TAU                               |                                    8 | 1560                            | NA                     | RRQ- Ru, FFMQ                          |\n| Dimidjian 2023 [30]      |                     230 |       230 | 74.67               | 48.30(15.10)     | Residual depression                                        | MBCT(online)                           | TAU                               |                                   12 | NA                              | 12                     | RRS, FFMQ, EQ                          |\n| Fork- mann 2014 [31]     |                      64 |        66 | 79.69               | 44.60(9.70)      | Residual depression                                        | MBCT                                   | WL                                |                                    8 | 1200                            | NA                     | RSS, KIMS, HAMD                        |\n| Foroughi 2020 [32]       |                       9 |         9 | 66.67               | NA               | Treatment- resistant depression                            | MBCT + medi- cine                      | Medicine                          |                                    8 | NA                              | 1                      | RRS, SMQ, BDI-II, SCS-SF               |\n| Hanssen 2023 [33]        |                      72 |        72 | 56.94               | 47.10(12.10)     | Bipolar disorder                                           | MBCT                                   | TAU                               |                                    8 | 1560                            | 3                      | RRS-B, FFMQ, IDS-C, STAI,              |\n| Hasani 2023 [34]         |                      15 |        15 | NA                  | NA               | Major depres- sive disorder                                | MBCT                                   | WL                                |                                    8 | NA                              | NA                     | SCS-SF RRS                             |\n| Huijbers 2023 [35]       |                      73 |        46 | 63.01               | 53.30(11.80)     | Mental disor- ders planning antidepressant discontinuation | MBCT                                   | TAU                               |                                   12 | 1560                            | 6                      | RRS-B, FFMQ, IDS-C, STAI,              |\n| James 2018 [36]          |                      28 |        32 | 82.14               | NA               | Perfectionism                                              | MBCT                                   | Self-help                         |                                    8 | 1960                            | 2.5                    | SCS-SF RRQ, FFMQ, DASS, SCS-SF,        |\n| Maddock 2019 [37]        |                      51 |        50 | 74.51               | 43.51(16.96)     | Psoriasis                                                  | MBCT                                   | TAU                               |                                    8 | 960                             | 3                      | EQ RRQ, SMQ, HADS- D, HADS- A, SCS, EQ |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 The features of the involved studies (n = 29)",
+   "page": 5
+  },
+  {
+   "label": "table",
+   "text": "Table 1 (continued)\nTable 1 (continued)\n\n| Study - Author, Year      |   Sample - Experimental | Control   | Gender - Female,%   | Age - Mean(SD)   | Participants                             | Intervention measures - Experimental   | Intervention measures - Control   | Inter- vention duration - Week (s)   |   Inter- vention duration - Min- ute (s) | Follow-up (month(s))   | Out- come scales                |\n|---------------------------|-------------------------|-----------|---------------------|------------------|------------------------------------------|----------------------------------------|-----------------------------------|--------------------------------------|------------------------------------------|------------------------|---------------------------------|\n| Mani- cavasagar 2012 [38] |                      19 | 26 64.44  |                     | 47.00(13.80)     | Major depres- sive disorder              | MBCT                                   | CBT                               | 8                                    |                                     1080 | NA                     | RRS, MAAS, BDI-II               |\n| Monnart 2019 [39]         |                      15 | 16        | 66.67               | 50.00(5.38)      | Treatment- resistant depression          | MBCT + tDCS                            | TDCS + re- laxation               | 8d                                   |                                      960 | 0.5                    | SARI, MADRS, STAI               |\n| Nauta 2024 [40]           |                      32 | 35        | 71.88               | 46.00(10.20)     | Multiple sclerosis                       | MBCT                                   | TAU                               | 8                                    |                                     1500 | 6                      | RRS-B, FFMQ, HADS- A,           |\n| Paterniti 2022 [41]       |                      14 | 13        | 78.57               | 48.10(11.36)     | Major depres- sive disorder              | MBCT                                   | CBT                               | 12                                   |                                      720 | 2                      | SCS-SF RRQ, FFMQ, BDI-II        |\n| Roodma- jani 2024 [42]    |                      20 | 20        | NA                  | NA               | Cardiac patients with type D personality | MBCT                                   | TAU                               | 8                                    |                                      720 | 1                      | RRS                             |\n| Schanche 2020 [43]        |                      31 | 33        | 70.97               | 40.70(13.19)     | Depressive relapse                       | MBCT                                   | WL                                | 8                                    |                                     1320 | NA                     | RRQ, FFMQ, BDI-II, BAI,         |\n| Shahar 2010 [44]          |                      26 | 19        | 76.92               | 46.58(7.77)      | Depressive relapse                       | MBCT                                   | WL                                | 8                                    |                                     1800 | NA                     | SCS RRS-B, MAAS, BDI            |\n| Shih 2021 [45]            |                      28 | 29        | 89.29               | 69.69(7.48)      | Depressive symptoms                      | MBCT                                   | Psycho- education                 | 8                                    |                                     1380 | NA                     | RRS, HAMD                       |\n| Sim- shaeuser 2022 [46]   |                      27 | 27        | 92.59               | 44.40(8.86)      | Migraine                                 | MBCT                                   | WL                                | 8                                    |                                     1200 | NA                     | DFS, FMI, HADS- D, HADS- A, SCS |\n| Spin- hoven 2022 [47]     |                      62 | 74        | 56.45               | 39.55(12.61)     | Refrac- tory anxiety disorder            | MBCT                                   | CBT                               | 8                                    |                                      960 | 6                      | RSS, FFMQ, IDS-SR, BAI          |\n| van Aalderen 2012 [48]    |                     102 | 103       | 69.61               | 47.30(11.50)     | Depressive relapse                       | MBCT                                   | TAU                               | 8                                    |                                     1560 | NA                     | RSS, KIMS, HAMD                 |\n| Zhang 2017 [49]           |                      15 | 13        | 39.29               | 38.11(2.19)      | Type 2 diabetes                          | MBCT                                   | TAU                               | 8                                    |                                      600 | NA                     | CERQ                            |\n| Liu 2024 [50]             |                      63 | 63        | 46.03               | 37.70(6.60)      | Depressive disorders                     | MBCT + medi- cine                      | Medicine                          | 2                                    |                                      480 | NA                     | RRS, FFMQ, HAMD                 |",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 (continued)",
+   "page": 6
+  },
+  {
+   "label": "table",
+   "text": "Table 1 (continued)\nTable 1 (continued)\n\n| Study - Author, Year   |   Sample - Experimental |   Control |   Gender - Female,% | Age - Mean(SD)   | Participants                | Intervention measures - Experimental   | Intervention measures - Control   |   Inter- vention duration - Week (s) |   Inter- vention duration - Min- ute (s) | Follow-up (month(s))   | Out- come scales      |\n|------------------------|-------------------------|-----------|---------------------|------------------|-----------------------------|----------------------------------------|-----------------------------------|--------------------------------------|------------------------------------------|------------------------|-----------------------|\n| Cao 2024 [51]          |                      26 |        26 |               61.54 | 40.81(7.61)      | Depressive disorders        | MBCT(mixed)                            | TAU                               |                                    8 |                                      640 | NA                     | RRS, FFMQ, HAMD, HAMA |\n| Li 2024 [52]           |                      64 |        67 |               64.06 | NA               | Major depres- sive disorder | MBCT(mixed)                            | TAU                               |                                    8 |                                      640 | 3                      | RRS                   |",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 (continued)",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Abbreviations: Interventions: MBCT = mindfulness-based cognitive therapy; TAU = treatment as usual; WL = waiting list (blank control); CBT = cognitive behavioral therapy. Rumination scales: RRQ = Ruminative Reflection Questionnaire (reflection and rumination); RRQ-Ru = Ruminative Reflection Questionnaire-Rumination Subscale; RRS = Ruminative Response Scale (reflection, brooding, and depression-related characteristics); RRS-B = Ruminative Response Style QuestionnaireBrooding Subscale; RSS = Rumination on Sadness Scale (depressive rumination); EQ-R = Experiences Questionnaire-Rumination scale; SARI = Sadness and Anger Ruminative Inventory; DFS = Questionnaire of Dysfunctional and Functional Self-Consciousness; CERQ = Cognitive Emotion Regulation Questionnaire. Mindfulness scales: FFMQ = Five Facet Mindfulness Questionnaire; FMI = Freiburg Mindfulness Inventory; KIMS = Kentucky Inventory of Mindfulness Skills; MAAS = Mindful Attention Awareness Scale; SMQ = Southampton Mindfulness Questionnaire. Self-compassion scales: SCS = Self-Compassion Scale; SCS-SF = Self-Compassion Scale-Short Form. Decentration scales: EQ = Experiences Questionnaire; TMS-D = Toronto Mindfulness Scale-Decentering. Depression scals: PHQ-9 = Patient Health Questionnaire 9-item; IDS-SR = Inventory of Depressive Symptomatology-Self Report; IDS-C = Inventory of Depressive Symptomatology-Clinician administered; HAMD = Hamilton Depression Rating Scale; BDI-II = Beck Depression Inventory (Second Edition); DASS = Depression Anxiety Stress Scale; HADS-D = Hospital Anxiety and Depression Scale-depression; MADRS = Montgomery-Åsberg Depression Rating Scale. Anxiety scales: GAD-7 = Generalized Anxiety Disorder 7-item; STAI = State-Trait Anxiety Inventory; HADS-A = Hospital Anxiety and Depression Scale-anxiety; BAI = Beck Anxiety Inventory; HAMA = Hamilton Anxiety Rating Scale The effect estimates are expressed as standardized mean differences (SMD) accompanied by 95% confidence intervals (CI). The term \"IV\" denotes interval variable, while \"z\" refers to the z-score for the overall effect, and \"p\" indicates the level of statistical significance. Heterogeneity is evaluated using I² statistics and p-values. All p-values are two-tailed, with a threshold of less than 0.05 deemed statistically significant Abbreviations: MBCT, mindfulness-based cognitive therapy; WL, waiting list (blank control); TAU, treatment as usual; CBT, cognitive behavioral therapy; RRS, Ruminative Response Scale (reflection, brooding, and depression-related characteristics); RSS, Rumination on Sadness Scale (depressive rumination); RRQ, Ruminative Reflection Questionnaire (reflection and rumination)",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2 The evaluation of bias risk across 29 randomized controlled trials (RCTs). Panel (a) illustrates the risk of bias graph, while panel (b) provides a summary of the risk of bias. The color coding is as follows: green denotes a low risk of bias, yellow signifies an unclear risk of bias, and red indicates a high risk of bias",
+   "page": 7
+  },
+  {
+   "label": "table",
+   "text": "Table 2 Meta-analyses and subgroup analysis of MBCT for rumination\nTable 2 Meta-analyses and subgroup analysis of MBCT for rumination\n\n| Subgroups                |   Studies |   Participants | Effect Estimate - [95%CI]   |     z | p      | Heterogeneity - p   | Heterogeneity - I 2   |\n|--------------------------|-----------|----------------|-----------------------------|-------|--------|---------------------|-----------------------|\n| Intervention types       |        26 |           2446 | -0.46 [-0.55, -0.36]        |  9.63 | <0.001 | 0.200               | 18%                   |\n| MBCT vs. Medicine        |         2 |            158 | -0.62 [-0.94, -0.30]        |  3.81 | <0.001 | 0.400               | 0%                    |\n| MBCT vs. Self-help       |         2 |             94 | -0.61 [-1.03, -0.20]        |  2.88 | 0.004  | 0.700               | 0%                    |\n| MBCT vs. WL              |         5 |            315 | -0.56 [-0.80, -0.32]        |  4.63 | <0.001 | 0.370               | 6%                    |\n| MBCT vs. TAU             |        11 |           1405 | -0.48 [-0.60, -0.36]        |  7.63 | <0.001 | 0.260               | 19%                   |\n| MBCT vs. CBT             |         3 |            172 | -0.34 [-0.64, -0.03]        |  2.18 | 0.030  | 0.790               | 0%                    |\n| MBCT vs. Psychoeducation |         3 |            302 | -0.21 [-0.53, 0.11 ]        |  1.26 | 0.210  | 0.150               | 47%                   |\n| Intervention modality    |        27 |           2477 | -0.46 [-0.55, -0.37]        |  8.30 | <0.001 | 0.001               | 50%                   |\n| Hybrid                   |         3 |            327 | -0.65 [-1.02, -0.28]        |  3.43 | <0.001 | 0.080               | 60%                   |\n| Offline                  |        22 |           1674 | -0.45 [-0.55, -0.35]        |  9.07 | <0.001 | 0.630               | 0%                    |\n| Online                   |         2 |            476 | -0.27 [-0.74, 0.19 ]        |  1.15 | 0.250  | 0.030               | 80%                   |\n| Intervention periods     |        25 |           2087 | -0.44 [-0.54, -0.35]        |  9.23 | <0.001 | 0.310               | 11%                   |\n| T ≤ 1200 min             |        14 |           1104 | -0.46 [-0.62, -0.30]        |  5.69 | <0.001 | 0.080               | 38%                   |\n| 1200 min < T ≤ 1500 min  |         4 |            211 | -0.53 [-0.81, -0.26]        |  3.78 | <0.001 | 0.920               | 0%                    |\n| T > 1500 min             |         7 |            772 | -0.41 [-0.56, -0.27]        |  5.63 | <0.001 | 0.550               | 0%                    |\n| Rumination scales        |        23 |           2332 | -0.45 [-0.55, -0.35]        |  8.89 | <0.001 | <0.150              | 24%                   |\n| RRS                      |        12 |           1242 | -0.52 [-0.67, -0.37]        |  6.70 | <0.001 | 0.110               | 35%                   |\n| RSS                      |         3 |            435 | -0.45 [-0.64, -0.26]        |  4.61 | <0.001 | 0.640               | 0%                    |\n| RRQ                      |         8 |            655 | -0.34 [-0.50, -0.17]        |  3.95 | <0.001 | 0.340               | 11%                   |\n| Participant types        |        17 |           1662 | -0.48 [-0.61, -0.36]        |  7.46 | <0.001 | 0.110               | 31%                   |\n| Depression               |        15 |           1417 | -0.55 [-0.66, -0.44]        | 10.10 | <0.001 | 0.670               | 0%                    |\n| Sexual dysfunction       |         2 |            245 | -0.07 [-0.32, 0.18]         |  0.55 | 0.580  | 0.660               | 0%                    |\n| Participant age          |        24 |           2256 | -0.43 [-0.51, -0.34]        |  9.98 | <0.001 | 0.410               | 4%                    |\n| 25 < Mean ≤ 40           |         5 |            417 | -0.45 [-0.64, -0.25]        |  4.47 | <0.001 | 0.140               | 42%                   |\n| 40 < Mean ≤ 50           |        16 |           1554 | -0.43 [-0.54, -0.33]        |  8.43 | <0.001 | 0.620               | 0%                    |\n| Mean > 50                |         3 |            285 | -0.36 [-0.60, -0.12]        |  2.98 | 0.003  | 0.150               | 48%                   |\n| Participant gender       |        26 |           2447 | -0.45 [-0.53, -0.36]        | 10.24 | <0.001 | 0.350               | 8%                    |\n| Female ≤ 50%             |         3 |            186 | -0.66 [-0.95, -0.36]        |  4.34 | <0.001 | 0.600               | 0%                    |\n| 65%< Female ≤ 80%        |         9 |           1021 | -0.48 [-0.60, -0.35]        |  7.52 | <0.001 | 0.990               | 0%                    |\n| 50%< Female ≤ 65%        |         7 |            658 | -0.42 [-0.65, -0.20]        |  3.75 | <0.001 | 0.070               | 48%                   |\n| Female > 80%             |         7 |            582 | -0.39 [-0.61, -0.17]        |  3.54 | <0.001 | 0.140               | 38%                   |\n| Total                    |        27 |           2477 | -0.46 [-0.55, -0.37]        |  9.92 | <0.001 | 0.240               | 15%                   |",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 Meta-analyses and subgroup analysis of MBCT for rumination",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In addition, significant effectiveness of MBCT was shown across various intervention periods, participant ages, and genders.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on rumination during follow-up",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The meta-analysis incorporated data from 14 RCTs encompassing a total of 1,358 participants, focusing on rumination during follow-up. The findings indicated the sustained effectiveness of MBCT in reducing rumination was significantly superior to the control group (SMD = -0.61, 95% CI = [-0.89, -0.32], z = 4.21, P < 0.001). The application of a random-effects approach (I 2 = 82%, P < 0.001) followed by sensitivity testing removed substantially decreased heterogeneity (I 2 = 60%, P = 0.004)",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "[32, 42]. Notably, the therapeutic effectiveness of MBCT remained statistically significant (SMD = -0.41, 95% CI = [-0.59, -0.22], z = 4.31, P < 0.001).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Subgroup analyses demonstrated that the long-term effectiveness of MBCT exhibited a marked superiority over TAU (SMD = -0.45, 95% CI = [-0.73, -0.16], z = 3.04, P = 0.002). However, no substantial differences were observed when comparing MBCT with psychoeducation (SMD = -0.31, 95% CI = [-0.79, 0.17], z = 1.25, P = 0.210) or with CBT (SMD = -0.21, 95% CI = [-0.58, 0.16], z = 1.10, P = 0.270) (Fig. 3). The effectiveness of MBCT in reducing ruminative thinking remained significant throughout the follow-up periods (SMD = -0.41, 95% CI = [-0.59, -0.22], z = 4.31, P<0.001) (Fig. 4).",
+   "page": 8
+  },
+  {
+   "label": "table",
+   "text": "Fig. 3 Effectiveness of MBCT on rumination during follow-up: Subgroup analysis by intervention types. The effect estimates are expressed as standardized mean differences (SMD) accompanied by 95% confidence intervals (CI). The term \"IV\" denotes interval variable, while \"z\" refers to the z-score for the overall effect, and \"p\" indicates the level of statistical significance. Heterogeneity is evaluated using I 2 statistics and p-values. All p-values are two-tailed, with a threshold of less than 0.05 deemed statistically significant. Abbreviations: MBCT, mindfulness-based cognitive therapy; TAU, treatment as usual; CBT, cognitive behavioral therapy\nFig. 3 Effectiveness of MBCT on rumination during follow-up: Subgroup analysis by intervention types. The effect estimates are expressed as standardized mean differences (SMD) accompanied by 95% confidence intervals (CI). The term \"IV\" denotes interval variable, while \"z\" refers to the z-score for the overall effect, and \"p\" indicates the level of statistical significance. Heterogeneity is evaluated using I 2 statistics and p-values. All p-values are two-tailed, with a threshold of less than 0.05 deemed statistically significant. Abbreviations: MBCT, mindfulness-based cognitive therapy; TAU, treatment as usual; CBT, cognitive behavioral therapy",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3 Effectiveness of MBCT on rumination during follow-up: Subgroup analysis by intervention types. The effect estimates are expressed as standardized mean differences (SMD) accompanied by 95% confidence intervals (CI). The term \"IV\" denotes interval variable, while \"z\" refers to the z-score for the overall effect, and \"p\" indicates the level of statistical significance. Heterogeneity is evaluated using I 2 statistics and p-values. All p-values are two-tailed, with a threshold of less than 0.05 deemed statistically significant. Abbreviations: MBCT, mindfulness-based cognitive therapy; TAU, treatment as usual; CBT, cognitive behavioral therapy",
+   "page": 9
+  },
+  {
+   "label": "table",
+   "text": "Fig. 4 Effectiveness of MBCT on rumination during follow-up: Subgroup analysis by follow-up period. The effect estimates are expressed as standardized mean differences (SMD) accompanied by 95% confidence intervals (CI). The term \"IV\" denotes interval variable, while \"z\" refers to the z-score for the overall effect, and \"p\" indicates the level of statistical significance. Heterogeneity is evaluated using I 2 statistics and p-values. All p-values are two-tailed, with a threshold of less than 0.05 deemed statistically significant. Abbreviations: MBCT, mindfulness-based cognitive therapy\nFig. 4 Effectiveness of MBCT on rumination during follow-up: Subgroup analysis by follow-up period. The effect estimates are expressed as standardized mean differences (SMD) accompanied by 95% confidence intervals (CI). The term \"IV\" denotes interval variable, while \"z\" refers to the z-score for the overall effect, and \"p\" indicates the level of statistical significance. Heterogeneity is evaluated using I 2 statistics and p-values. All p-values are two-tailed, with a threshold of less than 0.05 deemed statistically significant. Abbreviations: MBCT, mindfulness-based cognitive therapy",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 4 Effectiveness of MBCT on rumination during follow-up: Subgroup analysis by follow-up period. The effect estimates are expressed as standardized mean differences (SMD) accompanied by 95% confidence intervals (CI). The term \"IV\" denotes interval variable, while \"z\" refers to the z-score for the overall effect, and \"p\" indicates the level of statistical significance. Heterogeneity is evaluated using I 2 statistics and p-values. All p-values are two-tailed, with a threshold of less than 0.05 deemed statistically significant. Abbreviations: MBCT, mindfulness-based cognitive therapy",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on mindfulness, self-compassion and decentering ability",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The analysis of 21 RCTs encompassing a total of 2060 participants provided data on mindfulness. The current meta-analysis identified that MBCT significantly enhanced mindfulness (SMD = 0.55, 95% CI = [0.46, 0.63], z = 12.04, P < 0.001). The random-effects model was employed (I 2 = 49%, P = 0.007), along with a sensitivity analysis, which reduced heterogeneity (I 2 = 0%, P = 0.520) [32]. And the therapeutic effectiveness of MBCT remained statistically significant (SMD = -0.54, 95% CI = [-0.45, -0.63], z = 11.88, P < 0.001). Subgroup analyses demonstrated that the effectiveness of MBCT on enhancing mindfulness was superior to that of WL (SMD = 0.71, 95% CI = [0.47, 0.95], z = 5.81, P < 0.001), self-help intervention (SMD = 0.57, 95% CI = [0.15, 0.98], z = 2.69, P = 0.007) and TAU (SMD = 0.53, 95% CI = [0.41, 0.64], z = 9.11, P < 0.001), but did not differ significantly from CBT (SMD = 0.28, 95% CI = [-0.03, 0.58], z = 1.79, P = 0.070) (Fig.S1).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Additionally, 10 RCTs involving 716 participants assessed self-compassion levels. The meta-analysis indicated that MBCT significantly improved self-compassion (SMD = 0.59, 95% CI = [0.22, 0.96], z = 3.15, P = 0.002). The use of a random-effects model (I 2 = 81%, P < 0.001) and sensitivity analysis led to a decrease in heterogeneity (I 2 = 64%, P = 0.005) [32]. And the therapeutic effectiveness of MBCT remained statistically significant (SMD = 0.47, 95% CI = [0.21, 0.73], z = 3.58, P < 0.001). Subgroup analyses revealed that MBCT was more effective in enhancing self-compassion compared to WL (SMD = 0.76, 95% CI = [0.27, 1.26], z = 3.03, P = 0.002) and TAU (SMD = 0.24, 95% CI = [0.04, 0.44], z = 2.39, P = 0.020), yet showed no significant difference when compared to self-help intervention (SMD = 1.00, 95% CI = [-0.08, 2.08], z = 1.82, P = 0.070) (Fig. S2).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The decentering ability was assessed in 5 RCTs encompassing 586 participants altogether. The current research identified that the MBCT significantly enhanced individual decentering ability (SMD = 0.62, 95% CI = [0.45, 0.78], z = 7.24, P < 0.001). Due to the acceptable level of statistical heterogeneity (I 2 = 16%, P = 0.310), a fixed-effects model was employed. According to subgroup analyses, MBCT was more effective at enhancing decentering ability compared to self-help intervention (SMD = 0.86, 95% CI = [0.44, 1.29], z = 3.97, P < 0.001) and TAU (SMD = 0.54, 95% CI = [0.36, 0.73], z = 5.70, P < 0.001) (Fig. S3).",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on depressive and anxiety symptoms",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The 19 RCTs involving 1,484 participants provided data on depression. The meta-analysis demonstrated that MBCT significantly alleviated depressive symptoms (SMD = -0.57, 95% CI = [-0.79, -0.34], z = 4.95, P < 0.001).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "A random-effects model was used (I 2 = 76%, P < 0.001), and subsequent sensitivity analysis reduced heterogeneity (I 2 = 18%, P = 0.250) [32, 50]. Besides, the therapeutic effectiveness of MBCT remained statistically significant (SMD = -0.41,95% CI = [-0.54,-0.29], z = 6.58,P < 0.001). Subgroup analyses indicated that MBCT was more effective in improving depressive symptoms than WL (SMD = -0.59, 95% CI = [-0.83, -0.35], z = 4.86, P < 0.001), TAU (SMD = -0.38, 95% CI = [-0.53, -0.23], z = 4.90, P < 0.001), and CBT (SMD = -0.36, 95% CI = [-0.67, -0.06], z = 2.35, P = 0.020), although no notable difference was found in comparison with self-help intervention (SMD = -0.16, 95% CI = [-0.57, 0.25], z = 0.76, P = 0.450) (Fig. S4).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The 11 RCTs involving 795 participants provided the data on anxiety. The meta-analysis revealed that MBCT significantly alleviated anxiety symptoms (SMD = -0.37, 95% CI = [-0.56, -0.18], z = 3.78, P < 0.001). The analysis was performed with a random-effects model (I 2 = 42%, P = 0.070), and subsequent sensitivity analysis reduced heterogeneity (I 2 = 0%, P = 0.840) [51]. Moreover, the therapeutic effectiveness of MBCT remained statistically significant (SMD = -0.28, 95% CI [-0.43, -0.14], z = 3.80, P < 0.001). Analysis of subgroups indicated that the MBCT was superior to TAU (SMD = -0.23, 95% CI = [-0.43, -0.04], z = 2.31, P = 0.020) in alleviating anxiety symptoms, however, no substantial difference was found in comparison with self-help intervention (SMD = -0.46, 95% CI = [-1.11, 0.19], z = 1.39, P = 0.160) and WL (SMD= -0.19, 95% CI=[-0.57, 0.18], z = 1.01, P = 0.310) (Fig. S5).",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Publication bias",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Publication bias was conducted for the remaining 27 studies after excluding two studies based on the sensitivity analysis [32, 42]. Both the funnel plot and Egger's test revealed a lack of notable publication bias (t = -1.47, P = 0.154, 95% CI = [-2.20,0.37]) (Fig. S6).",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on rumination",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "In alignment with prior meta-analyses, the current research indicates that MBCT exhibits superior effectiveness compared to self-help intervention, WL, and TAU in reducing rumination [11, 13, 16, 53]. This enhanced effectiveness may be attributed to the capacity of MBCT to cultivate awareness and acceptance, which enables individuals to better manage excessive focus on negative thoughts, disrupt inflexible cognitive patterns, and consequently reduce rumination [54, 55].",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Furthermore, our study found that the effectiveness of MBCT in reducing rumination was superior to that of both CBT and medicine treatments, which contrasts with findings from previous research [11, 13]. Previous studies only focused on a specific group of people, such as patients with depression [11], however, the populations studied in our research were a cross-diagnostic group. Moreover, the CBT interventions in the control groups of our study (e.g., standard CBT) differed from those in previous meta-analyses (e.g., behavioral activation and computerized cognitive training) [13]. Furthermore, variations in the definition and assessment of rumination (e.g., RRS, RRQ, RSS, CERQ, DFS) may account for the divergent outcomes observed. Finally, MBCT integrates cognitive strategies of CBT protocols and mindfulness practices, while previous studies often ignored the CBT strategies and merely focused on the efficacy of mindfulness [8, 11, 13, 15]. Consequently, the observed contrasts may be attributed to differences in the populations studied, the specific CBT protocols used in the included RCTs, the measurement of rumination, and the treatment strategies of MBCT. Future research should minimize methodological heterogeneity across studies and systematically compare the efficacy of MBCT with CBT or medication in rumination.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Furthermore, subgroup analyses indicated that the effectiveness of different modalities of MBCT on rumination varied. The results showed that both offline MBCT and hybrid MBCT modalities were significantly effective, whereas online interventions did not exhibit significant effectiveness. Offline intervention is effective, possibly because of the face-to-face interactions facilitated by a psychologist, which not only enhance group dynamics but also offer immediate feedback to effectively guide practice [17, 56]. The hybrid intervention maintains effectiveness while enhancing accessibility by leveraging the strengths of offline modality and incorporating the flexibility of online modality [57]. In contrast, the present study did not observe significant effectiveness in online MBCT. Several factors may contribute to this finding. Firstly, the lack of direct professional feedback and face-to-face interaction with psychologists may diminish the effectiveness of MBCT [58]. Secondly, the absence of mutual communication and encouragement among participants can lead to weakened group dynamics [58]. Furthermore, challenges in delivering complex psychological contents and the issues related to online device usage may impair participants' comprehension and reduce the therapeutic benefits of MBCT [58]. Lastly, participantrelated factors such, as disease-related physical impairments, difficulties in time management, and interfering factors within the family environment may also decrease treatment adherence and therapeutic outcomes [58-61]. Although there is no consensus on the effectiveness of different MBCT modalities, online MBCT programs hold practical implications for clinicians and developers [14, 62, 63]. Enhancing immediate feedback (e.g., AI-driven biofeedback), fostering group dynamics (e.g., through synchronous videoconferencing or written communication), and improving the usability (e.g., intuitive design)",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "may be crucial in augmenting the effectiveness of online MBCT.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Subgroup analyses indicated that MBCT significantly reduced rumination across varying intervention periods, offering potential proof of the efficacy of short-term mindfulness programs [64]. Notably, while all intervention periods were effective, several participants expressed a preference for extended training periods, which might imply that a longer intervention period would lead to better therapeutic outcomes [65]. The present study indicates that MBCT significantly reduces rumination among depressive patients, likely due to its capacity to improve emotional state and emotion regulation, thereby more effectively alleviating rumination [66]. However, the effectiveness of MBCT demonstrates no notable advantage over the control group in patients experiencing sexual dysfunction. This may stem from the specific content of rumination, and various intervention methods have all shown considerable effectiveness in addressing sexual dysfunction [27]. Subgroup analyses showed that MBCT significantly reduced rumination across different assessment tools like RRS, RSS, and RRQ, consistent with prior research on the adaptability of these scales [13]. In addition to symptom evaluation, the intervention also proved effective across diverse ages and genders, highlighting its potential for broad clinical application [13, 67]. To date, no study has systematically investigated the variations in the effectiveness of MBIs based on age and gender. Furthermore, due to the few studies available in our analysis, these conclusions should be interpreted with caution.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on rumination during follow-up",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "In long-term follow-up, MBCT proved more effective than TAU and as effective as CBT and psychoeducation, aligning with previous research [13, 53]. Although the intervention mechanisms of MBCT and CBT are different, both can effectively reduce rumination [68, 69]. Specifically, MBCT enhances mindfulness to mitigate rumination, while CBT utilizes cognitive restructuring and behavioral activation strategies to achieve similar effects [38]. The current study demonstrated that, both during the intervention period and during the follow-up period, the effectiveness of MBCT was not more effective than that of psychoeducation. The unique characteristics of the participants and the limited studies included might be related to these results. The subgroup analyses included two studies involving patients with sexual dysfunction, whose rumination primarily focused on sexual performance [26, 27]. Psychoeducation can effectively address the psychological needs of these patients and facilitate modifications in their underlying cognitive patterns [27]. Consequently, psychoeducation also demonstrates significant therapeutic effectiveness in the treatment of sexual dysfunction.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Subgroup analyses further confirmed the sustained effectiveness of MBCT, demonstrating significant effectiveness maintained both within and beyond three months, in alignment with prior research findings [7072]. This stability may be attributable to the cumulative effects of mindfulness practice, analogous to muscle training, where increased practice yields greater benefits [71-73]. Overall, the current results emphasize the significant role of MBCT in the long-term intervention of rumination. However, due to the limited follow-up data and the inconsistent effectiveness of long-term MBCT, further research is necessary [74].",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on mindfulness, self-compassion, and decentering ability",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Consistent with previous research, our results further confirmed that MBCT significantly enhanced the levels of mindfulness of the participants [15, 75, 76]. This might be due to the dual effects of MBCT, namely, cultivating the participants' non-judgmental attitude and increasing their focus on the present moment [77]. Furthermore, our findings found MBCT and CBT have the same effectiveness in improving the participants' mindfulness levels. This could be due to their shared intervention mechanisms underlying both MBCT and CBT [41].",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The current study confirmed the effectiveness of MBCT in augmenting participants' self-compassion, which may be related to the embrace acceptance and avoid judgment of MBCT [18, 78]. It is noted that subgroup analyses indicated MBCT and self-help have the same effectiveness in enhancing self-compassion. It is posited that this equivalence may be attributed to the incorporation of CBT techniques within the self-help program, which potentially augments participants' selfcompassion [79, 80]. Moreover, the limited number of studies available in the meta-analysis, coupled with differences in the baseline levels of participants' self-compassion, may contribute to this result [36].",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Moreover, this study also confirmed the positive effectiveness of MBCT in enhancing participants' decentering abilities [81]. Decentering, a fundamental aspect of mindfulness, is characterized by individuals' capacity to perceive their present experiences with an open and non-judgmental attitude [19]. While decentering ability is regarded as a significant element in the mechanisms of MBCT, its potential roles associated with MBCT need further investigation [30, 82, 83].",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "In conclusion, this study found that MBCT may increase the levels of mindfulness and self-compassion among participants, and enhance their decentering ability. According to the metacognitive mode, a higher level of mindfulness enables individuals to consciously redirect their focus, maintain a non-judgmental perspective, interrupt negative cognition patterns, and diminish their rumination on adverse events, thereby alleviating associated emotional symptoms such as anxiety and depression [8, 84]. Individuals exhibiting higher self-compassion tend to replace self-criticism with kindness, extending care and understanding to themselves in challenging situations, which prevents excessive preoccupation with distressing experiences and consequently reduces rumination [85]. Those possessing a more robust decentering capacity can disengage from negative ruminative thoughts, thereby minimizing the influence of adverse reactions on their well-being and further decreasing rumination [86]. Furthermore, a higher level of mindfulness can enhance an individual's self-compassion and decentering ability, while decentering can also expand one's self-compassion [86]. Therefore, mindfulness, selfcompassion, and decentering ability can each reduce rumination through their unique mechanisms. In addition, the three elements can interact with one another to collectively reduce rumination.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of MBCT on depression and anxiety symptoms",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Consistent with previous studies, we found that MBCT is effective in alleviating depressive and anxiety symptoms [87, 88]. For depressive symptoms, subgroup analysis showed that MBCT led to greater improvement in depressive symptoms compared to WL, TAU, and CBT, and demonstrated similar effects to self-help interventions. For anxiety symptoms, subgroup analysis showed that MBCT was more effective than TAU and did not differ significantly from self-help and WL. Previous research found that self-help can significantly reduce depressive and anxiety symptoms, and anxiety may decline naturally over time with prolonged exposure [89-92]. Moreover, the characteristics of participants and symptom severity at baseline may contribute to the similar outcomes observed between MBCT and self-help or WL [36].",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "In this study, anxiety and depression were also considered secondary outcomes due to their significant role in rumination. Rumination, defined as a maladaptive emotion regulation strategy, contributes to the persistence and exacerbation of depression and anxiety symptoms [93]. Previous research has established rumination as a mediating mechanism through which MBCT alleviated symptoms of depression and anxiety [94]. By reducing rumination, MBCT may promote positive emotional experiences, thereby effectively reducing depressive and anxiety symptoms among participants [95, 96].",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Publication bias",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The funnel plot and Egger's test consistently indicated that this study did not display significant publication bias; thereby, the overall evidence substantiates that our conclusions remain unaffected by publication bias.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Limitations and implications",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "However, several limitations should be noted. Firstly, although 29 studies were included, the relatively limited number of studies constrains the robustness of the interpretations derived from the subgroup analysis. Notably, the comparison of MBCT with medication for rumination, and the comparison of MBCT with self-help for self-compassion, depression, and anxiety comprised only 2 studies each. Similarly, the comparison of MBCT with CBT for mindfulness involved only 3 studies. Future research should increase sample sizes to enhance the stability of subgroup findings.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Secondly, despite sensitivity analyses, significant heterogeneity also persisted in key outcomes, such as follow-up rumination (I 2 = 60%, P = 0.004) and self-compassion (I 2 = 64%, P = 0.005), which may affect the stability of results. Heterogeneity may stem from the modality of MBCT intervention, the characteristics of the participants, and the intervention methods of the control group [13, 14, 63, 97]. Future research should employ more homogeneous samples and standardized methodologies to reduce heterogeneity, enhance statistical power, and discover more reliable findings for generalizability and clinical applicability [13, 98].",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Furthermore, although our meta-analysis confirmed the effectiveness of MBCT in diminishing rumination and enhancing related psychological indicators, the underlying mechanisms remain insufficiently understood [84-86, 94, 95]. Future research should aim to develop models elucidating the interrelationships among rumination, internal psychological indicators, and external emotional manifestations. Additionally, these studies should investigate the evolution of these models as patients' clinical symptoms improve, employing longitudinal study designs and path analysis. The findings from such research could significantly advance our understanding of the theoretical foundations underpinning the effectiveness of MBCT and facilitate more precise clinical interventions.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Finally, this study also found that MBCT exhibited similar effectiveness to psychoeducation or CBT in long-term follow-up, and to self-help interventions for self-compassion, depression, and anxiety. On one hand, MBCT presents a viable alternative to traditional interventions such as CBT, which might be attributed to its unique mechanism, such as fostering self-compassion or decentering more directly [86]. On the other hand, in cases where other interventions are equally effective, patients' preference, accessibility, or cost-effectiveness might become deciding factors in clinical choice [99101]. Future research should use homogeneous samples in large-scale RCTs to identify which intervention is suitable for a particular individual and develop personalized treatment plans.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Conclusion",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "This meta-analysis confirm the feasibility of MBCT in diminishing rumination and enhancing related psychological indicators. Furthermore, these effects were sustained throughout the follow-up period. These findings highlight MBCT's clinical utility and potential as both a primary and alternative intervention across diverse psychological conditions.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Abbreviations",
+   "page": 13
+  },
+  {
+   "label": "table",
+   "text": "| Abbreviations   | \u0007Full-term                                     |\n|-----------------|------------------------------------------------|\n| MBCT            | \u0007Mindfulness-based cognitive therapy           |\n| CBM             | \u0007China biomedical literature database          |\n| CNKI            | \u0007China national knowledge infrastructure       |\n| VIP             | \u0007China science and technology journal database |\n| RCTs            | \u0007Randomized controlled trials                  |\n| SMD             | \u0007Standardized mean difference                  |\n| CI              | \u0007Confidence intervals                          |\n| MBIs            | \u0007Mindfulness-based interventions               |\n| non-RCTs        | \u0007Non-randomized controlled trials              |\n| M               | \u0007Mean                                          |\n| SD              | \u0007Standard deviation                            |\n| MD              | \u0007Mean difference                               |\n| SMD             | \u0007Standardized mean difference                  |\n| TAU             | \u0007Treatment as usual                            |\n| WL              | \u0007Waitlist (blank control)                      |\n| CBT             | \u0007Cognitive behavioral therapy                  |\n| tDCS            | \u0007Transcranial direct current stimulation       |\n| RRS             | \u0007Ruminative response scale                     |\n| RSS             | \u0007Rumination on sadness scale                   |\n| RRQ             | \u0007Ruminative reflection questionnaire           |",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Supplementary Information",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "The online version contains supplementary material available at https://doi.or g/10.1186/s40359-025-03348-x.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Supplementary Material 1",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Supplementary Material 2",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgements",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Not applicable.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Author contributions",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "SYW and QWQ performed data extraction. SYW and ZYY conducted data analysis. SYW wrote the main manuscript text. YHC provided guidance throughout the study. PL supervised and guided the manuscript. All authors reviewed and approved the final version.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Funding",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "This study was supported by grants from the Heilongjiang Natural Science Foundation of China (LH2023H099), and the Project of Education Department of Heilongjiang Province, China (2019-KYYWF-1269), Construction Project of Dominant Characteristic Disciplines of Oiqihar Medical University (QYZDXK-006).",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Data availability",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "All data analyzed in this study were extracted from previously published articles included in the systematic review. The extracted datasets used for the meta-analysis are available in the supplementary information files accompanying this manuscript.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Declarations",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Ethics approval and consent to participate",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "This meta-analysis is based solely on previously published studies and did not involve any direct research with human or animal subjects. Therefore, no additional ethical approval was required. The study protocol was preregistered on PROSPERO (CRD42024612750) to ensure transparency and methodological rigor.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Consent for publication",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Not applicable.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Competing interests",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The authors declare no competing interests.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Received: 6 May 2025 / Accepted: 21 August 2025",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Nolen-Hoeksema S, Wisco BE, Lyubomirsky S. Rethinking rumination. Perspect Psychol Sci. 2008;3(5):400-24.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Nolen-Hoeksema S. The role of rumination in depressive disorders and mixed anxiety/depressive symptoms. J Abnorm Psychol. 2000;109(3):504-11.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Cheng PZ, Lee HC, Lane TJ, Hsu TY, Duncan NW. Structural alterations in a rumination-related network in patients with major depressive disorder. Psychiatry Res Neuroimaging. 2024;345:111911.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Edgar EV, Richards A, Castagna PJ, Bloch MH, Crowley MJ. Post-event rumination and social anxiety: a systematic review and meta-analysis. J Psychiatr Res. 2024;173:87-97.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Oliva V, De Prisco M, Fico G, Possidente C, Bort M, Fortea L, Montejo L, Anmella G, Hidalgo-Mazzei D, Murru A, et al. Highest correlations between emotion regulation strategies and mood symptoms in bipolar disorder: A systematic review and bayesian network meta-analysis. Neurosci Biobehav Rev. 2025;169:105967.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Gong C, Ren Y. The effect of post-traumatic stress disorder on misinformation beliefs among survivors of the 2008 China earthquake: the mediating roles of rumination and fear of missing out. BMC Psychol. 2025;13(1):122.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Wang J, Huang Y, Wu L, Sun Y, Zhang X, Cao F. Sleep-specific repetitive negative thinking processes and prenatal insomnia symptoms: A naturalistic follow-up study from mid- to late-pregnancy. J Sleep Res. 2025;34(1):e14272.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Garay CJ, Korman GP, Keegan EG. Mindfulness-Based cognitive therapy (MBCT) and the 'third wave' of cognitive-Bahavioral therapies (CBT). Vertex. 2015;Xxvi(119):49-56.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Feruglio S, Matiz A, Grecucci A, Pascut S, Fabbro F, Crescentini C. Differential effects of mindfulness meditation conditions on repetitive negative thinking and subjective time perspective: a randomized active-controlled study. Psychol Health. 2021;36(11):1275-98.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Cladder-Micus MB, Vrijsen JN, Fest A, Spijker J, Donders ART, Becker ES, Speckens AEM. Follow-up outcomes of Mindfulness-Based cognitive therapy (MBCT) for patients with chronic, treatment-resistant depression. J Affect Disord. 2023;335:410-7.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Perestelo-Perez L, Barraca J, Peñate W, Rivero-Santana A, Alvarez-Perez Y. Mindfulness-based interventions for the treatment of depressive rumination: systematic review and meta-analysis. Int J Clin Health Psychol. 2017;17(3):282-95.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "van der Velden AM, Kuyken W, Wattar U, Crane C, Pallesen KJ, Dahlgaard J, Fjorback LO, Piet J. A systematic review of mechanisms of change in mindfulness-based cognitive therapy in the treatment of recurrent major depressive disorder. Clin Psychol Rev. 2015;37:26-39.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Mao L, Li P, Wu Y, Luo L, Hu M. The effectiveness of mindfulness-based interventions for ruminative thinking: A systematic review and meta-analysis of randomized controlled trials. J Affect Disord. 2023;321:83-95.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Fan M, Wang Y, Zheng L, Cui M, Zhou X, Liu Z. Effectiveness of online mindfulness-based interventions for cancer patients: a systematic review and meta-analysis. Jpn J Clin Oncol. 2023;53(11):1068-76.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Gu J, Strauss C, Bond R, Cavanagh K. How do mindfulness-based cognitive therapy and mindfulness-based stress reduction improve mental health and wellbeing? A systematic review and meta-analysis of mediation studies. Clin Psychol Rev. 2015;37:1-12.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Öcalan S, Üzar-Özçetin YS. Effects of interventions on rumination among individuals with cancer: A systematic review and meta-analysis. J Adv Nurs. 2021;77(11):4347-70.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Morgan D. Mindfulness-based cognitive therapy for depression: a new approach to preventing relapse. Psychother Res. 2003;13(1):123-5.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Neff K. Self-compassion: an alternative conceptualization of a healthy attitude toward oneself. Self Identity. 2003;2(2):85-101.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Shapiro SL, Carlson LE, Astin JA, Freedman B. Mechanisms of mindfulness. J Clin Psychol. 2006;62(3):373-86.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Desrosiers A, Vine V, Klemanski DH, Nolen-Hoeksema S. Mindfulness and emotion regulation in depression and anxiety: common and distinct mechanisms of action. Depress Anxiety. 2013;30(7):654-61.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Shuster JJ. Cochrane handbook for systematic reviews for interventions, version 5.1. 0, published 3/2011. Julian PT Higgins and Sally green, editors. In. Wiley Online Library; 2011.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Knoll T, Omar MI, Maclennan S, Hernández V, Canfield S, Yuan Y, Bruins M, Marconi L, Van Poppel H, N'Dow J, et al. Key steps in conducting systematic reviews for underpinning clinical practice guidelines: methodology of the European association of urology. Eur Urol. 2018;73(2):290-300.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Borenstein M, Hedges LV, Higgins JP, Rothstein HR. A basic introduction to fixed-effect and random-effects models for meta-analysis. Res Synthesis Methods. 2010;1(2):97-111.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Armstrong L, Rimes KA. Mindfulness-Based cognitive therapy for neuroticism (Stress Vulnerability): A Pilot Randomized Study. Behav Ther. 2016;47(3):287-98.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Bieling PJ, Hawley LL, Bloch RT, Corcoran KM, Levitan RD, Young LT, Macqueen GM, Segal ZV. Treatment-specific changes in decentering following mindfulness-based cognitive therapy versus antidepressant medication or placebo for prevention of depressive relapse. J Consult Clin Psychol. 2012;80(3):365-72.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Brotto LA, Zdaniuk B, Chivers ML, Jabs F, Grabovac A, Lalumière ML, Weinberg J, Schonert-Reichl KA, Basson R. A randomized trial comparing group mindfulness-based cognitive therapy with group supportive sex education and therapy for the treatment of female sexual interest/arousal disorder. J Consult Clin Psychol. 2021;89(7):626-39.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Brotto LA, Walker L, Sears C, Woo S, Millman R, Zdaniuk B. A randomized comparison of online mindfulness-based group sex therapy vs supportive group sex education to address sexual dysfunction in breast cancer survivors. J Sex Med. 2024;21(5):452-63.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Cladder-Micus MB, Speckens AEM, Vrijsen JN, AR TD, Becker ES, Spijker J. Mindfulness-based cognitive therapy for patients with chronic, treatmentresistant depression: A pragmatic randomized controlled trial. Depress Anxiety. 2018;35(10):914-24.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Compen F, Bisseling E, Schellekens M, Donders R, Carlson L, Van Der Lee M, Speckens A. Face-to-face and internet-based mindfulness-based cognitive therapy compared with treatment as usual in reducing psychological distress in patients with cancer: a multicenter randomized controlled trial. J Clin Oncol. 2018;36(23):2413-21.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Dimidjian S, Gallop R, Levy J, Beck A, Segal ZV. Mediators of change in online mindfulness-based cognitive therapy: A secondary analysis of a randomized trial of mindful mood balance. J Consult Clin Psychol. 2023;91(8):496-502.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Forkmann T, Wichers M, Geschwind N, Peeters F, van Os J, Mainz V, Collip D. Effects of mindfulness-based cognitive therapy on self-reported suicidal ideation: results from a randomised controlled trial in patients with residual depressive symptoms. Compr Psychiatry. 2014;55(8):1883-90.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Foroughi A, Sadeghi K, Parvizifard A, Parsa Moghadam A, Davarinejad O, Farnia V, Azar G. The effectiveness of mindfulness-based cognitive therapy for reducing rumination and improving mindfulness and self-compassion in patients with treatment-resistant depression. Trends Psychiatry Psychother. 2020;42(2):138-46.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hanssen I, Huijbers M, Regeer E, Lochmann van Bennekom M, Stevens A, van Dijk P, Boere E, Havermans R, Hoenders R, Kupka R, et al. Mindfulness-based cognitive therapy v. treatment as usual in people with bipolar disorder: A multicentre, randomised controlled trial. Psychol Med. 2023;53(14):6678-90.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Hasani SH, Omran MP. Comparing the effectiveness of neurofeedback exercises with Mindfulness-Based cognitive therapy on rumination and negative automatic thoughts of adults with major depressive disorder. NeuroQuantology. 2023;21(7):370-8.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Huijbers MJ, Wentink C, Lucassen P, Kramers C, Akkermans R, Spijker J, Speckens AEM. Supporting antidepressant discontinuation using mindfulness plus monitoring versus monitoring alone: A cluster randomized trial in general practice. PLoS ONE. 2023;18(9):e0290965.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "James K, Rimes KA. Mindfulness-Based cognitive therapy versus pure cognitive behavioural Self-Help for perfectionism: a pilot randomised study. Mindfulness (N Y). 2018;9(3):801-14.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Maddock A, Hevey D, D'Alton P, Kirby B. A randomized trial of mindfulness-based cognitive therapy with psoriasis patients. Mindfulness. 2019;10:2606-19.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Manicavasagar V, Perich T, Parker G. Cognitive predictors of change in cognitive behaviour therapy and mindfulness-based cognitive therapy for depression. Behav Cogn Psychother. 2012;40(2):227-32.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Monnart A, Vanderhasselt M-A, Schroder E, Campanella S, Fontaine P, Kornreich C. Treatment of resistant depression: a pilot study assessing the efficacy of a tDCS-mindfulness program compared with a tDCS-relaxation program. Front Psychiatry. 2019;10:730.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Nauta IM, van Dam M, Bertens D, Kessels RP, Fasotti L, Uitdehaag BM, Speckens AE, de Jong BA. Improved quality of life and psychological symptoms following mindfulness and cognitive rehabilitation in multiple sclerosis and their mediating role for cognition: a randomized controlled trial. J Neurol. 2024;271(7):4361-72.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Paterniti S, Raab K, Sterner I, Collimore KC, Dalton C, Bisserbe J-C. Individual mindfulness-based cognitive therapy in major depression: A feasibility study. Mindfulness. 2022;13(11):2845-56.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Bigonah Rudmajani M, Nayyeri M, Ramzani J. Comparison of the effectiveness of Mindfulness-Based cognitive therapy and integrated transdiagnostic psychotherapy on reducing anxiety sensitivity and rumination in cardiac patients with type D personality. Razavi Int J Med. 2024;12(4):24-38.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Schanche E, Vøllestad J, Visted E, Svendsen JL, Osnes B, Binder PE, Franer P, Sørensen L. The effects of mindfulness-based cognitive therapy on risk and protective factors of depressive relapse-a randomized wait-list controlled trial. BMC Psychol. 2020;8:1-16.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Shahar B, Britton WB, Sbarra DA, Figueredo AJ, Bootzin RR. Mechanisms of change in mindfulness-based cognitive therapy for depression: preliminary evidence from a randomized controlled trial. Int J Cogn Therapy. 2010;3(4):402-18.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Shih VWY, Chan WC, Tai OK, Wong HL, Cheng CPW, Wong CSM. MindfulnessBased cognitive therapy for Late-Life depression: a randomised controlled trial. East Asian Arch Psychiatry. 2021;31(2):27-35.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Simshäuser K, Pohl R, Behrens P, Schultz C, Lahmann C, Schmidt S. Mindfulness-Based cognitive therapy as migraine intervention: a randomized waitlist controlled trial. Int J Behav Med. 2022;29(5):597-609.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Spinhoven P, Hoogerwerf E, van Giezen A, Greeven A. Mindfulness-based cognitive group therapy for treatment-refractory anxiety disorder: A pragmatic randomized controlled trial. J Anxiety Disord. 2022;90:102599.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "van Aalderen JR, Donders AR, Giommi F, Spinhoven P, Barendregt HP, Speckens AE. The efficacy of mindfulness-based cognitive therapy in recurrent depressed patients with and without a current depressive episode: a randomized controlled trial. Psychol Med. 2012;42(5):989-1001.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Zhang Z. Evaluating the effectiveness of an intervention program to regulate cognitive emotion of patients with type 2 diabetes. NeuroQuantology. 2017;15(4):162-8.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Liu G, Zhang Q, Qian L. Short-term mindfulness-based group cognitive intervention on negative thinking and mindfulness levels in patients with depressive disorders. Chin J Physicians. 2024;26(5).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Cao Y, Wang A, Peng A, Yang F. Effects of mindfulness-based cognitive therapy on psychological States in patients with depressive disorders. Psychol Monthly. 2024;19(05):110-2.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Li T, Xie X, Peng J, Fan X, Yan X, Ren X. Study on the effectiveness of collaborative nursing model in adolescent patients with depressive disorders. J Nurse Advancement. 2024;39(3).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Li P, Mao L, Hu M, Lu Z, Yuan X, Zhang Y, Hu Z. Mindfulness on rumination in patients with depressive disorder: A systematic review and Meta-Analysis of randomized controlled trials. Int J Environ Res Public Health. 2022;19(23).",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Barnhofer T, Crane C, Hargus E, Amarasinghe M, Winder R, Williams JM. Mindfulness-based cognitive therapy as a treatment for chronic depression: A preliminary study. Behav Res Ther. 2009;47(5):366-73.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Nolen-Hoeksema S. Sex differences in depression. Stanford University Press; 1990.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Pang X, Jin Y, Wang H. Effectiveness and moderators of cancer patient-caregiver dyad interventions in improving psychological distress: A systematic review and meta-analysis. Asia Pac J Oncol Nurs. 2022;9(8):100104.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Davies F, Shepherd HL, Beatty L, Clark B, Butow P, Shaw J. Implementing WebBased therapy in routine mental health care: systematic review of health professionals' perspectives. J Med Internet Res. 2020;22(7):e17362.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Compen FR, Bisseling EM, Schellekens MP, Jansen ET, van der Lee ML, Speckens AE. Mindfulness-Based cognitive therapy for cancer patients delivered via internet: qualitative study of patient and therapist barriers and facilitators. J Med Internet Res. 2017;19(12):e407.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Toivonen KI, Zernicke K, Carlson LE. Web-Based mindfulness interventions for people with physical health conditions: systematic review. J Med Internet Res. 2017;19(8):e303.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Christensen H, Griffiths KM, Farrer L. Adherence in internet interventions for anxiety and depression: systematic review. J Med Internet Res. 2009;11(2):e1194.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Donkin L, Christensen H, Naismith SL, Neal B, Hickie IB, Glozier N. A systematic review of the impact of adherence on the effectiveness of e-therapies. J Med Internet Res. 2011;13(3):e1772.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Osman I, Singaram V. Psychological PPE-Reflections on how to implement mindful interventions to protect the healthcare workforce. Afr J Inter/Multidisciplinary Stud. 2023;5(1):1-11.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Reangsing C, Trakooltorwong P, Maneekunwong K, Thepsaw J, Oerther S. Effects of online mindfulness-based interventions (MBIs) on anxiety symptoms in adults: a systematic review and meta-analysis. BMC Complement Med Ther. 2023;23(1):269.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Zeidan F, Johnson SK, Diamond BJ, David Z, Goolkasian P. Mindfulness meditation improves cognition: evidence of brief mental training. Conscious Cogn. 2010;19(2):597-605.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Philippot P, Nef F, Clauw L, de Romrée M, Segal Z. A randomized controlled trial of mindfulness-based cognitive therapy for treating tinnitus. Clin Psychol Psychother. 2012;19(5):411-9.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Hayes AM, Feldman G. Clarifying the construct of mindfulness in the context of emotion regulation and the process of change in therapy. Clin Psychol Sci Pract. 2004;11(3):255.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Kuyken W, Warren FC, Taylor RS, Whalley B, Crane C, Bondolfi G, Hayes R, Huijbers M, Ma H, Schweizer S, et al. Efficacy of Mindfulness-Based cognitive therapy in prevention of depressive relapse: an individual patient data Metaanalysis from randomized trials. JAMA Psychiatry. 2016;73(6):565-74.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Stenzel KL, Keller J, Kirchner L, Rief W, Berg M. Efficacy of cognitive behavioral therapy in treating repetitive negative thinking, rumination, and worry - a transdiagnostic meta-analysis. Psychol Med. 2025;55:e31.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Spek AA, van Ham NC, Nyklíček I. Mindfulness-based therapy in adults with an autism spectrum disorder: a randomized controlled trial. Res Dev Disabil. 2013;34(1):246-53.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Solhaug I, de Vibe M, Friborg O, Sørlie T, Tyssen R, Bjørndal A, Rosenvinge JH. Long-term mental health effects of mindfulness training: a 4-year follow-up study. Mindfulness. 2019;10:1661-72.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Cillessen L, Schellekens M, Van de Ven M, Donders A, Compen F, Bisseling E, Van der Lee M, Speckens A. Consolidation and prediction of long-term treatment effect of group and online mindfulness-based cognitive therapy for distressed cancer patients. Acta Oncol. 2018;57(10):1293-302.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Tang Y-Y, Hölzel BK, Posner MI. The neuroscience of mindfulness meditation. Nat Rev Neurosci. 2015;16(4):213-25.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Parsons CE, Crane C, Parsons LJ, Fjorback LO, Kuyken W. Home practice in mindfulness-based cognitive therapy and mindfulness-based stress reduction: a systematic review and meta-analysis of participants' mindfulness practice and its association with outcomes. Behav Res Ther. 2017;95:29-41.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Bryant RA, Azevedo S, Yadav S, Cahill C, Kenny L, Maccallum F, Tran J, ChoiChristou J, Rawson N, Tockar J. Cognitive behavior therapy vs mindfulness in treatment of prolonged grief disorder: A randomized clinical trial. JAMA Psychiatry. 2024;81(7):646-54.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Chang Y-C, Tseng TA, Lin G-M, Hu W-Y, Wang C-K, Chang Y-M. Immediate impact of mindfulness-based cognitive therapy (MBCT) among women with breast cancer: a systematic review and meta-analysis. BMC Womens Health. 2023;23(1):331.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Xuan R, Li X, Qiao Y, Guo Q, Liu X, Deng W, Hu Q, Wang K, Zhang L. Mindfulness-based cognitive therapy for bipolar disorder: A systematic review and meta-analysis. Psychiatry Res. 2020;290:113116.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Kuyken W, Watkins E, Holden E, White K, Taylor RS, Byford S, Evans A, Radford S, Teasdale JD, Dalgleish T. How does mindfulness-based cognitive therapy work? Behav Res Ther. 2010;48(11):1105-12.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Badaghi N, Buskbjerg C, Kwakkenbos L, Bosman S, Zachariae R, Speckens A. Positive health outcomes of mindfulness-based interventions for cancer patients and survivors: A systematic review and meta-analysis. Clin Psychol Rev 2024:102505.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Uebelacker LA, Wolff JC, Guo J, Conte K, Tremont G, Kraines M, O'Keeffe B, Fristad MA, Yen S. Assessing feasibility and acceptability of yoga and group",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "CBT for adolescents with depression: A pilot randomized clinical trial. Clin Child Psychol Psychiatry. 2023;28(2):525-40.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Berg M, Lindegaard T, Flygare A, Sjöbrink J, Hagvall L, Palmebäck S, Klemetz H, Ludvigsson M, Andersson G. Internet-based CBT for adolescents with low self-esteem: a pilot randomized controlled trial. Cogn Behav Ther. 2022;51(5):388-407.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Johannsen M, Nissen ER, Lundorff M, O'Toole MS. Mediators of acceptance and mindfulness-based therapies for anxiety and depression: A systematic review and meta-analysis. Clin Psychol Rev. 2022;94:102156.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Safran J, Segal ZV. Interpersonal process in cognitive therapy. Jason Aronson; 1996.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Moore MT, Lau MA, Haigh EA, Willett BR, Bosma CM, Fresco DM. Association between decentering and reductions in relapse/recurrence in mindfulnessbased cognitive therapy for depression in adults: A randomized controlled trial. J Consult Clin Psychol. 2022;90(2):137.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Papageorgiou C, Wells A. An empirical test of a clinical metacognitive model of rumination and depression. Cogn Therapy Res. 2003;27(3):261-73.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Bakker AM, Cox DW, Hubley AM, Owens RL. Emotion regulation as a mediator of self-compassion and depressive symptoms in recurrent depression. Mindfulness. 2019;10(6):1169-80.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Fresco DM, Moore MT, van Dulmen MH, Segal ZV, Ma SH, Teasdale JD, Williams JMG. Initial psychometric properties of the experiences questionnaire: validation of a self-report measure of decentering. Behav Ther. 2007;38(3):234-46.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Nandarathana N, Ranjan JK. The efficacy and durability of Mindfulnessbased cognitive therapy in the treatment of anxiety and depressive disorders: A systematic review and Meta-analysis. Indian J Psychol Med 2024:02537176241249375.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Ye J, Pan Y, Wu C, Hu Z, Wu S, Wang W, Guo J, Xiao A. Effects of mindfulnessbased cognitive therapy on depression and anxiety in late life: A meta-analysis. Alpha Psychiatry. 2024;25(1):1.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Ma Q, Shi Y, Zhao W, Zhang H, Tan D, Ji C, Liu L. Effectiveness of internetbased self-help interventions for depression in adolescents and young adults: a systematic review and meta-analysis. BMC Psychiatry. 2024;24(1):604.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Cavanagh K, Strauss C, Forder L, Jones F. Can mindfulness and acceptance be learnt by self-help? A systematic review and meta-analysis of mindfulness and acceptance-based self-help interventions. Clin Psychol Rev. 2014;34(2):118-29.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Rickels K, Rynn M. Pharmacotherapy of generalized anxiety disorder. J Clin Psychiatry. 2002;63:9-16.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Wang Y, Henriksen CA, Ten Have M, de Graaf R, Stein MB, Enns MW, Sareen J. Common mental disorder diagnosis and need for treatment are not the same: findings from the NEMESIS study. Adm Policy Mental Health Mental Health Serv Res. 2017;44:572-81.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Guan S, Takahashi T, Tomita N, Kumano H. The chain mediation effect of rumination and worry between the intentionality and content dimensions of Mind wandering and internalizing symptoms of depression and anxiety. Sci Rep. 2025;15(1):21223.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Batink T, Peeters F, Geschwind N, van Os J, Wichers M. How does MBCT for depression work? Studying cognitive and affective mediation pathways. PLoS ONE. 2013;8(8):e72778.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Yu M, Zhou H, Xu H, Zhou H. Chinese adolescents' mindfulness and internalizing symptoms: the mediating role of rumination and acceptance. J Affect Disord. 2021;280:97-104.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Desrosiers A, Vine V, Curtiss J, Klemanski DH. Observing nonreactively: A conditional process model linking mindfulness facets, cognitive emotion regulation strategies, and depression and anxiety symptoms. J Affect Disord. 2014;165:31-7.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Seshadri A, Orth SS, Adaji A, Singh B, Clark MM, Frye MA, McGillivray J, Fuller-Tyszkiewicz M. Mindfulness-Based cognitive therapy, acceptance and commitment therapy, and positive psychotherapy for major depression. Am J Psychother. 2021;74(1):4-12.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Sperling EL, Khoury B, Sutton A, Price-Blackshear MA, Bettencourt BA. Enhancing rigor in quantitative meta-analyses for mindfulness research: A comprehensive guide. Mindfulness. 2025;16(2):315-31.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Strauss C, Bibby-Jones AM, Jones F, Byford S, Heslin M, Parry G, Barkham M, Lea L, Crane R, de Visser R, et al. Clinical effectiveness and Cost-Effectiveness of supported mindfulness-Based cognitive therapy Self-help compared with supported cognitive behavioral therapy Self-help for adults experiencing depression: the Low-Intensity guided help through mindfulness (LIGHTMind) randomized clinical trial. JAMA Psychiatry. 2023;80(5):415-24.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Barnhofer T, Dunn BD, Strauss C, Ruths FA, Barrett B, Ryan M, Ladwa A, Stafford F, Fichera R, Baber H, et al. Mindfulness-based cognitive therapy versus treatment as usual after non-remission with NHS talking therapies high-intensity psychological therapy for depression: a UK-based clinical effectiveness and cost-effectiveness randomised, controlled, superiority trial. Lancet Psychiatry. 2025;12(6):433-46.",
+   "page": 16
+  },
+  {
+   "label": "list_item",
+   "text": "Allen M, Bromley A, Kuyken W, Sonnenberg SJ. Participants' experiences of mindfulness-based cognitive therapy: it changed me in just about every way possible. Behav Cogn Psychother. 2009;37(4):413-30.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "Publisher's note",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+   "page": 16
+  }
+ ]
+}

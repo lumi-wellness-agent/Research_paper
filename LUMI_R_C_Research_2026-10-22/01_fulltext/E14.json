@@ -1,0 +1,598 @@
+{
+ "paper_id": "E14",
+ "source": "E14_2004_Burton_The_health_benefits_of_writing_about_intensely_positive_experiences.pdf",
+ "pages": 14,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Journal of Research in Personality 38 (2004) 150-163",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "The health benefits of writing about intensely positive experiences",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Chad M. Burton a and Laura A. King b,*",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "a Southern Methodist University, USA",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "b Department of Psychological Sciences, University of Missouri, McAlester Hall, Columbia, MO 65211,",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "USA",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "In a variation on PennebakerÕs writing paradigm, a sample of 90 undergraduates were randomly assigned to write about either an intensely positive experience (IPE) (n ¼ 48) or a control topic (n ¼ 42) for 20min each day for three consecutive days. Mood measures were taken before and after writing. Three months later, measures of health center visits for illness were obtained. Writing about IPEs was associated with enhanced positive mood. Writing about IPEs was also associated with significantly fewer health center visits for illness, compared to controls. Results are interpreted as challenging previously considered mechanisms of the positive benefits of writing.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "© 2003 Elsevier Science (USA). All rights reserved.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "A large body of research supports the idea that writing about important and particularly traumatic life experiences causes improvements in a wide variety of indicators of positive well-being. Research has shown that writing about traumatic life events is associated with enhanced immune functioning (Esterling, Antoni, Fletcher, & Margulies, 1994; Pennebaker, Kiecolt-Glaser, & Glaser, 1988; Petrie, Booth, Pennebaker, & Davidson, 1995), reduced health problems (e.g., Greenberg & Stone, 1992; Pennebaker & Beall, 1986), lower skin conductance levels (Pennebaker,",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "* Corresponding author.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "E-mail address: kingla@missouri.edu (L.A. King).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Hughes, & OÕHeeron, 1987), and symptom reduction for those with asthma and rheumatoid arthritis (Smyth, Stone, Hurewitz, & Kaell, 1999). Meta-analytic work by Smyth (1998) supports the idea that these effects are robust and similar to those found in other psychological interventions.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Most writing studies have involved writing repeatedly about a negative emotional experience (see King, 2002, for a review). Though such a focus is in keeping with the assumptions of more psychoanalytically oriented notions of human functioning, there is no evidence that this aspect of the writing paradigm is an essential element of the so-called ''healing power of writing'' (Pennebaker, 1990). For instance, Smyth (1998) found that the negative emotion engendered by traumatic writing was not a significant mediator of the health benefits of writing. Furthermore, analyses by Pennebaker and colleagues (Pennebaker, Mayne, & Francis, 1997; Pennebaker & Seagal, 1999) suggest that negative emotional focus is not an essential characteristic of essays that are likely to be associated with health improvements. Pennebaker and Seagal (1999) suggested that the pattern that was most characteristic of beneficial writing included relatively high levels of positive emotion words, a moderate level of negative emotion words, and increasing insight words over the course of writing. Pennebaker and Seagal (1999) have suggested that disclosive writing studies may be best understood as promoting the creation of narrative sources of meaning-that writing in these studies is a way of making sense out of life experience. Thus, the importance of creating a coherent narrative and gaining understanding of experience has come to be viewed as a crucial mechanism, underlying the benefits of writing. If constructing relatively positive, sensible narratives about life experience is the key to the benefits of writing, it may be worthwhile to consider that such narrative construction may be useful for a wide variety of experiences, not only negative ones. The potential role of positive emotion words in the benefits of writing is also supported to some extent in research showing that nuns who included more positive emotion words in their life stories were more likely to survive to old age (Danner, Snowdon, & Friesen, 2001).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Indeed, research has begun to explore a variety of writing topics that might be associated with health benefits that do not focus exclusively on negative experience. King and Miner (2000) found that writing only about the positive aspects of a traumatic experience was associated with the same health benefits as writing about trauma. King (2001a) found that individuals who wrote about their best possible future selves showed physical health benefits as well as enhanced psychological well-being after writing. Based on these results, King (2001a, 2002) suggested that writing about topics that allow an individual to gain insight into his or her priorities, to understand better what his or her emotional reactions mean, may facilitate physical health, regardless of the emotional tone of the essays themselves. The purpose of the present investigation was to examine whether writing about an important topic (but one that is not intensely negative) might lead to physical health benefits. In this case, we chose to examine the potential health benefits of writing about intensely positive emotional experiences (IPEs).",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "1.1. The potential benefits of writing about positive emotion",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "There are at least two ways in which writing about IPEs might be expected to lead to the health benefits of writing. First, it may be that writing about IPEs has the same impact on the individual as writing about intensely negative experiences. For instance, it may be that examining IPEs through writing brings words to oneÕs experience, allows insight, and brings coherence to previously unexamined life events (e.g., Pennebaker, 1997). Writing about IPEs may provide similar opportunities for self examination. From this perspective, we would expect that the effects of writing on health would be mediated by, for instance, the language used in writing. Pennebaker and colleagues have identified especially increasing insight words as indicative of particularly beneficial writing. To the extent writing about IPEs is associated with the use of more insight words, it is likely to lead to enhanced physical health.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "However, contrasting the effects of positive and negative mood on cognitive processes, it may well be that the effects of writing about IPEs differs in central ways from writing about negative experiences. Clore (e.g., Clore & Tamir, 2002) has proposed that negative mood is associated with more analytical processing and sends the message to the person to continue working on a task. From this perspective, it seems logical that writing about negative experiences would be associated with accruing insight and working toward resolution. However, the effect of positive mood on cognitive processing differs considerably. Positive mood is associated with more global, heuristic processing and sends the message that the individual neednÕt continue processing. Thus, it may be that writing about positive events is less likely to lead to analytically derived insight. Furthermore, while negative events seem more intuitively to ''require'' cognitive processing, positive events may be more likely to be viewed as less crucial to ''work through.''",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "If writing about positive events differs centrally from writing about negative events, is there still reason to believe that such writing may afford health benefits? Recently, research and theory has begun to point to the benefits of positive emotion. FredricksonÕs (1998) ''broaden and build'' model of positive emotion suggests that positive emotional experience, in contrast with negative emotional experience, broadens the individualÕs attention and thought processes and presents an opportunity for building skills. In her model, Fredrickson proposes that positive emotional experiences can have enduring benefits for the individual, as they allow him or her to accrue important skills. In support of this notion, Fredrickson and Joiner (2002) have shown that positive emotional experiences do indeed relate to enhanced functioning as well as an increased capacity to benefit from such positive experiences. Research by Isen (e.g., 1999, 2001) provides evidence for the effects of positive mood on creativity and efficient problem solving (e.g., Estrada, Isen, & Young, 1994) and suggests that positive mood can facilitate the integration of information and allow individuals (in this case doctors) to avoid the cognitive biases associated with anchoring effects (Estrada, Isen, & Young, 1997). This literature suggests that to the extent that writing about an emotional experience induces positive mood, it might be expected to enhance individualsÕ coping skills and improve the efficiency of decision making. Such a line of reasoning would suggest that experienced positive mood during writing might mediate the effects of writing topic on health. In addition, writing that reflects ''broadening'' processes such as global thinking, creativity, and the like, might be more likely to lead to health benefits.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "1.2. Overview and predictions",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Participants in this study were randomly assigned to write about an IPE or about a control topic for 20min each day over three days. Participants completed measures of mood before and after writing, and rated their essays on a variety of dimensions. In addition, independent judges coded the essays in a variety of ways, in order to test for the potential mediators we have considered so far. Finally, a computerized word count program (Linguistic Inquiry and Word Count, LIWC, Francis & Pennebaker, 1992; Pennebaker & Francis, 1996) was used to provide a measure of language use in these essays.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Our goal was to examine the implications of this kind of positive writing for mood and physical health. We predicted that writing about IPEs would be related to enhanced positive mood after writing and to decreased health center visits for illness over time, relative to a control group.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "In addition to our main hypothesis, we tested three main mediational predictions. First, we examined whether positive mood induced by writing mediated the health effects of writing. Such a possibility follows from the notion that positive moods enhance coping capacity. It may be that individuals who wrote in the most intensely positive ways would be most likely to benefit from writing about IPEs. Second, we examined whether word usage would mediate the effects of writing topic on health. Previous research on writing has found that the use of words indicating positive emotional content (relative to negative, Danner et al., 2001; Pennebaker et al., 1997) and the mobilizing of cognitive resources is associated with particularly good health outcomes (e.g., Pennebaker et al., 1997). It may that writing in a ''healthy manner'' is associated with health benefits regardless of the topic that initiates the writing. Thus, we examined whether the use of more positive relative to negative emotion words, as well as high or increasing levels of cognitive insight words would explain the health benefits of writing. Finally, the potential mediational effects of ''broadened'' writing were examined. In this case, we sought to examine whether individuals whose writing seemed to show a broadened sensibility (as described in FredricksonÕs, 1998, broaden and build model) would show enhanced physical health. Fredrickson has suggested that positive emotions, unlike negative emotions, broaden our thinking, enhancing creativity, perspective taking, etc. Negative emotions, in contrast, are more likely to narrow cognition (Clore & Tamir, 2002). Because ''broadening'' might be a unique explanatory mechanism for writing about positive experiences, we included coding of this type of thinking in the present study.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2. Method",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. Participants",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Participants in this study were 90 (24 men and 66 women) undergraduate students, who participated to gain experimental participation credit in an introductory psychology course. Mean age was 18.58 (SD ¼ :95). The sign-up sheet for the study requested that only participants who used the University Health Center as their primary source of healthcare sign up for the study. The sample, like the undergraduate population from which it was drawn, was predominantly European American (85%), with 8% being Hispanic American, 3% being African American, and 1% other.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Materials",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Before and after each session of writing participants completed mood forms. These forms asked participants the degree to which they felt each of a number of adjectives ''right now.'' Positive mood descriptors included ''happy,'' ''pleased,'' ''self confident,'' ''enjoyment/fun,'' ''joyful,'' ''sociable/friendly,'' and ''satisfied'' (α¼.96). Negative mood descriptors included ''depressed/blue,'' ''worried,'' ''upset,'' ''anxious,'' ''frustrated,'' ''unhappy,'' and ''angry/hostile'' (α¼.90). Descriptors were rated on a 1 (not at all) to 7 (extremely much) scale. In addition, at the end of each writing period, on the same 1-7 scale, participants rated what they had written on the following questions, ''How personal was the information you wrote about?'' ''How much had you thought about this material before?'' ''How much had you talked about it before?'' ''How emotional was the information you wrote about?'' ''How difficult was it to write about?'' and finally, ''How important was the topic you wrote about?'' We included the item pertaining to difficulty in order to remain consistent with previous work using the writing paradigm. It may be that writing about a positive experience is difficult, in ways that are different frommore negative emotional topics.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Procedure",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Participants were randomly assigned to one of two conditions. Participants were asked to sign up for three 20-min writing sessions, over three consecutive days (though not necessarily at the same time each day). On the first day of writing, all participants signed a consent form, including a release for their health center information. Each day, all participants were escorted to a lab room where they completed a mood rating form and were given paper and pens and an envelope containing a slip of paper with their writing instructions. Participants were left to write for 20min, at which time the experimenter returned, administered a final mood rating form and the essay rating form and then excused the participant.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "2.3.1. Writing instructions",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "In the control condition, participants read the following instructions each day (cf., King, 2001a; King & Miner, 2000; Pennebaker & Beall, 1986):",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "In as much detail as possible, write about your plans for the rest of the day from when you finish writing for this study to when you go to bed tonight. (Day 1) Today, write a description of the shoes you are wearing. Be as detailed as possible. (Day 2)",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Today, write a detailed description of your bedroom. (Day 3).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In the experimental condition, participants read the following instructions (based on Maslow, 1971). We chose MaslowÕs instructions in order to maximize the intensity and meaning associated with the positive experiences described.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Think of the most wonderful experience or experiences in your life, happiest moments, ecstatic moments, moments of rapture, perhaps from being in love, or from listening to music, or suddenly ''being hit'' by a book or painting or from some great creative moment. Choose one such experience or moment. Try to imagine yourself at that moment, including all the feelings and emotions associated with the experience. Now write about the experience in as much detail as possible trying to include the feelings, thoughts, and emotions that were present at the time. Please try your best to re-experience the emotions involved.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "On the second and third days of writing these instructions included the sentence, ''You may either write about the same experience as yesterday, or you may choose a new one.''",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The health center records for participants were accessed with the help of a nurse at the health center who explained the in-take codes. Visits for illness were counted for the three months prior to the study and three months after the study. Because of the timing of the study, health center records beyond three months were unavailable. Routine check-ups, injuries, and returns for the same illness in the same week were not counted. Health center data were available for 86 of the participants in the study (96%).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Content analyses",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.1. Judges ratings",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Both experimental and control essays were coded by two independent raters for how positive, negative and emotional they were. These ratings were completed on a scale from 1 (not at all) to 7 (extremely much) on all of the essays. Interrater reliabilities for these simple ratings were all high (interrater rÕs ranged from .80 for emotional to .92 for negativity).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "A second set of ratings was completed only on the IPE essays, by two additional raters. These focused on how much the participant demonstrated insight, creativity, a broadened perspective, and finding meaning, and how much the event ''triggered thinking.'' These ratings were completed on a scale from 1 (not at all) to 7 (extremely much). These rating categories were based on FredricksonÕs (1998) model of the benefits of positive emotion. Although the broadening effects of positive mood have typically been demonstrated to occur in responses to mood manipulations, these ratings were a first attempt to capture broadening as a process in written essays.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Because raters overlapped on only 72 essays, the reliabilities for these ratings are intra-class correlations that include the interrater variance as error variance (King, in press; Tinsley & Weiss, 1975). Intraclass correlations for the ratings were low to adequate: .66 for insightful, .70 for thinking, .34 for creativity, .50 for broadened perspective, and .63 for finding meaning.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.2. Linguistic inquiry and word count",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "LIWC (Francis & Pennebaker, 1992; Pennebaker & Francis, 1996) is a computerized word count program that allows for an examination of the language used in written essays. The LIWC dimensions of positive affect, negative affect and cognitive mechanisms have been used in past research as ways of distinguishing particularly ''healthy'' writing (e.g., Pennebaker & Seagal, 1999). The cognitive mechanism dictionary includes such terms as ''thinking,'' ''realized,'' ''understand,'' ''insight,'' and ''comprehend.'' Pennebaker and King (1999) found the LIWC word counts to be highly reliable over types of writing and over time. Pennebaker and King also found that the LIWC dictionaries related in systematic ways to individual differences similar in degree to (and sometimes surpassing) that of personality traits. Both the IPE and the control essays were transcribed and then analyzed by LIWC.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Participants in the IPE group wrote about a variety of positive life experiences including graduation, dates, spending time with friends and family, the birth of children, travel, etc. The following essay is an example of a particularly positive essay produced by a participant in this group:",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": ". . .I had so much adrenaline and excitement in me. I was very nervous before I started the hike, but right when we started one climb up it turned to excitement and I just couldnÕt wait to get to the top. Just looking around me as I climbed up was a pure joy because of how beautiful the surroundings were. It was a clear beautiful day and I could see forever in the distance. I could even see mountains in another country (Italy). When I finally got to the top after the long tough walk I was so happy. I had just accomplished hiking up an enormous mountain. I had so many good emotions running through. I could look in every direction and I was so high up. I could see famous mountain tops in the distance. It was a feeling and a view I wish everybody could experience. I wanted to stay up there forever and just smell the fresh air and have the best view in the world. Another great feeling I experienced was with all my fellow hikers. We had all hiked up this as a team. If one of us had fallen we all would have been there to pull him up. We all trusted each other and now we were all at the top of this enormous mountain together. All of us just looking around at the beautiful view. Each one of us had an enormous smile. It was like one big smile all in one. We know we couldnÕt of done this without us encouraging each other. I had such a rush when I finally go to the top. When we all got there, we all had so much built up emotion, we all let out a big scream. While hiking up I formed a great bond with everyone in my hiking group. It was a great feeling to have.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "As might be expected, the IPE essays were slightly longer than the control essays (M word count¼390 (SD ¼ 112) vs. 342 (SD ¼ 112); tð65Þ ¼ 1:67, p ¼ :10). 1",
+   "page": 7
+  },
+  {
+   "label": "footnote",
+   "text": "1 Analyses examining the potential role of essay length in predicting illness demonstrated that essay length did not serve as a significant covariate for health center visits (F < 1:0). Only the main effect of condition was significant.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Comparing IPE and control essays on content, mood, and language",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "First, recall that participants completed ratings of the writing experience after each writing session, specifically, how difficult, emotional, important, and personal the writing was, as well as how much they had previously talked and thought about the experience. Averaging over all three days of writing, it is not surprising that the IPE essays were rated more highly than the controls on all of these dimensions (tð85ÞÕs ranged from 2.08 for difficulty to 10.61 for emotional). Thus, writing about IPEs was a personally engaging topic.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Means and standard deviations for participant mood and the judgesÕ coding of the IPE essays are given in Table 1. Participants had rated their moods prior to writing. However, there were no significant differences between the two groups in these ''before'' ratings and controlling for preexisting mood had no impact on the eventual outcome of the analyses. Thus, we report here the most straightforward measures-t tests on the mood ratings post writing. The positive emotion condition showed higher positive affect, while no significant difference was found for negative affect between the positive emotion and control groups.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Also shown in Table 1 are the judgesÕ ratings for the emotional tone and overall emotionality of the essays. Judges rated the positive emotion essays as both more emotional and more positive than the control group. The difference for negative emotion was only marginally significant.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In addition, both sets of essays were analyzed using the computerized word count program, LIWC. We focus this presentation on the three LIWC dictionaries used in past research, positive emotion, negative emotion, and cognitive mechanisms. Results indicated that the IPE essays were higher on all three of these dimensions than the control essays. IPE essays were higher in positive emotion words (M ¼ 4:55 vs. 1.71, tð85Þ ¼ 13:88, p < :001), negative emotion words (M ¼ 1:31 vs. 0.38, tð85Þ ¼ 8:56, p < :001), and words indicating ''cognitive mechanisms'' (i.e., causation, insight, recognition, M ¼ 6:5 vs. 2.55, tð85Þ ¼ 14:91, p < :001).",
+   "page": 8
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Ratings of mood and essay emotionality\nTable 1 Ratings of mood and essay emotionality\n\n| Groups   | Participant mood - Positive affect   | Participant mood - Negative affect   | JudgesÕ ratings - Emotional   | JudgesÕ ratings - Positive   | JudgesÕ ratings - Negative   |\n|----------|--------------------------------------|--------------------------------------|-------------------------------|------------------------------|------------------------------|\n| IPE      | 4.21(1.09)                           | 1.0(0.74)                            | 5.85(0.47)                    | 5.80(0.57)                   | 1.68(0.52)                   |\n| Control  | 2.83(1.03)                           | 1.09(1.0)                            | 4.14(1.0)                     | 3.70(0.79)                   | 1.94(0.77)                   |\n| tð89Þ    | 6.17 \u0003\u0003                              | .57                                  | 10.59 \u0003\u0003                      | 14.58 \u0003\u0003                     | 1.95 \u0003\u0003\u0003                     |",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Ratings of mood and essay emotionality",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Note. Standard deviations are shown in parentheses. Mood was rated by participants on a scale from 1 to 7, after writing. The means are averaged over the three days of writing. Judges made ratings on a scale from 1 to 7.",
+   "page": 8
+  },
+  {
+   "label": "footnote",
+   "text": "** p < :001.",
+   "page": 8
+  },
+  {
+   "label": "footnote",
+   "text": "*** p < :10.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. IPEs and health",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Next, analyses examined the health implications of writing about IPEs. Because of the long history of studies demonstrating writing benefits, and because there was no reason to imagine writing about IPEs might make individuals ill, one-tailed tests were used in these analyses. An analysis of covariance was performed on the health center data, predicting illness visits three months after the writing study from writing condition and health center visits for illness three months prior to the writing study (entered as a covariate, F ð1; 83Þ ¼ 10:59, p < :001, for the covariate). Results for the main effects of writing condition indicated that individuals in the IPE condition suffered significantly fewer illness after writing relative to the control group (Fð1;83Þ ¼ 3:35, p < :04). The means for illness visits before and after writing are shown in Fig. 1. At a glance, the results in Fig. 1 suggest that the study actually made the control group sick. This pattern of results (the control group apparently getting sicker while the experimental group remains health) is not uncommon in writing studies (cf., King &Miner, 2000). Indeed, these results may be taken to indicate that writing about IPEs had a buffering effect for illness, such that while students in general were likely to get sick, those in the IPE condition remained healthy. We discuss this possibility further below.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "3.3. Mediational analyses",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "In order to examine the potential mediators of this health effect, we coded experimental condition as 1 and control as 0 and conducted a variety of regression analyses predicting health center visits from the mood effects of writing, judges ratings of the emotional tone of the essays and the positive and negative emotion and cognitive mechanisms dictionaries from the LIWC analysis. In no case did significant mediation occur. Indeed, in no case did any of the potential mediators share a relation with health center visits for illness at all, which would be the first step in testing for mediation (Baron & Kenny, 1986). For instance, for the regression equation predicting health center visits from experimental condition and mood, only experimental condition contributed significantly to the prediction of illness following the study (standardized β ¼ \u0000:20, p < :05). Neither positive nor negative mood following writing contributed to the prediction of health center visits for illness. Furthermore, regression equations examining the interaction of these variables (Aiken & West, 1993) with experimental condition produced only main effects for writing condition.",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. Health Center Visits for illness three months before and three months after the three day writing exercise.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We also examined the degree of change in insight and emotion terms (using the LIWC analyses) over the course of writing, using hierarchical regression equations entering day 1 levels first, day 2 levels second, and day 3 levels last. These analyses were also completed using difference scores (on all possible days), and by coding the pattern of changes that occurred over the three days dummy coding these patterns (increasing, decreasing, curvilinear, or stable). First, the degree of language change was limited-as these dictionaries showed high levels of correlation over the course of writing. The average correlation for positive emotion was .66, for negative emotion, .50, and for cognitive mechanisms, .67 (cf., Pennebaker & King, 1999). Coding the essays for increasing levels of insight did not produce significant results. No significant effects emerged, other than main effects for condition. For instance, in predicting health center visits from increasing insight (vs. decreasing or staying the same), only the main effect of condition obtained significance (F ð3; 81Þ ¼ 4:18, p < :03).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Finally, we conducted exploratory analyses examining predictors of illness visits within the experimental group only. Using judges ratings of insight, ''triggered thinking,'' creativity, a broadened perspective, finding meaning, coherence, storiedness and story quality-none of these dimensions were related to health center visits for illness. Thus, no potential mediators were identified to explain the underlying mechanism of the benefits of writing about an IPE.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "With regard to the goal of this study, the results are provocative. Participants who wrote about IPEs showed enhanced positive mood. They rated the writing exercise as engaging and important. In addition, they used language reflecting the positive and insightful aspects of their writing. Finally, and most importantly, we did find health buffering effects for writing about IPEs. However, none of the mediational analyses were successful in identifying the underlying mechanisms of this effect. Thus, this study, like others using the disclosive writing paradigm, indicates that writing ''works''-i.e., it is associated with superior health-but does not provide a strong indication for why this is so (King, 2002). In any case, this result does indicate that the health benefits of writing may be found not only from negative experiences but also from examining IPEs as well. These results add to the growing body of literature showing that the benefits of writing may be obtained by writing about topics that are not negative in tone or about experiences that are not traumatic (cf., King, 2001a; King & Miner, 2000). Obviously, these results call into question the underlying mechanisms thought to be responsible for the healing power of writing. Further research exploring various writing topics and including direct measures of potential mediators will be necessary to develop an overarching model of the effects of writing on health and well-being. It may be that positive and negative emotional writing affect health through differing mediational pathways (c.f., King & Burton, in preparation).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "It is notable that the pattern of findings for health visits due to illness showed the control group getting sick while the IPE group remained healthy. As previously stated, this pattern of results is not unusual in writing studies, however, it certainly warrants some consideration. Did we simply make the control group sick? First, it is worth noting that the majority of participants in this study participated during the first portion of Fall semester. Informal experience would certainly suggest that college students in general, are more likely to become ill as the weather turns colder and the stresses of coursework increase. Indeed, Hughes (1994) conducted a writing study in which participants wrote about a traumatic life event or a control topic. In that study, Hughes was able to access the health center records of the entire student body during the semester in which the data were collected and found, as expected, that the control group pattern was reflective of the general student population. These results (taken from the same institution where the present study was conducted) lend support to the idea that what is notable about the present results is that the IPE participants did not get sick as often as the control participants.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Because none of our candidate mediators proved useful in unlocking the process underlying the benefits of writing, we are left to speculate about what might account for the tendency of writing, even about IPEs, to lead to superior health. We suggest that one appealing possibility is that writing has a more general effect on self-regulation than might have been previously considered. One way to understand the potential health benefits of writing about IPEs, is to adopt a more general ''life story'' approach to the benefits of writing. McAdams (e.g., 2001) has proposed that personality might best be understood through the life story. From this perspective, the life narrative comprises the self. Writing about life experience, then, can be understood as engaging in the process of self-construction. Perhaps, by articulating our experiences through writing we integrate these experiences into the self. If we apply this idea to the writing paradigm, we can view writing (about any experience) as a process of articulating and expanding the self. Such a process (regardless of the writing topic) may be expected to relate to enhanced self-regulation, as the writer comes to greater understanding of his or her own needs, priorities, emotions, etc. (King, 2001a, 2002). From this perspective, writing about significant life experiences is a means of obtaining self-understanding, of gaining a more clearly articulated sense of self, and a way of both discovering and creating oneÕs life goals (King & Burton, in preparation). As such, the topic of writing need only be important and not necessarily negatively toned, in order to provide health benefits. In keeping with this notion, Eells (2003) recently reported health benefits, particularly for women, after writing about oneÕs philosophy of life, an unemotional but engaging topic.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "A more general model of the benefits of writing is not only parsimonious; it also frees the writing paradigm from the artificial tendency to separate life experiences into the extremely negative and the extremely positive. Note that even in this study, IPEs contained more negative emotion words than control essays. More and more, coping research has begun to recognize the impact of positive feelings in even very negative life experiences (e.g., Keltner & Bonanno, 1997). Fredrickson and Levenson",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "(1998) found that positive emotion could speed recovery from negative emotional states. The interplay of positive and negative emotional states in life experiences may indicate that intense life experiences are rich with potentially positive and negative emotions (e.g., Folkman & Moskowitz, 2000).",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "This study, though provocative, does suffer from some limitations. Most importantly, no long-term measures of mood or well-being were administered. As a result, we could not gauge whether changes in psychological well-being might mediate the health results. Furthermore, we could not test for the kinds of persistent effects of positive writing on well-being over time (King, 2001b). Finally, because all of our mediators (except for mood) were derived from the written essays themselves we could not directly test these variables.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "While past research has focused on primarily negative experiences, the current study provides evidence for the positive effects of writing about IPEs. As such, this study broadens our appreciation for the ''healing power of writing.'' Writing about life experience may have more general implications than have previously been explored. Furthermore, our results suggest that the discussion about the potential mechanisms of the writing effects should be broadened to include a variety of processes that are not exclusive to confronting negative life events.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgments",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "We thank Bridgette Westerbarth and Tom Scollon for assistance in data collection and entry. We also thank Christine Ramsey and Kelly Ruff for their assistance in entering the health center data for this sample. This research was supported by NIMH Grant 54142. Portions of this paper were written as an undergraduate honorÕs project by Chad M. Burton, at Southern Methodist University.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Aiken, L. S., & West, S. G. (1993). Multiple regression: Testing and interpreting interactions. Newbury Park, CA: Sage.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology, 51, 1173-1182.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Clore, G. L., & Tamir, M. (2002). Affect as embodied information. Psychological Inquiry, 13, 37-45.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Danner, D. D., Snowdon, D. A., & Friesen, W. V. (2001). Positive emotions in early life and longevity: Findings from the nun study. Journal of Personality and Social Psychology, 80, 804-813.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Eells, J.E., (2003, February). What makes life worth living? Implications of writing about philosophy of life for health and mood. Poster session presented at the annual meeting of the Society for Personality and Social Psychology, Los Angeles, CA.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Esterling, B. A., Antoni, M. H., Fletcher, M. A., & Margulies, S. (1994). Emotional disclosure through writing or speaking modulates latent Epstein-Barr virus antibody titers. Journal of Consulting and Clinical Psychology, 62, 130-140.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Estrada, C. A., Isen, A. M., & Young, M. J. (1994). Positive affect improves creative problem solving and influences reported source of practice satisfaction in physicians. Motivation and Emotion, 18, 285-299.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Estrada, C. A., Isen, A. M., & Young, M. J. (1997). Positive affect facilitates integration of information and decreases anchoring in reasoning among physicians. Organizational Behavior and Human Decision Processes, 72, 117-135.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Folkman, S., & Moskowitz, J. T. (2000). Positive affect and the other side of coping. American Psychologist, 55, 647-654.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Francis, M., & Pennebaker, J. W. (1992). Putting stress into words: The impact of writing on physiological, absentee, and self-reported emotional well-being measures. American Journal of Health Promotion, 6, 280-287.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B. L. (1998). What good are positive emotions? Review of General Psychology, 3, 300-319.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B. L., & Joiner, T. (2002). Positive emotions trigger upward spirals toward emotional wellbeing. Psychological Science, 13, 172-175.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B. L., & Levenson, R. W. (1998). Positive emotions speed recovery from the cardiovascular sequelae of negative emotions. Cognition and Emotion, 12, 191-220.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Greenberg, M. A., & Stone, A. A. (1992). Emotional disclosure about traumas and its relation to health: Effects of previous disclosure and trauma severity. Journal of Personality and Social Psychology, 63, 75-84.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Hughes, C. F. (1994). Effects of expressing negative and positive emotions and insight on health and adjustment to college. Unpublished dissertation. Southern Methodist University.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Isen, A. M. (1999). Positive affect. In T. Dalgleish & M. J. Power (Eds.), Handbook of cognition and emotion (pp. 521-539). Hoboken, NJ: Wiley.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Isen, A. M. (2001). An influence of positive affect on decision making in complex situations: Theoretical issues with practical implications. Journal of Consumer Psychology, 11, 75-85.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Keltner, D., & Bonanno, G. A. (1997). A study of laughter and dissociation: Distinct correlates of laughter and smiling during bereavement. Journal of Personality and Social Psychology, 73, 687-702.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "King, L. A. (2001a). The health benefits of writing about life goals. Personality and Social Psychology Bulletin, 27(7), 798-807.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "King, L. A. (2001b). Lost and Found Possible Selves: The role of what might have been in subjective wellbeing and personality development. Paper presented at the First Annual Personality Preconference. Society for Personality and Social Psychology Conference. Nashville, TN.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "King, L. A. (2002). Gain without pain: Expressive writing and self-regulation. In S.J. Lepore & J. Smythe (Eds.), The writing cure, Washington, DC: American Psychological Association.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "King, L. A. (in press). Measures and meanings: The use of qualitative data in social and personality psychology. In C. Sansone, C. Morf, & A. Panter (Eds.), Handbook of Methods in Social Psychology. New York: Sage.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "King, L. A., Burton, C. M. (in preparation). Writing as Self Disclosure vs. Self Construction: Implications for Understanding the Benefits of Writing. University of Missouri, Columbia. MO (Manuscript in preparation).",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "King, L. A., & Miner, K. N. (2000). Writing about the perceived benefits of traumatic events: Implications for physical health. Personality and Social Psychology Bulletin, 26(2), 220-230.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Maslow, A. H. (1971). The farther reaches of human nature. New York: The Viking Press.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "McAdams, D. P. (2001). The psychology of life stories. Review of General Psychology, 5, 100-122.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W. (1990). Opening up: The healing power of confiding in others. New York: William Morrow.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W. (1997). Writing about emotional experiences as a therapeutic process. PsychologicalScience, 8, 162-166.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W., & Beall, S. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. Journal of Abnormal Psychology, 95, 274-281.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W., & Francis, M. E. (1996). Cognitive, emotional, and language processes in disclosure: Adjustment to college. Cognition and Emotion, 10, 601-626.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W., Hughes, C. F., & OÕHeeron, R. (1987). The psychophysiology of confession: Linking inhibitory and psychosomatic processes. Journal of Personality and Social Psychology, 52, 781-793.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W., Kiecolt-Glaser, J. K., & Glaser, R. (1988). Disclosure of traumas and immune function: Health implications for psychotherapy. Journal of Consulting and Clinical, 56, 239-245.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W., & King, L. A. (1999). Linguistic Styles: Language use as an individual difference. Journal of Personality and Social Psychology, 77, 1296-1312.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W., Mayne, T. J., & Francis, M. (1997). Linguistic predictors of adaptive bereavement. Journal of Personality and Social Psychology, 72, 863-871.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J. W., & Seagal, J. (1999). Forming a story: The health benefits of narrative. Journal of Clinical Psychology, 55, 1243-1254.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Petrie, K. J., Booth, R. J., Pennebaker, J. W., & Davidson, K. P. (1995). Disclosure of trauma and immune response to a hepatitis B vaccination program. Journal of Consulting and Clinical Psychology, 63, 787792.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Smyth, J. M. (1998). Written emotional expression: Effect sizes, outcome types, and moderating variables. Journal of Consulting and Clinical Psychology, 66, 174-184.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Smyth, J. M., Stone, A. A., Hurewitz, A., & Kaell, A. (1999). Effects of writing about stressful experiences on symptom reduction in patients with asthma or rheumatoid arthritis: A randomized trial. Journal of the American Medical Association, 281, 1304-1309.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Tinsley, H. E. A., & Weiss, D. J. (1975). Interrater reliability and agreement of subjective judgments. Journal of Counseling Psychology, 22, 358-376.",
+   "page": 14
+  }
+ ]
+}

@@ -1,0 +1,1238 @@
+{
+ "paper_id": "E21",
+ "source": "E21_2026_Chen_Effectiveness_of_savoring_interventions_A_systematic_review_and_meta_a.pdf",
+ "pages": 26,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "OR I G I NAL ART I CLE",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Effectiveness of savoring interventions: A systematic review and meta-analysis of randomized controlled trials",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Pei-Hsin Chen 1,2",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "| Heng-Hsin Tung 1,3",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "| Yu-ChenWu 4",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Joanna Sie 5",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "1 College of Nursing, National Yang Ming Chiao Tung University, Taipei City, Taiwan",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "2 Department of Nursing, Taichung Veterans General Hospital, Taichung City, Taiwan",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "3 Taiwan Association of Nursing Practitioner, New Taipei City, Taiwan",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "4 Graduate Institute of Clinical Nursing, College of Medicine, National Chung Hsing University, Taichung, Taiwan",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "5 Department of Nursing, National Taiwan University Hospital, Taipei City, Taiwan",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Correspondence",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Heng-Hsin Tung, College of Nursing, National Yang Ming Chiao Tung University, Yangming Campus. No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112, Taiwan. Email: shannontung719@gmail.com",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Savoring, a positive psychology intervention, has gained growing attention for its potential to enhance positive emotions and well-being while alleviating negative emotional symptoms such as depression and anxiety. This systematic review and meta-analysis synthesized findings from randomized controlled trials (RCTs) evaluating the efficacy of savoring interventions on emotional outcomes. Twenty independent RCTs with 4805 participants were included, yielding 45 effect sizes. A three-level random-effects model with robust variance estimation (CR2) was employed to account for statistical dependence among multiple effects within studies. Risk of bias was assessed using the Cochrane Risk of Bias 2.0 tool. All analyses were conducted in R version 4.5.1 using the metafor (v4.8.0) and clubSandwich (v0.6.1) packages, with statistical significance set at α = .05 (two-tailed). The overall pooled effect was significant and of moderate magnitude (g = 0.51, 95% CI [0.26, 0.77], p < .001). For descriptive purposes, category-specific pooled estimates were observed for negative emotional symptoms (g = 0.61, 95% CI [0.31, 0.91], p < .001), negative emotional states (g = 0.33,",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "© 2026 The Author(s). Applied Psychology: Health and Well-Being published by John Wiley & Sons Ltd on behalf of International Association of Applied Psychology.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "|",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "INTRODUCTION",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Mental health is a fundamental human right and an essential component of overall health and well-being (WHO, 2022). However, in modern society, challenges such as work-related stress, social media comparisons, the impact of the pandemic, and economic instability have contributed to a continued rise in the prevalence of mental health problems. According to the World Health Organization (2022), the prevalence of anxiety and depression increased by 25% during the first year following the COVID-19 outbreak, underscoring the urgent need to strengthen strategies for promoting mental health.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Among the various protective factors, positive emotions are regarded as a central pathway to mental health. They not only help individuals discover happiness and meaning in life and are strongly associated with subjective well-being but also hold the potential to prevent the onset of mental disorders (Fredrickson, 2001; Silton et al., 2020; Yang, 2020). In recent years, the field of psychology has increasingly emphasized how intervention strategies can effectively cultivate and sustain positive emotions. Among these, savoring, defined as the conscious process of attending to, extending, and amplifying positive experiences, has been identified as a key mechanism for enhancing positive emotions and well-being (Bryant & Veroff, 2007).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "95% CI [\u00000.01, 0.68], p = .056), and positive psychological states (g = 0.50, 95% CI [0.24, 0.75], p < .001); outcome category did not significantly moderate intervention effects. Moderator analyses indicated no statistically significant differences across delivery formats, cultural contexts, or risk of bias levels; control group type did not reach statistical significance as a moderator (Δg = \u00000.47, p = .068), although point estimates were larger for passive than active controls. Publication bias analyses (Egger's regression, PET-PEESE, trimand-fill, and selection models) provided convergent evidence that the observed effects were unlikely to be driven by selective reporting. Savoring interventions demonstrate consistent and meaningful benefits for enhancing positive psychological outcomes and reducing negative emotional symptoms across diverse populations and delivery modes. The findings underscore savoring's potential as a scalable and culturally adaptable approach to promoting emotional well-being.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "K E YWO R D S",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "positive emotions, randomized controlled trials, savoring intervention, three-level meta-analysis, well-being bs_bs_ban er Positive emotions are an important pathway to promoting mental health, as they help individuals discover joy and meaning in life and hold the potential to prevent psychological disorders (Silton et al., 2020). They are also strongly associated with subjective well-being (Fredrickson, 2001; Yang, 2020). Increasing empirical evidence indicates that interventions targeting the regulation of positive emotions can yield significant benefits. For example, Niemann et al. (2023) found that training in positive emotions effectively reduced depression and anxiety while enhancing optimism. Earlier landmark trials also support this view: Craske et al. (2019) demonstrated that positive affect treatment (PAT) was superior to negative emotion-focused therapies in enhancing positive affect, alleviating emotional symptoms, and reducing suicidal ideation. Similarly, Taylor et al. (2020) showed that the amplification of positivity (AMP) intervention strengthened positive emotions and social connectedness, helping to alleviate social disconnection among individuals with anxiety and depression. In clinical practice, positive psychology interventions have been recognized as a feasible and effective approach to promoting mental health (Huffman et al., 2022). Since the publication of Savoring: A New Model of Positive Experience (Bryant & Veroff, 2007), research on savoring has grown rapidly and has gradually become a central concept in positive psychology (Bryant, 2021).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Savoring refers to the process by which individuals consciously notice, deeply experience, prolong, and amplify positive experiences. This process enhances individuals' sense of wellbeing and their ability to regulate positive emotions (Bryant & Veroff, 2007). Sato et al. (2018) found that savoring mediated the relationship between engagement in positive activities and the generation of positive emotions. Specifically, savoring enhanced individuals' positive emotional experiences by deepening their awareness of and attention to pleasurable moments, which in turn increased their reported positive affect. Moreover, savoring also moderates the relationship between health and life satisfaction among older adults, such that those with higher savoring ability maintain greater life satisfaction even in the context of poor physical health (Smith & Bryant, 2016). Savoring has been shown to enhance and sustain positive emotional experiences over time, producing lasting emotional and neural effects (Wilson & MacNamara, 2020). This intervention is simple and easy to learn and yields immediate results, making it widely applicable to both clinical and nonclinical populations.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Recently, savoring has garnered attention as an important positive psychological intervention (PPI) strategy. Related studies have highlighted its positive effects on alleviating depression, reducing anxiety, and enhancing subjective well-being (Bryant, 2021; Cullen et al., 2024; Zheng et al., 2025). Savoring interventions during the COVID-19 pandemic demonstrated significantly enhanced subjective well-being, which made them a practical and feasible strategy for promoting mental health (Villani et al., 2023). Studies revealed that savoring interventions can be applied successfully across various contexts, including stress regulation (Nicolson et al., 2020), enhancement of positive emotions (Klibert et al., 2022), alleviation of negative emotions (Contractor et al., 2020), promotion of psychological well-being in older adults (Smith et al., 2020), chronic pain relief (Finan et al., 2023), and reductions in depression (Bastiaansen et al., 2022; Selva et al., 2012; Serrano et al., 2004) and anxiety symptoms (LaFreniere & Newman, 2023a). Savoring strategies may include three behavioral dimensions (sharing with others, full attention, and behavioral expression) and seven cognitive dimensions (downward comparison, heightened perception, memory building, self-motivation, appreciation of transience, counting blessings, and dampening avoidance), among others. These can prolong and amplify positive emotions, enhance well-being, and reduce negative affect (Bryant & Veroff, 2007).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Increasingly, studies have supported the effectiveness of regular savoring practices in improving overall psychological health (Bastiaansen et al., 2022; LaFreniere & Newman, 2023a; Villani et al., 2023; Yu et al., 2020). However, most have been small-scale case studies or shortterm interventions and lack a comprehensive evaluation of overall efficacy. Furthermore, among studies with lower methodological rigor, notable differences in intervention content, delivery methods, and outcome measures increase the difficulty of comparing findings across studies. To date, few systematic reviews and meta-analyses have been conducted on this topic. Zheng et al. (2025) performed a meta-analysis focused exclusively on student populations, which limited the generalizability of their findings. Furthermore, Cullen et al. (2024) conducted a systematic review that targeted adult clinical populations; however, because of considerable heterogeneity in intervention types and outcome assessments, a meta-analysis was not deemed feasible by its authors.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Therefore, this study aimed to conduct a comprehensive systematic review and meta-analysis across diverse populations, contexts, and cultures. In addition, it synthesized existing randomized controlled trials (RCTs) to evaluate the effectiveness of savoring interventions in promoting positive emotions, reducing negative emotions, and enhancing well-being. Additionally, we examined six prespecified moderators: emotional outcome category (negative symptoms, negative states, positive states), cultural context (Eastern vs. Western), intervention format, duration, control type, and risk of bias. Notably, although interventions such as gratitude and best possible self (BPS) include elements related to the savoring process, previous studies have conducted meta-analyses on their impact on well-being (Carrillo et al., 2019; Diniz et al., 2023). To maintain conceptual clarity and a consistent operational definition, this study focused on interventions that explicitly targeted savoring processes and excluded other positive psychology interventions that are conceptually distinct, such as gratitude, BPS, and acts of kindness interventions. Although all three types of interventions can enhance positive emotions, their core mechanisms differ conceptually and procedurally from savoring. Gratitude interventions emphasize interpersonal appreciation and thankfulness (Salces-Cubero et al., 2019); BPS interventions focus on future-oriented visualization and goal realization (King, 2001); and acts of kindness interventions center on outward prosocial behaviors that promote social connectedness and self-worth (Lyubomirsky et al., 2005), rather than deliberate engagement with or prolongation of current positive emotions (Bryant & Veroff, 2007). Therefore, interventions that do not meet the operational definition of savoring, namely, the conscious regulation, amplification, or prolongation of positive emotional experiences, were excluded. This selection criterion was designed to maintain construct purity, prevent conceptual confounding, and ensure a clear and consistent research focus.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "To contextualize the current review within the existing literature, we systematically compared our synthesis with prior work on savoring interventions, including Zheng et al. (2025) and the related systematic review by Cullen et al. (2024). The comparison covered key methodological and analytical features, including PICO frameworks, search periods, number of included studies, summary effect sizes, heterogeneity estimates, and reported moderators. To assess the degree of study-level redundancy between our review and Zheng et al. (2025), we used the GROOVE tool (Graphical Representation of Overlap for OVErviews). The GROOVE analysis yielded a corrected covered area (CCA) of 21.4%, which, according to established thresholds (Bracchiglione et al., 2022), indicates a very high degree of overlap. This suggests substantial evidence redundancy while also highlighting the value of an updated synthesis given newly published trials and methodological refinements. A full comparison is presented in Table S1, offering a transparent overview of how the present meta-analysis expands upon and extends prior findings in this domain.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "METHODS",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Search strategy",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "This systematic review and meta-analysis were conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines (Moher et al., 2009) (Table S2). The review protocol was preregistered on INPLASY (registration number: NPLASY202530114).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Two independent reviewers (P.-H. Chen and J. Sie) conducted comprehensive electronic searches across PubMed, PsycINFO, Cochrane Library, CINAHL, MEDLINE, and Google Scholar, from inception till March 6, 2025. The following combination of keywords and Boolean operators were used: (\"savoring\" OR \"savouring\" OR \"savoring intervention\" OR \"savouring intervention\" OR \"savoring the moment\" OR \"savouring the moment\" OR \"three good thing*\" OR \"self-congratulations\" OR \"memory building\" OR \"positive emotion regulation\" OR \"positive life review\") AND (\"randomized controlled trial*\") AND (\"positive emotion*\" OR \"positive affect*\" OR \"well-being\" OR \"happiness\" OR \"spiritual well-being\" OR \"PANAS\" OR \"depression\" OR \"anxiety\"). Additional records were identified by screening the reference lists of the eligible articles and relevant review papers. The detailed search strategy for this systematic review and meta-analysis is provided in the Supporting Information (Table S3).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Inclusion and exclusion criteria",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "To ensure conceptual clarity and distinguish savoring-based interventions from other PPIs, we adopted specific inclusion and exclusion criteria guided by the Population, Intervention, Comparison, Outcome (PICO) framework. Population (P): Human participants of any age or health condition were included. Intervention (I): Savoring interventions were defined as programs explicitly designed to enhance savoring, characterized by the intentional focus on, amplification of, and prolonged engagement with positive emotional experiences across past, present, or future timeframes (Bryant, 2021; Rosen & LaFreniere, 2023). Comparison (C): Any type of control group was eligible, including no intervention, treatment as usual, placebo, or active comparator. Outcomes (O): Eligible outcomes were limited to emotional or mental health variables, specifically positive affect, negative affect, well-being, happiness, depression, or anxiety. These outcomes had to be assessed both preintervention and postintervention and provide sufficient data (e.g. means and standard deviations) to compute standardized effect sizes. Only RCTs published in English or Chinese were eligible. Exclusion criteria encompassed non-RCT designs, review articles, protocols, case reports, qualitative studies, conference abstracts, and studies with unusable or incomplete outcome data.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "In addition, interventions primarily targeting gratitude (e.g. gratitude letters), kindness (e.g. helping behaviors), or the BPS were excluded. Although these interventions may also enhance positive emotions, they do not conform to our operational definition of savoring adopted in this study, which emphasizes the deliberate regulation and amplification of positive emotions that are occurring or directly experienced. The theoretical foundation of the BPS intervention originated from Pennebaker's expressive writing paradigm and aims to promote psychological health through writing about future-oriented goals and ideal self-realization (King, 2001). In contrast, savoring focuses on the awareness, maintenance, and emotional regulation of actual positive experiences (Bryant & Veroff, 2007), and thus, the two rely on distinct bs_bs_ban er mechanisms. Furthermore, the meta-analyses by Carrillo et al. (2019) and Diniz et al. (2023) indicated that BPS fosters positive emotions through envisioning one's ideal future self, whereas gratitude interventions enhance well-being by appreciating life's blessings. Their underlying mechanisms are conceptually distinct from the core savoring processes examined in this study. Multicomponent interventions were also excluded if the effects of savoring were not independently analyzed.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Methodological quality appraisal",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Two reviewers (P. H. Chen and J. Sie) independently evaluated the methodological quality of the included RCTs via the Cochrane Collaboration's Risk of Bias tool. This tool assessed seven domains: random sequence generation and allocation concealment (selection bias), blinding of participants and personnel (performance bias), blinding of outcome assessment (detection bias), incomplete outcome data (attrition bias), selective reporting (reporting bias), and other potential sources of bias.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "For the domain of blinding of outcome assessment, we defined \"outcome assessors not blinded\" as either (a) outcome evaluations conducted by assessors who were aware of participants' group allocation or (b) outcomes measured through self-report questionnaires completed by participants without interviewer involvement. Each domain was rated as having a low, some concern, or high risk of bias. Any discrepancies or uncertainties were resolved through discussions with a third reviewer (H. H. Tung) (Higgins & Thomas, 2024).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Outcomes",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The outcomes were changes in positive and negative affect scale scores from pre- to postsavoring intervention. Positive affect included measures of positive emotions and well-being, whereas negative affect encompassed negative emotional syndromes or disorders, such as depression and anxiety. To assess both positive and negative affect, studies commonly used the Positive and Negative Affect Schedule (PANAS). Additional validated instruments for positive affect and well-being included the Life Satisfaction Index (LSI), Subjective Happiness Scale (SHS), and McGill Quality of Life Questionnaire (MQOL). To evaluate negative emotional syndromes or disorders, such as depression and anxiety, the studies employed the Center for Epidemiological Studies Depression Scale (CES-D), Geriatric Depression Scale (GDS), Patient Health Questionnaire-9 (PHQ-9), Hospital Anxiety and Depression Scale (HADS), Beck Depression Inventory-II (BDI-II), World Health Organization-Five Well-Being Index (WHO-5), Penn State Worry Questionnaire (PSWQ), and Inventory for Depressive Symptomatology-Self-Report (IDS-SR).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Study selection, data extraction, and outcome mapping",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Eligible studies were RCTs of savoring interventions with a comparator arm. Two reviewers (P. H. Chen and J. Sie) independently extracted study characteristics and outcome data (means, standard deviations, sample sizes, test statistics, and measurement occasions). For transparency, effect sizes were first computed within the five outcome domains commonly reported in the bs_bs_ban er literature (anxiety, depression, negative affect, positive affect, well-being). For meta-analytic modeling and reporting, these domains were then mapped into three a priori categories: negative emotional disorders (integrating depression and anxiety outcomes), negative emotional states, and positive psychological states. Effect directions were harmonized so that positive values consistently indicate the benefit of the savoring intervention (negative outcomes were sign-reversed). Multiarm trials and multiple outcomes per study were retained; statistical dependence was addressed at the modeling stage.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Data analysis and effect size computation (Campbell/Wilson calculator)",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "All effects were expressed as Hedges' g (bias-corrected standardized mean difference), computed using the Campbell Collaboration Practical Meta-Analysis Effect Size Calculator (Wilson, 2023), which implements the formulas in Hedges and Olkin (1985) and Morris (2008).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "(A) When pretest and posttest means (M), standard deviations (SD), and group sizes (n_E, n_C) were available, we used the \"Means, SDs with Pretest\" approach corresponding to Morris's d_ppc2 (difference-in-differences standardized by the pooled pretest SD). The small-sample correction was g = J - d, with J = 1-3/[4(n_E + n_C \u0000 2) \u0000 1]. The pre-post correlation (r) was obtained from paired t when reported; otherwise, r = 0.50 was assumed. Note that for d_ppc2, the point estimate g does not depend on r, whereas the standard error and sampling variance do.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "(B) When only the results of a two-sample comparison were available (t or p with degrees of freedom), and the statistic referred to an independent-samples test rather than ANCOVA/ regression, we used the calculator's \"t-tests with unequal Ns\" option and the exact relation d = t - ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi 1=n_E þ 1=n_C ð Þ p (or t= ffiffiffi F p when the numerator df=1), followed by the same Hedges' J correction to obtain g. If only a p-value was reported, t was recovered from p and the reported df. Sampling variances were computed using the calculator's unbiased expressions for each route.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Three-level meta-analysis",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Given that multiple effect sizes were extracted from individual studies (k = 45 effect sizes from K = 20 studies), we employed three-level random-effects meta-analytic models to account for statistical dependence (Assink & Wibbelink, 2016; Cheung, 2014; Van den Noortgate et al., 2013). The three-level structure partitioned variance into sampling variance (Level 1), within-study heterogeneity (Level 2), and between-study heterogeneity (Level 3). All models used restricted maximum likelihood (REML) in the metafor package (Viechtbauer, 2010). Cluster-robust variance estimation with CR2 small-sample corrections (Pustejovsky & Tipton, 2022) was applied for all hypothesis tests and confidence intervals.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Heterogeneity assessment",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "We first assessed statistical heterogeneity by examining the overall variance among effect sizes using Cochran's Q-test. Given that heterogeneity was expected, we then partitioned this total variance into Level 3 (between-study σ 2 ) and Level 2 (within-study σ 2 ) components. The I 2",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "statistic was subsequently used to quantify the percentage of variance attributable to each of these sources. To statistically justify this three-level approach over a standard two-level model, likelihood ratio tests (LRTs) were employed to determine if the variance components at both levels were significantly greater than zero.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Moderator analysis",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "We examined prespecified moderators: outcome category (negative disorder, negative states, positive states), cultural context (Eastern vs. Western), intervention format, duration, control type, and risk of bias. Omnibus tests used cluster-robust Wald tests with Hotelling-Zhang adjustments (Tipton & Pustejovsky, 2015) to control Type I error.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Publication bias assessment",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "We used methods adapted for three-level structures with dependent effect sizes: (1) contourenhanced funnel plots for visual inspection, with contours centered at the null effects (Peters et al., 2008); (2) RVE-adjusted Egger's regression test (Rodgers & Pustejovsky, 2021); (3) PET-PEESE meta-regression for small-study effects (Stanley & Doucouliagos, 2014); and (4) trim-and-fill analysis on study-aggregated effects (Duval & Tweedie, 2000). Given substantial heterogeneity (I 2 > 80%), we interpreted all indicators cautiously and prioritized convergent evidence.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "RESULTS",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Study identification and selection",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Figure 1 presents the PRISMA flowchart for updated systematic reviews, which includes searches of databases, registers, and other sources.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "A total of 1185 titles were retrieved from the databases, and an additional 23 records were identified through existing meta-analyses. After duplicates were removed, 573 records were screened, of which 514 were excluded after the abstracts were reviewed. Finally, 59 articles were identified as potentially eligible studies, of which 39 did not meet the inclusion criteria. Reasons for exclusion included the use of multicomponent intervention (n = 8) (Garland et al., 2022; Garland et al., 2024; Ho et al., 2016a, 2016b; Kumar et al., 2024; Moskowitz et al., 2019; Ong et al., 2022; Seligman et al., 2005); absence of emotional outcome measures (n = 9) (Borelli et al., 2020; Borelli, Kazmierski, et al., 2023; Borelli et al., 2024; Cheng et al., 2023; Irvin et al., 2022; LaFreniere & Newman, 2023b; Palmer et al., 2024; Smiley et al., 2024; Straszewski & Siegel, 2018); overlapping participants (n = 1) (LaFreniere & Newman, 2024); non-RCTs (n = 5) (Cline et al., 2022; Smith & Hanni, 2019; Smith & Hollinger-Smith, 2015; Tighe et al., 2022; Villani et al., 2023); protocols (n = 2) (Pancini et al., 2022, 2023); articles not related to savoring interventions (n = 3) (Ho et al., 2024; Lyubomirsky et al., 2005; Passmore & Howell, 2014); focused on gratitude, kindness, and BPS interventions (n = 5) (Datu et al., 2022; Deng et al., 2016; Nicolson et al., 2020; Ouweneel et al., 2014; Sheldon & Lyubomirsky, 2006); and data were not available (n = 6) (Borelli, Kerr, et al., 2023; Frein & Ponsler, 2013; Quoidbach et al., 2009; Rosen & LaFreniere, 2023; Smith & Bryant, 2019; Zehner et al., 2023). Details and reasons for excluded articles are listed in Table S4. Finally, 20 RCTs met the inclusion criteria. Among them, 14 studies measured negative emotional symptoms (Ando et al., 2010; Bastiaansen et al., 2022; Contractor et al., 2020; Fuju et al., 2022; Gold et al., 2023; Goncalves et al., 2009; Hurley & Kwon, 2011; Kwan et al., 2019; LaFreniere & Newman, 2023a; Li et al., 2021; McMakin et al., 2011; Selva et al., 2012; Serrano et al., 2004; Yu et al., 2020), eight studies measured negative emotional states (Contractor et al., 2020; Finan et al., 2023; Hurley & Kwon, 2011; Li et al., 2021; McMakin et al., 2011; Mian & Earleywine, 2023; Yu et al., 2020; Zhang et al., 2023), and 18 studies assessed positive psychological states (Bastiaansen et al., 2022; Bryant et al., 2005; Contractor et al., 2020; Finan et al., 2023; Fuju et al., 2022; Gold et al., 2023; Goncalves et al., 2009; Hurley & Kwon, 2011; Kwan et al., 2019; Li et al., 2021; LaFreniere & Newman, 2023a; McMakin et al., 2011; Mian & Earleywine, 2023; Klibert et al., 2022; Selva et al., 2012; Serrano et al., 2004; Spillane et al., 2023; Yu et al., 2020; Zheng et al., 2025). Details of data extraction from the included RCTs are summarized in Table S5.",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 1 PRISMA 2020 flowchart for the current meta-analysis.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Study characteristics and methodological quality of the included studies",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The meta-analysis included 20 independent RCTs with 4805 participants, yielding 45 effect sizes. The median intervention duration was 14 days (IQR: 7-28 days). Studies were distributed across delivery formats as follows: individual (11 studies, 55%), online computer-based (4 studies, 20%), and smartphone application (5 studies, 25%). Control conditions comprised passive controls (8 studies, 40%) and active controls (12 studies, 60%). The cultural classification is as follows: Western cultures (14 studies, 70%) and Eastern cultures (6 studies, 30%) (Table 1).",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er bs_bs_ban er bs_bs_ban er FIGURE 2 Risk-of-bias (RoB 2) traffic-light plot for included randomized trials (robvis). Note: Each row represents an individual study, and each column corresponds to one of the five domains evaluated using the Cochrane Risk of Bias 2 (RoB 2) tool: (D1) bias arising from the randomization process, (D2) bias due to deviations from intended interventions, (D3) bias due to missing outcome data, (D4) bias in measurement of the outcome, and (D5) bias in selection of the reported result. The colors indicate the level of risk: green (\"+\") = low risk, yellow (\" \u0000 \") = some concerns, and red (\"-\") = high risk. The final column displays the overall riskof-bias judgment for each study.",
+   "page": 10
+  },
+  {
+   "label": "table",
+   "text": "TABLE 1 Characteristics of studies included in meta-analysis.\nTABLE 1 Characteristics of studies included in meta-analysis.\n\n| RoB             | Low                  | Some                   | High                             | High                         | Some                 | High                | Low                | Low                          | High                | Some                    | Some            | Some                 | Some                     | Some                                 | Some              | Low                       | Some                    | High                  | High Some          |\n|-----------------|----------------------|------------------------|----------------------------------|------------------------------|----------------------|---------------------|--------------------|------------------------------|---------------------|-------------------------|-----------------|----------------------|--------------------------|--------------------------------------|-------------------|---------------------------|-------------------------|-----------------------|--------------------|\n| Arms            | 2                    | 1                      | 2                                | 1                            | 3                    | 3                   | 2                  | 3                            | 3                   | 3                       | 5               | 1                    | 1                        | 2                                    | 2 3               | 3                         | 2                       | 1                     | 2                  |\n| Control         | Passive              | Active                 | Active                           | Passive                      | Active               | Passive             | Active             | Active                       | Passive             | Active                  | Active          | Active               | Passive                  | Passive                              | Active Passive    | Active                    | Active                  | Active                | Passive            |\n| Duration (days) | 28                   | 7                      | 28                               | 7                            | 4                    | 14                  | 28                 | 7                            | 21                  | 1                       | 28              | 1                    | 28                       | 28 14                                | 21                | 7                         | 7                       | 14                    | 14                 |\n| Intervention    | Individual           | Individual             | Individual                       | Individual                   | Individual           | Individual          | Individual         | Individual                   | Online              | Individual              | Online          | Individual           | Smartphone               | Individual Online                    | Smartphone        | Smartphone                | Online                  | Smartphone            | Smartphone         |\n| Culture         | Western              | Western                | Western                          | Eastern                      | Western              | Western             | Western            | Eastern                      | Eastern             | Western                 | Eastern         | Western              | Western                  | Eastern Western                      | Western           | Western                   | Western                 | Western               | Eastern            |\n| Population      | Older adults         | Undergraduate students | Adult daycare center older women | Terminal ill cancer patients | University students  | University students | Older adults       | Terminal ill cancer patients | University students | University students     | Adults          | University students  | Adults                   | Adults Adults                        | Adults            | University students       | Undergraduate students  | Adults                | College students   |\n| Country         | Spain                | USA                    | Spain                            | Japan                        | USA                  | USA                 | Spain              | Hong Kong                    | China               | USA                     | China           | USA                  | Netherlands              | Japan USA                            | USA               | USA                       | USA                     | USA                   | China              |\n| Study           | Serrano et al., 2004 | Bryant et al., 2005    | Goncalves et al., 2009           | Ando, 2010                   | McMakin et al., 2011 | Hurley & Kwon 2011  | Selva et al., 2012 | Kwan et al., 2019            | Yu et al., 2020     | Contractor et al., 2020 | Li et al., 2021 | Klibert et al., 2022 | Bastiaansen et al., 2022 | Fuju et al., 2022 Finan et al., 2023 | Gold et al., 2023 | LaFreniere & Newman 2023a | Mian & Earleywine, 2023 | Spillane et al., 2023 | Zhang et al., 2023 |",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 1 Characteristics of studies included in meta-analysis.",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "Note: Studies are listed in chronological order by publication year. Culture classified as Eastern (China, Japan, Hong Kong, Pakistan) or Western (USA, Spain, Netherlands); control types: passive (no intervention, waitlist, usual care) or active (alternative intervention with similar time/attention); RoB = Risk of Bias rating based on Cochrane RoB 2.0 tool. The \"Individual\" delivery format category includes traditional face-to-face psychotherapy sessions as well as structured, nondigital tasks completed individually, such as guided writing exercises.",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 2 Legend on next page.",
+   "page": 11
+  },
+  {
+   "label": "table",
+   "text": "TABLE 2 Overall pooled effect and outcome category moderator analysis.\nTABLE 2 Overall pooled effect and outcome category moderator analysis.\n\n| Analysis                            | K                                   | k                                   | N                                   | g                                   | 95% CI                              | t                                   | df                                  | p                                   |\n|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|\n| Overall effect                      | 20                                  | 45                                  | 4805                                | 0.51                                | [0.26, 0.77]                        | 4.25                                | 18.70                               | <.001                               |\n| Outcome category moderator analysis | Outcome category moderator analysis | Outcome category moderator analysis | Outcome category moderator analysis | Outcome category moderator analysis | Outcome category moderator analysis | Outcome category moderator analysis | Outcome category moderator analysis | Outcome category moderator analysis |\n| Negative emotional disorder         | 14                                  | 17                                  | 2875                                | 0.61                                | [0.31, 0.91]                        | 4.35                                | 15.50                               | <.001                               |\n| Negative emotional states           | 8                                   | 8                                   | 1214                                | 0.33                                | [\u00000.01, 0.68]                       | 2.19                                | 9.30                                | .056                                |\n| Positive psychological states       | 18                                  | 20                                  | 2311                                | 0.50                                | [0.24, 0.75]                        | 4.09                                | 17.70                               | <.001                               |",
+   "page": 12
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 2 Overall pooled effect and outcome category moderator analysis.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Note: Omnibus test of moderators (CR2-adjusted): F(2, 7.55) = 1.72, p = .242. K = number of studies; k = number of effect sizes; N = total participants. All estimates are derived from three-level random-effects models. Estimates for the overall effect and moderator analysis are based on models with cluster-robust variance estimation (CR2) and Satterthwaite degrees of freedom.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Risk of bias was evaluated using the Cochrane Risk of Bias 2 (RoB 2) tool. Four studies (20%) were rated as low risk, 10 studies (50%) as having some concerns, and six studies (30%) as high risk. The domain most frequently rated as \"some concerns\" was measurement of the outcome, primarily due to reliance on self-reported measures. However, for studies explicitly stating that outcome assessors were blinded to group allocation or that outcome verification was independently conducted, the risk was rated as low. Figure 2 presents the RoB 2 traffic-light plot for all included trials, generated with the robvis web application (McGuinness & Higgins, 2021).",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The inclusion criteria of this study did not restrict participant age (including adults, adolescents, or children); however, all included samples were from adult populations, with the youngest participants being university students.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Main meta-analytic results",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The overall pooled effect across all outcomes, presented in Table 2, demonstrated a medium and significant intervention efficacy (g = 0.51, 95% CI [0.26, 0.77], p < .001) (Figure 3). A decomposition of the variance, detailed in Table 3, revealed substantial heterogeneity (I 2 = 86.61%). This heterogeneity was predominantly attributable to significant between-study differences (Level 3: I 2 = 72.77%, p < .001) rather than the significant but smaller within-study variance across outcomes (Level 2: I 2 = 13.84%, p = .041). The statistical significance of both components, as indicated by LRTs, justifies the use of the three-level model and provides a strong rationale for the planned moderator analyses.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "As shown in Table 2, a three-level meta-regression with outcome category as a moderator did not detect statistically significant heterogeneity between the subgroups (Wald test F",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "FIGURE 3 Forest plot of study-level effect sizes (Hedges' g) for savoring interventions. Note: Studies are ordered chronologically (2004-2023). Each line represents an individual randomized controlled trial (K = 20), displaying the standardized mean difference (Hedges' g) and 95% confidence interval for the intervention's effect on emotional outcomes. Black error bars denote sampling precision, whereas gray bars indicate total precision incorporating within-study variance. The diamond at the bottom shows the overall pooled effect estimated using a three-level meta-analysis with cluster-robust variance estimation (TLMA, CR2), indicating a significant medium-sized effect (g = 0.51, 95% CI [0.26, 0.77], p < .001).",
+   "page": 13
+  },
+  {
+   "label": "table",
+   "text": "TABLE 3 Decomposition of variance for the overall effect.\nTABLE 3 Decomposition of variance for the overall effect.\n\n| Source of variance       |   Variance component (σ 2 ) | Percentage of total variance (I 2 )   | p a     |\n|--------------------------|-----------------------------|---------------------------------------|---------|\n| Level 3: Between-studies |                        0.23 | 72.77%                                | <.001   |\n| Level 2: Within-studies  |                        0.04 | 13.84%                                | .041    |\n| Total heterogeneity      |                        0.27 | 86.61%                                | <.001 b |",
+   "page": 13
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 3 Decomposition of variance for the overall effect.",
+   "page": 13
+  },
+  {
+   "label": "footnote",
+   "text": "a Significance was tested using the likelihood ratio test (LRT).",
+   "page": 13
+  },
+  {
+   "label": "footnote",
+   "text": "b Total heterogeneity was tested using Cochran's Q-test.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "(2, 7.55) = 1.72, p = .242). For descriptive purposes, the category-specific pooled estimates were g = 0.61 (95% CI [0.31, 0.91], p < .001) for negative emotional symptoms, g = 0.33 (95% CI [\u00000.01, 0.68], p = .056) for negative emotional states, and g = 0.50 (95% CI [0.24, 0.75], p < .001) for positive psychological states. Because the omnibus test was nonsignificant, these estimates should not be interpreted as statistically different from one another.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Moderator analysis",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Results of the CR2-adjusted moderator analyses are presented in Table 4. None of the examined moderators reached statistical significance: risk of bias (Δg = \u00000.05, p = .876), control group type (Δg = \u00000.47, p = .068), cultural context (Δg = \u00000.31, p = .279), intervention delivery format (F(2, 7.03) = 2.96, p = .117), and intervention duration (β = 0.00, p = .818). For descriptive purposes, point estimates were larger for passive controls (g = 0.77, 95% CI [0.28, 1.26]) than for active controls (g = 0.30, 95% CI [0.04, 0.56]), but this difference did not reach statistical significance. Similarly, savoring interventions showed beneficial point estimates in both Eastern and Western samples, without evidence of a statistically significant difference between cultural contexts.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "The intervention delivery format did not significantly moderate efficacy, as indicated by the nonsignificant omnibus test (F(2, 7.03) = 2.96, p = .117). Effect sizes were significant for individual delivery (g = 0.65, 95% CI [0.25, 1.04], p = .005), with nonsignificant effects for online computer-based formats (g = 0.18, 95% CI [\u00000.06, 0.41], p = .095) and smartphone applications (g = 0.52, 95% CI [\u00000.28, 1.32], p = .146). The wide confidence intervals for digital delivery modalities reflected limited statistical power, given the small number of contributing studies.",
+   "page": 14
+  },
+  {
+   "label": "table",
+   "text": "TABLE 4 Moderator analysis summary with CR2 corrections.\nTABLE 4 Moderator analysis summary with CR2 corrections.\n\n| Moderator/category                 | K                                  |   k |    N |    g | 95% CI            |    p |\n|------------------------------------|------------------------------------|-----|------|------|-------------------|------|\n| Risk of bias                       |                                    |     |      |      |                   |      |\n| Low/some concerns                  | 14                                 |  33 | 3516 | 0.53 | [0.21, 0.84]      | .003 |\n| High risk                          | 6                                  |  12 | 1289 | 0.48 | [\u00000.13, 1.10]     | .098 |\n| Between-group test                 |                                    |     |      |      | Δg = \u00000.05        | .876 |\n| Control group type                 |                                    |     |      |      |                   |      |\n| Passive control                    | 11                                 |  24 | 2699 | 0.77 | [0.28, 1.26]      | .007 |\n| Active control                     | 9                                  |  21 | 2106 | 0.30 | [0.04, 0.56]      | .030 |\n| Between-group test                 |                                    |     |      |      | Δg = \u00000.47        | .068 |\n| Cultural context                   |                                    |     |      |      |                   |      |\n| Eastern cultures                   | 6                                  |  18 | 1591 | 0.73 | [0.12, 1.34]      | .028 |\n| Western cultures                   | 14                                 |  27 | 3214 | 0.42 | [0.11, 0.72]      | .011 |\n| Between-group test                 |                                    |     |      |      | Δg = \u00000.31        | .279 |\n| Intervention delivery format       |                                    |     |      |      |                   |      |\n| Individual                         | 11                                 |  23 | 1061 | 0.65 | [0.25, 1.04]      | .005 |\n| Online computer-based              | 4                                  |  12 | 1953 | 0.18 | [\u00000.06, 0.41]     | .095 |\n| Smartphone application             | 5                                  |  10 | 1791 | 0.52 | [\u00000.28, 1.32]     | .146 |\n| Omnibus test                       |                                    |     |      |      | F(2, 7.03) = 2.96 | .117 |\n| Intervention duration (continuous) | Intervention duration (continuous) |     |      |      |                   |      |\n| Slope (per day)                    | 20                                 |  45 | 4805 | 0.00 | [\u00000.03, 0.03]     | .818 |",
+   "page": 14
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 4 Moderator analysis summary with CR2 corrections.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Note: K = number of independent studies; k = number of effect sizes; N = total sample size; g = Hedges' g; CI = confidence interval; p = p-value. Between-group tests employed cluster-robust variance estimation (CR2) with small-sample correction.",
+   "page": 14
+  },
+  {
+   "label": "footnote",
+   "text": "Δg = difference in effect sizes between subgroups. Omnibus F-tests examine overall moderator significance for categorical variables with >2 levels.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Finally, intervention duration was not significantly associated with effect magnitude (slope β = 0.00 per day, 95% CI [\u00000.03, 0.03], p = .818).",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Publication bias assessment",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "The contour-enhanced funnel plot was constructed with significance contours centered at an effect size of zero, consistent with the null hypothesis, to facilitate identification of potential questionable research practices.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Visual inspection of the contour-enhanced funnel plot revealed no clear asymmetry (Figure 4). Egger's regression test using robust variance estimation (RVE) showed no evidence of small-study effects, as the slope coefficient for standard error was nonsignificant (β = 1.89, p = .108). LRTs in both standard and simplified selection models also detected no significant selective reporting bias (LRT = 0.63, p = .889; LRT = 0.37, p = .542, respectively).",
+   "page": 15
+  },
+  {
+   "label": "caption",
+   "text": "FIGURE 4 Contour-enhanced funnel plot for publication bias assessment. Note: Each point represents one effect size, plotted by Hedges' g (x-axis) against standard error (y-axis). The solid black vertical line marks the null effect (H0: effect = 0), and the dashed blue vertical line indicates the pooled effect estimate (g = 0.51). Shaded regions denote two-sided significance contours (dark gray: p < .05; light gray: p < .01). The distribution appears relatively symmetric. Egger's regression test (slope for standard error; CR2): β = 1.89, t(4.84) = 1.97, p = .108, suggesting no statistically significant evidence of small-study effects/publication bias.",
+   "page": 15
+  },
+  {
+   "label": "table",
+   "text": "TABLE 5 Publication bias assessment across multiple correction methods.\nTABLE 5 Publication bias assessment across multiple correction methods.\n\n| Method                       | Target parameter              |   Estimate | 95% CI        | p     |\n|------------------------------|-------------------------------|------------|---------------|-------|\n| Egger's test (RVE)           | Bias test (slope)             |       1.89 | [NA]          | .108  |\n| PET-PEESE (RVE)              | Bias-adjusted effect estimate |       0.02 | [\u00000.54, 0.57] | .938  |\n| Trim-and-fill                | Bias-adjusted effect estimate |       0.48 | [0.24, 0.71]  | <.001 |\n| Selection model (standard)   | Bias test (LRT)               |       0.63 | [NA]          | .889  |\n|                              | Bias-adjusted effect estimate |       0.60 | [0.15, 1.06]  | .010  |\n| Selection model (simplified) | Bias test (LRT)               |       0.37 | [NA]          | .542  |\n|                              | Bias-adjusted effect estimate |       0.60 | [0.23, 0.97]  | .002  |",
+   "page": 16
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 5 Publication bias assessment across multiple correction methods.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Note: \"Bias Test (Slope)\" refers to the coefficient for the standard error in the RVE-adjusted Egger's regression. \"Bias Test (LRT)\" refers to the Likelihood Ratio Test statistic comparing the fit of the selection model against the standard random-effects model. \"Bias-Adjusted Effect Estimate\" refers to the pooled effect size estimate after accounting for potential publication bias using the respective method. The PET-adjusted estimate (derived following the Stanley & Doucouliagos, 2014, decision rule) is presented but should be interpreted with caution, given the test's low statistical power in this sample (k = 20 studies) and the potential for overcorrection towards the null, especially under high heterogeneity (I 2 > 80%). Therefore, the trim-and-fill and selection-model adjusted estimates were considered the primary indicators of the effect magnitude after sensitivity analyses for publication bias.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Although PET-PEESE yielded a near-zero adjusted estimate (β = 0.02, 95% CI [\u00000.54, 0.57], p = .938), this result was interpreted cautiously given the known tendency of PET-based corrections to over-adjust toward the null in highly heterogeneous datasets (Stanley, 2017). Instead, bias-adjusted estimates from trim-and-fill (g = 0.48, 95% CI [0.24, 0.71]) and selection models (g = 0.60 across both specifications) were considered more reliable indicators (Table 5). Taken together, the converging evidence suggests that the observed effect is unlikely to be driven by publication bias and remains robust after adjustment.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "DISCUSSION",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "This meta-analysis clarified the overall effectiveness of savoring interventions in promoting emotional well-being. By integrating evidence from RCTs, the findings revealed that savoring interventions significantly enhanced positive emotions and alleviated negative emotional symptoms. Variance decomposition revealed considerable between-study heterogeneity, warranting further moderator analyses. The moderator analysis indicated that risk of bias, cultural background, intervention format, and intervention duration did not significantly influence intervention effectiveness. Control group type did not reach statistical significance as a moderator (Δg = \u00000.47, p = .068), although point estimates were larger when interventions were compared with passive controls than with active controls. Overall, the interventions demonstrated a moderate pooled effect, suggesting meaningful benefits across diverse research conditions.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Over the past two decades, numerous studies have shown that savoring interventions can enhance positive emotions and reduce depressive or anxiety symptoms (Contractor et al., 2020; LaFreniere & Newman, 2023a; McMakin et al., 2011; Yu et al., 2020) and significantly enhance well-being (Bryant et al., 2005; Gold et al., 2023; Goncalves et al., 2009; Kwan et al., 2019; Li et al., 2021; Quoidbach et al., 2009).",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "However, given the diversity of intervention formats and outcome measures, previous research has faced methodological challenges when attempting to integrate quantitative results.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Among the two prior meta-analyses on savoring interventions, one was limited to student populations, thereby restricting the generalizability of its findings (Zheng et al., 2025); the other deemed quantitative synthesis unfeasible because of the substantial heterogeneity among the included studies (Cullen et al., 2024). To overcome these limitations, the present study adopted a three-level meta-analytic approach (TLMA), which accounts for the dependency among multiple effect sizes within a single study. This method decomposes variance into sampling, within-study, and between-study levels, enabling a more precise estimation of overall effects, reducing Type I error inflation, and increasing the robustness of moderator analyses (Assink & Wibbelink, 2016).",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "The results demonstrated that savoring interventions have significant effects on improving emotional well-being. The pooled effect size (g = 0.51) indicates that savoring interventions not only effectively enhance positive emotions but also alleviate negative emotional distress, making them a powerful strategy for promoting mental health. This finding aligns with extensive prior evidence and echoes Bryant's (2021) recent interpretation of savoring theory-that savoring represents a positive emotion regulation process that helps individuals mitigate emotional disorders (e.g. depression and anxiety) while simultaneously promoting positive psychological outcomes such as optimism, happiness, and life satisfaction.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Moreover, in contrast to traditional mindfulness-based interventions, which typically require an 8-week structured program with weekly sessions lasting 2-2.5 h led by professionally trained instructors (Keng et al., 2011), savoring interventions are comparatively simpler, more intuitive, and more accessible, demonstrating greater practicality and feasibility. Savoring strategies can be flexibly applied across various everyday contexts (Wallimann et al., 2024), such as walking (Sato et al., 2018), eating (Chee, 2024; Ho et al., 2024), listening to music (Irfan et al., 2022), viewing or taking meaningful photos (Wilson & MacNamara, 2024; Zhang et al., 2023), participating in cultural festivals (Rossetti & Quinn, 2021), or engaging in social activities (Growney et al., 2025). These activities naturally elicit awareness of the present moment and strengthen individuals' ability to regulate positive emotions. Moreover, savoring can be learned through cross-cultural socialization processes, making it a culturally adaptive positive psychology practice that enhances well-being (Bryant, 2021).",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Looking forward, the integration of virtual reality (VR) technology into savoring practices could offer immersive emotional experiences that strengthen emotion regulation and psychological resilience. Such interdisciplinary applications may assist emerging adults in cultivating mindfulness and positive reflection amid stress and uncertainty and could benefit patients with chronic illnesses such as chronic obstructive pulmonary disease (COPD) by combining relaxation training and savoring exercises to reduce anxiety and improve respiratory functioning (Pancini et al., 2022, 2023).",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Furthermore, moderator analyses indicated that the effectiveness of savoring interventions remained stable across methodological variations. Although risk of bias did not significantly moderate outcomes, studies with lower or moderate bias tended to report larger effect sizes: a finding consistent with prior meta-analyses showing that higher-quality trials produce smaller, more accurate estimates, whereas lower-quality studies may overestimate effects due to limitations in randomization, allocation concealment, and blinding (Bolier et al., 2013; Hendriks et al., 2018, 2019). The type of control group also approached significance, with active controls attenuating observed effects (Carr et al., 2020; Hendriks et al., 2018).",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Regarding the moderating effect of culture, although both Eastern and Western samples showed significant effect sizes, cultural background did not significantly moderate the intervention outcomes. This finding is consistent with the meta-analysis by Zheng et al. (2025), bs_bs_ban er indicating that savoring interventions demonstrate relatively stable effects across different cultural contexts. However, the present results differ from those reported by Sieder et al. (2024), who found that mindfulness interventions conducted in Eastern countries were significantly more effective than those in Western countries. The authors suggested that this difference might be related to insufficient sample sizes and lower study quality. Furthermore, Eastern cultures emphasize emotional balance and moderation (Miyamoto & Ma, 2011) and are generally characterized by collectivism, where individuals are more likely to be influenced by group interactions during interventions, potentially giving rise to the Hawthorne effect. In addition, since positive psychology interventions originated in Western contexts, they may be perceived as relatively novel in non-Western societies, thereby triggering expectancy effects among participants. Combined with the generally lower methodological quality of some non-Western studies (Hendriks et al., 2018), these factors may collectively contribute to an overestimation of intervention effects.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Finally, no significant differences were found between delivery formats (e.g. individual, online, and mobile-based), implying strong potential for digital adaptations of savoring interventions. However, this contrasts with findings by Koydemir et al. (2020), who reported smaller effects for technology-assisted interventions, possibly due to the reduced interpersonal engagement that supports happiness training. Similarly, the duration of interventions was not a significant moderator, though prior meta-analyses have found that longer programs, typically lasting at least 4 weeks, may yield stronger effects on depression (Bolier et al., 2013) and trends toward improved well-being (Sin & Lyubomirsky, 2009). These findings suggest that intervention length may influence outcomes differently depending on content, intensity, and participant characteristics.",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "LIMITATIONS",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Although this study provides important empirical evidence regarding the overall effectiveness and potential moderators of savoring interventions, several limitations should be noted.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "First, despite the use of a TLMA to address the dependency among multiple effect sizes within studies and the application of multiple methods (e.g. RVE, trim-and-fill, and selection models) to assess publication bias, the potential influence of unpublished or grey literature cannot be fully excluded. Second, the quality of the included studies varied considerably, with approximately 30% classified as having a high risk of bias, which may have led to overestimation of some effect sizes. In addition, most studies relied on self-report questionnaires to assess positive and negative emotions, making them susceptible to social desirability and recall biases and limiting their ability to reflect objective emotional changes. This measurement approach may also result in common-method variance (Campbell & Fiske, 1959) and systematic bias, thereby reducing the validity of the findings. Third, although variables such as cultural background, intervention format, and intervention duration did not show significant moderating effects, this may be attributed to the limited sample size and heterogeneity in study designs. In particular, studies involving digital interventions and samples from Eastern cultures remain relatively scarce, and the lack of statistical power may have contributed to the nonsignificant moderation effects. Fourth, this review included only adult participants, restricting the generalizability of findings to adolescents or younger populations. Besides, most interventions were relatively brief (median duration = 14 days), which constrains conclusions regarding long-term effects. Fifth, this meta-analysis has not yet examined the moderating effects between healthy bs_bs_ban er and clinical populations. Future research could further compare differences between clinical and nonclinical samples to clarify the applicability of savoring interventions across different health conditions.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Future research should include more cross-cultural and longitudinal RCTs, particularly those comparing digital and face-to-face formats. Integrating physiological or behavioral indicators alongside self-reports would allow for a more comprehensive, multilevel understanding of the mechanisms and sustained effects of savoring interventions on emotional well-being.",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "CONCLUS ION",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "This study represents the first systematic review and meta-analysis employing a TLMA to examine the effectiveness of savoring interventions. The results revealed a moderate and significant overall effect (g = 0.51, p < .001), indicating that savoring interventions can enhance positive psychological states and alleviate negative emotional symptoms. The effectiveness of the interventions was not significantly moderated by cultural background, delivery format, or intervention duration, suggesting cross-context applicability and practical flexibility. Overall, savoring interventions demonstrated stable psychological benefits under various research conditions.",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "Compared with other positive psychology interventions, savoring strategies are more closely embedded in daily life, easy to implement and maintain, and effective in enhancing well-being and reducing symptoms of negative emotional disorders across diverse cultural contexts, demonstrating both theoretical and practical strengths.",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "In conclusion, savoring interventions represent a cost-effective, culturally inclusive, and scalable approach to promoting psychological health. Future research could further integrate VR and mobile technologies to develop immersive savoring experiences that enhance emotional regulation and foster innovative practices in mental health promotion.",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "ACKNOWLEDGMENTS",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "Special thanks are extended to Assistant Professor Chia-Te Chen of National Chung Hsing University and Assistant Professor Yi-Chen Wu of Da-Yeh University for their valuable suggestions and guidance during the writing process.",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "CONFLICT OF INTEREST STATEMENT",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "The authors declare no conflicts of interest.",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "DATA AVAILABILITY STATEMENT",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "The original contributions are provided in the article and Supporting Information. Further inquiries can be directed to the corresponding author.",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "ETHICS STATEMENT",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "The review protocol was prospectively registered with INPLASY (registration number: INPLASY202530114).",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "SUPPORTING INFORMATION",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "The Supporting Information includes the GROOVE overlap analysis, PRISMA checklist, full search strategies, reasons for study exclusion, and detailed study characteristics (Tables S1-S5).",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 20
+  },
+  {
+   "label": "section_header",
+   "text": "ORCID",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Pei-Hsin Chen https://orcid.org/0000-0002-7517-8626 Heng-Hsin Tung https://orcid.org/0000-0001-9843-9924 Yu-Chen Wu https://orcid.org/0000-0002-2049-1754",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Joanna Sie https://orcid.org/0009-0005-0405-5716",
+   "page": 20
+  },
+  {
+   "label": "section_header",
+   "text": "REFERENCES",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Ando, M., Morita, T., Akechi, T., Okamoto, T., & Japanese Task Force for Spiritual, C. (2010). Efficacy of shortterm life-review interviews on the spiritual well-being of terminally ill cancer patients. Journal of Pain and SymptomManagement, 39(6), 993-1002. https://doi.org/10.1016/j.jpainsymman.2009.11.320",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Assink, M., & Wibbelink, C. J. M. (2016). Fitting three-level meta-analytic models in R: A step-by-step tutorial. The Quantitative Methods for Psychology, 12(3), 154-174. https://doi.org/10.20982/tqmp.12.3.p154",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Bastiaansen, J. A., Ornee, D. A., Meurs, M., & Oldehinkel, A. J. (2022). An evaluation of the efficacy of two addon ecological momentary intervention modules for depression in a pragmatic randomized controlled trial (ZELF-i). Psychological Medicine, 52(13), 1-2740. https://doi.org/10.1017/S0033291720004845",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Bolier, L., Haverman, M., Westerhof, G. J., Riper, H., Smit, F., & Bohlmeijer, E. (2013). Positive psychology interventions: A meta-analysis of randomized controlled studies. BMC Public Health, 13, 119. https://doi.org/10. 1186/1471-2458-13-119",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Borelli, J. L., Bond, D. K., Fox, S., & Horn-Mallers, M. (2020). Relational savoring reduces physiological reactivity and enhances psychological agency in older adults. Journal of Applied Gerontology, 39(3), 332-342. https:// doi.org/10.1177/0733464819866972",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Borelli, J. L., Kazmierski, K. F. M., Gaskin, G. E., Kerr, M. L., Smiley, P. A., & Rasmussen, H. F. (2023). Savoring interventions for mothers of young children: Mechanisms linking relational savoring and personal savoring to reflective functioning. Infant Mental Health Journal, 44(2), 200-217. https://doi.org/10.1002/ imhj.22038",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Borelli, J. L., Kerr, M. L., Smiley, P. A., Rasmussen, H. F., Hecht, H. K., & Campos, B. (2023). Relational savoring intervention: Positive impacts for mothers and evidence of cultural compatibility for Latinas. Emotion (Washington, D C), 23(2), 303-320. https://doi.org/10.1037/emo0001102",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Borelli, J. L., Perzolli, S., Kerr, M., & Smiley, P. A. (2024). Predicting fidelity and treatment outcomes in savoring interventions among mothers of young children. Infant Mental Health Journal, 45(5), 497-515. https://doi. org/10.1002/imhj.22130",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Bracchiglione, J., Meza, N., Bangdiwala, S. I., Niño de Guzm\u0013an, E., Urrútia, G., Bonfill, X., & Madrid, E. (2022). Graphical Representation of Overlap for OVErviews: GROOVE tool. Research Synthesis Methods, 13(3), 381-388. https://doi.org/10.1002/jrsm.1557",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Bryant, F. B. (2021). Current progress and future directions for theory and research on savoring. Frontiers in Psychology, 12, 771698. https://doi.org/10.3389/fpsyg.2021.771698",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Bryant, F. B., Smart, C. M., & King, S. P. (2005). Using the past to enhance the present: Boosting happiness through positive reminiscence. Journal of Happiness Studies, 6(3), 227-260. https://doi.org/10.1007/s10902005-3889-4",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Bryant, F. B., & Veroff, J. (2007). Savoring: A new model of positive experience. Lawrence Erlbaum Associates. https://doi.org/10.4324/9781315088426",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. Psychological Bulletin, 56(2), 81-105. https://doi.org/10.1037/h0046016",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Carr, A., Cullen, K., Keeney, C., Canning, C., Mooney, O., Chinseallaigh, E., & O'Dowd, A. (2020). Effectiveness of positive psychology interventions: A systematic review and meta-analysis. The Journal of Positive Psychology, 16(6), 749-769. https://doi.org/10.1080/17439760.2020.1818807",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Carrillo, A., Rubio-Aparicio, M., Molinari, G., Enrique, A., Sanchez-Meca, J., & Banos, R. M. (2019). Effects of the best possible self intervention: A systematic review and meta-analysis. PLoS ONE, 14(9), e0222386.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Chee, S. Y. (2024). \"Savoring the past, nourishing the present\": Uncovering the essence of multicultural mealtime experiences in senior living facilities. Journal of Gerontological Social Work, 67(3), 322-348. https://doi. org/10.1080/01634372.2023.2264894",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Cheng, Y., Peters, B. R., & MacNamara, A. (2023). Positive emotion up-regulation is resistant to working memory load: An electrocortical investigation of reappraisal and savoring. Psychophysiology, 60(12), e14385. https:// doi.org/10.1111/psyp.14385",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "Cheung, M. W.-L. (2014). Modeling dependent effect sizes with three-level meta-analyses: A structural equation modeling approach. Psychological Methods, 19(2), 211-229. https://doi.org/10.1037/a0032968 Cline, M., Roberts, P., Werlau, T., Hauser, P., & Smith-Miller, C. (2022). Three good things: Promote work-life balance, reduce burnout, enhance reflection among newly licensed RNs. Nursing Forum, 57(6), 1390-1398. https://doi.org/10.1111/nuf.12830 Contractor, A. A., Banducci, A. N., Jin, L., Keegan, F. S., & Weiss, N. H. (2020). Effects of processing positive memories on posttrauma mental health: A preliminary study in a non-clinical student sample. Journal of Behavior Therapy and Experimental Psychiatry, 66, 101516. https://doi.org/10.1016/j.jbtep.2019.101516 Craske, M. G., Meuret, A. E., Ritz, T., Treanor, M., Dour, H., & Rosenfield, D. (2019). Positive affect treatment for depression and anxiety: A randomized clinical trial for a core feature of anhedonia. Journal of Consulting and Clinical Psychology, 87(5), 457-471. https://doi.org/10.1037/ccp0000396 Cullen, K., Murphy, M., Di Blasi, Z., & Bryant, F. B. (2024). The effectiveness of savouring interventions in adult clinical populations: A systematic review. International Journal of Applied Positive Psychology, 9(3), 15891615. https://doi.org/10.1007/s41042-024-00182-1 Datu, J. A. D., Valdez, J. P. M., McInerney, D. M., & Cayubit, R. F. (2022). The effects of gratitude and kindness on life satisfaction, positive emotions, negative emotions, and COVID-19 anxiety: An online pilot experimental study. Applied Psychology. Health and Well-Being, 14(2), 347-361. https://doi.org/10.1111/aphw.12306 Deng, Y. H., Yijie, Z., Li, Y., & X., L. (2016). Effects of gratitude-based intervention on aggression and subjective well-being in violent criminals. Chinese Journal of Clinical Psychology, 24(2), 368-372. https://doi.org/10. 16128/j.cnki.1005-3611.2016.02.042 Diniz, G., Korkes, L., Tristao, L. S., Pelegrini, R., Bellodi, P. L., & Bernardo, W. M. (2023). The effects of gratitude interventions: A systematic review and meta-analysis. Einstein (Sao Paulo, Brazil), 21, eRW0371. https://doi. org/10.31744/einstein_journal/2023RW0371 Duval, S., & Tweedie, R. (2000). Trim and fill: A simple funnel-plot-based method of testing and adjusting for publication bias in meta-analysis. Biometrics, 56(2), 455-463. https://doi.org/10.2307/2533446 Finan P. H. Hunt C. Keaser M. L. Smith K. Lerman S. Bingham C. O. Barrett F. Garland E. L. Zeidan F. & Seminowicz D. A. (2023). Effects of savoring meditation on positive emotions and pain-related brain function: A mechanistic randomized controlled trial in people with rheumatoid arthritis medRxiv https://doi. org/10.1101/2023.09.07.23294949 Fredrickson, B. L. (2001). The role of positive emotions in positive psychology. The broaden-and-build theory of positive emotions. The American Psychologist, 56(3), 218-226. https://doi.org/10.1037//0003-066x.56.3.218 Frein, S. T., & Ponsler, K. (2013). Increasing positive affect in college students. Applied Research in Quality of Life, 9(1), 1-13. https://doi.org/10.1007/s11482-013-9210-5 Fuju, T., Yamagami, T., Yamaguchi, H., & Yamazaki, T. (2022). A randomized controlled trial of the \"positive diary\" intervention for family caregivers of people with dementia. Perspectives in Psychiatric Care, 58(4), 1949-1958. https://doi.org/10.1111/ppc.13013 Garland, E. L., Hanley, A. W., Nakamura, Y., Barrett, J. W., Baker, A. K., Reese, S. E., Riquino, M. R., Froeliger, B., & Donaldson, G. W. (2022). Mindfulness-oriented recovery enhancement vs supportive group therapy for co-occurring opioid misuse and chronic pain in primary care: A randomized clinical trial. JAMA Internal Medicine, 182(4), 407-417. https://doi.org/10.1001/jamainternmed.2022.0033 Garland, E. L., Nakamura, Y., Bryan, C. J., Hanley, A. W., Parisi, A., Froeliger, B., Marchand, W. R., & Donaldson, G. W. (2024). Mindfulness-oriented recovery enhancement for veterans and military personnel on long-term opioid Therapy for chronic pain: A randomized clinical trial. The American Journal of Psychiatry, 181(2), 125-134. https://doi.org/10.1176/appi.ajp.20230272 Gold, K. J., Dobson, M. L., & Sen, A. (2023). \"Three Good Things\" digital intervention among health care workers: A randomized controlled trial. Annals of Family Medicine, 21(3), 220-226. https://doi.org/10.1370/ afm.2963",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Goncalves, D. C., Albuquerque, P. B., & Paul, C. (2009). Life review with older women: An intervention to reduce depression and improve autobiographical memory. Aging Clinical and Experimental Research, 21(4-5), 369371. https://doi.org/10.1007/BF03324931",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Growney, C. M., Carstensen, L. L., & English, T. (2025). Momentary savoring in daily life in an adult life-span sample. Emotion, 25(1), 93-101. https://doi.org/10.1037/emo0001423",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Hedges, L. V., & Olkin, I. (1985). Statistical methods for meta-analysis. Academic Press. https://doi.org/10.1016/ c2009-0-03396-0",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Hendriks, T., Schotanus-Dijkstra, M., Hassankhan, A., de Jong, J., & Bohlmeijer, E. (2019). The efficacy of multi-component positive psychology interventions: A systematic review and meta-analysis of randomized controlled trials. Journal of Happiness Studies, 21(1), 357-390. https://doi.org/10.1007/s10902-01900082-1",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Hendriks, T., Schotanus-Dijkstra, M., Hassankhan, A., Graafsma, T., Bohlmeijer, E., & de Jong, J. (2018). The efficacy of positive psychology interventions from non-Western countries: A systematic review and metaanalysis. International Journal of Wellbeing, 8(1), 71-98. https://doi.org/10.5502/ijw.v8i1.711",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Higgins, J., & Thomas, J. (2024). Cochrane handbook for systematic reviews of interventions (Version 6.5). https:// training.cochrane.org/handbook/current",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Ho, H. C., Lai, A. Y., Mui, M. W., Wan, A., Yew, C. W., & Lam, T. H. (2024). A cluster randomized controlled trial of a brief positive healthy eating intervention. Journal of Health Psychology, 29(11), 1210-1227. https:// doi.org/10.1177/13591053231225934",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Ho, H. C., Mui, M., Wan, A., Ng, Y. L., Stewart, S. M., Yew, C., Lam, T. H., & Chan, S. S. (2016a). Happy family kitchen II: A cluster randomized controlled trial of a community-based family intervention for enhancing family communication and well-being in Hong Kong. Frontiers in Psychology, 7, 638. https://doi.org/10. 3389/fpsyg.2016.00638",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Ho, H. C., Mui, M., Wan, A., Ng, Y. L., Stewart, S. M., Yew, C., Lam, T. H., & Chan, S. S. (2016b). Happy family kitchen II: A cluster randomized controlled trial of a community-based positive psychology family intervention for subjective happiness and health-related quality of life in Hong Kong. Trials, 17, 367. https://doi.org/ 10.1186/s13063-016-1508-9",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Huffman, J. C., Feig, E. H., Zambrano, J., & Celano, C. M. (2022). Positive psychology interventions in medical populations: Critical issues in intervention development, testing, and implementation. Affective Science, 4(1), 59-71.",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Hurley, D. B., & Kwon, P. (2011). Results of a study to increase savoring the moment: Differential impact on positive and negative outcomes. Journal of Happiness Studies, 13(4), 579-588. https://doi.org/10.1007/s10902011-9280-8",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Irfan, A., Mahkdoom, I. F., Atta, M., & Malik, N. I. (2022). Mediating role of savoring for the relationship of music absorption and psychological wellbeing in students with creative interests. Journal of Positive School Psychology, 6(8), 10733-10744.",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Irvin, K. M., Bell, D. J., Steinley, D., & Bartholow, B. D. (2022). The thrill of victory: Savoring positive affect, psychophysiological reward processing, and symptoms of depression. Emotion, 22(6), 1281-1293. https://doi. org/10.1037/emo0000914",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Keng, S. L., Smoski, M. J., & Robins, C. J. (2011). Effects of mindfulness on psychological health: A review of empirical studies. Clinical Psychology Review, 31(6), 1041-1056. https://doi.org/10.1016/j.cpr.2011.04.006",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "King, L. A. (2001). The health benefits of writing about life goals. Personality and Social Psychology Bulletin, 27(7), 798-807. https://doi.org/10.1177/0146167201277003",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Klibert, J. J., Sturz, B. R., LeLeux-LaBarge, K., Hatton, A., Smalley, K. B., &Warren, J. C. (2022). Savoring interventions increase positive emotions after a social-evaluative hassle. Frontiers in Psychology, 13, 791040. https://doi.org/10.3389/fpsyg.2022.791040",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Koydemir, S., Sökmez, A. B., & Schütz, A. (2020). A meta-analysis of the effectiveness of randomized controlled positive psychological interventions on subjective and psychological well-being. Applied Research in Quality of Life, 16(3), 1145-1185. https://doi.org/10.1007/s11482-019-09788-z",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Kumar, D., Corner, S., Kim, R., & Meuret, A. (2024). A randomized controlled trial of brief behavioral activation plus savoring for positive affect dysregulation in university students. Behavior Research and Therapy, 177, 104525. https://doi.org/10.1016/j.brat.2024.104525",
+   "page": 22
+  },
+  {
+   "label": "list_item",
+   "text": "Kwan, C. W. M., Chan, C. W. H., & Choi, K. C. (2019). The effectiveness of a nurse-led short term life review intervention in enhancing the spiritual and psychological well-being of people receiving palliative care: A mixed method study. International Journal of Nursing Studies, 91, 134-143. https://doi.org/10.1016/j. ijnurstu.2018.12.007",
+   "page": 22
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "LaFreniere, L. S., & Newman, M. G. (2023a). Upregulating positive emotion in generalized anxiety disorder: A randomized controlled trial of the SkillJoy ecological momentary intervention. Journal of Consulting and Clinical Psychology, 91(6), 381-387. https://doi.org/10.1037/ccp0000794",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "LaFreniere, L. S., & Newman, M. G. (2023b). Reducing contrast avoidance in GAD by savoring positive emotions: Outcome and mediation in a randomized controlled trial. Journal of Anxiety Disorders, 93, 102659. https://doi.org/10.1016/j.janxdis.2022.102659",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "LaFreniere, L. S., & Newman, M. G. (2024). Savoring changes novel positive mindset targets of GAD treatment: Optimism, prioritizing positivity, kill-joy thinking, and worry mediation. Behavior Research and Therapy, 177, 104541. https://doi.org/10.1016/j.brat.2024.104541",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Li, J., Mo, P. K. H., Kahler, C. W., & Lau, J. T. F. (2021). A three-arm randomised controlled trial to evaluate the efficacy of a positive psychology and social networking intervention in promoting mental health among HIV-infected men who have sex with men in China. Epidemiology and Psychiatric Sciences, 30, e24. https:// doi.org/10.1017/S2045796021000081",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Lyubomirsky, S., Tkach, C., & DiMatteo, M. R. (2005). What are the differences between happiness and selfesteem. Social Indicators Research, 78(3), 363-404. https://doi.org/10.1007/s11205-005-0213-y",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "McGuinness, L. A., & Higgins, J. P. T. (2021). Risk-of-bias VISualization (robvis): An R package and shiny web app for visualizing risk-of-bias assessments. Research Synthesis Methods, 12(1), 55-61. https://doi.org/10. 1002/jrsm.1411",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "McMakin, D. L., Siegle, G. J., & Shirk, S. R. (2011). Positive affect stimulation and sustainment (PASS) module for depressed mood: A preliminary investigation of treatment-related effects. Cognitive Therapy and Research, 35(3), 217-226. https://doi.org/10.1007/s10608-010-9311-5",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Mian, M. N., & Earleywine, M. (2023). Savoring as an intervention for cannabis use: Acceptability, feasibility, and preliminary results. Addiction Research & Theory, 31(4), 296-305. https://doi.org/10.1080/16066359. 2022.2160871",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Miyamoto, Y., & Ma, X. (2011). Dampening or savoring positive emotions: A dialectical cultural script guides emotion regulation. Emotion, 11(6), 1346-1357. https://doi.org/10.1037/a0025135",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Moher, D., Liberati, A., Tetzlaff, J., Altman, D. G., & Group P. (2009). Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Medicine, 6(7), e1000097. https://doi.org/10.1371/ journal.pmed.1000097",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Morris, S. B. (2008). Estimating effect sizes from pretest-posttest-control group designs. Organizational Research Methods, 11(2), 364-386. https://doi.org/10.1177/1094428106291059",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Moskowitz, J. T., Cheung, E. O., Snowberg, K. E., Verstaen, A., Merrilees, J., Salsman, J. M., & Dowling, G. A. (2019). Randomized controlled trial of a facilitated online positive emotion regulation intervention for dementia caregivers. Health Psychology: Official Journal of the Division of Health Psychology, American Psychological Association, 38(5), 391-402. https://doi.org/10.1037/hea0000680",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Nicolson, N. A., Peters, M. L., & den In Bosch-Meevissen, Y. M. C. (2020). Imagining a positive future reduces cortisol response to awakening and reactivity to acute stress. Psychoneuroendocrinology, 116, 104677. https:// doi.org/10.1016/j.psyneuen.2020.104677",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Ong, A. D., Moskowitz, J. T., Wethington, E., Addington, E. L., Sanni, M., Goktas, S., Sluys, E., Swong, S., Kim, P., & Reid, M. C. (2022). Lessons in Affect Regulation to Keep Stress and Pain UndeR control (LARKSPUR): Design of a randomized controlled trial to increase positive affect in middle-aged and older adults with fibromyalgia. Contemporary Clinical Trials, 120, 106880. https://doi.org/10.1016/j.cct.2022. 106880",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Ouweneel, E., Le Blanc, P. M., & Schaufeli, W. B. (2014). On being grateful and kind: Results of two randomized controlled trials on study-related emotions and academic engagement. The Journal of Psychology, 148(1), 3760. https://doi.org/10.1080/00223980.2012.742854",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Palmer, A. M., Carpenter, M. J., Baker, N. L., Froeliger, B., Foster, M. G., Garland, E. L., Saladin, M. E., & Toll, B. A. (2024). Development of two novel treatments to promote smoking cessation: Savor and retrievalextinction training pilot clinical trial findings. Experimental and Clinical Psychopharmacology, 32(1), 16-26. https://doi.org/10.1037/pha0000644",
+   "page": 23
+  },
+  {
+   "label": "list_item",
+   "text": "Pancini, E., Villani, D., & Riva, G. (2022). The e-SaVoR Project: Savoring and virtual reality to enhance emerging adults' well-being. Cyberpsychology, Behavior and Social Networking, 25(12), 834-835. https://doi.org/10. 1089/cyber.2022.29261.ceu",
+   "page": 23
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Pancini, E., Villani, D., & Riva, G. (2023). oVeRcomING COPD: Virtual reality and savoring to promote the wellbeing of patients with chronic obstructive pulmonary disease. Cyberpsychology, Behavior and Social Networking, 26(1), 65-67. https://doi.org/10.1089/cyber.2022.29265.ceu",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Passmore, H.-A., & Howell, A. J. (2014). Eco-existential positive psychology: Experiences in nature, existential anxieties, and well-being. The Humanistic Psychologist, 42(4), 370-388. https://doi.org/10.1080/08873267. 2014.920335",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Peters, J. L., Sutton, A. J., Jones, D. R., Abrams, K. R., & Rushton, L. (2008). Contour-enhanced meta-analysis funnel plots help distinguish publication bias from other causes of asymmetry. Journal of Clinical Epidemiology, 61(10), 991-996. https://doi.org/10.1016/j.jclinepi.2007.11.010",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Pustejovsky, J. E., & Tipton, E. (2022). Meta-analysis with robust variance estimation: Expanding the range of working models. Prevention Science, 23(3), 425-438. https://doi.org/10.1007/s11121-021-01246-3",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Quoidbach, J., Wood, A. M., & Hansenne, M. (2009). Back to the future: The effect of daily practice of mental time travel into the future on happiness and anxiety. The Journal of Positive Psychology, 4(5), 349-355. https://doi.org/10.1080/17439760902992365",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Rodgers, M. A., & Pustejovsky, J. E. (2021). Evaluating meta-analytic methods to detect selective reporting in the presence of dependent effect sizes. Psychological Methods, 26(2), 141-160. https://doi.org/10.1037/ met0000300",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Rosen, F. N., & LaFreniere, L. S. (2023). Savoring, worry, and positive emotion duration in generalized anxiety disorder: Assessment and interventional experiment. Journal of Anxiety Disorders, 97, 102724. https://doi. org/10.1016/j.janxdis.2023.102724",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Rossetti, G., & Quinn, B. (2021). Understanding the cultural potential of rural festivals: A conceptual framework of cultural capital development. Journal of Rural Studies, 86, 46-53. https://doi.org/10.1016/j.jrurstud.2021. 05.009",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Salces-Cubero, I. M., Ramirez-Fernandez, E., & Ortega-Martinez, A. R. (2019). Strengths in older adults: Differential effect of savoring, gratitude and optimism on well-being. Aging & Mental Health, 23(8), 1017-1024. https://doi.org/10.1080/13607863.2018.1471585",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Sato, I., Jose, P. E., & Conner, T. S. (2018). Savoring mediates the effect of nature on positive affect. International Journal of Wellbeing, 8(1), 18-33. https://doi.org/10.5502/ijw.v8i1.621",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Seligman, M. E., Steen, T. A., Park, N., & Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. The American Psychologist, 60(5), 410-421. https://doi.org/10.1037/0003-066X.60.5.410",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Selva, J. P. S., Postigo, J. M. L., Segura, L. R., Bravo, B. N., C\u0013orcoles, M. J. A., L\u0013opez, M. N., Trives, J. J. R., & Gatz, M. (2012). Life review therapy using autobiographical retrieval practice for older adults with clinical depression. Psicothema, 24(2), 224-229.",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Serrano, J. P., Latorre, J. M., Gatz, M., & Montanes, J. (2004). Life review therapy using autobiographical retrieval practice for older adults with depressive symptomatology. Psychology and Aging, 19(2), 272-277. https://doi.org/10.1037/0882-7974.19.2.272",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Sheldon, K. M., & Lyubomirsky, S. (2006). How to increase and sustain positive emotion: The effects of expressing gratitude and visualizing best possible selves. The Journal of Positive Psychology, 1(2), 73-82. https://doi.org/10.1080/17439760500510676",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Sieder, K., Thiedmann, P., Voracek, M., & Tran, U. S. (2024). Baseline trait mindfulness moderates the efficacy of mindfulness interventions and active controls: A meta-analysis of 177 randomised controlled trials. Applied Psychology. Health and Well-Being, 16(4), 2499-2519. https://doi.org/10.1111/aphw.12550",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Silton, R. L., Kahrilas, I. J., Skymba, H. V., Smith, J., Bryant, F. B., & Heller, W. (2020). Regulating positive emotions: Implications for promoting well-being in individuals with depression. Emotion, 20(1), 93-97. https:// doi.org/10.1037/emo0000675",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Sin, N. L., & Lyubomirsky, S. (2009). Enhancing well-being and alleviating depressive symptoms with positive psychology interventions: A practice-friendly meta-analysis. Journal of Clinical Psychology, 65(5), 467-487. https://doi.org/10.1002/jclp.20593",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Smiley, P. A., Ahn, A., Blackard, M. B., Borelli, J. L., & Doan, S. N. (2024). Undoing mothers' avoidant coping with children's negative emotion: A randomized controlled trial of relational savoring. Journal of Family Psychology, 38(3), 365-376. https://doi.org/10.1037/fam0001186",
+   "page": 24
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, J. L., Bihary, J. G., O'Connor, D., Basic, A., & O'Brien, C. J. (2020). Impact of savoring ability on the relationship between older adults' activity engagement and well-being. Journal of Applied Gerontology: The",
+   "page": 24
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "Official Journal of the Southern Gerontological Society, 39(3), 323-331. https://doi.org/10.1177/ 0733464819871876",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, J. L., & Bryant, F. B. (2016). The benefits of savoring life: Savoring as a moderator of the relationship between health and life satisfaction in older adults. International Journal of Aging & Human Development, 84(1), 3-23. https://doi.org/10.1177/0091415016669146",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, J. L., & Bryant, F. B. (2019). Enhancing positive perceptions of aging by savoring life lessons. Aging & Mental Health, 23(6), 762-770. https://doi.org/10.1080/13607863.2018.1450840",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, J. L., & Hanni, A. A. (2019). Effects of a savoring intervention on resilience and well-being of older adults. Journal of Applied Gerontology: The Official Journal of the Southern Gerontological Society, 38(1), 137-152. https://doi.org/10.1177/0733464817693375",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, J. L., & Hollinger-Smith, L. (2015). Savoring, resilience, and psychological well-being in older adults. Aging & Mental Health, 19(3), 192-200. https://doi.org/10.1080/13607863.2014.986647",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Spillane, N. S., Schick, M. R., Hostetler, K. L., Trinh, C. D., & Kahler, C. W. (2023). Results of a pilot study examining the effect of positive psychology interventions on cannabis use and related consequences. Contemporary Clinical Trials, 131, 107247. https://doi.org/10.1016/j.cct.2023.107247",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Stanley, T. D. (2017). Limitations of PET-PEESE and other meta-analysis methods. Social Psychological and Personality Science, 8(5), 581-591. https://doi.org/10.1177/1948550617693062",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Stanley, T. D., & Doucouliagos, H. (2014). Meta-regression approximations to reduce publication selection bias. Research Synthesis Methods, 5(1), 60-78. https://doi.org/10.1002/jrsm.1095",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Straszewski, T., & Siegel, J. T. (2018). Positive emotion infusions: Can savoring increase help-seeking intentions among people with depression? Applied Psychology. Health and Well-Being, 10(1), 171-190. https://doi.org/ 10.1111/aphw.12122",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Taylor, C. T., Pearlstein, S. L., Kakaria, S., Lyubomirsky, S., & Stein, M. B. (2020). Enhancing social connectedness in anxiety and depression through amplification of positivity: Preliminary treatment outcomes and process of change. Cognitive Therapy and Research, 44(4), 788-800. https://doi.org/10.1007/s10608-020-10102-7",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Tighe, C. A., Dautovich, N. D., Hilgeman, M. M., & Allen, R. S. (2022). Links between savoring, rumination, and sleep-related experiences across adulthood: Implications for older adults. Clinical Gerontologist, 45(2), 419429. https://doi.org/10.1080/07317115.2021.1878404",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Tipton, E., & Pustejovsky, J. E. (2015). Small-sample adjustments for tests of moderators and model fit using robust variance estimation in meta-regression. Journal of Educational and Behavioral Statistics, 40(6), 604634. https://doi.org/10.3102/1076998615606099",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Van den Noortgate, W., L\u0013opez-L\u0013opez, J. A., Marín-Martínez, F., & S\u0013anchez-Meca, J. (2013). Three-level metaanalysis of dependent effect sizes. Behavior Research Methods, 45(2), 576-594. https://doi.org/10.3758/ s13428-012-0261-6",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of Statistical Software, 36(3), 1-48. https://doi.org/10.18637/jss.v036.i03",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Villani, D., Pancini, E., Pesce, F., & Scuzzarella, L. (2023). Savoring life during pandemic: An online intervention to promote well-being in emerging adults. BMC Psychology, 11(1), 196. https://doi.org/10.1186/s40359-02301225-z",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Niemann, L., von Gruner, C., Zhang, X. C., Margraf, J., & Totzeck, C. (2023). PositiveEmotions Training (PoET) as an online intervention to improve mental health: Afeasibility study. BMC Public Health, 23(1), 1543. https://doi.org/10.1186/s12889-023-16424-x",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Wallimann, M., Peleg, S., & Pauly, T. (2024). Time-savoring moderates associations of solitude with depressive mood, loneliness, and somatic symptoms in older adults' daily life. Applied Psychology. Health and WellBeing, 16(3), 1497-1515. https://doi.org/10.1111/aphw.12538",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Wilson D.B. (2023). Practical meta-analysis effect size calculator. The Campbell Collaboration, updated 27 Nov. 2023",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Wilson, K. A., & MacNamara, A. (2020). Savor the moment: Willful increase in positive emotion and the persistence of this effect across time. Psychophysiology, 58(3). https://doi.org/10.1111/psyp.13754",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "Wilson, K. A., & MacNamara, A. (2024). Generalization of savoring to novel positive stimuli. Psychophysiology, 61(6), e14537. https://doi.org/10.1111/psyp.14537",
+   "page": 25
+  },
+  {
+   "label": "list_item",
+   "text": "World Health Organization. 2022. World mental health report: Transforming mental health for all. https://www. who.int/publications/i/item/9789240049338",
+   "page": 25
+  },
+  {
+   "label": "text",
+   "text": "bs_bs_ban er",
+   "page": 26
+  },
+  {
+   "label": "list_item",
+   "text": "Yang, C. T. (2020). A study on the correlations between positive emotions and psychological well-being. 28, 71-132.",
+   "page": 26
+  },
+  {
+   "label": "list_item",
+   "text": "Yu, S. C., Sheldon, K. M., Lan, W. P., & Chen, J. H. (2020). Using social network sites to boost savoring: Positive effects on positive emotions. International Journal of Environmental Research and Public Health, 17(17), 6407. https://doi.org/10.3390/ijerph17176407",
+   "page": 26
+  },
+  {
+   "label": "list_item",
+   "text": "Zehner, N., Polding, L., Faraci Sindra, V., & Shieh, L. (2023). Prospective pilot study of the Three Good Things positive psychology intervention in short-term stay hospitalised patients. Postgraduate Medical Journal, 99(1170), 302-307. https://doi.org/10.1136/postgradmedj-2021-141010",
+   "page": 26
+  },
+  {
+   "label": "list_item",
+   "text": "Zhang, F., Pi, Y., & Li, X. (2023). Photographic intervention effect on positive and negative affects during COVID-19: Mediating role of future self-continuity. Frontiers in Psychology, 13, 1085518. https://doi.org/10. 3389/fpsyg.2022.1085518",
+   "page": 26
+  },
+  {
+   "label": "list_item",
+   "text": "Zheng, J., Zaremohzzabieh, Z., & Roslan, S. (2025). Examining the influence of savoring interventions on positive emotions in university students: A systematic review and meta-analysis. Asian Social Science, 21(1), 103. https://doi.org/10.5539/ass.v21n1p103",
+   "page": 26
+  },
+  {
+   "label": "section_header",
+   "text": "SUPPORTING INFORMATION",
+   "page": 26
+  },
+  {
+   "label": "text",
+   "text": "Additional supporting information can be found online in the Supporting Information section at the end of this article.",
+   "page": 26
+  },
+  {
+   "label": "text",
+   "text": "How to cite this article: Chen, P.-H., Tung, H.-H., Wu, Y.-C., & Sie, J. (2026). Effectiveness of savoring interventions: A systematic review and meta-analysis of randomized controlled trials. Applied Psychology: Health and Well-Being, 18(2), e70134. https://doi.org/10.1111/aphw.70134",
+   "page": 26
+  }
+ ]
+}

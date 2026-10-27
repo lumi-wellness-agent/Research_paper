@@ -1,0 +1,1128 @@
+{
+ "paper_id": "P19",
+ "source": "P19_PMR_Systematic_Review.pdf",
+ "pages": 21,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Open Access Full Text Article R E V I EW",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Efficacy of Progressive Muscle Relaxation in Adults for Stress, Anxiety, and Depression: A Systematic Review",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Syazwina Muhammad Khir 1 , Wan Mohd Azam Wan Mohd Yunus 1-3 , Norashikin Mahmud 1 , Rui Wang 1 , Siti Aisyah Panatik 1 , Mohammad Saipol Mohd Sukor 1 , Nor Akmar Nordin 1",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "1 Department of Psychology, School of Human Resource Development and Psychology, Faculty of Social Sciences and Humanities, Universiti Teknologi Malaysia, Johor, Malaysia; 2 INVEST Research Flagship, University of Turku, Turku, Finland; 3 Research Centre for Child Psychiatry, University of Turku, Turku, Finland",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Correspondence: Syazwina Muhammad Khir, Email syazwinakhir@yahoo.com",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Background: The rise in the prevalence of mental health problems among adults worldwide has raised concerns, highlighting the critical need for evidence-based mental health interventions that are accessible, comprehensive, and effective. Previous research suggests that Progressive Muscle Relaxation (PMR) is a promising intervention widely used to reduce mental health problems. Nevertheless, the current literature on the efficacy of PMR among adults globally is fragmented, indicating a potential gap in this research area. Hence, this paper aims to systematically compile the research evidence on the efficacy of PMR in adults for stress, anxiety, and depression.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Methods: The Scopus, Web of Sciences, PubMed, PsycINFO, and Cochrane Central Register of Controlled Trials were searched from the earliest available evidence to 28th March 2023. The PRISMA (Preferred Reporting Items of Systematic Reviews and Metaanalyses) guidelines were followed, and the protocol was registered on the Open Science Framework. Joanna Briggs Institute (JBI) Critical Appraisal Tools were used to assess the quality of the included studies.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Results: A total of forty-six (46) publications from sixteen (16) countries covering more than 3402 adults were included in the review. The results show that PMR are effective in reducing stress, anxiety, and depression in adults. When PMR is combined with other interventions, the combined techniques have also consistently exhibited enhanced efficacy. Moreover, findings also indicate that the efficacy of PMR is heightened when implemented in conjunction with other interventions, surpassing its standalone efficacy.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Funding and Registration: This research was supported/funded by the Ministry of Higher Education (MoHE) under the Fundamental Research Grant Scheme (FRGS) (FRGS/1/2020/SS0/UTM/02/23). The review was registered on Open Science Framework (OSF) on the 7th of March 2023; DOI: https://doi.org/10.17605/OSF.IO/U2HZP.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: progressive muscle relaxation, stress, anxiety, depression",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "There is more to mental health than the absence of mental disorders. According to the World Health Organization (WHO), 1 the term \"mental health\" refers to a state of psychological well-being that allows individuals to successfully manage the challenges of life, recognize their strengths, participate in study and work, and make significant contributions to the communities. There is a broad continuum of mental health that is experienced differently by each individual. It carries diverse levels of challenges and distress as well as possibly highly distinct social and psychological impacts. Being typically capable of thinking, feeling, and acting in a way that satisfies one's desires in life is a sign of good mental health. However, if one has experienced a phase of poor mental health such as stress, anxiety, and depression, they will likely find everyday life as challenging or even impossible to deal with the frequent thoughts, feelings, or responses. These poor conditions could lead to more serious psychiatric disorders or conditions such as clinical anxiety, depression, bipolar disorders, schizophrenia, or even suicide. 2-4 The aforementioned statement emphasizes the critical need to swiftly",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "address stress, anxiety, and depression as these are major contributors to the wider range of mental health issues that people may encounter.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Stress may not be typical of the person or the environment; rather, it is a complex system formed by the interplay of specific psychological and physiological elements with the surroundings, 5 while anxiety is a mental condition character­ ized by unpleasant emotions, unease, anxiety about the future, or dread of reacting to the present without a clear trigger. 6 According to World Health Organization, 7 depression is a widespread mental health condition that impacts over 300 million individuals globally. Depression is commonly characterized by symptoms like poor mood, interest loss, changes in weight or appetite, sleep difficulties, psychomotor changes, guilt feelings, lack of focus, and suicidal thoughts or attempts in the past. 8 An earlier research conducted among adult population in 2020 revealed that nearly half of the study sample (48.1%) were affected with mild to extremely severe stress, anxiety, and depression. 9 These figures are very alarming since they could trigger negative affect, which includes erratic feelings and apathy 10 among the adults.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "To address those mental health issues, experts have suggested several recommendations like maintaining physical well-being, partaking in recreational activities, staying positive, socializing, and learning relaxation exercises 11 Relaxation exercises have been found to be effective for a person's physical and mental well-being by enabling one's breathing to calm down, decreasing blood pressure, easing stress, and minimizing muscle spasm. 12,13 Moreover, there are emerging studies on the use of relaxation exercises as part of an interdisciplinary prevention or intervention approach for stress, anxiety, and depression, 14-17 and relaxation techniques like progressive muscle relaxation (PMR) are capable of successfully tensing and relaxing different muscle groups. 18",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Of all the relaxation techniques, the PMR technique is the most straightforward to understand and to be used as it is accessible, affordable, self-induced, and offers no adverse impacts. 19 Utilizing PMR is particularly effective in reducing stress, anxiety, and depression. By differentiating between sensations of tension (a purposeful tensing of the muscles) and relaxation (a conscious, deliberate release of the muscles' tension), PMR makes it easier to identify muscles or muscle groups that are persistently tense. 18,20",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Systematic reviews on PMR by previous scholars have focused on the impact of the exercises on patients with serious illnesses such as cancer patients, schizophrenic patients, and those who are undergoing surgery 14,21,22 in reducing their mental health problems. However, to our knowledge, there are no systematic reviews that assess the efficacy of PMR interventions on stress, anxiety, and depression of the general adult population, thus contributing to the current body of knowledge.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Methodology",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guided the present study. PRISMA was developed to assist reviewers in clearly describing their studies' purpose, methods, and findings. 23 Using this guideline, the reviewers developed pertinent research questions based on the PICO framework. This framework aids reviewers in structuring research questions by dividing them into four main parts: Population, Intervention, Comparison, and Outcome. 24 Based on the framework, one research question is formulated: Does Progressive Muscle Relaxation (PMR) effectively reduce stress, anxiety, and depression among adults? In this review, adults are defined as those who are 18 years of age or older. 25 The review's objectives, inclusion criteria, and methods of analysis were pre-specified and documented in a protocol filed on Open Science Framework (OSF) on the 7th March 2023; DOI: https://doi.org/10.17605/OSF.IO/U2HZP.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Search Strategy",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The reviewers conduct a comprehensive search of five electronic databases; Scopus, Web of Sciences, PubMed, PsycINFO, and Cochrane Central Register of Controlled Trials. The reviewers used various keywords for the literature search to match the study's context and succeed in enhancing the keywords while constructing a comprehensive search string (based on phrase searching, field code function, Boolean operator, truncation, and wild card). The search terms utilized for all the databases included are presented in Table 1.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 3
+  },
+  {
+   "label": "table",
+   "text": "Table 1 The Search Terms\nTable 1 The Search Terms\n\n| Databases                                                                                    | Concept                     | Search Terms                                                                                                |\n|----------------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------|\n| Scopus, Web of Science, PubMed, PsycINFO, and Cochrane Central Register of Controlled Trials | PMR                         | \"Progressive muscle relaxation*\" OR PMR                                                                     |\n| Scopus, Web of Science, PubMed, PsycINFO, and Cochrane Central Register of Controlled Trials | Intervention/ Prevention    | Intervention* OR therap* OR prevention* OR training* OR strateg* OR program* OR technique* OR exercise*     |\n| Scopus, Web of Science, PubMed, PsycINFO, and Cochrane Central Register of Controlled Trials | Stress, Anxiety, Depression | Mental* OR psychiatr* OR psycholog* OR depress* OR anxi* OR stress* OR wellbeing OR well-being OR distress* |",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 The Search Terms",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Selection Criteria",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "This review includes publications that fit two distinct criteria: (1) Those that explore the effects of PMR on stress, anxiety, and depression in adults, either as a standalone intervention or in combination with additional intervention approaches; and (2) Studies that implement rigorous methodologies, utilizing either a Randomized Controlled Trial (RCT) or a Quasi-Experimental Design (QED). For this review, the inclusion criteria necessitate studies to includes all studies that investigate the efficacy of PMR on stress, anxiety, and/or depression symptoms, focus on experimental research, look at non-clinical cases among adults, and have been published in English language from earliest time until 28th March 2023. Conversely, the review excludes all meta-analysis papers, systematic review papers, students' thesis, or unauthorized or unrecognized dissertations, any non-experimental research, all clinical cases, and non-English articles or studies.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Study Search, Selection, and Retrieval Processes",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The research procedure includes a methodical flow that starts with a thorough database search, followed by exporting the identified articles into the reference management software EndNote X7. After that, duplicates were removed and both the titles and abstracts were screened for relevancy. The process continued by retrieving the full texts of the publications that had been shortlisted. Some articles were unable to be retrieved due to access restrictions on databases, full-text not available, limited database archive, and is a conference abstracts. Finally, a thorough evaluation of these full texts was done to determine which articles are most significant based on the aforementioned criteria. The process was carried out independently by two different reviewers, who then met to compare their findings and reach a consensus. In cases where a consensus was elusive, the reviewers engaged a senior researcher for guidance and resolution.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Quality Assessment of the Included Study",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Following the screening procedure, two (2) reviewers used revised Joanna Briggs Institute (JBI) Critical Appraisal Tools 26,27 to complete the quality assessment on all the selected papers. The reviewers used two (2) different checklists from the revised JBI critical appraisal tools.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The first tool was a checklist called the \"Revised Randomized Controlled Trial Checklist\". This checklist was used to review papers that used the Randomized Controlled Trial (RCT) design. The checklist provided a thorough, standardized methodology for evaluating many components of RCTs, including internal validity, all types of bias checklists, statistical conclusion validity, randomization protocols, blinding methods, and attrition rates, among other crucial variables. 26 This tool examines thirteen (13) significant components for the systematic review. The checklists consist of four distinct responses: Yes, No, Unclear, and Not Applicable. 28 For this checklist, each of the items received a score for adherence. Items marked with a \"Yes\" earn a score of one (1), signifying adherence to the checklist criterion, whilst any other replies - \"No\", \"Unclear\", or \"Not Applicable\", receive a score of zero (0), suggesting a lack of assurance or non-relevance to the specific criterion. Previous research on the JBI critical appraisal tool confirms that the attribution of cut-off values or scores that identify a study as being of low, moderate, or high quality is best selected by the systematic reviewers themselves. 29 The aforementioned approach enables reviewers to determine these thresholds based on the specific requirements and circumstances of their assessment, resulting in a more personalized and precise evaluation process. For the current review, the reviewers opted to implement the scoring system from earlier studies. 30,31 Under the",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "DovePress 347",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "assessment criteria, studies obtaining 70% or more of the maximum attainable score were classified as \"high quality\", those scoring between 50% and 70% were classified as \"moderate quality\", while studies with scores falling below the 50% threshold were classified as \"poor quality\". Moreover, for this checklist, those earning ten (10) points or more were classified as \"high quality\", those that scored between seven (7) and ten (10) points were deemed \"moderate quality\", and articles that accrued six (6) points or less were categorized as \"poor quality\".",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The second tool was the \"Revised Checklist for Quasi-Experimental Studies\". This checklist functioned as an evaluative measure for all studies that used a quasi-experimental design (QED), offering a formal framework for examining the robustness and dependability of the procedures used, how they were carried out, and the subsequent validity of the results. 26 This tool examines nine (9) significant components for the systematic review. Similar to RCT tool, this checklist consists of four distinct responses: Yes, No, Unclear, and Not Applicable. Each of the items received a score for adherence. Items marked with a \"Yes\" earn a score of one (1), signifying adherence to the checklist criterion, whilst any other replies - \"No\", \"Unclear\", or \"Not Applicable\", receive a score of zero (0), suggesting a lack of assurance or non-relevance to the specific criterion. Moreover, studies obtaining 70% or more of the maximum attainable score were classified as \"high quality\", those scoring between 50% and 70% were classified as \"moderate quality\", while studies with scores falling below the 50% threshold were classified as \"poor quality\". 30,31 Those earning seven (7) points or more were classified as \"high quality\", those that scored between five (5) and seven (7) points were deemed \"moderate quality\", and articles that received four (4) points or less were categorized as \"poor quality\".",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The quality assessment instructs reviewers to include articles with high and moderate qualities only. Two reviewers made decisions on the study's eligibility and quality. All possible disagreements were settled through discussion. If no conclusion was achieved, a third reviewer who is a senior researcher is brought in to assist in reaching a final decision. The careful assessments ensured that the research included in the review met a high standard of methodological quality. Next, two independent reviewers extracted the data, and the findings are provided in the next section.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Data Extraction",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Data extraction was done by one independent reviewer and subsequently cross-checked by another reviewer to ensure accuracy and consistency. Following a meticulous data extraction procedure, relevant data addressing the study questions were collected from the reviewed publications and systematically organized into tables. For this review, the findings are divided and presented in two separate tables. The first table focuses primarily on the effects of Progressive Muscle Relaxation (PMR) procedures on the stress, anxiety, and depression in adults, whereas the second table presents on the effects of PMR on stress, anxiety, and depression when paired with other interventions. The extraction tables consisted of: (1) General information (Authors, Publication Years, and Country); (2) Training Duration (minutes/length); (3) Frequency of Training (per week); (4) Participants (Sample Size, Setting, Dropout Rates); (5) Study Design (RCT or QED, Pre-test, Post-Test, and Follow-Up); (6) Research Instruments; (7) Components/Contents of the PMR; (8) Outcome Measures (with effect size where available); (9) Key Findings; and (10) Quality of the Article. The categories were constructed based on reading knowledge and extensive systematic literature reviews by previous scholars. 21,32,33 The data extraction for the current study is illustrated in Table 2 and Table 3",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Results",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Results of the Search",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "A thorough database search yielded 3205 findings. During the initial screening phase, two reviewers identified and eliminated 1336 duplicate papers. Following that a thorough screening of research titles and abstracts was performed to eliminate another 1708 publications from the remaining findings. Next, 65 articles were not retrieved due to access restrictions on databases, full-text not available, limited database archive, or is a conference abstracts. The remaining 96 full-text publications were then screened based on the inclusion and exclusion criteria. Finally, based on the specified criteria, the reviewers eliminate additional 50 findings that did not meet the inclusion criteria due to clinical studies. As a result, the final phase of the selection approach yields 46 articles from 16 countries (Figure 1) that match all of the inclusion requirements. Figure 2 illustrates the PRISMA flow diagram for the included and excluded studies.",
+   "page": 4
+  },
+  {
+   "label": "table",
+   "text": "Table 2 Progressive Muscle Relaxation (PMR)\nTable 2 Progressive Muscle Relaxation (PMR)\n\n|   No | Author (Year)/ Country                 | Duration (Minutes/ Length)               | Frequency Per Week   | Participants                                                                                            | Study Design - EXP   | Study Design - Pre- test   | Study Design - Post- test   | Study Design - F-Up   | Research Instrument   | Components/ Content of PMR                                                                             | Outcome Measures (with Effect Size Where Available)   | Key Finding                                                                                                    | Quality of the Article   |\n|------|----------------------------------------|------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------|----------------------|----------------------------|-----------------------------|-----------------------|-----------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------|\n|    1 | Avants et al 34 (1990) United States   | 20m at laboratory/ 1 session             | 1 session only       | 40 university students (PMR: 20, CG: 20) S: Laboratory DO: 0%                                           | QED                  | /                          | /                           |                       | STAI                  | Use Jacobson's PMR exercise by Bernstein, Borkovec. 35                                                 | Anxiety                                               | PMR did not significantly reduce (=) anxiety among the participants.                                           | High                     |\n|    2 | Battaglini et al 36 (2022) Brazil      | 30-40m at classroom / 12 sessions        | Once or twice/ week  | 59 athletes (PMR: 29, CG: 30) S: Classroom DO: 0%                                                       | QED                  | /                          | /                           |                       | CSAI-2, RESTQ- Sport  | Use the adapted Jacobson's PMR exercise by Sándor. 37                                                  | Stress (d=0.29), Anxiety (d=1.30)                     | There is a significant decrease (↓) in cognitive anxiety score and specific stress score in IG compared to CG. | High                     |\n|    3 | Chaudhuri et al 38 (2014) India        | 20m at home/ 12 weeks                    | 7 days/ week         | 64 female healthcare workers (PMR: 64→57) S: At home DO: 10.9%                                          | QED                  | /                          | /                           |                       | PSS                   | Use Jacobson's PMR exercise protocol by Varvogli, Darviri. 39                                          | Stress (d=4.12)                                       | There is a significant decrease (↓) in stress scores at the post-test compared to the pretest.                 | High                     |\n|    4 | Chellew et al 40 (2015) Spain          | 5 45m session/ 1 week.                   | 5 days/ week         | 101 university students (APMR: 101) S: N/A DO: 0%                                                       | QED                  | /                          | /                           |                       | SRLE                  | Use the abbreviated Jacobson's PMR exercise by Bernstein, Borkovec. 35                                 | Stress (d=0.38)                                       | There is a decrease (↓) in stress score and cortisol secretion level at post- test compared to pretest in IG.  | High                     |\n|    5 | Silveira et al 41 (2020) Brazil        | 10-15min at classroom/ 8 weeks           | Once/ week           | 16 nurses (PMR: 16) S: Classroom DO: 0%                                                                 | QED                  | /                          | /                           |                       | WSS                   | Use the Jacobson's PMR exercise.                                                                       | Stress (d=0.36)                                       | There is a decrease (↓) in stress score at post-test compared to pretest.                                      | High                     |\n|    6 | Dolbier & Rush 42 (2012) United States | 20m at laboratory/ 1 session             | 1 session only       | 128 university students (APMR: 66, CG: 62) S: Laboratory DO: 0%                                         | QED                  | /                          | /                           |                       | EMAS-S                | Use the abbreviated Jacobson's PMR exercise.                                                           | Anxiety (d=0.25)                                      | There is a significant decrease (↓) in anxiety score in post-test compared to pretest in both IG & CG.         | High                     |\n|    7 | Ganjeali et al 43 (2022) Iran          | 20m at home / 2 weeks + 2- 60m classroom | 7 days/ week         | 46 nurses (PMR: 23, CG: 23) S: Classroom & at home DO: 0%                                               | RCT                  | /                          | /                           |                       | DASS-21               | Use the Jacobson's PMR exercise by Toqan, Malak, Ayed, Fashafsheh, Salameh, Sarhan, Azizeh, Batran. 44 | Stress (d=1.47), Anxiety (d=1.61)                     | There is a decrease (↓) in stress and anxiety score at post-test compared to pretest in the IG.                | High                     |\n|    8 | Gao et al 45 (2018) China              | 5m at home/ 12 weeks                     | 7 days/ week         | 78 university participants (students and employees) (PMR: 47→25→14F-Up, CG: 31→25) S: At home DO: 35.9% | QED                  | /                          | /                           | / (1 month)           | PSS                   | Use the Jacobson's PMR exercise.                                                                       | Stress (d=0.42)                                       | There is a significant decrease (↓) in stress score at post-test compared to pretest in the IG.                | High                     |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 Progressive Muscle Relaxation (PMR)",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Table 2 (Continued).",
+   "page": 6
+  },
+  {
+   "label": "table",
+   "text": "|   No | Author (Year)/ Country                | Duration (Minutes/ Length)                        | Frequency Per Week            | Participants                                                                   | Study Design - EXP   | Study Design - Pre- test   | Study Design - Post- test   | Research Instrument - F-Up   | Components/ Content of PMR   | Outcome Measures (with Effect Size Where Available)                                   | Key Finding                                            | Quality of the                                                                                                                          | Article   |\n|------|---------------------------------------|---------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------|----------------------|----------------------------|-----------------------------|------------------------------|------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|\n|    9 | Gustainiene et al 46 (2015) Lithuania | 6 sessions at laboratory/ 4 weeks                 | Once or twice/ week           | 95 university students (PMR: 47, CG: 48) S: Laboratory DO: N/A                 | QED                  | /                          | /                           |                              | PSS                          | Use the Jacobson's PMR exercise.                                                      | Stress (d=0.31)                                        | There is a decrease (↓) in stress score at post-test compared to pretest in IG.                                                         | High      |\n|   10 | Hayati et al 47 (2020) Iran           | 15m /4 weeks + 2 sessions                         | Twice a day for 7 days / week | 76 elders (PMR: 38, CG: 38) S: N/A DO: 0%                                      | QED                  | /                          | /                           |                              | GDS                          | Use the PMR audio file validated by Yousefi, Taraghi, Mousavinasab 48                 | Depression (d=1.49)                                    | There is a significant decrease (↓) in depression score in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG). | High      |\n|   11 | Jermaina et al 49 (2022) Indonesia    | 30-60m/ 10 weeks                                  | N/A                           | 20 beginner athletes (PMR: 20) S: Classroom DO: 0%                             | QED                  | /                          | /                           |                              | SAS                          | N/A                                                                                   | Anxiety                                                | PMR did not significantly reduce (=) anxiety for beginner athletes.                                                                     | High      |\n|   12 | Murphy 50 (1983) United States        | 20m at small room and at home/ 2 weeks            | 5 days/ week                  | 26 nurses (PMR: 17→9→8 F-Up, CG: 9→8 F-Up) S: Small room and at home DO: 30.8% | QED                  | /                          | /                           | / (3 months)                 | Trait-anxiety scale of STAI  | Use the Jacobson's PMR exercise by Bernstein, Borkovec. 35                            | Anxiety                                                | There is a significant decrease (↓) in trait anxiety score in post-test compared to pretest in both IG and CG.                          | High      |\n|   13 | Mustafa et al 51 (2021) Pakistan      | 4 sessions/ 4 weeks                               | N/A                           | 10 female nurses (PMR: 10) S: N/A DO: 0%                                       | QED                  | /                          | /                           |                              | DASS-21                      | N/A                                                                                   | Stress (d=2.45), anxiety (d=0.53), depression (d=1.95) | There is a significant decrease (↓) in stress and depression score but not in anxiety at post-test compared to pretest in IG.           | High      |\n|   14 | Palkar et al 52 (2021) India          | 45m at home/ 4 weeks + 3 sessions at seminar hall | 7 days/ week                  | 114 medical students (PMR: 43, CG: 71) S: Seminar Hall & at home DO: 0%        | QED                  | /                          | /                           |                              | PSS, TAS                     | N/A                                                                                   | Stress (d=0.45), Anxiety (d=0.35)                      | There is a significant decrease (↓) in stress and anxiety score at post-test compared to pretest in IG.                                 | High      |\n|   15 | Prakash Jha et al 53 (2020) India     | 30m/ 2 weeks                                      | 7 days/ week                  | 30 elderlies (PMR: 30) S: N/A DO: 0%                                           | QED                  | /                          | / (twice)                   |                              | GDS                          | N/A                                                                                   | Depression                                             | There is a significant decrease (↓) in depression score at post- test compared to pretest.                                              | High      |\n|   16 | Yilmaz et al 54 (2018) Turkey         | 28m at home/ 8 weeks                              | 3 days/ week                  | 65 caregivers of elders (PMR: 33→23, CG: 32→21) S: At home DO: 32.3%           | RCT                  | /                          | /                           |                              | BDS                          | Use the \"Relaxation Exercises\" (prepared by the Turkish Psychologists Association) 55 | Depression (d=0.86)                                    | There is a significant decrease (↓) in depression score at post- test compared to pretest in IG.                                        | High      |",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 6
+  },
+  {
+   "label": "table",
+   "text": "|   17 | Zargarzadeh & Shirazi 56 (2014) Iran   | At home/ 6 weeks + 4 30m sessions at classroom   | Twice a day for 7 days/ week                                | 50 nursing students (PMR: 25→24, CG: 25) S: At home and classroom DO: 2.0%   | QED   | /   | /   |              | STAS   | N/A                                                                                                                              | Anxiety (d=2.54)            | There is a significant decrease (↓) in anxiety score in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG).                                         | High     |\n|------|----------------------------------------|--------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------------------------|-------|-----|-----|--------------|--------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|\n|   18 | Zhang et al 57 (2022) China            | 30m classroom/ 6 weeks                           | Once/ week                                                  | 90 medical students (PMR: 45→42, CG: 45) S: Classroom DO: 6.7%               | RCT   | /   | /   | / (2 months) | TAS    | Use standardized version of PMR by Bernstein, Borkovec. 35                                                                       | Anxiety (d=2.07)            | There is a significant decrease (↓) in test anxiety score at post-test and at follow up compared to pretest in the IG.                                                       | High     |\n|   19 | Allison et al 58 (2020) United States  | 10m at classroom / 1 session                     | 1 session only                                              | 124 veterinary students (PMR: 124→101) S: Classroom DO: 18.5%                | QED   | /   | /   |              | SRSI3  | N/A                                                                                                                              | Stress (d=0.93)             | There is a decrease (↓) in stress scores at the post- test compared to the pretest.                                                                                          | Moderate |\n|   20 | Barling & Raine 59 (2005) Australia    | At home /3 weeks + 1 60m session                 | 7 days/ week                                                | 30 volunteers (PMR: 15, CG: 15) S: At home DO: 0%                            | RCT   | /   | /   |              | DASS   | N/A                                                                                                                              | Stress, anxiety, depression | There is a significant decrease (↓) in 1. IG compared to CG at post-test (anxiety). 2. stress, anxiety and depression scores in the post-test compared to the pretest in IG. | Moderate |\n|   21 | Çapacı et al 60 (2022) Turkey          | 30m at home/ 8 weeks                             | 4 days/ week (2 days with researchers, 2 days on their own) | 36 caregivers of elders (PMR: 18→10), CG: 18→10) S: At home DO: 44.4%        | RCT   | /   | /   |              | BDI    | Use the \"Relaxation Exercises CD Sound Records\" and \"PMR Information Guide\" (prepared by the Turkish Psychologists Association). | Depression (d=0.58)         | There is a decrease (↓) in depression score in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG).                                                  | Moderate |\n|   22 | Gökşin & Aşiret 61 (2021) Turkey       | 28m at home/ 8 weeks                             | 3 days/ week                                                | 58 elderly women (PMR: 24→21, CG: 34→28) S: At home DO: 15.5%                | RCT   | /   | /   |              | GDS-15 | N/A                                                                                                                              | Depression (d=0.91)         | There is a significant decrease (↓) in depression score in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG).                                      | Moderate |\n|   23 | İnangil et al 62 (2020) Turkey         | 15m at practice room/ 2weeks                     | 3 days/ week                                                | 60 nursing students (PMR: 30→28, CG: 30→28) S: Practice room DO: 6.7%        | RCT   | /   | /   |              | STAI   | Use the \"Relaxation Exercises\" (prepared by the Turkish Psychologists Association) 63                                            | Anxiety (d=0.62)            | There is a significant decrease (↓) in state anxiety score in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG).                                   | Moderate |\n|   24 | Khasky & Smith 64 (1999) United States | 25m / 1 session                                  | 1 session only                                              | 76 university students (PMR: 20, CG: 56) S: N/A DO: 0%                       | RCT   | /   | /   |              | SQST   | Use the Jacobson's PMR exercise script by Smith. 65                                                                              | Stress (d=1.07)             | There is a significant decrease (↓) in stress score in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG).                                          | Moderate |",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 7
+  },
+  {
+   "label": "table",
+   "text": "Table 2 (Continued).\nTable 2 (Continued).\n\n|   No | Author (Year)/ Country               | Duration (Minutes/ Length)                     | Frequency Per Week         | Participants                                                                       | Study Design - EXP   | Study Design - Pre- test   | Study Design - Post- test F-Up   | Research Instrument Components/ Content of PMR   | Outcome Measures (with Effect Size Where Available)                                       | Key Finding      | of                                                                                           | Quality the Article   |\n|------|--------------------------------------|------------------------------------------------|----------------------------|------------------------------------------------------------------------------------|----------------------|----------------------------|----------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------------|-----------------------|\n|   25 | Korkut et al 66 (2021) Turkey        | 15m + 15m at laboratory/ one session           | Twice in one session only. | 88 nursing students (PMR: 44→41, CG: 44) S: laboratory DO: 3.4%                    | RCT                  | /                          | /                                | STAI                                             | Use the Jacobson's PMR exercise.                                                          | Anxiety (d=0.49) | There is a decrease (↓) in anxiety score at post-test compared to pretest in IG.             | Moderate              |\n|   26 | Kurian et al 67 (2021) India         | N/A                                            | N/A                        | 30 non-teaching staff (PMR: 30) S: N/A DO: 0%                                      | QED                  | /                          | /                                | JSS                                              | N/A                                                                                       | Stress (d=4.31)  | There is a significant decrease (↓) in stress score at post-test compared to pretest.        | Moderate              |\n|   27 | Robb 68 (2000) United States         | 15m at laboratory/ 1 session                   | 1 session only             | 15 university students (PMR: 15) S: Laboratory DO: 0%                              | RCT                  | /                          | /                                | State-anxiety scale of STAI Form Y-1             | Use the Jacobson's PMR exercise.                                                          | Anxiety (d=1.65) | There is a significant decrease (↓) in anxiety score in post-test compared to pretest in IG. | Moderate              |\n|   28 | Toqan et al 69 (2022) Palestine      | 45m Lab room+ 10- 15m at home/ 2 weeks         | 5 days/ week               | 60 nursing students (PMR: 60) S: Lab room and at home DO: 0%                       | QED                  | /                          | /                                | State-anxiety scale of STAI Form Y-1             | Use the Jacobson's PMR exercise by Ramasamy, Panneerselvam, Govindharaj, Kumar, Nayak. 70 | Anxiety (d=4.20) | There is a decrease (↓) in anxiety score at post-test compared to pretest.                   | Moderate              |\n|   29 | Toqan et al 71 (2022) Palestine      | 45m Lab room+ 10- 15m at home/ 2 weeks         | 5 days/ week               | 90 nursing students (PMR: 90) S: Lab room and at home DO: 0%                       | QED                  | /                          | /                                | State-anxiety scale of STAI Form Y-1             | Use the Jacobson's PMR exercise by Ramasamy, Panneerselvam, Govindharaj, Kumar, Nayak. 70 | Anxiety (d=4.57) | There is a decrease (↓) in anxiety score at post-test compared to pretest.                   | Moderate              |\n|   30 | Toqan et al 44 (2022) Palestine      | 45m Lab room+ 10- 15m at home/ 2 weeks         | 5 days/ week               | 48 male nursing students (PMR: 48) S: Lab room and at home DO: 0%                  | QED                  | /                          | /                                | State-anxiety scale of STAI Form Y-1             | Use the Jacobson's PMR exercise by Ramasamy, Panneerselvam, Govindharaj, Kumar, Nayak. 70 | Anxiety (d=0.90) | There is a decrease (↓) in anxiety score at post-test compared to pretest.                   | Moderate              |\n|   31 | Vaughn et al 72 (1989) United States | 15m at home/ 4 weeks + 1 session at lunch room | 3 days/ week               | 20 female clerical workers (PMR: 10→8, CG: 10) S: At home and Lunch Room DO: 10.0% | QED                  | /                          | /                                | SRI                                              | Use the Jacobson's PMR exercise by Jacobson. 18                                           | Stress           | There is a significant decrease (↓) in stress score in IG compared to CG at post-test.       | Moderate              |",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 (Continued).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Abbreviations: PMR, Progressive Muscle Relaxation; EXP, Experiment; F-Up, Follow up; S, Setting; DO, Dropouts; RCT, Randomized control trial; QED, Quasi-experimental design; IG, Intervention group; CG, Control group; d, Cohen's d; TAS, Test anxiety scale; STAI, State-trait anxiety inventory; SAS, Zung Self-Rating Anxiety Scale; DASS, Depression; anxiety; stress scale; BDI, Beck Depression Inventory; CSAI-2, Competitive State Anxiety Inventory-2; RESTQ-Sport, Recovery-Stress Questionnaire for Athletes; PSS, Perceived Stress Scale; JSS, Job Stress Scale; GDS, Geriatric Depression Scale; WSS, Work Stress Scale; SRSI3, Smith Relaxation States Inventory 3; BDS, Beck Depression Scale; SRLE, Survey of Recent Life Experiences; STAS, Sarason test anxiety scale; EMAS-S, Endler Multidimensional Anxiety Scale-State; SQST, Smith Quick Stress Test; SRI, Stress Response Index.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 8
+  },
+  {
+   "label": "table",
+   "text": "Table 3 Progressive Muscle Relaxation with Other Interventions\nTable 3 Progressive Muscle Relaxation with Other Interventions\n\n|   No | Author (Year)/ Country          | Other Intervention                                                      | Duration (Minutes/ Length)                            | Frequency Per Week                         | Participants                                                       | Study - EXP   | Study - Pre- test   | Design - Post- test   | Study - F-Up   | Research Instrument   | Components/ Content of Intervention                                                                      | Outcome Measures (with Effect Size where Available)    | Key Finding                                                                                                                                  | Quality of the Article   |\n|------|---------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------|---------------|---------------------|-----------------------|----------------|-----------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|\n|    1 | Alphonsa et al 73 (2018) India  | Relaxation Therapy (RT) - Music, physical exercise and laughter therapy | 60m/ 4 weeks                                          | Twice a day for 7 days/ week               | 20 elderlies (PMR + RT: 10, CG: 10) S: N/A DO: 0%                  | QED           | /                   | /                     | / (4 months)   | DASS-21               | Use Jacobson's PMR exercise + RT (background music, followed by physical exercise and laughter therapy). | Stress, Anxiety, Depression                            | There is a decrease (↓) in stress, anxiety and depression scores at post-test and F-up compared to the pretest (in IG).                      | High                     |\n|    2 | Corbett et al 74 (2019) Ireland | Stress Control (SC)                                                     | 15m PMR & SC at home/ 6 weeks + 1 session at the hall | N/A                                        | 35 adults (PMR + SC: 35→22→20) S: At home and a hall DO: 37.1%     | QED           | /                   | /                     | / (3 months)   | DASS-21               | Use Jacobson's PMR exercise + SC program by White. 75                                                    | Stress (d=0.72), Anxiety (d=0.41), Depression (d=0.27) | There is a decrease (↓) in stress, and anxiety but not (=) depression score at post-test and F-Up compared to pretest (in IG).               | High                     |\n|    3 | Merakou et al 76 (2019) Greece  | Counselling Services (CS)                                               | 12m PMR at home+ 4 45m PMR session + 8 CS/ 8 weeks    | PMR twice a day for 7 days + CS once/ week | 50 unemployed individuals (PMR + CS: 30, CG: 20) S: At home DO: 0% | QED           | /                   | /                     |                | DASS-21               | Use the Jacobson's PMR exercise + CS (provided by the mental health professionals of the PEPSAEE).       | Stress (d=1.13), Anxiety (d=1.03), Depression (d=0.74) | There is a decrease (↓) in stress, anxiety and depression score 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG). | High                     |",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Table 3 Progressive Muscle Relaxation with Other Interventions",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "(Continued)",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Table 3 (Continued).",
+   "page": 10
+  },
+  {
+   "label": "table",
+   "text": "|   No | Author (Year)/ Country               | Other Intervention                  | Duration (Minutes/ Length)                       | Frequency Per Week                                 | Participants                                                                         | Study Design - EXP   | Study Design - Pre- test   | Study Design - Post- test   | Study Design - F-Up   | Research Instrument        | Components/ Content of Intervention                                                                                                                                                             | Outcome Measures (with Effect Size where Available)   | Key Finding                                                                                                                                                                                   | Quality of the Article   |\n|------|--------------------------------------|-------------------------------------|--------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------|----------------------|----------------------------|-----------------------------|-----------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|\n|    4 | Ortega et al 77 (2021) Spain         | Cognitive Behavioural Therapy (CBT) | 120m session/ 5 weeks                            | Once / week                                        | 44 nursing students (PMR + CBT: 15, CG: 29) S: N/A DO: 0%                            | QED                  | /                          | /                           | / (3 months)          | KEZKAK questionnaire, STAI | Use the Jacobson's PMR exercise + CBT (emotional control, empathy, assertiveness, self- esteem, problem solving and time management)                                                            | Stress, Anxiety                                       | There is a significant decrease (↓) in stress and state anxiety score in IG compared to CG at post-test and at F-Up.                                                                          | High                     |\n|    5 | Singer et al 78 (1988) United States | Stress management skills (SMS)      | At home + 120m session at meeting room/ 10 weeks | Once a day for 7 days + once at meeting room/ week | 36 caregivers (PMR + SMS: N/ A, CG: N/A) S: meeting room DO: N/A                     | QED                  | /                          | /                           |                       | STAI, BDI                  | Use the Jacobson's PMR exercise by Bernstein, Borkovec 35 + SMS (self-monitoring of stressful events and physiological reactions to them + modification of cognitions associated with distress) | Anxiety (d=0.59), Depression (d=0.53)                 | There is a significant decrease (↓) in anxiety and depression score in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG). 3. CG depression increase (↑) slightly at | High                     |\n|    6 | Sundram et al 79 (2016) Malaysia     | Deep Breathing (DB)                 | 15m at quiet room/ session (5x every 2 months)   | N/A                                                | 761 male automotive workers (PMR + DB: 468→148, CG: 293→221) S: Quiet room DO: 51.5% | QED                  | /                          | /                           | / (5x every 2 months) | DASS-21                    | Use the Jacobson's PMR exercise by Jacobson 18 + DB.                                                                                                                                            | Stress, anxiety, depression (Total: d=0.60)           | post-test There is a significant decrease (↓) in stress score but not (=) anxiety and depression in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG).              | High                     |",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 10
+  },
+  {
+   "label": "table",
+   "text": "|   7 | Gallego et al 80 (2020) Spain       | Music Therapy (MT)          | 60m at classroom/1 session                                | 1 session only                    | 112 nursing students (PMR + MT: 56, CG: 56) S: Classroom DO: 0%        | RCT   | /   | /   |             | Heart rate                           | Use Jacobson's PMR exercise + MT (use a CD player with volume established at 50- 60 decibels).     | Stress                             | There is a significant decrease (↓) in heart rate (indicating a reduction of stress) in 1. IG compared to CG at post-test. 2. post-test compared to pretest (in IG).   | Moderate   |\n|-----|-------------------------------------|-----------------------------|-----------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------|-------|-----|-----|-------------|--------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|\n|   8 | Korkut et al 66 (2021) Turkey       | Nature sound (NS)           | 15m + 15m at laboratory/ one session                      | Twice in one session only.        | 89 nursing students (PMR + NS: 45→42, CG: 44) S: laboratory DO: 3.4%   | RCT   | /   | /   |             | STAI                                 | Use the Jacobson's PMR exercise + the NS (rain, birds, wind, forest, ocean, waterfall, and stream) | Anxiety (d=1.14)                   | There is a decrease (↓) in anxiety score at post-test compared to pretest in IG.                                                                                       | Moderate   |\n|   9 | Masih et al 81 (2019) United States | Mindfulness Meditation (MM) | 20m PMR & MM at home + 30m session at laboratory/ 8 weeks | 7 days practice + 1 session/ week | 36 adults (PMR + MM: 19→17, CG: 17) S: At home and Laboratory DO: 5.6% | RCT   | /   | /   |             | PSS, Trait- anxiety scale of STAI    | Use the Jacobson's PMR exercise by Bernstein, Borkovec 35 + MM by Kabat-Zinn. 82                   | Stress (d=0.40), Anxiety (d= 0.15) | There is a decrease (↓) in stress but not (=) trait anxiety score at post-test compared to pretest (in IG).                                                            | Moderate   |\n|  10 | Ozgundondu & Metin 83 (2019) Turkey | Music Therapy (MT)          | 20m at classroom/ 8 weeks                                 | Once/ week                        | 63 nurses (PMR + MT: 32→28, CG: 31→28) S: Classroom DO: 0%             | RCT   | /   | /   | / (1 month) | PSS                                  | Use the Jacobson's PMR exercise + MT (relaxing music developed by Daniel Kobialka)                 | Stress (d=2.06)                    | There is a significant decrease (↓) in stress score in IG compared to CG at post-test and at F-Up.                                                                     | Moderate   |\n|  11 | Robb 68 (2000) United States        | Music Therapy (MT)          | 15m at laboratory/ 1 session                              | 1 session only                    | 15 university students (PMR + MT: 15) S: Laboratory DO: 0%             | RCT   | /   | /   |             | State-anxiety scale of STAI Form Y-1 | Use the Jacobson's PMR exercise + MT (use Daniel Kobialka's Going Home Medley). 84                 | Anxiety (d=2.10)                   | There is a significant decrease (↓) in anxiety score in post-test compared to pretest.                                                                                 | Moderate   |",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 11
+  },
+  {
+   "label": "table",
+   "text": "Table 3 (Continued).\nTable 3 (Continued).\n\n|   No | Author (Year)/ Country                     | Other Intervention    | Duration (Minutes/ Length)                                                           | Frequency Per Week                                         | Participants                                                                              | EXP   | Pre- test   | Study - Post- test   | Design Research Instrument - F-Up   | Components/ Content of Intervention   | Outcome Measures (with Effect Size where Available)                                                         | Key Finding         |                                                                                                              | Quality of the Article   |\n|------|--------------------------------------------|-----------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|-------------|----------------------|-------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------|--------------------------|\n|   12 | Tsiouli et al 85 (2014) Greece             | Deep Breathing (DB)   | 37m at home/ 8 weeks                                                                 | Twice a day for 7 days/ week                               | 80 caregivers (PMR + DB: 40→19, CG: 40→25) S: at home DO: 45.0%                           | RCT   | /           | /                    | PSS                                 |                                       | Use the Jacobson's PMR exercise + DB.                                                                       | Stress (d=1.87)     | There is a significant decrease (↓) in stress score at post-test compared to pretest in IG.                  | Moderate                 |\n|   13 | Tsitsi et al 86 (2017) Cyprus & Greece     | Guided Imagery (GI)   | 25m at home and 25m at private room/ 3 weeks                                         | Once a day for 7 days at home + once at private room/ week | 54 caregivers (PMR + GI: 29, CG: 25) S: at home and private room DO: 0%                   | RCT   | /           | /                    |                                     | HAM-A Silva.                          | Use the Jacobson's PMR exercise + GI (envisioning of a comfortable and restful place on the beach) by da 87 | Anxiety (d=0.37)    | There is a decrease (↓) in anxiety score at post-test compared to pretest (in IG).                           | Moderate                 |\n|   14 | Valarmathi & Vijayalakshmi 88 (2016) India | Deep Breathing (DB)   | 30m at home/ 4 weeks                                                                 | Twice a day for 7 days/ weeks                              | 54 caregivers (PMR + DB: 60) S: at home DO: 0%                                            | QED   | /           | /                    | N/A                                 |                                       | Use the Jacobson's PMR exercise (20m) + DB (10m).                                                           | Stress (d=2.24)     | There is a significant decrease (↓) in stress score at post-test compared to pretest.                        | Moderate                 |\n|   15 | Wang et al 89 (2021) China                 | Health education (HE) | 90m of HE, PMR demonstration and PMR practice in 24 sessions + 30m at home/ 48 weeks | Twice a day for 7/ week                                    | 110 caregivers of patients (EMR: 55, CG: 55) S: rehabilitation centre and at home DO: N/A | RCT   | /           | /                    | / (3,6,12months)                    | HADS                                  | Use the Jacobson's PMR exercise by Kieffer 90 + health education on the acute stroke patients.              | Anxiety, depression | There is a significant decrease (↓) in anxiety and depression score in IG compared to CG at 6 and 12 months. | Moderate                 |",
+   "page": 12
+  },
+  {
+   "label": "caption",
+   "text": "Table 3 (Continued).",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Abbreviations: PMR, Progressive Muscle Relaxation; EXP, Experiment; F-Up, Follow up; S, Setting; DO, Dropouts; RCT, Randomized control trial; QED, Quasi-experimental design; IG, Intervention group; CG, Control group; d, Cohen's d; EMR, Education & Muscle Relaxation; HE, Health Education; HADS, Hospital Anxiety and Depression Scale; NS, Nature sound; DASS-21, Depression; anxiety; stress scale-21; CBT, Cognitive Behavioral Therapy; MT, Music Therapy; CS, Counseling services; PEPSAEE, Pan-Hellenic Association for Psychosocial Rehabilitation and Professional Reintegration; MM, Mindfulness Meditation; PSS, Perceived Stress Scale; STAI, State-trait anxiety inventory; SC, Stress Control; RT, Relaxation Therapy; GI, Guided Imagery; HAM-A, Hamilton's Anxiety Scale; DB, Deep Breathing; BDI, Beck Depression Inventory; SMS Stress management skills.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 13
+  },
+  {
+   "label": "caption",
+   "text": "Figure 1 List of Countries Involved (16 Countries).",
+   "page": 13
+  },
+  {
+   "label": "caption",
+   "text": "Figure 2 PRISMA flow diagram for the included and excluded studies.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Notes: PRISMA figure adapted fromPage MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, Shamseer L, Tetzlaff JM, Akl EA, Brennan SE, Chou R. The",
+   "page": 13
+  },
+  {
+   "label": "caption",
+   "text": "PRISMA 2020 statement: an updated guideline for reporting systematic reviews. International journal of surgery. 2021 Apr 1;88:105906. Creative Commons. 23",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "DovePress 357",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Quality of the Included Studies",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Two independent reviewers conducted a quality assessment of each included study. As a results, twenty-four (24) studies were rated as high quality, whereas twenty-two (22) studies were rated as moderate quality. The quality of the studies is presented in the extraction tables from high to moderate quality (Table 2 and Table 3).",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Standalone Progressive Muscle Relaxation (PMR) Studies Vs PMR Combined with Other Interventions Studies",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Progressive Muscle Relaxation (PMR) Studies",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Following the completion of the systematic review procedure, the reviewers identified thirty-one (31) papers concentrat­ ing on Progressive Muscle Relaxation (PMR), laying a complete framework for the synthesis and interpretation of the data. The summary of the systematic findings of the studies can be referred on Table 2. The efficacy of each outcome measures was illustrated in Figure 3.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Randomized Controlled Trial (RCT)",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Using the \"Revised Randomized Controlled Trial Checklist\", 28 the reviewers found three (3) studies of high quality, 43,54,57 and seven (7) studies of moderate quality. 59-62,64,66,68",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Following an exhaustive review, major findings demonstrated a significant trend in three (3) studies 43,59,64 that reported a substantial decrease in stress outcomes among adult volunteers, nurses and university students at posttest compared to pretest within the PMR group. Moreover, one (1) study 64 among university students discovered the potential efficacy of PMR, finding a substantial decrease in stress outcomes in the PMR group compared to the control group at the posttest evaluations. Nonetheless, one (1) study 59 found no significant reduction in stress levels among adult volunteers in the PMR group when compared to the control group at the post-test intervention stage.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "For the anxiety outcomes, the systematic review's key findings revealed that six (6) studies 43,57,59,62,66,68 showed a significant reduction in anxiety levels on adult volunteers, nurses, and university students at posttest compared to pretest within the PMR group. Additionally, two (2) studies 59,62 further underscored the potential efficacy of PMR on anxiety among adult volunteers, and nursing students, respectively, finding a significant outcome in the PMR group in comparison to the control group at the posttest assessments.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "In terms of depression, the key outcomes revealed that in four (4) studies 54,59-61 among adult volunteers, caregivers of elders, and elderly women, there was a significant decrease in depression post-test compared to pretest within the PMR group. Two (2) studies, 60,61 which further support the evidence for PMR, found a significant decrease in depressive outcomes in the PMR group compared to the control group among the caregivers of elders, and elderly women at the post-test measurement. However, a notable exception was observed in one (1) study 59 where there is no significant reduction in depression levels among adult volunteers in the PMR group compared to the control group at the post-test stage, adding a layer of complexity to the overall findings. The researcher points out, emphasizing the implications of the study's findings, that the PMR intervention may lack the requisite potency to effectively improve depression outcomes, underscoring the need for more comprehensive or integrated procedures. These results emphasize the potential of PMR as an effective relaxation training in the therapy for stress, anxiety, and Powered by TCPDF (www.tcpdf.org)",
+   "page": 14
+  },
+  {
+   "label": "caption",
+   "text": "Figure 3 The Efficacy of PMR on Stress, Anxiety and Depression.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "depression. In numerous studies, the consistent reduction in stress, anxiety, and depression produces in the PMR group indicates its efficacy as a relaxing technique on adults' population.",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Quasi-Experimental Design (QED)",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Using the \"Revised Checklist for Quasi-Experimental Studies\", 28 the reviewers identified fifteen (15) studies of high quality, 34,36,38,40-42,45-47,49-53,56 and six (6) studies of medium quality. 44,58,67,69,71,72",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Following a thorough assessment, nine (9) studies 38,40,41,45,46,51,52,58,67 revealed noteworthy insights, indicating a discernable pattern of considerable drop in stress outcomes posttest in contrast to pretest within the PMR group among the female health care workers, nurses, university students and employees. Moreover, two (2) more studies 36,72 reported a significant reduction in stress outcomes in the PMR group compared to the control group among the athletes and female clerical workers, adding weight to the information at hand.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Next, when anxiety outcomes were analyzed, seven (7) studies 42,44,50,52,56,69,71 reported a significant decrease in levels of anxiety among university students, and nurses at posttest compared to pretest in the PMR group, highlighting the effective role of PMR in anxiety reduction. Besides, two (2) further studies 36,56 supported the discussion for PMR by demonstrating a substantial reduction in anxiety outcomes among athletes, and nursing students in the PMR group compared to the control group in the posttest phase. Interestingly, two (2) studies 42,50 conducted among university students and nurses, respectively, found a significant reduction in anxiety in the control group, a finding that calls for more research to uncover the underlying causes. However, in contrast to the great majority of the findings, three (3) studies 34,49,51 found no significant reduction in anxiety levels among university students, beginner athletes, and female nurses, respectively, at posttest compared to pretest in the PMR group.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Lastly, in analyzing depression outcomes, three (3) studies 47,51,53 found a notable decrease in depression levels among the elders, and female nurses' posttest compared to pretest in the PMR group, showing PMR's potential efficacy in battling depression. In addition, one (1) study among elders 47 reported a significant reduction in depression outcomes in the PMR group compared to the control group at the posttest stage. PMR has significant potential for cultivating mental well-being as a non-drug-based intervention, particularly or adults dealing with stress, anxiety, and depression.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Overall, the comprehensive analysis of the PMR studies in this review reveals a spectrum of Cohen's d effect sizes, spanning from d=0.29 to d=4.57 for stress, suggesting a range from small to large impact. Similarly, the effect sizes for anxiety fall between d=0.25 and d=2.54, indicative of a spectrum from small to large, while for depression, the range of d=0.58 to d=1.95 suggests a medium-to-large effect size. The effect sizes for each PMR studies are displayed in Table 2.",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "PMR Combined with Other Interventions Studies",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Following a thorough systematic analysis, the reviewers identified fifteen (15) studies that explicitly explore the effects of Progressive Muscle Relaxation (PMR) in combination with other interventions that include: Health education, 89 Nature Sound, 66 Music therapy, 68,80,83 Counseling Services, 76 Other relaxation techniques, 73,77,81,86 Stress control skills, 74,78 and Deep breathing. 79,85,88 The summary of the systematic findings can be referred on Table 3. The efficacy of each outcome measures was illustrated in Figure 4.",
+   "page": 15
+  },
+  {
+   "label": "caption",
+   "text": "Figure 4 The Efficacy of PMR combined with other interventions on Stress, Anxiety and Depression.",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "DovePress 359",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "Randomized Controlled Trial (RCT)",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Using the \"Revised Randomized Controlled Trial Checklist\", 28 the reviewers found eight (8) studies of moderate quality. 66,68,80,81,83,85,86,89",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Upon the completion of an in-depth review, three (3) different research 80,81,85 evaluating stress outcomes found a significant decrease in stress levels among nursing students, general adults, and caregivers' posttest compared to pretest in the group receiving PMR paired with music therapy (MT), mindfulness meditation (MM), and deep breathing (DB), respectively. Furthermore, two (2) additional studies 80,83 found a significant reduction in stress outcomes in the PMR group, where PMR was combined with MT, when compared to the control group among nursing students, and nurses, respectively, at the posttest stage, adding to the evidence for the integrative approach.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "When it comes to anxiety outcomes, three (3) studies 66,68,86 clearly demonstrate a significant decrease in levels of anxiety among university students, and caregivers following posttest compared to pretest within the group receiving PMR when coupled with nature sound (NS), MT, and guided imagery (GI), respectively, reinforcing the efficacy of this combined therapeutic approach in managing anxiety. In addition, a study among caregivers of patients 89 found a substantial reduction in anxiety outcomes in the group receiving PMR paired with health education (HE), when compared to the control group at posttest, lending credence to these findings. Nonetheless, one (1) study 81 found no statistically significant decrease in levels of anxiety among general adults at posttest compared to pretest in the group that received PMR alongside MM, highlighting the complexity and variability of coping with anxiety.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "In terms of depressive outcomes, only one (1) study 89 demonstrating a significant reduction in depressive outcomes among caregivers of patients at the posttest stage in the group receiving PMR in combination with HE, when compared to the control group.",
+   "page": 16
+  },
+  {
+   "label": "section_header",
+   "text": "Quasi-Experimental Design (QED)",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Using the \"Revised Checklist for Quasi-Experimental Studies\", 28 the reviewers identified six (6) studies of high quality, 73,74,76-79 and one (1) study of moderate quality. 88",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Following an extensive assessment, five (5) studies 73,74,76,79,88 found a substantial decline in levels of stress among elderlies, general adults, unemployed individuals, male automotive workers, and caregivers, respectively, at the posttest stage compared to pretest in groups receiving PMR alongside relaxation therapy (RT): music, physical exercise and laughter therapy, stress control (SC), counseling services (CS), and DB, respectively, highlighting the significant efficacy of this integrated approach in alleviating stress. Furthermore, three (3) other studies 76,77,79 strengthen these findings, indicating a significant reduction in stress outcomes among nursing students, unemployed individuals, and male automotive workers at the posttest phase in groups where PMR was administered in conjunction with cognitive behavioral therapy (CBT), CS, and DB, respectively, when compared to the control group.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "In terms of anxiety outcomes, four (4) studies 73,74,76,78 reported a substantial reduction in levels of anxiety among elderlies, general adults, unemployed individuals, and caregivers, respectively, in the posttest as compared to the pretest in groups receiving a combination of PMR with RT: music, physical exercise and laughter therapy, SC, CS, and stress management skills (SMS), respectively. Besides, three (3) further papers 76-78 found a substantial reduction in depressive outcomes among unemployed individuals, nursing students, and caregivers at posttest in the group receiving PMR paired with CS, CBT, and SMS, respectively, when compared to the control group. However, one (1) study 79 contradicted the dominant discoveries, presenting a lack of significant decrease in levels of anxiety among male automotive workers at posttest compared to pretest, and also when compared with the control group, in the group that received PMR combined with DB, indicating the need for a more comprehensive investigation of this therapeutic approach.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "When analyzing depression outcomes, reports from three (3) studies 73,76,78 revealed a significant reduction in levels of depression among elderlies, unemployed individuals, and caregivers, respectively, at the posttest compared to the pretest within the group that received PMR in combination with RT: music, physical exercise and laughter therapy, CS, and SMS, respectively. Along with the previous findings, another two (2) studies 76,78 have reported a substantial reduction in depressive outcomes among unemployed individuals, and caregivers, respectively, at the posttest stage in the group that got PMR integrated with CS, and SMS, respectively, when compared to the control group. Two (2) studies, 74,79 however, deviated from the majority of outcomes, presenting no significant decrease in symptoms of Powered by TCPDF (www.tcpdf.org)",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "depression among general adults and male automotive workers, respectively, at posttest compared to pretest in the group receiving PMR alongside SC, and DB, respectively, and also when compared with the control group. Unexpectedly, one (1) study 78 found a significant increase in levels of depression among adults in the wait-list control group at posttest, where no interventions were provided. It is a finding that warrants additional investigation to determine the underlying causes, and therefore highlighting the need for further studies.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Overall, for the PMR combined with other intervention studies, the Cohen's d effect sizes are ranging from d=0.40 to d=2.24 for stress, signifying an impact spectrum spanning from small to large. Similarly, the effect sizes for anxiety, falling between d=0.15 and d=2.10, indicate a spectrum from small to large impact. In the case of depression, the range of d=0.27 to d=0.74 suggests a small-to-medium effect size. The effect sizes for each study are displayed in Table 3.",
+   "page": 17
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "This paper presents a systematic literature review on the efficacy of Progressive Muscle Relaxation (PMR) in adults for stress, anxiety, and depression. Our review identified 46 studies, from sixteen (16) countries, covering 3402 total sample. This review is a pioneering endeavor in that it is the first to systematically assembled and report findings relating to the efficacy of PMR and PMR combined with other interventions among general adult, thus contributing to the current body of knowledge. Furthermore, this review is notable for its comprehensive approach, providing studies employing Randomized Controlled Trial (RCT) and Quasi-Experimental Design (QED) research designs. As a result, it provides a thorough view of the many approaches used to examine the efficacy of PMR. This comprehensive approach not only broadens the spectrum of evidence reviewed but also allows for the analysis of a diverse variety of study designs, resulting in a deeper comprehension of PMR's conceivable effect. Besides, this review attempted to look at the impact of PMR as a stand-alone intervention as well as those that explore PMR in combination with other interventions. By presenting in this way, this review promotes a broad knowledge of PMR's efficacy in various therapeutic conditions by offering evidence from both methods. The comparison of PMR itself versus PMR paired with various interventions may aid in identifying potential synergistic benefits, directing future study and potential therapeutic application.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Based on the outcome measures, overall, PMR has been demonstrated to be beneficial in reducing stress, anxiety, and depression in adults. When PMR is combined with other interventions, the combined techniques have also consistently exhibited enhanced efficacy, particularly for stress (n=10) and anxiety (n=9). There are a total of 24 studies that support PMR's efficacy in reducing stress, 21 studies in reducing anxiety, and 11 studies in reducing depression, either on its own or in combination with other interventions.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "There is a consistent trend in this review that emerges where the majority of studies using Jacobson's Progressive Muscle Relaxation (PMR) exercise show that it is beneficial in reducing stress, anxiety, and depression in adults, whether used in its original form 18 or as adapted by later research. 35,37,55,63,70,90 In our review, we discovered that when people engaged in PMR exercises on their own in private spaces, the lengths of the sessions varied, with the lowest session lasting 5 minutes 45 and the longest lasting 28 minutes. 54,61 When combining with other interventions or variables, the shortest duration becomes 15 minutes, 74 while the longest is 37 minutes. 85 In our analysis, we observed that the duration of the PMR exercises, whether shorter or longer, did not significantly influence the outcome measures. Our study shows that there was a pervasive pattern of decreasing mental health outcomes across time. Moreover, our findings show that the regularity, whether daily or only a few days a week, does not significantly change the outcomes when analyzing the frequency of PMR implementation. Regardless of the exact frequency of PMR sessions, the overall trend in the majority of studies consistently demonstrates a reduction in outcome measures.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "When delving deeper into individual outcome measures, for stress, one (1) study 59 found no significant reduction in stress level when compared to the control group at posttest. For anxiety, there are five (5) studies 34,49,51,79,81 reported no reduction in anxiety at the posttest. Interestingly, there are two (2) studies 42,50 that show a significant reduction of anxiety in the control group which calls for more research to uncover the underlying causes. Lastly, the majority of the studies on depression involved elderly people and those who looked after patients and senior citizens. There are three studies 59,74,79 revealed no significant reduction compared to control groups. Alarmingly, one study 78 even indicated an increase in depression levels post-intervention of a wait-list control group.",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "For the record, we found an interesting pattern in our thorough review. It seems that statistically insignificant results tend to occur when PMR is explored in the context of a general adult population, without defining or focusing on specific subgroups. 59,74,81 This recurring trend of non-significant results in wider adult populations raises the possibility that the efficacy of PMR may depend on particular demographic, psychographic, or clinical traits that are unusually absent from a generalized group. However, it does not reduce PMR's potential benefit in specific therapeutic applications, where its efficacy can be clearly seen. Future studies should investigate the efficacy of PMR in specific demographics or under predetermined circumstances to identify where its advantages are most noticeable.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "When measuring the efficacy of PMR combined with other interventions versus PMR as a standalone relaxation technique, there are two (2) studies in this review 66,68 that found combining PMR with other variables to be more effective compared to the PMR training alone in their respective study. Korkut, Ülker, Çidem, Şahin 66 found combining PMR with nature sound to be more effective in reducing anxiety among the nursing students, while Robb 68 highlighted that combination of PMR with music to be more effective in reducing anxiety among the university students compared to PMR alone.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Because of its diverse approach, PMR and its combination with other therapies appear to be viable interven­ tions for stress, anxiety, and depression in adults. Combining PMR with different interventions may simulta­ neously access several relaxing mechanisms. Moreover, additional interventions might concentrate on other psychological or physiological aspects in addition to PMR, which can only alleviate muscular tension and relaxation. Compared to employing PMR alone, this holistic approach may provide a more comprehensive course of relaxation that potentially results in increased efficacy. With the assistance of an increasing amount of evidence and research, 66,74,76,79 these interventions provide an approachable and well-researched way to manage stress, anxiety, and depression.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "There is certain limitation to the current review that could be addressed in future research. First, while this research provides invaluable findings, it is crucial to highlight that due to limited resource, it only included studies in English from English-language databases. This linguistic and database limitation may unintentionally exclude important studies published in different languages or databases. Future reviews may thereby strengthen the extent of coverage and generalizability of data by including papers in other languages and expanding the search to non-English databases. This will ensure a more thorough understanding of the efficacy of PMR among adults for stress, anxiety, and depression in varied cultural and language areas.",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "Conclusion",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "In conclusion, there has been large amount of evidence that supports the efficacy of PMR in reducing stress, anxiety, and depression among adults. Studies also shows that PMR combined with other interventions are more effective compared when applied by itself. Given these findings, researchers could find it beneficial to consider combining or integrating PMR with other interventions to enhance its potential in reducing stress, anxiety, and depression. Future research could also expand on the current review's findings by incorporating a more targeted goal such as focusing PMR interventions among the wider working population, rather than to mostly health care workers, which may further refine our knowledge of PMR's potential advantages and appropriate implementation in diverse circumstances.",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgment",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Authors acknowledge the Ministry of Higher Education (MoHE) for funding under the Fundamental Research Grant Scheme (FRGS) (FRGS/1/2020/SS0/UTM/02/23).",
+   "page": 18
+  },
+  {
+   "label": "section_header",
+   "text": "Disclosure",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "The authors report no conflicts of interest in this work.",
+   "page": 18
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "World Health Organization. Mental Health. World health organization; 2022. Available from: https://www.who.int/news-room/fact-sheets/detail/ mental-health-strengthening-our-response. Accessed January 18, 2024.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Meshram P, Rambola RK. Diagnosis of depression level using multimodal approaches using deep learning techniques with multiple selective features. Exp Syst. 2023;40(4):e12933. doi:10.1111/exsy.12933",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Fergusson DM, Horwood LJ, Ridder EM, Beautrais AL. Subthreshold depression in adolescence and mental health outcomes in adulthood. Arch. Gen. Psychiatry. 2005;62(1):66-72. doi:10.1001/archpsyc.62.1.66",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Putra PY, Fithriyah I. Psychoeducation on adherence to treatment of schizophrenia patient during covid-19 pandemic era. Indian J Med Forensic Med Toxicol. 2021;15(4):2138-2144.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Bergdahl J, Bergdahl M. Perceived stress in adults: prevalence and association of depression, anxiety and medication in a Swedish population. Stress Health. 2002;18(5):235-241. doi:10.1002/smi.946",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Wahed WYA, Hassan SK. Prevalence and associated factors of stress, anxiety and depression among medical Fayoum University students. Alexandria Journal of Medicine. 2017;53(1):77-84. doi:10.1016/j.ajme.2016.01.005",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "World Health Organization. Other Common Mental Disorders: Global Health Estimates. Geneva: World Health Organization; 2017:24.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "American Psychiatric Association D, Association AP. Diagnostic and Statistical Manual of Mental Disorders: DSM-5. Washington, DC: American psychiatric association; 2013.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Khir, SM, Yunus, WMAWM, Mahmud, N, Arif, LSM. Relationship Between Sleep Deprivation And Mental Health Problems Among Management University Students. Jurnal Kemanusiaan. 2020;18(2):46-57.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Dutta G, Chutia U, Singh B, et al. Psychological-clinical intercession and behaviour therapy techniques for active mindfulness to decrease stress and negative affect on mental health: lensing socio-legal angles and SDG 3-good health and well-being. J Reatt Therap Develop Divers. 2023;6 (10s):1001-1012.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "World Health Organization. 6 ways to take care of your mental health and well-being this World Mental Health Day. World Health Organization; 2021. Available from: https://www.who.int/westernpacific/about/how-we-work/pacific-support/news/detail/07-10-2021-6-ways-to-take-care-ofyour-mental-health-and-well-being-this-world-mental-health-day. Accessed January 18, 2024.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Rainforth MV, Schneider RH, Nidich SI, Gaylord-King C, Salerno JW, Anderson JW. Stress reduction programs in patients with elevated blood pressure: a systematic review and meta-analysis. Curr Hypertens Rep. 2007;9(6):520-528. doi:10.1007/s11906-007-0094-3",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Conrad A, Roth WT. Muscle relaxation therapy for anxiety disorders: it works but how? J Anxi Dis. 2007;21(3):243-264. doi:10.1016/j. janxdis.2006.08.001",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Melo-Dias C, Lopes RC, Cardoso DFB, Bobrowicz-Campos E, Apóstolo JLA. Schizophrenia and progressive muscle relaxation-A systematic review of effectiveness. Heliyon. 2019;5(4):e01484. doi:10.1016/j.heliyon.2019.e01484",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Tian X, Tang R-Y, L-L X, et al. Progressive muscle relaxation is effective in preventing and alleviating of chemotherapy-induced nausea and vomiting among cancer patients: a systematic review of six randomized controlled trials. Support Care Cancer. 2020;28:4051-4058. doi:10.1007/ s00520-020-05481-2",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Torales J, O'Higgins M, Barrios I, González I, Almirón M. An overview of Jacobson's progressive muscle relaxation in managing anxiety. Revista Argentina de Clínica Psicológica. 2020;29(3):17.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Khir SM, Mahmud N, Farok NH A Systematic Review on Academicians' job stress risk factors in public higher education institutions in the Asia region. JURNAL PSIKOLOGI MALAYSIA. 2022;36(1)",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Jacobson E. Progressive Relaxation. Chicago: University of chicago press; 1938.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Gangadharan MP, Madani MAH. Effectiveness of progressive muscle relaxation techniques on depression, anxiety and stress among undergraduate nursing students. Int J Health Sci Res. 2018;8(2):155-163.",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "20. Jacobson E. Progressive muscle relaxation. J Abnorm Psychol. 1938;75(1):18.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Tan L, Fang P, Cui J, Yu H, Yu L. Effects of progressive muscle relaxation on health-related outcomes in cancer patients: a systematic review and meta-analysis of randomized controlled trials. Complement Therap Clin Pract. 2022;101676. doi:10.1016/j.ctcp.2022.101676",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Ju W, Ren L, Chen J, Du Y. Efficacy of relaxation therapy as an effective nursing intervention for post-operative pain relief in patients undergoing abdominal surgery: a systematic review and meta-analysis. Exp Ther Med. 2019;18(4):2909-2916. doi:10.3892/etm.2019.7915",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. Syst Rev. 2021;10 (1):89. doi:10.1186/s13643-021-01626-4",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Richardson WS, Wilson MC, Nishikawa J, Hayward RS. The well-built clinical question: a key to evidence-based decisions. Acp j Club. 1995;123 (3):A12-A13. doi:10.7326/ACPJC-1995-123-3-A12",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "United Nations U Who are the youth? United Nations. Youth Web site; 2021. Available from: https://www.un.org/en/global-issues/youth. Accessed January 18, 2024.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Barker TH, Stone JC, Sears K, et al. Revising the JBI quantitative critical appraisal tools to improve their applicability: an overview of methods and the development process. JBI Evidence Synth. 2023;21(3):478-493. doi:10.11124/JBIES-22-00125",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Munn Z, Stone JC, Aromataris E, et al. Assessing the risk of bias of quantitative analytical studies: introducing the vision for critical appraisal within JBI systematic reviews. JBI Evidence Synth. 2023;21(3):467-471. doi:10.11124/JBIES-22-00224",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "JBI. Critical Appraisal Tools. Faculty of health and medical sciences, the university of adelaide; 2023. Available from: https://jbi.global/criticalappraisal-tools. Accessed July 25, 2023.",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Munn Z, Barker TH, Moola S, et al. Methodological quality of case series studies: an introduction to the JBI critical appraisal tool. JBI Evidence Synth. 2020;18(10):2127-2133. doi:10.11124/JBISRIR-D-19-00099",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Whittaker AL, George RP, O'Malley L. Prevalence of cognitive impairment following chemotherapy treatment for breast cancer: a systematic review and meta-analysis. Sci Rep. 2022;12(1):2135. doi:10.1038/s41598-022-05682-1",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Dijkshoorn AB, van Stralen HE, Sloots M, Schagen SB, Visser-Meily JM, Schepers VP. Prevalence of cognitive impairment and change in patients with breast cancer: a systematic review of longitudinal studies. Psycho-Oncology. 2021;30(5):635-648. doi:10.1002/pon.5623",
+   "page": 19
+  },
+  {
+   "label": "list_item",
+   "text": "Vancampfort D, Correll CU, Scheewe TW, et al. Progressive muscle relaxation in persons with schizophrenia: a systematic review of randomized controlled trials. Clin rehabilitat. 2012;27(4):291-298. doi:10.1177/0269215512455531",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "DovePress 363",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Shaffril HAM, Ahmad N, Samsuddin SF, Samah AA, Hamdan ME. Systematic literature review on adaptation towards climate change impacts among indigenous people in the Asia pacific regions. J Cleaner Prod. 2020;258:120595. doi:10.1016/j.jclepro.2020.120595",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Avants SK, Margolin A, Salovey P. Stress management techniques: anxiety reduction, appeal, and individual differences. Imagin Cognit Person. 1990;10(1):3-23. doi:10.2190/WDH5-GEV3-YT3C-95NY",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Bernstein DA, Borkovec TD. Progressive Relaxation Training: A Manual for the Helping Professions. ERIC; 1973.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Battaglini MP, Pessôa Filho DM, Calais SL, et al. Analysis of progressive muscle relaxation on psychophysiological variables in basketball athletes. Int J Environ Res Public Health. 2022;19(24):17065. doi:10.3390/ijerph192417065",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Sándor P. Técnicas de relaxamento. São Paulo: Vetor; 1982.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Chaudhuri A, Ray M, Saldanha D, Bandopadhyay A. Effect of progressive muscle relaxation in female health care professionals. Ann Med Health Sci Res. 2014;4(5):791-795. doi:10.4103/2141-9248.141573",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Varvogli L, Darviri C. Stress management techniques: evidence-based procedures that reduce stress and promote health. Health SciJ. 2011;5(2):74.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Chellew K, Evans P, Fornes-Vives J, Perez G, Garcia-Banda G. The effect of progressive muscle relaxation on daily cortisol secretion. Stress. 2015;18(5):538-544. doi:10.3109/10253890.2015.1053454",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "de Avila Silveira E, de Melo Batista K, da Silva Grazziano E, de Oliveira Bringuete ME, Lima Ed FA. Effect of progressive muscle relaxation on stress and workplace well-being of hospital nurses. Enfermeria Global. 2020;58:485-493.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Dolbier CL, Rush TE. Efficacy of abbreviated progressive muscle relaxation in a high-stress college sample. Int J Stress Manage. 2012;19(1):48.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Ganjeali S, Farsi Z, Sajadi SA, Zarea K. The effect of the demonstration-based progressive muscle relaxation technique on stress and anxiety in nurses caring for COVID-19 patients: a randomized clinical trial. BMC Psychiatry. 2022;22(1):1-9. doi:10.1186/s12888-022-04456-3",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Toqan D, Malak MZ, Ayed A, et al. Effect of progressive muscle relaxation exercise on anxiety among male nursing students undergoing maternity clinical training. Sage Open Nurs. 2022;8:23779608221136644. doi:10.1177/23779608221136644",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Gao L, Curtiss J, Liu X, Hofmann SG. Differential treatment mechanisms in mindfulness meditation and progressive muscle relaxation. Mindfulness. 2018;9:1268-1279. doi:10.1007/s12671-017-0869-9",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Gustainienė L, Perminas A, Pečiulienė I, Jarašiūnaitė G. Effectiveness of progressive muscle relaxation and biofeedback-assisted relaxation in reducing perceived stress among students with regard to personality features. Internat J Psychol. 2015;16:67-91.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Hayati A, Fanisaberi L, Yaghobi T, Pourasghar M, Mousavinasab N, Taraghi Z. The effect of progressive muscle relaxation on depressive symptoms in elderly people. J Nurs & Midwifery Sci. 2020;7(4):248. doi:10.4103/JNMS.JNMS_35_20",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Yousefi S, Taraghi Z, Mousavinasab N. He effect of progressive muscle relaxation on sleep quality in patients with chronic heart failure. Pharmacophore. 2017;2017:1.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Jermaina N, Kusmaedi N, Ma'mun A, Gaffar V, Purnomo E, Marheni E. Effects of relaxation exercises to reduce anxiety in beginner athletes. Sciences. 2022;10(6):1275-1283.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Murphy LR. A comparison of relaxation methods for reducing stress in nursing personnel. Human Factors. 1983;25(4):431-440. doi:10.1177/ 001872088302500409",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Mustafa N, Farzeen M, Kiani S, Khan S, Ain NU, Mumtaz J. Comparison of progressive muscular relaxation (Pmr) and music therapy (Mt) in reducing the anxiety, depression and stress symptoms among nurses. Pakistan Armed Forces Med J. 2021;71(6):1930-1932.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Palkar D, Panigrahi S, Shatadal P, Mehta R. Impact of jacobson's progressive muscle relaxation on stress levels of exam going MBBS students of a medical college in South Gujarat, India. J Clin Diagn Res. 2021;15:8.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Prakash Jha SP, Deaver UJ, Sarin J. Effects of Dance and Movement Therapy (DMT) Versus Progressive Muscle Relaxation (PMR) on quality of life among elderly residing in selected old age homes of Haryana: a quasi experimental study. Indian J Public Health Res Dev. 2020;11(3):893-898.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Yilmaz CK, Aşiret GD, Çetinkaya F, Oludağ G, Kapucu S. Effect of progressive muscle relaxation on the caregiver burden and level of depression among caregivers of older patients with a stroke: a randomized controlled trial. Japan J Nurs Sci. 2019;16(2):202-211. doi:10.1111/jjns.12234",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Boyacıoglu G, Kabakçı E. Relaxation exercises tape. Ankara: Turkish Psychological Association Publications; 2015. Available from: www. psikolog.org.tr. Accessed January 18, 2024.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Zargarzadeh M, Shirazi M. The effect of progressive muscle relaxation method on test anxiety in nursing students. Iranian J Nurs Midwifery Res. 2014;19(6):607.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Zhang Y, Yang -X-X, Luo J-Y, et al. Randomized trial estimating effects of hypnosis versus progressive muscle relaxation on medical students' test anxiety and attentional bias. World J Psych. 2022;12(6):801-813. doi:10.5498/wjp.v12.i6.801",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Allison S, Irwin Hamilton K, Yuan Y, Wallis Hague G. Assessment of progressive muscle relaxation (PMR) as a stress-reducing technique for first-year veterinary students. J Veterin Med Educ. 2020;47(6):737-744. doi:10.3138/jvme.2018-0013",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Barling NR, Raine SJ. Some effects of hypnosis on negative affect and immune system response. Austral J Clin Experi Hypnos. 2005;33(2):160.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Çapacı S, Aşiret GD, Kapucu S. Effect of progressive muscle relaxation on caregiver satisfaction, caregiver burden and depression levels of the caregivers of older patients: a randomized control trial. Eur J Int Med. 2022;50:102114. doi:10.1016/j.eujim.2022.102114",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Gökşin İ, Aşiret GD. The effect of progressive muscle relaxation on the adaptation of elderly women to depression and old age: a randomised clinical trial. Psychogeriatrics. 2021;21(3):333-341. doi:10.1111/psyg.12673",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "İnangil D, Şendir M, Kabuk A, Türkoğlu İ. The effect of music therapy and progressive muscle relaxation exercise on anxiety before the first clinical practice in nursing students: a randomized controlled study. Florence Nightingale J Nurs. 2020;28(3):341. doi:10.5152/FNJN.2020.19075",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Derneği TP. Stresle etkili başa çıkma yöntemi: gevşeme egzersizleri. Türk Psikologl Dern Yayinl Ankara. 2010;2010:1.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Khasky AD, Smith JC. Stress, relaxation states, and creativity. Percept Motor Skills. 1999;88(2):409-416. doi:10.2466/pms.1999.88.2.409",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Smith JC. Relaxation Dynamics: A Cognitive-Behavioral Approach to Relaxation. Champaign: Research Press; 1985.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Korkut S, Ülker T, Çidem A, Şahin S. The effect of progressive muscle relaxation and nature sounds on blood pressure measurement skills, anxiety levels, and vital signs in nursing students. Perspect Psych Care. 2021;57(4):1782-1790. doi:10.1111/ppc.12749",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Kurian B, Hadke D, Kakade R, Kamble D, Kamble R, Kamble S. Assessment of the effectiveness of progressive muscle relaxation therapy on stress among non teaching staff. Biosci Biotechnol Res Communicat. 2021;14(9):55-57. doi:10.21786/bbrc/14.9.12",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Robb SL. Music assisted progressive muscle relaxation, progressive muscle relaxation, music listening, and silence: a comparison of relaxation techniques. J Music Therap. 2000;37(1):2-21.",
+   "page": 20
+  },
+  {
+   "label": "list_item",
+   "text": "Toqan D, Ayed A, Amoudi M, Alhalaiqa F, Alfuqaha OA, ALBashtawy M. Effect of progressive muscle relaxation exercise on anxiety among nursing students in pediatric clinical training. Sage Open Nurs. 2022;8:23779608221090002. doi:10.1177/23779608221090002",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Powered by TCPDF (www.tcpdf.org)",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Ramasamy S, Panneerselvam S, Govindharaj P, Kumar A, Nayak R. Progressive muscle relaxation technique on anxiety and depression among persons affected by leprosy. J Exerc Rehabilit. 2018;14(3):375. doi:10.12965/jer.1836158.079",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Toqan D, Ayed A, Joudallah H, et al. Effect of progressive muscle relaxation exercise on anxiety reduction among nursing students during their initial clinical training: a quasi-experimental study. Inquiry. 2022;59:00469580221097425.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Vaughn M, Cheatwood S, Sirles AT, Brown KC. The effect of progressive muscle relaxation on stress among clerical workers. AAOHN J. 1989;37 (8):302-306.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Alphonsa K, Abdul JA, Vijayaraghavan R, Sailesh KS. Effectiveness of relaxation therapy on psychological variables among the elderly in old-age homes-A pilot study. Nation J Physiol Pharm Pharmacol. 2018;8(6):907-911.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Corbett C, Egan J, Pilch M. A randomised comparison of two 'stress control'programmes: progressive muscle relaxation versus mindfulness body scan. Mental Health Prev. 2019;15:200163.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "White J. Treating Anxiety and Stress: A Psycho-Educational Approach in Groups Using Brief Cognitive Behavioural Therapy. Chichester: Wiley; 2000.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Merakou K, Tsoukas K, Stavrinos G, et al. The effect of progressive muscle relaxation on emotional competence: depression-anxiety-stress, sense of coherence, health-related quality of life, and well-being of unemployed people in Greece: an intervention study. Explore. 2019;15(1):38-46. doi:10.1016/j.explore.2018.08.001",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Ortega RH, Pascual JLG, Araque AMF. Impact of an intervention program with reinforcement on nursing students' stress and anxiety levels in their clinical practices. Nurse Educat Pract. 2021;55:103179.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Singer GH, Irvin LK, Hawkins N. Stress management training for parents of children with severe handicaps. Mental Retardation. 1988;26(5):269.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Sundram BM, Dahlui M, Chinna K. Effectiveness of progressive muscle relaxation therapy as a worksite health promotion program in the automobile assembly line. Industrial Health. 2015;2015:2014-2091.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Gallego-Gómez JI, Balanza S, Leal-Llopis J, et al. Effectiveness of music therapy and progressive muscle relaxation in reducing stress before exams and improving academic performance in Nursing students: a randomized trial. Nurse Education Today. 2020;84:104217.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Masih T, Dimmock JA, Epel E, Guelfi KJ. An 8-week relaxation program consisting of progressive muscle relaxation and mindfulness meditation to reduce stress and attenuate stress-driven eating. Appl Psychol. 2020;12(1):188-211. doi:10.1111/aphw.12179",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Kabat-Zinn J. 20-minute Seated Meditation: On Guided Mindfulness Meditation: Series Two. Shrewsbury, MA: University of Massachusetts Centre for Mindfulness; 2002.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Ozgundondu B, Metin ZG. Effects of progressive muscle relaxation combined with music on stress, fatigue, and coping styles among intensive care nurses. Intens Crit Care Nurs. 2019;54:54-63. doi:10.1016/j.iccn.2019.07.007",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Robb SL, Nichols RJ, Rutan RL, Bishop BL, Parker JC. The effects of music assisted relaxation on preoperative anxiety. J Mus Yher. 1995;32 (1):2-21. doi:10.1093/jmt/32.1.2",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Tsiouli E, Pavlopoulos V, Alexopoulos EC, Chrousos G, Darviri C. Short-term impact of a stress management and health promotion program on perceived stress, parental stress, health locus of control, and cortisol levels in parents of children and adolescents with diabetes type 1: a pilot randomized controlled trial. Explore. 2014;10(2):88-98. doi:10.1016/j.explore.2013.12.004",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Tsitsi T, Charalambous A, Papastavrou E, Raftopoulos V. Effectiveness of a relaxation intervention (progressive muscle relaxation and guided imagery techniques) to reduce anxiety and improve mood of parents of hospitalized children with malignancies: a randomized controlled trial in Republic of Cyprus and Greece. Eur J Oncol Nurs. 2017;26:9-18.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "da Silva FL. Neural mechanisms underlying brain waves: from neural membranes to networks. Electroencephalogr Clin Neurophysiol. 1991;79 (2):81-93. doi:10.1016/0013-4694(91)90044-5",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Valarmathi, Vijayalakshmi. Assessment of effectiveness of selected relaxation strategies on stress and coping among the mothers of differently abled children. Int J Pharm Clin Res. 2016;8(2):130-132.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Wang J, Liu J, Li L, Man J, Yue S, Liu Z. Effect of education and muscle relaxation program on anxiety, depression and care burden in caregivers of acute stroke survivors: a randomized, controlled study. Medicine. 2021;100:4.",
+   "page": 21
+  },
+  {
+   "label": "list_item",
+   "text": "Kieffer M; Progressive relaxation.Dr.E. Jacobson's method. Bulletin de la Societe Des Sciences Medicales du Grand-Duche de Luxembourg. 1978;115(2):83-87.",
+   "page": 21
+  },
+  {
+   "label": "section_header",
+   "text": "Psychology Research and Behavior Management",
+   "page": 21
+  },
+  {
+   "label": "section_header",
+   "text": "Publish your work in this journal",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "Psychology Research and Behavior Management is an international, peer-reviewed, open access journal focusing on the science of psychology and its application in behavior management to develop improved outcomes in the clinical, educational, sports and business arenas. Specific topics covered in the journal include: Neuroscience, memory and decision making; Behavior modification and management; Clinical applications; Business and sports performance management; Social and developmental studies; Animal studies. The manuscript management system is completely online and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.",
+   "page": 21
+  },
+  {
+   "label": "text",
+   "text": "Submit your manuscript here: https://www.dovepress.com/psychology-research-and-behavior-management-journal",
+   "page": 21
+  }
+ ]
+}

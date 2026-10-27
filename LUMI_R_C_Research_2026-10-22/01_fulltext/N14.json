@@ -1,0 +1,518 @@
+{
+ "paper_id": "N14",
+ "source": "N14_2010_Alvarsson_Stress_recovery_during_exposure_to_nature_sound_and_environmental_nois.pdf",
+ "pages": 11,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Article",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Stress Recovery during Exposure to Nature Sound and Environmental Noise",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Jesper J. Alvarsson *, Stefan Wiens and Mats E. Nilsson",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Gösta Ekman Laboratory, Department of Psychology, Stockholm University, SE-106 91 Stockholm, Sweden; E-Mails: sws@psychology.su.se (S.W.); mats.nilsson@psychology.su.se (M.E.N.)",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "Author to whom correspondence should be addressed; E-Mail: jesper.alvarsson@psychology.su.se; Tel.: +46-8-158-659; Fax: +46- 8-165-522.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received: 26 January 2010; in revised form: 20 February 2010 / Accepted: 5 March 2010 / Published: 11 March 2010",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Abstract: Research suggests that visual impressions of natural compared with urban environments facilitate recovery after psychological stress. To test whether auditory stimulation has similar effects, 40 subjects were exposed to sounds from nature or noisy environments after a stressful mental arithmetic task. Skin conductance level (SCL) was used to index sympathetic activation, and high frequency heart rate variability (HF HRV) was used to index parasympathetic activation. Although HF HRV showed no effects, SCL recovery tended to be faster during natural sound than noisy environments. These results suggest that nature sounds facilitate recovery from sympathetic activation after a psychological stressor.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: soundscape; nature sounds; environmental noise; skin conductance level; heart rate variability; stress recovery",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Abbreviations: HF HRV = High frequency heart rate variability; SCL = Skin conductance level",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "OPEN ACCESS",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "International Journal of",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Environmental Research and Public Health",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "ISSN 1660-4601",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "www.mdpi.com/journal/ijerph",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In 1984, Ulrich demonstrated that patients whose windows faced a park recovered faster compared with patients whose windows faced a brick wall [1]. Since then, several studies have demonstrated restorative effects of natural compared with urban environments; these effects include increased well-being, decreased negative affect and decreased physiological stress responses [2-7]. Ulrich [6] suggested that natural environments have restorative effects by inducing positive emotional states, decreased physiological activity and sustained attention. This agrees with Kaplan and Kaplan's theory that nature environments facilitate recovery of directed attention capacity and thereby reducing mental fatigue [8], and with results showing that positive emotions improves physiological recovery after stress [9].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Previous research in this area has mainly used visual stimuli, for example videos and photographs of nature settings and urban areas [1,5,10]. However, sound stimulation is also known to be a potent stressor, evoking unpleasant feelings (annoyance) and physiological stress reactions, especially at high sound pressure levels [11,12]. Studies on the connection between sound environment and stress recovery are currently lacking. Soundscape research has shown that natural sounds are typically perceived as pleasant and technological noise as unpleasant components of the sound environment [13-15]. It is therefore plausible that the sound environment may have a similar effect on stress recovery as the visual environment.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Ulrich et al. [6] used video films with sound and found faster physiological stress recovery during exposure to films depicting nature compared with urban environments. However, Ulrich et al. did not control for sound pressure level. Indeed, the soundtrack to their films of urban environmental settings had considerably higher sound pressure levels than the soundtrack to the films of nature environments. This makes it difficult to determine whether the effect was related to the characteristics of the environments or to differences in sound pressure levels. So, although positive effects of visual natural environments are well established, no research has been done using only auditory stimulation with controlled stimuli and sound pressure levels.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The autonomic nervous system controls various body functions: the sympathetic branch primarily controls activation and mobilization, and the parasympathetic branch controls restoration and relaxation [16]. Sympathetic activity can be indexed by skin conductance level (SCL) [17,18], and parasympathetic activity can be indexed by the high frequency part of the power spectral density of heart rate variability (HF HRV) [19,20].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Psychological stress can be elicited by factors such as failure to achieve and marital problems, psychological stress also often has physiological consequences [21]. In the laboratory, psychological stress is commonly induced by mental arithmetic and speeded Stroop tasks [22,23].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The purpose of the present study was to induce psychological stress and compare effects of different sound conditions on the rate of physiological recovery. The sound conditions were chosen so that a pleasant natural sound environment was compared with three less pleasant urban sound environments dominated by noise. To study effects of sound pressure level on physiological recovery, the urban sound conditions had higher, equal, or lower average sound pressure levels than the nature sound. Two measures of physiological stress were used: SCL as an index of sympathetic activity and HF HRV as an index of parasympathetic activity. Physiological recovery is associated with a decrease in sympathetic activation (i.e., SCL decreases) and an increase in parasympathetic activation (i.e., HF HRV increases). Because physiological stress recovery should be faster during exposure to pleasant than to unpleasant sounds, we hypothesized that (a) SCL should decrease faster and (b) HF HRV increase faster during pleasant nature sound than during less pleasant noise.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2. Methods",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. Participants",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Forty university students participated in the experiment (24 women and 18 men, mean age = 27 years). All participants had hearing thresholds lower than 25 dB in their best ear, for all tested frequencies (0.125, 0.5, 1, 2, 3, 4, and 6 kHz, Interacoustics Diagnostic Audiometer, model AD226). The listeners received course credit for their participation. Electrocardiogram data were missing from three participants (1 man, 2 women) due to electrode failure.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Experimental Design",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The experiment consisted of three different parts: (1) One 5-min quiet baseline period, (2) five 2-min periods of testing (\"stressor\"), and (3) four 4-min periods of relaxation (\"recovery\") during exposure to one of four experimental sounds. Figure 1 illustrates the experiment schematically. Total time for the experiment was approximately 35 minutes.",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Figure 1. Experimental design with experiment duration on x-axis and expected stress level on y-axis (S = stress test; R = recovery period for each experimental sound condition).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "A 4 × 4 mixed design was used, with sound during relaxation as within subject variable and presentation order of the four sounds as between subject variable (the sounds are described in detail below). The participants were randomly assigned to one of four orders of experimental sounds, using a Latin square matrix.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Stressor",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The stressor was a two minute speeded mental arithmetic task (henceforth \"the stress test\"). The task was to decide, within 3 s, whether a displayed equation was correct or false. The participants answered by pressing one of two keys on a numeric keyboard. Their responses were evaluated as either \"correct\", \"false\" or \"too late\" (if later than 3 s). Feedback was presented on the screen (correct, false or too late) and through earphones with a specific sound for each type of feedback. The equations consisted of simple arithmetic operations, such as '543-345 = 193'. The first two terms were integers between 2 and 999, and the result of the equation was a positive integer below 1,000 which either was correct or false (correct answer +/- 1-3). The operator could either be addition, subtraction, division or multiplication. Each operator had 250 equations in a database, half correct and half false. Overall performance (percent correct) was continuously updated and displayed to the participants in the upper left corner of the screen.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Experimental Sounds",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "During each of the four recovery periods, participants were exposed to either a nature sound or a noise. The sound pressure levels of the noises were higher, equal or lower than the sound pressure level of the nature sound. The experimental sounds were selected from a large database of binaural recordings of environmental sounds. The nature sound was chosen to be more pleasant than the three noises, including the ambient noise of lower sound pressure level. The four experimental sounds are described below.",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "Nature sound. A mixture of sounds from a fountain and tweeting birds. The average sound pressure level was set to 50 dB (LAeq,4min).",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "High noise. Road traffic noise recorded close to a densely trafficked road. The average sound pressure level was set to 80 dB (LAeq,4min).",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "Low noise. The same noise as (2), but set to a lower average sound pressure level, 50 dB (LAeq,4min).",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "Ambient noise. A recording from a quiet backyard, with a constant low level ambient noise, mainly caused by ventilation systems of the buildings surrounding the yard. The average sound pressure level was set to 40 dB (LAeq,4min).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.5. Physiological Measures",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "For SCL measurement two electrodes were fitted by the experiment leader to the hypothenar eminence of the non dominant hand. The SCL was measured as the conductance between the two electrodes.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "HRV measurements were derived from the electrocardiogram (ECG). Three electrodes were applied by the participant themselves under supervision of the experimenter. The first electrode was positioned five centimeters to the right of the middle of the upper sternum and the other two on the left and right side of the stomach, just below the ribcage. HRV was calculated according to the procedure described by Berntson and by Hejjel & Kelleny [24,25].",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.6. Procedure",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Participants were informed that the goal of the experiment was to study physiological reactions during a stressful task and that there would be sound presentations during the four minute pauses. The participants were tested individually. They were first asked to wash their hands and were then seated in a soundproof room, where they were given a written description of the experiment. After the participants had given their consent to participate, electrodes were fitted to their bodies. They were then asked to put on a pair of headphones and one trial version of the stress test was completed in order to check the equipment.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "During the baseline period, the participants were asked to relax in silence. At the end of the period a prerecorded female voice reminded them that the first stress test was about to begin. After the stress test, the female voice instructed the participants to relax and one of the four experimental sounds was presented. This switch between stress test and recovery was repeated three more times (see Figure 1).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "After the experiment, participants listened to the four experimental sounds one more time and assessed the sound's pleasantness, eventfulness, and familiarity on three bipolar category scales. These attributes have been suggested as basic perceptual dimensions of sound environments [26]. Finally, the participants' thresholds of hearing were tested. Participants were informed only after the experiment about the true purpose of the study (i.e., our interest in the sounds). The study was conducted in accordance with regional ethical guidelines.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "2.7. Equipment",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The sounds were recorded with a binaural head and torso simulator Brüel & Kjær type 4100, with two microphones type 4190 and two pre-amplifiers type 2669, one conditioning amplifier NEXUS Brüel & Kjær type 2690 A 0S4 and a calibrator Brüel & Kjær type 4231 plus adapter model 0887. A portable computer Dolch NPAC-Plus P111 with a 6-channel LynxTwo sound card stored the recordings with 24 bit resolution and 48 kHz sampling frequency using Sound Forge 7. Editing and mixing was performed in the same program. In the soundproof room, the signal was fed into a digital filter and D/A-converter, Rane RPM 26z, and was then presented through Sennheiser HD 600 headphones. The whole listening system was calibrated using a pink-noise signal, measured at the point of the listener's ear. The frequency response of the whole listening system was flat within 2 dB, 1/3-octave-band levels, 25-16,000 Hz.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The physiological data were recorded with a Biopac System MP100 at 1000 Hz. SCL was measured with a Biopac GSR100C amplifier and EDA isotonic gel electrodes and ECG was measured with a Biopac ECG100C amplifier and Red Dot TM Ag/AgCl solid gel electrodes.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Both programming and presentation of the mental arithmetic stress task was conducted in Matlab 6.5. The physiological data were analyzed in Matlab, while the HRV power density spectrum (PDS) was computed in ACQ Knowledge 3.91. Statistical analyses were conducted in SPSS 16.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Perceptual Assessment of Experimental Sounds",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The perceptual assessment of the sounds showed that the nature sound was perceived as more pleasant than the noises (Figure 2). This confirms that the selection of sounds was successful, as the goal was to find a nature sound that was more pleasant than any of the noises. The low noise and the ambient noise were similar in perceived pleasantness whereas the high noise sound was rated as the least pleasant sound. The perceptual evaluation also showed that the high noise was perceived as more eventful than the other sounds. The ambient noise was the least eventful and also the least familiar sound, probably because it contained no distinct sound sources and therefore was perceived as an undifferentiated background noise.",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Figure 2. Mean values of perceptual attributes for the nature sound and the high, low and ambient noises. Error bars represent the standard error of the mean.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. Physiological Measures",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Skin conductance level (SCL): The mean of successive 10 second periods were computed for the recovery periods after each stress test. The mean of seconds 150-270 of the baseline period was used as the baseline measure. Figure 3 shows baseline corrected SCL values over time, and Table 1 shows descriptive statistics of these data.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Figure 3 suggests that although SCL immediately after the stressor was similar for the different conditions, recovery was faster during exposure to the nature sound than to the three noise conditions. The ambient and low noise had the second fastest, and high noise the slowest recovery. A slight upswing during the last 50 seconds of the recovery period was seen for SCL recovery during the high noise, possibly reflecting an increased arousal due to prolonged exposure to the unpleasant noise. In a 4 × 4 mixed ANCOVA, the mean SCL for each participant during the recovery period was used as the dependent variable, sound as a within-subjects variable, and presentation order as a between-subjects variable. The baseline measure was included in the analysis as covariate [27].",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Figure 3. Baseline corrected skin conductance level (SCL) as a function of time, shown separately for recovery during exposure to nature, high noise, low noise and ambient sound.",
+   "page": 6
+  },
+  {
+   "label": "table",
+   "text": "Table 1. The mean, median, max, min and standard deviation (SD) of participants (n = 40) for SCL and HF HRV, baseline measures were computed from second 150-270, recovery measures were computed over the whole recovery period.\nTable 1. The mean, median, max, min and standard deviation (SD) of participants (n = 40) for SCL and HF HRV, baseline measures were computed from second 150-270, recovery measures were computed over the whole recovery period.\n\n| Period   | Sound - Skin conductance level (SCL), µS                 | Statistic (N = 40) - Mean - Skin conductance level (SCL), µS   | Statistic (N = 40) - Median - Skin conductance level (SCL), µS   | Statistic (N = 40) - Max - Skin conductance level (SCL), µS   | Statistic (N = 40) - Min - Skin conductance level (SCL), µS   | Statistic (N = 40) - SD - Skin conductance level (SCL), µS   |\n|----------|----------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------|\n| Baseline | Silence                                                  | 0.55                                                           | 0.53                                                             | 2.01                                                          | 0.09                                                          | 0.39                                                         |\n| Recovery | Nature                                                   | 0.82                                                           | 0.84                                                             | 1.84                                                          | 0.25                                                          | 0.36                                                         |\n|          | High Noise                                               | 0.87                                                           | 0.90                                                             | 1.49                                                          | 0.25                                                          | 0.35                                                         |\n|          | Low noise                                                | 0.84                                                           | 0.86                                                             | 1.69                                                          | 0.17                                                          | 0.39                                                         |\n|          | Ambient                                                  | 0.85                                                           | 0.84                                                             | 1.80                                                          | 0.28                                                          | 0.38                                                         |\n|          | High frequency heart rate variability (HF HRV), ms 2 /Hz | High frequency heart rate variability (HF HRV), ms 2 /Hz       | High frequency heart rate variability (HF HRV), ms 2 /Hz         | High frequency heart rate variability (HF HRV), ms 2 /Hz      | High frequency heart rate variability (HF HRV), ms 2 /Hz      | High frequency heart rate variability (HF HRV), ms 2 /Hz     |\n| Baseline | Silence                                                  | 0.60                                                           | 0.55                                                             | 1.08                                                          | 0.29                                                          | 0.21                                                         |\n| Recovery | Nature                                                   | 0.59                                                           | 0.58                                                             | 0.91                                                          | 0.27                                                          | 0.18                                                         |\n|          | High Noise                                               | 0.60                                                           | 0.57                                                             | 1.01                                                          | 0.31                                                          | 0.20                                                         |\n|          | Low noise                                                | 0.60                                                           | 0.53                                                             | 1.07                                                          | 0.25                                                          | 0.21                                                         |\n|          | Ambient                                                  | 0.61                                                           | 0.57                                                             | 1.04                                                          | 0.32                                                          | 0.19                                                         |",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Table 1. The mean, median, max, min and standard deviation (SD) of participants (n = 40) for SCL and HF HRV, baseline measures were computed from second 150-270, recovery measures were computed over the whole recovery period.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The ANCOVA showed an interaction between presentation order and sound (F9,105 = 6.851, p = 0.001). This effect reflected general SCL-increase during the experiment. The main effect of sound was significant (F3,105 = 2.731, p = 0.048). Pairwise comparisons (t-tests) showed that mean SCL was lower for Nature than High noise (p = 0.045); however, the differences between Nature and the other two noise conditions did not reach significance (p > 0.05).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "In an ANCOVA of sound (4) × time (24, the successive 10 second periods) with baseline as covariate, the interaction between sound and time was significant (F69,2622 = 1.34, p = 0.034). This finding suggests that recovery time for SCL differed among the sound conditions. As Figure 3 suggests that polynomial trends (e.g., linear, quadratic) in an ANCOVA would not describe the recovery functions well, a non-linear regression analysis was performed to obtain point estimates of recovery time. To that end, we fitted an exponential function (Equation 1) to the mean SCL data shown in Figure 3:",
+   "page": 7
+  },
+  {
+   "label": "formula",
+   "text": "",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "where y is baseline corrected SCL, x is time (in seconds) and b1, b2 and b3 are constants. Figure 4 shows the fitted functions for the four experimental sounds. The fit, R 2 , for the nature sound, low noise and ambient noise was > 0.99, it was slightly lower for the high noise, R 2 = 0.96. RMS-error for the nature, high noise, ambient and low noise sound was 0.0088, 0.017, 0.0090 and 0.0097 µS, respectively. The half life recovery was calculated using Equation 1, by solving for x at the point where SCL had been reduced by half, compared with its value at x = 0 (see dotted line in Figure 4). The high noise had the longest half life of 159.8 s, the half life of the other three were 121.3 s for ambient noise, low noise 111.4 s and nature sound 101.3 s. Reliable statistical testing of individual half life values was not possible, since the estimated constants in several cases generated complex numbers, that resulted in missing data when half life values were calculated.",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Figure 4. Skin conductance level (SCL) as a function of time, shown separately for the four sounds. Curves were fitted to the group data. Constants of Equation 1 and half life value (x) are indicated in each diagram.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Heart rate variability (HRV): We found no consistent effect of type of sound on HF HRV. Average HRV values were not higher for nature sound than for the other sounds, and HF HRV for the high noise was not substantially lower than for the other sounds. The HF HRV data for each participant and recovery condition were tested in a 4x4 ANCOVA, with type of sound as within subject variable and presentation order as between-subject variable. The baseline measure was included in the analysis as covariate [27]. Neither type of sound, presentation order nor their interaction was statistically significant (p > 0.05).",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The main purpose of this study was to test whether physiological stress recovery is faster during exposure to pleasant nature sounds than to noise. Figure 3 suggests that mean SCL during the nature sound was lower than for the noises. Although this difference was statistically significant only between the nature sound and the high noise, detailed analyses of the recovery functions showed that half-life SCL recovery was 9-37% faster during the nature sound than during the noises. These results suggest a faster recovery of the sympathetic nervous system [16,17] during the nature sound. Because HF HRV showed no effects of experimental sounds, this null finding suggests that the parasympathetic activation may be less affected by sound during recovery.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The present results suggest that recovery from sympathetic arousal is affected by type of sound (nature sound versus noise). Recovery was faster during the nature sound (50 dBA) compared with the noises, including the low noise (50 dBA) and the ambient noise (40 dBA). The mechanisms behind the faster recovery could be related to positive emotions (pleasantness), evoked by the nature sound as suggested by previous research using non audio film stimuli [9]. Other perceptual attributes may also influence recovery. The Ambient noise was perceived as less familiar than the other sounds (Figure 2), presumably because it contained no identifiable sources. One may speculate that this lack of information might have caused an increased mental activity and thereby an increased SCL, compared with the nature sound (cf. [28]). An effect of sound pressure level can be seen in the difference between high and low noise, this difference is in line with previous psychoacoustic research [12] and is not a surprising considering the large difference (30 dBA) in sound pressure level.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The results from SCL are consistent with those of Ulrich et al. [6], who found a faster decrease in SCL after audio-visual exposure to natural compared with urban environments. Ulrich et al. found a similar effect on heart period. This disagrees with our HF HRV results. An explanation might be that heart period is influenced by both sympathetic and parasympathetic activity [6], whereas our measure, the HF part of the HRV, only is related to parasympathetic activity [17,19], the effects found on heart period reflects the influence of the sympathetic rather than the parasympathetic system. The lack of effects on HF HRV in our study suggests that sound exposure during recovery may not have a strong influence on parasympathetic activity, at least not with the exposures and the physiologic indexes used in the current experiment.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Our study used a small set of environmental sounds of short duration, which limits the generalizability of the results. The nature sound used in the experiment had a relatively high sound pressure level (50 dBA). The effect of natural sound environments on stress recovery may be greater in situations with longer exposure times and with lower sound pressure levels commonly found in recreational and rural areas outside cities. In city parks and other urban outdoor areas, the sound environment is typically a mix of sound from nature sounds and traffic noise. Based on the present results, it seems plausible to speculate that recovery from sympathetic activation in such areas would be less effective than in areas undisturbed by noise.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "5. Conclusions",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The present results suggest that after psychological stress, physiological recovery of sympathetic activation is faster during exposure to pleasant nature sounds than to less pleasant noise of lower, similar, or higher sound pressure level.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgements",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "This research was conducted in the research project Sustaining Acoustic Pleasantness within Rural and Community Development (SARCADE), funded by the Swedish Research Council FORMAS.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R.S. View through a window may influence recovery from surgery. Science 1984, 224, 420-421.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Grinde, B.; Patil, G.G. Biophilia: does visual contact with nature impact on health and well-being? Int. J. Environ. Res. Public. Health 2009, 6, 2332-2343.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T.; Kaiser, F.G.; Bowler, P.A. Psychological restoration in nature as a positive motivation for ecological behavior. Environ. Behav. 2001, 33, 590-607.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Maller, C.; Townsend, M.; Pryor, A.; Brown, P.; St Leger, L. Healthy nature healthy people: 'contact with nature' as an upstream health promotion intervention for populations. Health Promot. Int. 2006, 21, 45-54.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Parsons, R.; Tassinary, L.G.; Ulrich, R.S.; Hebl, M.R.; Grossman-Alexander, M. The view from the road: Implications for stress recovery and immunization. J. Environ. Psychol. 1998, 18, 113-140.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R.S.; Simons, R.F.; Losito, B.D.; Fiorito, E.; Miles, M.A.; Zelson, M. Stress recovery during exposure to natural and urban environments. J. Environ. Psychol. 1991, 11, 201-230.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "van den Berg, A.E.; Hartig, T.; Staats, H. Preference for nature in urbanized societies: Stress, restoration, and the pursuit of sustainability. J. Soc. Issues 2007, 63, 79-96.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. The restorative benefits of nature-toward an integrative framework. J. Environ. Psychol. 1995, 15, 169-182.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B.L.; Mancuso, R.A.; Branigan, C.; Tugade, M.M. The undoing effect of positive emotions. Motiv. Emotion 2000, 24, 237-258.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Laumann, K.; Garling, T.; Stormark, K.M. Selective attention and heart rate responses to natural and urban environments. J. Environ. Psychol. 2003, 23, 125-134.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ising, H.; Kruppa, B. Health effects caused by noise: evidence in the literature from the past 25 years. Noise Health 2004, 6, 5-13.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Lusk, S.L.; Gillespie, B.; Hagerty, B.M.; Ziemba, R.A. Acute effects of noise on blood pressure and heart rate. Arch. Environ. Health 2004, 59, 392-399.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Brown, A.L.; Muhar, A. An approach to the acoustic design of outdoor space. J. Environ. Planning Manage. 2004, 47, 827-842.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Lavandier, C.; Defréville, B. The contribution of sound source characteristics in the assessment of urban soundscapes. Acta Acustica united with Acustica 2006, 92, 912-921.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Nilsson, M.E.; Berglund, B. Soundscape quality in suburban green areas and city parks. Acta Acustica United with Acustica 2006, 92, 903-911.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Andreassi, J.L. Psychophysiology: Human Behavior and Physiological Response; 5th ed.; L. Erlbaum, Publishers: Mahwah, NJ, USA, 2007; p. 10.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Blascovich, J.K.; Robert, M. Using electrodermal and cardiovascular measures of arousal in social psychological research. In Research Methods in Personality and Social Psychology. Review of Personality and Social Psychology; Hendrick, C., Clark, Margaret S, Eds.; Sage Publications, Inc: Thousand Oaks, CA, USA, 1990; Volume 11, pp. 45-73.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Cummings, E.M.; El-Sheikh, M.; Kouros, C.D.; Keller, P.S. Children's skin conductance reactivity as a mechanism of risk in the context of parental depressive symptoms. J. Child Psychol. Psychiatry 2007, 48, 436-445.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Berntson, G.G.; Bigger, J.T., Jr.; Eckberg, D.L.; Grossman, P.; Kaufmann, P.G.; Malik, M.; Nagaraja, H.N.; Porges, S.W.; Saul, J.P.; Stone, P.H.; van der Molen, M.W. Heart rate variability: origins, methods, and interpretive caveats. Psychophysiology 1997, 34, 623-648.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Pyetan, E.; Toledo, E.; Zoran, O.; Akselrod, S. Parametric description of cardiac vagal control. Auton. Neurosci. 2003, 109, 42-52.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Lovallo, W.R. Stress and Health: Biological and Psychological Interactions; 2nd ed.; Sage Publications: Thousand Oaks, CA, USA, 2004.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Dickerson, S.S.; Kemeny, M.E. Acute stressors and cortisol responses: A theoretical integration and synthesis of laboratory research. Psychol. Bull. 2004, 130, 355-391.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Renaud, P.; Blondin, J.P. The stress of Stroop performance: physiological and emotional responses to color-word interference, task pacing, and pacing speed. Int. J. Psychophysiol. 1997, 27, 87-97.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Berntson, G.G.; Stowell, J.R. ECG artifacts and heart period variability: Don't miss a beat! Psychophysiology 1998, 35, 127-132.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Hejjel, L.; Kellenyi, L. The corner frequencies of the ECG amplifier for heart rate variability analysis. Physiol. Meas. 2005, 26, 39-47.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Axelsson, Ö. Individual differences in preferences to Photographs. Psychol. Aesthetics Creati. Arts 2007, 1, 61-72.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Rogers, W.T.; Hopkins, K.D. Power estimates in the presence of a covariate and measurement error. Educ. Psychol. Meas. 1988, 48, 647-656.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Adank, P.; Evans, B.G.; Stuart-Smith, J.; Scott, S.K. Comprehension of familiar and unfamiliar native accents under adverse listening conditions. J. Exp. Psychol. Hum. Percept. Perform. 2009, 35, 520-529.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "© 2010 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland. This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).",
+   "page": 11
+  }
+ ]
+}
