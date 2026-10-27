@@ -1,0 +1,1073 @@
+{
+ "paper_id": "N18",
+ "source": "N18_2013_Annerstedt_Inducing_physiological_stress_recovery_with_sounds_of_nature_in_a_virtua.pdf",
+ "pages": 11,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Contents lists available at SciVerse ScienceDirect",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Physiology & Behavior",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "journal homepage: www.elsevier .com/ locate/phb",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Inducing physiological stress recovery with sounds of nature in a virtual reality forest - Results from a pilot study",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Matilda Annerstedt a, ⁎, Peter Jönsson b , Mattias Wallergård c , Gerd Johansson c , Björn Karlson b,d , Patrik Grahn a , Åse Marie Hansen e , Peter Währborg a",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "a Department of Landscape Planning, Division of Work Science, Business Economics and Environmental Psychology, Swedish University of Agricultural Sciences, 230 53 Alnarp, Sweden",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "b Department of Laboratory Medicine, Division of Occupational and Environmental Medicine, Section of Behavioral Medicine, Box 188, Lund University, 221 85 Lund, Sweden",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "c Department of Design Science, Division of Ergonomics and Aerosol Technology, Lund University, P.O. Box 118, SE-221 00 Lund, Sweden",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "d Department of Psychology, Lund University, P.O. Box 118, SE-221 00 Lund, Sweden",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "e National Research Centre for the Working Environment, 2100 Copenhagen, Denmark",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "H I G H L I G H T S",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "Stress reactions were induced with virtual reality TSST.",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "Virtual reality nature facilitated the recovery from stress.",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "Nature sounds combined with virtual nature activated the parasympathetic system.",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "Experimental studies on human-nature interactions may use virtual techniques.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "a r t i c l e i n f o",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Article history: Received 25 July 2012 Received in revised form 28 February 2013 Accepted 8 May 2013",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: TSST Cortisol Green environment Soundscape",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Heart rate variability",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "a b s t r a c t",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Experimental research on stress recovery in natural environments is limited, as is study of the effect of sounds of nature. After inducing stress by means of a virtual stress test, we explored physiological recovery in two different virtual natural environments (with and without exposure to sounds of nature) and in one control condition. Cardiovascular data and saliva cortisol were collected. Repeated ANOVA measurements indicated parasympathetic activation in the group subjected to sounds of nature in a virtual natural environment, suggesting enhanced stress recovery may occur in such surroundings. The group that recovered in virtual nature without sound and the control group displayed no particular autonomic activation or deactivation. The results demonstrate a potential mechanistic link between nature, the sounds of nature, and stress recovery, and suggest the potential importance of virtual reality as a tool in this research field.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "© 2013 Elsevier Inc. All rights reserved.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Estimates and predictions of current and forthcoming global burden of disease strongly stress the epidemics of non-communicable diseases, such as cardiovascular and mental disorders [1]. Many of these conditions are related to today's urbanised life-styles, where chronic stress has emerged as a critical risk factor [2]. This underlines the need for research concerned with stress and opportunities for stress recovery, in order to improve public health [3].",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "⁎ Corresponding author at: Box 88, S-23053 Alnarp SLU, Sweden. Tel.: +46 40415078; fax: +46 18672000.",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "E-mail address: matilda.annerstedt@slu.se (M. Annerstedt).",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1.1. Green environments and stress recovery",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Nature and green environments have in several studies been related to stress relief [4,5] and recent research has indicated increased neurophysiological vulnerability to social stress in an urban compared to a rural population [6].",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Different theories have driven research into the correlation of nature and health [7-10]. Many of these theories are rooted in the tradition of the natural environment's psychological values, but they are also often linked to theories of stress, mental fatigue, and restoration. Recovery in green environments has been proposed as particularly effective due to certain inherent qualities of nature, such as noise reduction and spontaneous induction of positive emotions [11-13]. Existing theories and studies concerned with health and the natural world reflect a connection between the physiology of stress and the potential health benefits to be derived from nature, although those pathways are not fully revealed.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1.2. Nature, sounds, and virtual reality",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Natural environments are dynamic settings that may be inconvenient locales for using sophisticated research equipment. By simulating a natural environment in a setting where complex research methods could function under controlled conditions, we might be able to better understand what components of nature are conducive to stress recovery. At the same time, we could also study the physiological mechanisms that operate when humans interact with nature.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "However, the question arises whether a simulated natural environment would produce the same effects as a genuine one, and if so what sensory input is necessary to provide this sense of realism? In the past, the greatest emphasis has been placed on static modes of simulation, such as photographs, sketches, or slides [14,15]. Several studies support the suggestion that descriptive and evaluative responses, as well as preferences, are comparable between simulations and authentic presentations [16,17]. However, evidence concerning physiological and behavioural responses to the environment is less clear. Compared to static simulations, virtual environments (VEs) provide a more dynamic alternative with greater ecological validity, that is, approximating the real-life situation [18]. The experience of actually being in the place depicted by the medium is also considered to be higher in VEs. The latter phenomenon is referred to as presence in the virtual reality (VR) research community [19], and is something that has an influence on behavioural and physiological response [20]. Presence is believed to be correlated to immersion [21,22], i.e., the extent to which computer displays are capable of delivering an inclusive, extensive, all-embracing vivid illusion to the human senses. The higher the immersion of a VR system, the better the restorative potential that can be expected from the mediated natural environment [23].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Very little research has been done on whether the quality of a virtual simulation influences its restorative effect [20]. An earlier investigation supported the idea that an increased level of realism can be achieved by adding other modalities (e.g., auditory) than just visual [24].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Soundscape is a complex concept, relating to varied auditory input, such as noise, music, and sounds of nature. Several studies have proven the detrimental health effects of environmental noise, but some research has also considered positive aspects of sound where natural sounds are consistently perceived as pleasant and technological noise as mostly unpleasant. Especially birdsong and sound of water seem to induce positive reactions [25,26]. Such natural sounds have been used in stressful situations like surgical procedures, and have demonstrated stressrelieving effect via the autonomic nervous system. Several other examples of sounds of nature being used as stress-reducing components exist [27-29].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "A recent functional magnetic resonance imagining (fMRI) study found that a visual context can modulate connectivity of the auditory cortex with other regions of the brain that are implicated in the generation of subjective states, especially tranquility [30]. This suggests a relationship between objective multimodal sensory input and individual mental states.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "1.3. Stress tests",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "A variety of tests have been developed to provoke stress reactions for research purposes. The Trier Social Stress Test (TSST) is a highly standardised, validated, and widely used protocol for inducing social stress in laboratory settings [31]. It has consistently been proven to activate the hypothalamus-pituitary-adrenal (HPA) axis and the sympatho-adrenal-medullary (SAM) system [32-34], along with the corresponding endocrine and cardiovascular responses. It requires the test participant to hold a speech and do an arithmetic problem in front of an audience. The audience consists of three actors who show no emotional response whatsoever to the test participant, making the situation very stressful.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "1.4. Objectives",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In this study we used a recently developed virtual form of TSST to induce acute stress [35,36], and explored autonomic and endocrine stress and recovery responses together with subjective ratings of stress Recovery was studied in three different conditions: a virtual forest including congruent sounds; the same virtual forest with no sounds; and a control condition with no virtual forest or sounds.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Autonomic and endocrine stress reactivity was assessed by heart rate, T-wave amplitude, heart rate variability parameters, and saliva cortisol, together with subjective ratings of stress [37-40].",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "We hypothesised that stress recovery after a virtual stress provocation could also be facilitated in a virtual green environment, and that stress recovery would be further facilitated by adding sounds of nature to the virtual green environment. We supposed this would be partly due to the effect of such sounds themselves [27] and partly to the resulting increased sense of reality in the virtual environment. We decided to use sounds of birdsong and water, since this had previously been related to feelings of relaxation and those sounds were also connected to the virtual green environment we used - a forest-like setting with a water stream.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2. Material and methods",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. Participants",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Test participants were recruited through direct contact (either by asking fellows directly or by getting in contact through mail or phone after announcements about the planned study at the workplaces) with students and colleagues of the researchers' institutions. Potential participants were asked to complete a questionnaire covering general self-rated health (\"How are you\") and hearing impairments. In case of good health and no hearing impairment the person was included in the study. Thirty healthy Swedish males with a mean age of 27.7 (SD = 6.7) were included. We also collected background data on former experience of 3D VR-experience (\"How much experience do you have of virtual 3D-environments?\") nature-experience (\"How much experience do you have of natural environments?\") and self-rated stress on arrival to the laboratory (\"Do you feel stressed?\"). The replies for VR- and nature-experience were assessed in Likert scale format with the alternatives from 1 to 5: \"none/not at all\", \"little\", \"some\", \"much\", or \"very much\". For general health the replies were arranged from 1 to 5 as \"very bad\", \"bad\", \"fair\", \"good\" or \"very good\", in accordance with recommendations fromWHO [41] and the EURO-REVES 2 group [42]. Information on general health, stress, VRor nature-experience was not available for the control group. Basic data are provided in Table 1.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Because gender differences in cortisol responses to psychosocial stress have been recorded [43] and the specific phase in the menstrual cycle may affect the magnitude of the salivary cortisol response to",
+   "page": 2
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Background-information for the participants in each group of 10 males.\nTable 1 Background-information for the participants in each group of 10 males.\n\n| Groups        | VR w/ sound        | VR, no sound      | Control           |\n|---------------|--------------------|-------------------|-------------------|\n| Age           | 28.2 (10.3), 21-56 | 26.7 (3.4), 22-32 | 28.1 (4.4), 24-38 |\n| BMI a         | 23.7 (3.1), 21-32  | 23.3 (1.5), 22-26 | 22.3 (2.0), 22-26 |\n| Self health b | 4.4 (0.5), 4-5     | 4.6 (0.5), 4-5    | -                 |\n| VR-exp c      | 3.6 (1.6), 1-5     | 3.5 (1.6), 1-5    | -                 |\n| Nature-exp d  | 4.1 (0.7), 3-5     | 4.1 (0.9), 3-5    | -                 |\n| Stress e      | 2 (1.1), 1-4       | 1.5 (0.7), 1-3    | -                 |",
+   "page": 2
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Background-information for the participants in each group of 10 males.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Note: Values are means (SD), (range).",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "a BMI = body mass index.",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "b Self health = self-rated health.",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "c VR-exp = VR experience.",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "d Nature-exp = nature experience.",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "e Stress = self-rated stress at arrival.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "psychosocial stressors [44], we chose only male participants in this small sample pilot study to decrease variance.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Virtual environments",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The study took place in the afternoon (between 1 pm and 3 pm) in the virtual reality laboratory of Lund University. The virtual environment was presented using a CAVE™ system with three rear-projected walls (4 m × 3 m) and a floor projection (EON Development Inc.). Passive stereoscopy was used to achieve three-dimensional vision. The system also included an InterSense head tracking system that creates a motion parallax effect to further increase the realism of the VR simulation. For reproducing the sounds of nature (twittering birds and a babbling brook) a 5.1 surround sound system was used. A realistic mixture of birdsongs was used and the levels of bird sounds as well as the variations in the murmur of water were adequately adapted to where in the virtual environment the test participant (TP) was located.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.2.1. Virtual TSST",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The VR version of TSST is designed to resemble the traditional TSST as closely as possible. It uses two virtual rooms: a waiting room including a table, three pictures on the walls, two chairs and a small table to the right, a couch to the left, and a door on the opposite wall - and behind the door a room where the evaluating committee was seated. Three virtual persons constituting the committee, a middle-aged man placed in the middle, a young woman to the left, and a young man to the right, sit behind a table facing the TP (see Fig. 1). They expressed no emotions or social feedback to the TP and expressed a neutral face.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Comments and instructions from the committee were given by pre-recorded voices, following standard TSST protocol [31]. The comments were activated by one of the test leaders with a remote keyboard invisible to the TP and for example if the participant had a break in his presentation, the middle-aged man told him that he had time left, or \"please continue, I will tell you when your time is up\". The man did not move his lips, but nodded his head slightly in synchrony with the comments. To enhance the feeling of realism, the committee members made subtle movements, such as shifting their heads or feet.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.2.2. Virtual nature",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The virtual natural environment consisted of trees in a forest surrounding a path leading to a stream of water, reminiscent of a natural setting in Scandinavia (Fig. 2). First the TP was still 5 min, then the camera view of the VR simulation slowly moved down to the stream of water to simulate a short walk that lasted for another 5 min. Next the TP was brought back to the starting point. After a total of 15 min in the virtual nature environment the VR portion of the experience was concluded and the TP was provided with some magazines to lessen the risk that feelings of boredomwould interfere with actual responses to the experimental set-up. Nonetheless the physiological response to the initial recovery phase will continue approximately another 30 min, why the recordings continued until a total of 40 min had elapsed after the stress provocation.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Procedure",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The participants were told not to ingest food, caffeine, or tobacco during 2 h before the experiment. Upon arrival to the lab, the TP was placed in a comfortable chair and asked to fill in forms covering background data and informed consent. This included the state scale of the Spielberger state and trait anxiety inventory (STAI-S) [45] in order to assess subjective stress before the stress induction. Then the physiological recording equipment, consisting of an electrocardiogram (ECG, lead II) and a strain gauge for breathing registration, was attached to the TP. He was told that the experiment would last for approximately one and a half hours, and that he was going to perform two tasks in a VE. The experiment was then carried out for all groups according to the following sequence:",
+   "page": 3
+  },
+  {
+   "label": "list_item",
+   "text": "Baseline: The TP entered the virtual waiting room and a 5 min baseline ECG was recorded.",
+   "page": 3
+  },
+  {
+   "label": "list_item",
+   "text": "The TP was then virtually let into the other virtual room, facing the committee. The visual transition from one room to another was made through virtual simulation, where the change of setting was following the environment both spatially and temporally, although the TP was actually sitting still. These transfer procedures were standardised for all participants. He was told that, after some preparation, he was going to give a presentation in front of the committee, pretending that he was applying for a specific job. He was also told",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. Photo of the virtual reality TSST.",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2. Photo of the virtual reality nature used in the study.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "that, after the presentation, the committee would give him a second task to perform.",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "PREP: The TPwas virtually let back to thewaiting roomtoprepare the speech for 5 min. He was permitted to take notes during the preparation, but was not allowed to use them during the presentation.",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "SPEECH: The TP was again virtually let into the other room and gave his presentation in front of the committee (5 min).",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "MATH: The TP performed the second task, which consisted of counting backwards from 1687 in steps of 13 (5 min).",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "Recovery (Rec): TheTPwasvirtually let into thevirtualwaiting room to recover. Up to this point all participants had went through the same experimental conditions. Each participant was now randomly assigned to one of three recovery settings (n = 10 in each group): Forest S+, recovery in a virtual forest with congruent sounds (songs and twittering of birds, and a slight murmuring of water); Forest S-, recovery in the virtual forest without sounds; and Control, that is, recovery in the lab with no forest or forest congruent sounds. During the first 5 min of recovery, that is, after the math task, the TP completed a short scale regarding the sense of presence during the virtual TSST (results will be presented elsewhere). Meanwhile one of the test leaders turned on the green virtual environment for TP:s in the Forest+, and Forest- group. Thus, the three groups begun to recover in respective condition approximately at the same time after the stress induction. The total recovery period lasted for 40 min.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "After the recovery period was completed a modified version of the state scale (STAI-S) was filled in, estimating state anxiety during stress provocation and in the virtual forest. Then the purpose of the experiment was explained and the TP had the opportunity to ask questions about the event. The TP received two cinema checks.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Data collection and reduction",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.1. Cortisol",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Saliva cortisol was collected in sampling tubes with cotton swabs (Salivette®; Sarstedt, Leicester, UK) after Baseline, PREP, TSST (SPEECH +MATH), Recovery +10 min, +20 min, +30 min, and +40 min, for a total of seven samples. The saliva cortisol was assessed with a competitive radioimmunoassy (RIA) designed for quantitative in vitro measurement of cortisol in saliva (Spectria Cortisol Coated Tube RIA, Orion Diagnostica, Espoo, Finland) following the manufacturer's protocol. A detailed description of the analytical method is provided in Österberg et al. [46]. The data was log-transformed (ln) to approach a normal distribution.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.2. Heart rate",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "ECG and respiration were recorded at 1 kHz using the ML866 Power Lab data acquisition system and analysed using its software Chart5 (ADInstruments Pty, Bella Vista, Australia) and MATLAB (MathWorks, Natick, MA). ECG was assessed using disposable electrodes (Lead II Einthoven) and respiration using a strain gauge over the chest. Mean HR was analysed for 5 min in each condition: Baseline, PREP, SPEECH, MATH, and during the four following recovery periods, for a total of 8 conditions. The same was done in the case of T-wave amplitude (TWA) and HRV, see below.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.3. T-wave amplitude",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "TWA is suggested to be related to β-adrenergic sympathetic influences on myocardial performance [39]. Although its reliability has been questioned by some researchers [47] it has been found to respond in conformity with other β-adrenergic indicators such as pre-ejection period (PEP) and R-to-pulse interval (RPI) to stressful tasks [48] and then appeared related to sympathetic activity. TWA was computed as the difference in mV between the maximum magnitude in the 100-300 milliseconds (ms) window after the R-wave peak and the mean of the isoelectric period (50-40 ms) before the R-wave peak, that is, between the P- and Q-wave [39] for each heartbeat and averaged over 5 min.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.4. Heart rate variability",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "R-R intervals were transformed to a tachogram (ms) and linearly interpolated at 4 Hz. The data were further linearly detrended and high-pass filtered (second order Butterworth filter, 0.02 Hz) to eliminate very low fluctuations. For each 5-min sequence, heart rate variability (HRV) power spectra were calculated for 17 segments of 128 points (32 s) with a 50% overlap, by means of fast Fourier transform (1024 points) following the application of multiple peak matched windows. The Peak Matched Multiple Windows (PM MW) method optimizes the mean square error of a spectrum estimate when the spectrum can be expected to include peaks [49,50]. This method has been shown to give reliable results for the HRV spectrum and has previously been used in psychophysiological research [40-51].",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The integral of the HRV power spectrum generally is studied in two frequency bands including a high frequency (HF) component (0.12-0.4 Hz) and a low frequency (LF) component (0.05-0.12 Hz).",
+   "page": 4
+  },
+  {
+   "label": "table",
+   "text": "Table 2 Summary of cortisol and cardiovascular estimates as a function of the different conditions of TSST.\nTable 2 Summary of cortisol and cardiovascular estimates as a function of the different conditions of TSST.\n\n| Parameter       | Group                       | Condition - Baseline - Mean   | Condition - Baseline - (SE)   | Condition - Preparation - Mean   | Condition - Preparation - (SE)   | Condition - Speech - Mean   | Condition - Speech - (SE)   | Condition - Math - Mean   | Condition - Math - (SE)   | Condition - Rec 10 - Mean   | Condition - Rec 10 - (SE)   | Condition - Rec 20 - Mean   | Condition - Rec 20 - (SE)   | Condition - Rec 30 - Mean   | Condition - Rec 30 - (SE)   | Condition - Rec 40 - Mean   | Condition - Rec 40 - (SE)   |\n|-----------------|-----------------------------|-------------------------------|-------------------------------|----------------------------------|----------------------------------|-----------------------------|-----------------------------|---------------------------|---------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|\n| Cort (nmol/L) d | Forest sound+ a             | 6.31                          | (1.41)                        | 6.18                             | (1.23)                           | -                           | -                           | 7.03                      | (1.39)                    | 7.08                        | (1.32)                      | 7.45                        | (1.01)                      | 5.76                        | (.64)                       | 4.81                        | (.46)                       |\n| Cort (nmol/L) d | Forest sound- b             | 4.10                          | (.80)                         | 4.32                             | (.83)                            | -                           | -                           | 6.77                      | (.98)                     | 8.66                        | (1.34)                      | 7.22                        | (1.00)                      | 5.50                        | (.69)                       | 4.71                        | (.57)                       |\n| Cort (nmol/L) d | Control c                   | 4.67                          | (.69)                         | 4.55                             | (.71)                            | -                           | -                           | 6.62                      | (1.12)                    | 8.09                        | (1.73)                      | 6.78                        | (1.31)                      | 5.28                        | (.84)                       | 4.43                        | (.63)                       |\n| Cort ln         | Forest sound+               | 1.67                          | (.18)                         | 1.67                             | (.18)                            | -                           | -                           | 1.84                      | (.15)                     | 1.96                        | (.14)                       | 1.93                        | (.13)                       | 1.69                        | (.12)                       | 1.53                        | (.10)                       |\n| Cort ln         | Forest sound-               | 1.22                          | (.21)                         | 1.29                             | (.20)                            | -                           | -                           | 1.78                      | (.19)                     | 2.00                        | (.20)                       | 1.85                        | (.19)                       | 1.63                        | (.14)                       | 1.48                        | (.13)                       |\n| Cort ln         | Control                     | 1.45                          | (.13)                         | 1.42                             | (.14)                            | -                           | -                           | 1.74                      | (.19)                     | 1.85                        | (.24)                       | 1.71                        | (.22)                       | 1.53                        | (.18)                       | 1.38                        | (.16)                       |\n| HR (BPM) e      | Forest sound+               | 63.1                          | (2.8)                         | 72.0                             | (3.6)                            | 73.5                        | (3.6)                       | 71.3                      | (3.0)                     | 61.3                        | (2.3)                       | 61.3                        | (2.4)                       | 59.2                        | (2.2)                       | 58.9                        | (2.4)                       |\n| HR (BPM) e      | Forest sound-               | 67.5                          | (2.4)                         | 77.6                             | (3.1)                            | 80.0                        | (2.4)                       | 79.3                      | (2.2)                     | 66.6                        | (2.6)                       | 66.0                        | (2.5)                       | 65.4                        | (2.0)                       | 66.7                        | (2.3)                       |\n| HR (BPM) e      | Control                     | 65.7                          | (3.1)                         | 77.7                             | (4.9)                            | 78.2                        | (5.3)                       | 80.4                      | (5.1)                     | 65.6                        | (3.3)                       | 64.8                        | (2.9)                       | 64.2                        | (2.7)                       | 63.2                        | (2.7)                       |\n| TWA (mV) f      | Forest sound+               | .257                          | (.027)                        | .235                             | (.026)                           | .223                        | (.027)                      | .224                      | (.026)                    | .259                        | (.030)                      | .265                        | (.029)                      | .277                        | (.033)                      | .266                        | (.032)                      |\n| TWA (mV) f      | Forest sound-               | .236                          | (.019)                        | .212                             | (.020)                           | .191                        | (.016)                      | .190                      | (.018)                    | .234                        | (.022)                      | .242                        | (.023)                      | .243                        | (.023)                      | .240                        | (.023)                      |\n| TWA (mV) f      | Control                     | .261                          | (.029)                        | .223                             | (.027)                           | .205                        | (.029)                      | .201                      | (.021)                    | .253                        | (.027)                      | .268                        | (.028)                      | .268                        | (.026)                      | .259                        | (.025)                      |\n| HF (ms 2 ) g    | Forest sound+               | 7.49                          | (1.57)                        | 12.14                            | (4.29)                           | 11.50                       | (3.11)                      | 12.19                     | (2.98)                    | 11.93                       | (2.37)                      | 11.49                       | (2.46)                      | 17.67                       | (4.16)                      | 19.07                       | (5.16)                      |\n| HF (ms 2 ) g    | Forest sound-               | 15.98                         | (4.65)                        | 9.85                             | (3.12)                           | 11.12                       | (4.48)                      | 12.41                     | (3.77)                    | 14.16                       | (5.22)                      | 11.26                       | (3.31)                      | 8.85                        | (2.13)                      | 8.80                        | (2.56)                      |\n| HF (ms 2 ) g    | Control                     | 10.09                         | (2.27)                        | 7.10                             | (1.69)                           | 10.28                       | (2.58)                      | 9.98                      | (2.63)                    | 10.23                       | (1.99)                      | 10.91                       | (2.93)                      | 10.35                       | (2.15)                      | 10.08                       | (2.07)                      |\n| HF ln j         | Forest sound+               | 8.62                          | (.22)                         | 8.74                             | (.33)                            | 8.80                        | (.33)                       | 8.99                      | (.26)                     | 9.05                        | (.22)                       | 9.00                        | (.22)                       | 9.41                        | (.23)                       | 9.48                        | (.25)                       |\n| HF ln j         | Forest sound-               | 9.11                          | (.34)                         | 8.65                             | (.25)                            | 8.76                        | (.25)                       | 8.95                      | (.24)                     | 8.96                        | (.31)                       | 8.73                        | (.35)                       | 8.68                        | (.27)                       | 8.66                        | (.25)                       |\n| HF ln j         | Control                     | 8.87                          | (.23)                         | 8.51                             | (.22)                            | 8.87                        | (.29)                       | 8.80                      | (.26)                     | 8.86                        | (.26)                       | 8.87                        | (.25)                       | 8.89                        | (.23)                       | 8.89                        | (.23)                       |\n| HF nu k         | Forest sound+               | .326                          | (.031)                        | .240                             | (.032)                           | .218                        | (.022)                      | .218                      | (.019)                    | .255                        | (.022)                      | .254                        | (.029)                      | .233                        | (.026)                      | .245                        | (.023)                      |\n| HF nu k         | Forest sound-               | .313                          | (.049)                        | .246                             | (.035)                           | .210                        | (.023)                      | .226                      | (.026)                    | .266                        | (.040)                      | .241                        | (.033)                      | .219                        | (.024)                      | .203                        | (.027)                      |\n| HF nu k         | Control                     | .269                          | (.021)                        | .227                             | (.019)                           | .230                        | (.026)                      | .201                      | (.023)                    | .203                        | (.021)                      | .216                        | (.021)                      | .212                        | (.027)                      | .202                        | (.023)                      |\n| LF h (ms 2 )    | Forest sound+               | 18.85                         | (2.84)                        | 33.68                            | (5.87)                           | 37.77                       | (6.41)                      | 42.12                     | (7.11)                    | 39.86                       | (6.21)                      | 38.16                       | (4.72)                      | 61.84                       | (9.17)                      | 64.93                       | (10.14)                     |\n| LF h (ms 2 )    | Forest sound-               | 44.02                         | (18.75)                       | 27.12                            | (4.06)                           | 35.57                       | (6.37)                      | 39.28                     | (8.76)                    | 37.88                       | (7.07)                      | 35.47                       | (6.89)                      | 34.74 (6.26)                |                             | 37.93                       | (5.57)                      |\n| LF h (ms 2 )    | Control                     | 30.23                         | (4.98)                        | 25.97                            | (3.99)                           | 36.31                       | (6.76)                      | 41.36                     | (8.23)                    | 45.45                       | (7.14)                      | 50.82                       | (11.79)                     | 49.33                       | (10.44)                     | 49.89                       | (10.84)                     |\n| LF ln           | Forest sound+               | 9.73                          | (.17)                         | 10.28                            | (.18)                            | 10.35                       | (.23)                       | 10.52                     | (.17)                     | 10.48                       | (.17)                       | 10.48                       | (.12)                       | 10.94                       | (.14)                       | 10.97                       | (.16)                       |\n| LF ln           | Forest sound-               | 10.28                         | (.26)                         | 10.11                            | (.15)                            | 10.36                       | (.15)                       | 10.43                     | (.17)                     | 10.34                       | (.24)                       | 10.29                       | (.22)                       | 10.28                       | (.21)                       | 10.42                       | (.18)                       |\n| LF ln           | Control                     | 10.19                         | (.17)                         | 10.05                            | (.16)                            | 10.32                       | (.21)                       | 10.46                     | (.19)                     | 10.56                       | (.21)                       | 10.58                       | (.24)                       | 10.58                       | (.24)                       | 10.57                       | (.25)                       |\n| LF nu           | Forest sound+               | .674                          | (.031)                        | .760                             | (.032)                           | .782                        | (.022)                      | .782                      | (.019)                    | .746                        | (.022)                      | .746                        | (.029)                      | .767                        | (.026)                      | .756                        | (.023)                      |\n| LF nu           | Forest sound-               | .687                          | (.049)                        | .754                             | (.035)                           | .790                        | (.023)                      | .774                      | (.026)                    | .734                        | (.040)                      | .759                        | (.033)                      | .781                        | (.024)                      | .797                        | (.027)                      |\n|                 | Control                     | .731                          | (.021)                        | .773                             | (.019)                           | .770                        | (.026)                      | .780                      | (.023)                    | .797                        | (.021)                      | .785                        | (.021)                      | .788                        | (.027)                      | .798                        | (.032)                      |\n|                 |                             |                               |                               |                                  |                                  |                             |                             |                           |                           |                             |                             |                             |                             |                             |                             | 5.64                        | (.98)                       |\n| LF/HF           | Forest sound+ Forest sound- | 2.94 3.58                     | (.51) (.72)                   | 4.37                             | (.65)                            | 4.87 4.73                   | (.68) (.47)                 | 4.69 4.36                 | (.63)                     | 4.15                        | (.60)                       | 4.29                        | (.67)                       | 4.72                        | (.78)                       | 4.57                        | (.55)                       |\n| LF/HF           |                             |                               |                               | 4.18                             | (.63)                            |                             |                             |                           | (.53)                     | 4.17                        | (.72)                       | 4.63                        | (.78)                       | 4.71                        | (.65)                       |                             |                             |\n| TOT i (ms 2 )   | Control Forest sound+       | 3.39 26.34                    | (.31) (4.01)                  | 4.26 45.82                       | (.45) (9.76)                     | 4.14 49.26                  | (.36) (9.22)                | 5.06 54.31                | (.46) (9.90)              | 5.30 51.80                  | (.47) (8.27)                | 4.94 49.65                  | (.57) (6.79)                | 5.15 79.50                  | (.61) (12.62)               | 5.26 84.00                  | (.62) (14.53)               |\n| TOT i (ms 2 )   | Forest sound-               | 60.00                         |                               |                                  | (6.29)                           |                             | (10.66)                     | 51.70                     | (12.06)                   | 52.04                       | (11.24)                     | 46.74                       | (9.66)                      | 43.59                       | (7.96)                      | 46.74                       | 46.74                       |\n|                 |                             | 40.32                         | (7.10)                        | 33.06                            | (5.42)                           | 46.59                       | (8.63)                      | 51.34                     |                           | 55.68                       | (8.95)                      |                             | (13.97)                     |                             |                             |                             | (7.73)                      |\n|                 | Control                     |                               | (21.39)                       | 36.97                            |                                  | 46.68                       |                             |                           | (9.83)                    |                             |                             | 61.74                       |                             | 59.69                       | (11.83)                     | 59.97                       | (12.66)                     |\n| TOT ln          | Forest sound+               | 10.06                         | (.17)                         | 10.53                            | (.21)                            | 10.59                       | (.25)                       | 10.75                     | (.19)                     | 10.74                       | (.17)                       | 10.73                       | (.13)                       | 11.18                       | (.15)                       | 11.21                       | (.17)                       |\n| TOT ln          | Forest sound-               | 10.63                         | (.27)                         | 10.40                            | (.16)                            | 10.59                       | (.18)                       | 10.68                     | (.18)                     | 10.63                       | (.24)                       | 10.53                       | (.23)                       | 10.50                       | (.22)                       | 10.61                       | (.18)                       |\n|                 | Control                     | 10.46                         | (.18)                         | 10.28                            | (.17)                            | 10.56                       | (.22)                       | 10.67                     | (.20)                     | 10.75                       | (.22)                       | 10.78                       | (.24)                       | 10.78                       | (.23)                       | 10.77                       | (.24)                       |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 Summary of cortisol and cardiovascular estimates as a function of the different conditions of TSST.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Note: Cardiovascular measures were estimated during the last 5 min in each condition. Saliva cortisol was collected after each condition except from speech, that is, according to the approach generally used in TSST research. Rec 10-40 = recovery during the first 10, 20, 30, and 40 min after stress induction.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "a Forest sound+ = the group that during 15 min after stress were exposed to a virtual walk in a forest including nature sounds.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "b Forest sound- = the group that were exposed virtual walk in the forest but with no sound.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "c Control = the group that recovered in an empty room without any nature stimuli.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "d Cort = saliva cortisol.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "e HR = heart rate.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "f TWA = T-wave amplitude.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "g HF = high frequency HRV power.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "h LF = low frequency HRV power.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "i TOT = total HRV power.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "j ln = natural logarithm.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "k nu = normalised units.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "HF oscillation is related to the respiratory cycle and is suggested to reflect parasympathetic cardiac control [40-53]. The interpretation of the LF component is more controversial and has been suggested to reflect predominately sympathetic activity, or a mixture of sympathetic and parasympathetic influences [52-54].",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The absolute power of LF, HF and the total HRV power (TOT, LF + HF) are reported in Table 2. In the statistical analyses log-transformed (ln) data to approach normal distributions were used. Further, normalised power of the LF component [LF / (LF + HF)] and the HF component [HF / (LF + HF)] were analysed, together with the LF/HF ratio proposed to be an index of sympathovagal balance by some researcher, but criticised by others [40].",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The respiration measures were used to ensure that the respiratory rate was within the HF range.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "2.4.5. Statistics",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Repeated measures ANOVA were used in all analyses for the physiological measures (p b 0.05), with experimental CONDITION as within-subject repeated factor and GROUP as the between-subject factor. Significant effects were reported with Greenhouse-Geisser adjustments (ε) to correct for violation of the assumption of sphericity, together with unadjusted degrees of freedom, adjusted p-values, and η 2 .",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "To examine specifically the recovery effect for HR, TWA, and HRV, the last stress condition, the math task, was subtracted from the four recovery conditions which were used as repeated factors in a similar ANOVA as above. Due to the time lag for cortisol reactivity which peaks about 10 min after TSST, the first recovery condition after TSST were subtracted from the three following conditions. Thus, there were three repeated conditions concerning the recovery effect for cortisol.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The study was performed in accordance with the Declaration of Helsinki and was approved by the regional ethical review board in Lund (2010/398).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "No significant differences (independent samples Mann Whitney test) were found for the participants at arrival to the laboratory in terms of former experiences, or perception of stress and general health (see Table 1).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Stress induction (Table 2)",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.1. Cortisol ln",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The repeated measure ANOVA showed a significant main effect of CONDITION: F(6.162) = 12.95, p b .001, η 2 = .32, ε = .27, together with a quadratic [F(1.27) = 32.88, p b .001, η 2 = .55], and a cubic contrast [F(1.27) = 8.61, p = .007, η 2 = .24], indicating that cortisol increased during stress induction and then returned to baseline (Fig. 3a).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.2. Heart rate",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "HR varied significantly as a function of CONDITION [F(7.189) = 61.91, p b .0001, η 2 = 70, ε = .32]. HR increased during PREP, SPEECH, and MATH, compared to baseline, and then recovered and stabilised during the four succeeding recovery conditions: Flinear(1.27) = 83.26, p b .001, η 2 = .76; Fquadratic(1.27) = 66.91, p b .001, η 2 = .71; and Fcubic(1.27) = 85.75, p b .001, η 2 = .76] (see Fig. 3b).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.3. T-wave amplitude",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In concert with HR, a main effect of CONDITION showed that TWA decreased during the three stress conditions, indicating increased sympathetic activity, and then recovered and stabilised: F(7.189) = 34.37, p b .001, η 2 = .56, ε = .35; Flinear(1.27) = 32.78, p = .001, η 2 = .55; Fquadratic(1.27) = 57.03, p b .001, η 2 = .68; and Fcubic(1.27) = 45.98, p b .001, η 2 = .63 (see Fig. 3c).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Baseline Prep Speech Math Rec 10 Rec 20 Rec 30 Rec 40",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3. Cortisol, HR, and TWA as a function of experimental condition. Values are means (±1 SE). Filled squares represent the group that during 15 min after stress were exposed to a virtual walk in a forest including nature sounds; empty squares represent the group that were exposed to a virtual walk in the forest but with no sound; and the group that recovered in an empty room without any nature stimuli is represented by empty circles.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.4. HRV parameters",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "3.1.4.1. HF ln. The result showed that there was a significant GROUP*CONDITION interaction: F(14.189) = 2.43, p = .0025, η 2 = .15, together with a linear contrast: Flinear(2.27) = 14.81, p b .001, η 2 = .52 (see Fig. 4a). Compared to the control group and the Forrest S- group, the Forest S+ group responded with increased HF magnitude across conditions, most notably at the two last recovery periods. Bonferroni pairwise post hoc test did not reveal any significant results between the groups.",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 4. HRV parameters as a function of experimental condition. Values are means (±1 SE). Filled squares represent the group that during 15 min after stress were exposed to a virtual walk in a forest including nature sounds; empty squares represent the group that were exposed to a virtual walk in the forest but with no sound; and the group that recovered in an empty room without any nature stimuli is represented by empty circles.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "3.1.4.2. HF normalised units (nu). A main effect of CONDITION was found for HF nu: F(14.189) = 10.04, p b .001, η 2 = .27, ε = .60; Flinear(1.27) = 15.41, p = .001, η 2 = .36; Fquadratic(1.27) =16.90, p b .001, η 2 = .39; and Fcubic(1.27) = 13.81, p = .001, η 2 = .34. HF nu decreased from Baseline to MATH and then stabilised, although with a small increase during the first and second recovery period (Rec 10 resp. Rec 20) (see Fig. 4b).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "3.1.4.3. LF ln. Also for LF ln there was a main effect of condition: F(7.189) = 6.82, p b .001, η 2 = .20, ε = .71; Flinear(1.27) = 33.05, p b .001, η 2 = .55, indicating an overall increase across conditions. However, there was also a CONDITION*GROUP interaction: F(14.189) = 2.18, p = .023, η 2 = .14; Flinear(2.27) = 7.31, p = .003, η 2 = .35, showing that the linear increase was more pronounced in",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Table 3",
+   "page": 8
+  },
+  {
+   "label": "table",
+   "text": "Summary of cortisol and cardiovascular estimates during recovery. The parameter estimates are based on subtraction scores with the last stress condition, the math task, as the subtrahend. For the cortisol scores the first recovery condition represents the subtrahend because the cortisol concentration peaks after about 10 min after stress induction.\nSummary of cortisol and cardiovascular estimates during recovery. The parameter estimates are based on subtraction scores with the last stress condition, the math task, as the subtrahend. For the cortisol scores the first recovery condition represents the subtrahend because the cortisol concentration peaks after about 10 min after stress induction.\n\n|               | Parameter Group              | Condition - Rec 10 - Mean   | Condition - Rec 10 - (SE)   | Rec 20 - Mean   | Rec 20 - (SE)   | Rec 30 - Mean   | Rec 30 - (SE)   | Rec 40 - Mean   | Rec 40 - (SE)   |\n|---------------|------------------------------|-----------------------------|-----------------------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|\n| Δ Cort (nmol) | Forest sound+                | -                           | -                           | -.35            | (.57)           | -2.04           | (.91)           | -2.99           | (1.08)          |\n| Δ Cort (nmol) | Forest sound-                | -                           | -                           | -1.44           | (.68)           | -3.16           | (.91)           | -3.95           | (.95)           |\n| Δ Cort (nmol) | Control                      | -                           | -                           | -1.31           | (.46)           | -2.81           | (.97)           | -3.66           | (1.18)          |\n| Δ Cort ln     | Forest sound+                | -                           | -                           | -.026           | (.055)          | -.267           | (.078)          | -.431           | (.094)          |\n| Δ Cort ln     | Forest sound-                | -                           | -                           | -.155           | (.075)          | -.378           | (.112)          | -.527           | (.120)          |\n| Δ Cort ln     | Control                      | -                           | -                           | -.138           | (.040)          | -.322           | (.072)          | -.467           | (.103)          |\n| Δ HR (BPM)    | Forest sound+                | -10.10                      | (1.98)                      | -10.07          | (2.40)          | -12.17          | (1.57)          | -12.47          | (1.79)          |\n| Δ HR (BPM)    | Forest sound-                | -12.68                      | (2.50)                      | -13.35          | (2.36)          | -13.92          | (2.29)          | -12.66          | (2.56)          |\n| Δ HR (BPM)    | Control                      | -14.79                      | (3.37)                      | -15.60          | (3.64)          | -16.25          | (3.82)          | -17.28          | (4.06)          |\n| Δ TWA         | Forest sound+                | .034                        | (.010)                      | .041            | (.009)          | .052            | (.013)          | .042            | (.013)          |\n| Δ TWA         | Forest sound-                | .045                        | (.009)                      | .052            | (.010)          | .053            | (.011)          | .051            | (.010)          |\n| Δ TWA         | Control                      | .052                        | (.014)                      | .067            | (.018)          | .067            | (.014)          | .058            | (.015)          |\n| Δ HF (ms 2 )  | Forest sound+                | -.25                        | (1.39)                      | -.70            | (1.85)          | 5.48            | (2.15)          | 6.88            | (2.68)          |\n| Δ HF (ms 2 )  | Forest sound-                | 1.75                        | (6.11)                      | -1.15           | (3.76)          | -3.56           | (3.04)          | -3.61           | (2.89)          |\n| Δ HF (ms 2 )  | Control                      | .25                         | (1.77)                      | .94             | (1.52)          | .38             | (1.30)          | .10             | (1.98)          |\n| Δ HF ln       | Forest sound+                | .053                        | (.099)                      | .010            | (.179)          | .421            | (.123)          | .483            | (.147)          |\n| Δ HF ln       | Forest sound-                | .007                        | (.330)                      | -.223           | (.295)          | -.272           | (.241)          | -.289           | (.195)          |\n| Δ HF ln       | Control                      | .054                        | (.181)                      | .072            | (.169)          | .093            | (.163)          | .076            | (.210)          |\n| Δ HF nu       | Forest sound+                | .037                        | (.021)                      | .036            | (.035)          | .015            | (.023)          | .027            | (.018)          |\n| Δ HF nu       | Forest sound-                | .040                        | (.027)                      | .015            | (.025)          | -.007           | (.019)          | -.023           | (.021)          |\n| Δ HF nu       | Control                      | .002                        | (.013)                      | .015            | (.016)          | .011            | (.019)          | .001            | (.021)          |\n| Δ LF (ms 2 )  | Forest sound+                | -2.25                       | (5.43)                      | -3.96           | (5.67)          | 19.71           | (8.70)          | 22.81           | (7.44)          |\n| Δ LF (ms 2 )  | Forest sound-                | -.40                        | (11.42)                     | -3.81           | (11.39)         | -4.55           | (11.04)         | -1.35           | (9.40)          |\n| Δ LF (ms 2 )  | Control                      | 4.09                        | (8.10)                      | 9.46            | (7.77)          | 7.96            | (6.24)          | 8.53            | (10.94)         |\n| Δ LF ln       | Forest sound+                | -.041                       | (.149)                      | -.035           | (.153)          | .422            | (.183)          | .454            | (.139)          |\n| Δ LF ln       | Forest sound-                | -.096                       | (.312)                      | -.144           | (.270)          | -.153           | (.270)          | -.011           | (.217)          |\n| Δ LF ln       | Control                      | .101                        | (.170)                      | .119            | (.180)          | .115            | (.138)          | .113            | (.213)          |\n| Δ LF nu       | Forest sound+                | -.037                       | (.021)                      | -.036           | (.035)          | -.015           | (.023)          | -.027           | (.018)          |\n| Δ LF nu       | Forest sound-                | -.040                       | (.027)                      | -.015           | (.025)          | .007            | (.019)          | .023            | (.021)          |\n|               | Control                      | -.002                       | (.013)                      | -.015           | (.016)          | -.011           | (.019)          | -.001           | (.021)          |\n|               | Δ LF/HF Forest sound+ sound- | -.537 -.185                 | (.560)                      | -.403           | (.814)          | .032            | (.526)          | -.118           | (.478)          |\n|               |                              |                             | (.531)                      | .278            | (.673)          | .350            | (.592)          | 1.289           | (.885)          |\n|               | Forest                       |                             |                             |                 |                 |                 | (.501)          |                 |                 |\n|               | Control                      | .234                        | (.486)                      | -.121           | (.447)          | .089            |                 | .201            | (.585)          |\n| Δ TOT (ms 2 ) | Forest sound+                | -2.51                       | (6.23)                      | -4.66           | (6.57)          | 25.20           | (9.48)          | 29.69           | (8.93)          |\n| Δ TOT (ms 2 ) | Forest sound-                | .35                         | (16.95)                     | -4.96           | (14.78)         | -8.11           | (13.88)         | -4.96 (12.07)   |                 |\n| Δ TOT ln      | Control                      | 4.33                        | (9.25)                      | 10.39           | (9.22)          | 8.34            | (7.26)          | 8.63            | (12.49)         |\n| Δ TOT ln      | Forest sound+                | -.014 -.056                 | (.133) (.317)               | -.017 -.152     | (.136) (.266)   | .431 -.189      | (.167) (.260)   | .456 -.070      | (.132) (.206)   |\n|               | Forest sound-                | .080                        | (.165)                      | .104            | (.172)          |                 | (.130)          |                 | (.203)          |\n|               | Control                      |                             |                             |                 |                 | .108            |                 | .094            |                 |",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Summary of cortisol and cardiovascular estimates during recovery. The parameter estimates are based on subtraction scores with the last stress condition, the math task, as the subtrahend. For the cortisol scores the first recovery condition represents the subtrahend because the cortisol concentration peaks after about 10 min after stress induction.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Note. See Table 2 for abbreviation definitions.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Forest+ group compared to the others (see Fig. 4c). Bonferroni pairwise post hoc test did not reveal any significant results between the groups.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "3.1.4.4. LF nu. The results show a significant main effect of CONDITION: F(7.189) = 10.04, p b .001, η 2 = .27, ε = .60; Flinear(1.27) = 15.41, p = .001, η 2 = .36; Fquadratic(1.27) = 16.90, p b .001, η 2 = .39, Fcubic(1.27) = 13.81, p = .001 η 2 = .034 (see Fig. 4d). LF nu increased from Baseline to MATH and the stabilised but with a small decrease at the first and second recovery period.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "3.1.4.5. LF/HF. A main effect of CONDITION was found for LF/HF: F(7.189) = 6.51, p b .001, η 2 = .19, ε = .66; Flinear(1.27) =18.49, p b .001, η 2 = .41; Fquadratic(1.27) = 4.25, p = .049, η 2 = .14; and Fcubic(1.27) = 9.21, p = .005, η 2 = .25. LF/HF increased during TSST and kept that level during recovery (see Fig. 4e).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "3.1.4.6. TOT ln. Finally a main effect of CONDITION also was found for TOT ln: F(7.189) = 5.30, p b 001, η 2 = .16, ε = .69, together with a linear contrast F(1.27) = 28.77, p b .001, η 2 = .69. The results show also a significant CONDITION*GROUP inter action effect: F(14.189) = 2.38, p = .014, η 2 = .15; Flinear(2.27) = 9.72, p = .001, η 2 = .42. As shown in Fig. 4f, for the Forest S+ group the total HRV power increased across the conditions, but was comparatively rather stable across the conditions for the other two groups. Bonferroni pairwise post hoc test did not reveal any significant results.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. Recovery from stress (Table 3)",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3.2.1. Cortisol ln",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The results showed a main effect of CONDITION only: F(2.54) = 53.22, p b .001, η 2 = .66, ε = .71; together with a linear contrast, Flinear(1.27) = 66.40, p b .001, η 2 = .71 (see Fig. 5a).",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3.2.2. Heart rate",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "HR decreased linearly: F(3.81) = 5.02, p = .007, η 2 = .16, ε = .75; Flinear(1.27) = 7.78, p b .01, η 2 = .22 (see Fig. 5b).",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3.2.3. T-wave amplitude",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "TWA rapidly increased and then stabilised or decreased slightly: F(3.81) = 6.97, p b .001, η 2 = .21, ε = .83; polynomial contrast: Flinear(1.27) = 5.58, p = .026, η 2 = .17; Fquadratic(1.27) = 19.36, p b .001, η 2 = .42 (see Fig. 5c).",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "3.2.4. HRV parameters",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "3.2.4.1. HF ln. An interaction between GROUP and CONDITION showed that the Forest S+ group responded with increased HF magnitude during recovery; the Forest S- group responded with decreased HF magnitude; and the control group had about the same HF magnitude during recovery: F(6.81) = 3.30, p = .008, η 2 = .20, ε = .89; Flinear(2.27) = 7.39, p = .003, η 2 = .35 (see Fig. 7). Bonferroni post hoc analyses showed that the Forest S+ group had higher HF magnitude than the Forest S- group at the third and the fourth recovery period, p = .037 respective p = .020.",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 5. Cortisol, HR, and TWA during recovery from stress. Values, mean (±1 SE), are based on subtraction scores with the last stress condition, the math task, as the subtrahend. For the cortisol scores the first recovery condition represents the subtrahend because the cortisol concentration peaks after about 10 min after stress induction. Filled squares represent the group that during 15 min after stress were exposed to a virtual walk in a forest including nature sounds; empty squares represent the group that were exposed to a virtual walk in the forest but with no sound; and the group that recovered in an empty room without any nature stimuli is represented by empty circles.",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 6. HF ln during recovery from stress. Values, means (±1 SE), are based on subtraction scores with the last stress condition, the math task, as the subtrahend. Filled squares represent the group that during 15 min after stress were exposed to a virtual walk in a forest including nature sounds; empty squares represent the group that were exposed to a virtual walk in the forest but with no sound; and the group that recovered in an empty room without any nature stimuli is represented by empty circles.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "For the other HRV parameters no significant effect were found (Fig. 6a-f).",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "3.2.5. State anxiety scale",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The participants rated their subjective state anxiety higher during stress than during baseline (M = 50.2, SD = 11.5 and M = 29.7, SD = 6.6, respectively), t(26) = 10.6, p b .001, indicating that stress induction was successful. Responses to STAI were missing from three participants.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "There was no significant difference in state anxiety during exposure to the green environment between the group that also received the auditory stimuli (M = 30.8, SD = 7.5) and the group that did not (M = 27.1, SD = 4.4), t(15) = 1.24, n.s.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion and conclusions",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We have found that stress recovery can be facilitated by the addition of sounds of nature to a virtual green environment in a laboratory setting. Replicating two prior studies on VR-TSST HR, cortisol, and subjective ratings of state anxiety increased, and TWA decreased (i.e. increased sympathetic activity), indicating that stress induction was successful. In addition, LF nu and LF/HF, both suggested to be related to sympathetic cardiac regulation, increased. However, LF nu and LF/HF didn't return to baseline during recovery, possibly reflecting influences of parasympathetic nervous system (PNS) activity supposed to be involved also in the LF frequency band [40].",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 7. Different changes in HF-HRV depending on condition.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Concerning recovery, HF ln, generally considered being a proxy of vagally mediated respiratory sinus arrhythmia increased for the group that after TSST were exposed to a virtual forest with congruent nature sounds. The control group that recovered without any visual or auditory stimuli showed about the same HF ln magnitude as during TSST, and neither did we detect any significant effect on stress recovery in the silent green environment.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Thus, our hypothesis was only partly confirmed. Stress recovery seemed to be facilitated for the group that recovered in the setting with both visual and auditory nature stimuli as indicated by increasing PNS cardiac regulation. However, in contrast to our intention the silent forest may have created a component of uncertainty or unpleasantness. Some of the participants, who recovered in the silent forest mentioned that they had experienced some kind of anticipation fear, expecting something threatening or dangerous to appear from the surrounding VR nature. The incongruent situation of a high visual realism with no other modality exposure might produce an almost surrealistic experience that may be perceived as somewhat frightening.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "In contrast to our results, another recent study showed faster recovery of the sympathetic nervous system during exposure to sounds of nature, but no significant effect on the parasympathetic nervous system [27]. That study was concerned with recovery after psychological stress induced by an arithmetic task, and did not include any visual stimuli, suggesting there may be an interactive effect between visual VR nature and sound exposure that has a parasympathetic consequence during recovery. The addition of sound exposure to the visual nature stimuli may act by enhancing the feeling of reality in the virtual setting, hence increasing the recovery effect. Another possible explanation may be that nature sounds itself heighten parasympathetic activity.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The lack of effect on cortisol response may reflect the inertness of this system. The reaction of cortisol is generally slow and difficult to affect in any measurable way by adjustment of the recovery environment. The TSST elicits a prompt and high stress-related cortisol response. Those bodily responses connected to the feeling of relief in quitting the stressful task may disguise any slight differences in the eventual recovery response.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Besides from the small sample size this study has several other limitations. An additional control group with only auditory recovery would have increased the interpretational value, and should be explored through further developed study protocols in response to this initial pilot study. Although inclusion of only men helps standardising the results it also restricts generalisability. While replicating the findings of adequate TWA-responses to stress and stress recovery fromprevious studies in the VR-laboratory, it should be mentioned that TWA as a measure of sympathetic cardiac activity is not uncontroversial and must be interpreted with caution. Another problem was the inevitable window in the recordings, due to set up time for VR setting number two (nature) after the initial VR setting (TSST). This delayed the onset of the recovery condition being studied by approximately 5 min for every participant, however the delay was the same in all three groups.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Further explorations of the use of virtual nature could be achieved by alternative study protocols. Other sounds, or even other modalities such as smell or touch, might be tried. Participants could initially rest in varied VR environmental settings (e.g. with or without sound), with stress later being induced by VR-TSST to examine a potential preventive role of nature experiences on stress. Considering the relatively slow cortisol reaction, this set-up might have a larger potential to elicit interpretable responses or non-responses. It would also be of interest to study the effects in an even more realistic VR-nature, using for example modern game engines with capacity for photorealistic animated environments.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "To summarize, the findings of this pilot study at least partly give preliminary but positive support for the potential of nature VE. There seems to be a significant interactive effect between sound modality and visual input in the virtual nature setting, contributing to increased parasympathetic activity and more efficient recovery after virtually-induced stress. Consequently, this discovery of an activation mechanism operative in the case of stress recovery suggests novel interpretations of how health effects in nature are achieved. The findings offer prospects for a new research strategy in the complex field of interactions between humans and nature. By standardising natural settings, applying different modalities, and using varied measurement techniques and variables within the laboratory, a more fundamental understanding of the mechanisms and pathways for this interaction may be achieved.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Role of the funding source and acknowledgments",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Financial support for conducting this study was provided from the research programme Broadleaves for the Future, Ljudmiljöcentrum Lund University, and the institution of Work Science, Business Economics and Environmental Psychology Swedish University of Agricultural Sciences. The funding sources have had no involvement in how the study was designed, conducted, interpreted or written.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "This work was performed within the framework of Metalund, the Centre for Medicine and Technology for Working Life and Society, a competence centre at Lund University, Sweden, supported by FAS, the Swedish Council for Working Life and Social Research.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Disclosure statement",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The authors declare no conflict of interest.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Alleyne G, Binagwaho A, Haines A, Jahan S, Nugent R, Rojhani A, et al. Embedding non-communicable diseases in the post-2015 development agenda. Lancet 2013;381:566-74.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Godfrey R, Julien M. Urbanisation and health. Clin Med J R Coll Physicians Lond 2005;5:137-41.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Danielsson M, Heimerson I, Lundberg U, Perski A, Stefansson C-G, Åkerstedt T. Psychosocial stress and health problems: health in Sweden: The National Public Health Report 2012. [Chapter 6] Scand J Public Health 2012;40:121-34.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Bowler D, Buyung-Ali L, Knight T, Pullin A. A systematic review of evidence for the added benefits to health of exposure to natural environments. BMC Public Health 2010;10:456.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Grahn P, Stigsdotter UA. Landscape planning and stress. Urban For Urban Green 2003;2:1-18.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Lederbogen F, Kirsch P, Haddad L, Streit F, Tost H, Schuch P, et al. City living and urban upbringing affect neural social stress processing in humans. Nature 2011;474:498-501.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich R. Visual landscapes and psychological well-being. Landsc Res 1979;4: 17-23.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan S, Kaplan R. The experience of nature: a psychological perspective. New York, NY: Cambridge Univ Pr; 1989.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan S. The restorative benefits of nature: toward an integrative framework. J Environ Psychol 1995;15:169-82.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich RS. Biophilia, biophobia, and natural landscapes. In: Kellert SRWE, editor. The biophilia hypothesis. Washington DC: Island Pr; 1993. p. 73-137.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Bratman GN, Hamilton JP, Daily GC. The impacts of nature experience on human cognitive function and mental health. Ann N Y Acad Sci 2012;1249: 118-36.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig T, van den Berg AE, Hagerhall CM, Tomalak M, Bauer N, Hansmann R, et al. Health benefits of nature experience: psychological, social and cultural processes. For Trees Hum Health 2010:127-68.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Gidlöf-Gunnarsson A, Öhrström E. Noise and well-being in urban residential environments: the potential role of perceived availability to nearby green areas. Landsc Urban Plan 2007;83:115-26.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan R, Kaplan S, Deardorff H. The perception and evaluation of a simulated environment. Man Environ Syst 1974;4:191-2.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan R. Physical models in decision making for design: theoretical and methodological issues. Environ Simul Res Policy Issues 1993:61-86.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Craik KH. Environmental assessment and situational analysis. In: Magnusson D, editor. The situation: an interactional perspective. Palo Alto: Erlbaum; 1981. p. 37-48.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Stamps AE. Use of photographs to simulate environments: a meta-analysis. Percept Mot Skills 1990;71:907-13.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "de Kort Y, Ijsselsteijn W, Kooijman J, Schuurmans Y. Virtual laboratories: comparability of real and virtual environments for environmental psychology. Presence Teleoper Virtual Environ 2003;12:360-73.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Slater M. Measuring presence: a response to the Witmer and Singer presence questionnaire. Presence 1999;8:560-5.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "de Kort Y, Ijsselsteijn W. Reality check: the role of realism in stress reduction using media technology. Cyberpsychol Behav 2006;9:230-3.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Lin JJW, Duh HBL, Parker DE, Abi-Rached H, Furness TA. Effects of field of view on presence, enjoyment, memory, and simulator sickness in a virtual environment. Virtual Reality, 2002. Orlando, Fl, USA: IEEE; 2002. p. 164-71.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Seay A, Krum DM, Hodges L, Ribarsky W. Simulator sickness and presence in a high FOV virtual environment. Virtual Reality, 2001. Yokohama, Japan: IEEE; 2001. p. 299-300.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "de Kort Y, Meijnders A, Sponselee A, Ijsselsteijn W. What's wrong with virtual trees? Restoring from stress in a mediated environment. J Environ Psychol 2006;26:309-20.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Nordahl, R. Increasing the motion of users in photorealistic virtual environments by utilizing auditory rendering of the environment and ego-motion. In: Cheryl Campanella Bracken CSU, USA, Matthew Lombard TU, USA, editors. 9th Annual International Workshop on Presence. Cleveland, Ohio, USA: International Society for Presence Research (ISPR); 2006. p. 57-62.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Brown A, Muhar A. An approach to the acoustic design of outdoor space. J Environ Plan Manag 2004;47:827-42.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Nilsson M, Berglund B. Soundscape quality in suburban green areas and city parks. Acta Acust United Acust 2006;92:903-11.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Alvarsson J, Wiens S, Nilsson M. Stress recovery during exposure to nature sound and environmental noise. Int J Environ Res Public Health 2010;7: 1036-46.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Diette GB, Lechtzin N, Haponik E, Devrotes A, Rubin HR. Distraction therapy with nature sights and sounds reduces pain during flexible bronchoscopy*. Chest 2003;123:941.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Arai Y-C, Ushida T, Matsubara T, Shimo K, Ito A, Ohshima K, et al. Intra-operative natural sound decreases salivary amylase activity of patients undergoing inguinal hernia repair under epidural anesthesia: 123. Reg Anesth Pain Med 2008;33: e234.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Hunter MD, Eickhoff SB, Pheasant RJ, Douglas MJ, Watts GR, Farrow TFD, et al. The state of tranquility: subjective perception is shaped by contextual modulation of auditory connectivity. Neuroimage 2010;53:611-8.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "KirschbaumC, PirkeK,HellhammerD. The 'Trier Social StressTest' -a tool for investigating psychobiological stress responses in a laboratory setting. Neuropsychobiology 1993;28:76-81.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Kudielka B, Schommer N, Hellhammer D, Kirschbaum C. Acute HPA axis responses, heart rate, and mood changes to psychosocial stress (TSST) in humans at different times of day. Psychoneuroendocrinology 2004;29:983-92.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Kelly M, Tyrka A, Anderson G, Price L, Carpenter L. Sex differences in emotional and physiological responses to the Trier Social Stress Test. J Behav Ther Exp Psychiatry 2008;39:87-98.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Kelly O, Matheson K, Martinez A, Merali Z, Anisman H. Psychosocial stress evoked by a virtual audience: relation to neuroendocrine activity. Cyberpsychol Behav 2007;10:655-62.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Jönsson P, WallergårdM, Österberg K, Hansen Å, Johansson G, Karlson B. Cardiovascular and cortisol reactivity and habituation to a virtual reality version of the Trier Social Stress Test: a pilot study. Psychoneuroendocrinology 2010;35:1397-403.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Jönsson P, Wallergård M, Karlson B, Johansson G, Österberg K, Eek F, et al. The Trier Social Stress Test in the black box: inducing social stress in a virtual environment. A brain research meeting: stress, coping and disease. Arlington, Washington, USA: Sheraton National Hotel; 2008.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Dickerson S, Kemeny M. Acute stressors and cortisol responses: a theoretical integration and synthesis of laboratory research. Psychol Bull 2004;130:355-91.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Kline K, Ginsburg G, Johnston J. T-wave amplitude: relationships to phasic RSA and heart period changes. Int J Psychophysiol 1998;29:291-301.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Rau H. Responses of the T wave amplitude as a function of active and passive tasks and beta adrenergic blockade. Psychophysiology 1991;28:231-9.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Berntson GG. Heart rate variability: origins, methods, and interpretive caveats. Psychophysiology 1997;34:623-48.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "De Bruin A, Picavet H, Nossikov A. Health interview surveys. Towards international harmonization of methods and instruments. WHO Reg Publ Eur Ser 1996:58:i.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Robine JM, Jagger C. Creating a coherent set of indicators to monitor health across Europe: the Euro-REVES 2 project. Eur J Public Health 2003;13:6-14.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Kirschbaum C, Wüst S, Hellhammer D. Consistent sex differences in cortisol responses to psychological stress. PsychosomMed 1992;54:648-57.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Kudielka BM, Hellhammer D, Wüst S. Why do we respond so differently? Reviewing determinants of human salivary cortisol responses to challenge. Psychoneuroendocrinology 2009;34:2-18.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Spielberger C, Gorsuch R, Lushemne R, Vagg P, Jacobs G. Manual for the state-trait anxiety inventory. 2nd ed.Palo Alto, CA: Consulting Psychologists Press; 1983.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Österberg K, Karlson B, Hansen A. Cognitive performance in patients with burnout, in relation to diurnal salivary cortisol. Stress 2009;12:70-81.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Furedy JJ, Heslegrave RJ. A considerationof recent criticisms of the Twave amplitude index of myocardial sympathetic activity. Psychophysiology 1983;20:204-11.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Montoya P, Brody S, Beck K, Veit R, Rau H. Differential β- and α-adrenergic activation during psychological stress. Eur J Appl Physiol Occup Physiol 1997;75:256-62.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Hansson M. Optimized weighted averaging of peak matched multiple window spectrum estimators. IEEE Trans Signal Process 1999;47:1141-6.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Hansson M, Jönsson P. Estimation of HRV spectrogram using multiple window methods focussing on the high frequency power. Med Eng Phys 2006;28:749-61.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Jönsson P, Hansson-SandstenM. Respiratory sinus arrhythmia in response to fear relevant and fear irrelevant stimuli. Scand J Psychol 2008;49:123-31.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Akselrod S, Gordon D, Ubel FA, Shannon DC, Berger A, Cohen RJ. Power spectrum analysis of heart rate fluctuation: a quantitative probe of beat-to-beat cardiovascular control. Science 1981;213:220.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Porges SW. Orienting inadefensiveworld:mammalianmodifications of our evolutionary heritage. A polyvagal theory. Psychophysiology 1995:301-18.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Akselrod S, Gordon D, Madwed J, Snidman N, Shannon D, Cohen R. Hemodynamic regulation: investigation by spectral analysis. Am J Physiol Heart Circ Physiol 1985;249:H867-75.",
+   "page": 11
+  }
+ ]
+}

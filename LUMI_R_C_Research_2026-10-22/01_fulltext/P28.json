@@ -1,0 +1,633 @@
+{
+ "paper_id": "P28",
+ "source": "P28_Nature_Scenes_Autonomic_Recovery.pdf",
+ "pages": 8,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "pubs.acs.org/est",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Terms of Use CC-BY",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Viewing Nature Scenes Positively Affects Recovery of Autonomic Function Following Acute-Mental Stress",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Daniel K. Brown,* Jo L. Barton, and Valerie F. Gladwell",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "School of Biological Sciences, University of Essex, Colchester, CO4 3SQ, United Kingdom",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "ABSTRACT: A randomized crossover study explored whether viewing different scenes prior to a stressor altered autonomic function during the recovery from the stressor. The two scenes were (a) nature (composed of trees, grass, fields) or (b) built (composed of man-made, urban scenes lacking natural characteristics) environments. Autonomic function was assessed using noninvasive techniques of heart rate variability; in particular, time domain analyses evaluated parasympathetic activity, using root-mean-square of successive differences (RMSSD). During stress, secondary cardiovascular markers (heart rate, systolic and diastolic blood pressure) showed significant increases from baseline which did not differ between the two viewing conditions. Parasympathetic activity, however, was significantly higher in recovery following the stressor in the viewing scenes of nature condition compared to viewing scenes depicting built environments (RMSSD; 50.0 ± 31.3 vs 34.8 ± 14.8 ms). Thus, viewing nature scenes prior to a stressor alters autonomic activity in the recovery period. The secondary aim was to examine autonomic function during viewing of the two scenes. Standard deviation of R-R intervals (SDRR), as change from baseline, during the first 5 min of viewing nature scenes was greater than",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "during built scenes. Overall, this suggests that nature can elicit improvements in the recovery process following a stressor.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "■ INTRODUCTION",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Since the 19th century, the natural environment has been considered important for ensuring a greater level of physical and mental health. 1 Theories suggest that, due to our huntergatherer past, present day humans have an innate affiliation with nature and living things. 2 Consequentially, nature is conducive to involuntary attention and does not require our directed attention, allowing recovery from mental fatigue 3 and facilitating attention restoration. 4 In the past decade, epidemiological studies in The Netherlands have identified a positive correlation between improved health outcomes and amount of surrounding green space. 5,6 Subsequently, the diverse health benefits that maybe engendered by nature have become a focal point for research.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Two recent systematic reviews have concluded that exposure to nature is associated with improved mental well-being in comparison to indoor environments 7 and synthetic or built environments. 8 Further support of these conclusions has been found in single studies where improvements in self-esteem, 9,10 positive and negative mood, 9-12 anxiety levels, 13 and feelings of calmness and comfort 14 have been observed. Similar findings have also been observed using simulated environments in controlled laboratory conditions. 15 The studies reviewed by Thompson-Coon et al. did not report physiological variables, and Bowler et al. found only limited evidence for physiological changes. Both systematic reviews conclude that investigation regarding physiological changes during experiencing nature is lacking. However, there are individual studies investigating exposure to nature that identify changes in physiological health markers 16-20 including decreased heart rate (HR) 17 and decreased systolic (SBP) 17,18 and diastolic blood pressure (DBP). 17,18 Further, changes in endocrine markers such as reduced adrenaline, 17 noradrenaline, 18 and cortisol, 17,21 as well as enhanced autonomic control (indirectly measured using heart rate variability, HRV) 17 have also been reported. These findings have also been observed in a controlled and simulated environment indoors 16,19,20 where potential confounding factors such as weather, climate, sounds, and smells are eliminated. The physiological changes that are noted are all suggestive of potential systemic relaxation. There is, however, a lack of rigorous research providing empirical evidence of the physiological mechanisms that exist with exposure to nature. 7 Thus, the impact of environment on cardiovascular health needs to be explored further using controlled environments and outcome measures which reflect such physiological changes, e.g., autonomic control.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "HRV provides a measure of autonomic nervous system (ANS) functioning 22 and can be used to explore physiological changes associated with nature exposure. The ANS is important in controlling many bodily functions, and alterations are prevalent during relaxation and arousal. HRV is an easy to obtain, established noninvasive scientific and clinical measure 22 and has prognostic value regarding cardiovascular health. 23 It requires the measurement of interbeat differences in HR using either electrocardiogram (ECG) or mobile R-R interval monitors. The analysis of HRV reflects ANS function by assessing the parasympathetic and sympathetic contributions to sino-atrial node regulation of HR. 22 A higher HRV suggests an increased adaptability of the ANS and is associated with better health. Previous work that has observed HRV indicates that",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received: December 7, 2012",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Revised: April 5, 2013",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Accepted: April 16, 2013",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Published: April 16, 2013",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "there is a tendency for higher HRV when nature is viewed in situ 17 or simulated using projected images. 16",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The ANS plays a central role in governing the response to stress and how the body recovers following a stressor. 24 Indeed, Lane and Thayer utilized functional magnetic resonance imaging (fMRI) to examine the hypothesized heart-brain connection and found concurrent associations between vagal influenced HRV and changes in blood flow through areas of the brain known to be involved in emotional responses, attention, and working memory. 25 Additionally, the prefrontal cortex has been observed to play a role in the top-down regulation of HRV, as demonstrated using direct current stimulation of the dorsolateral area of the prefrontal cortex during viewing of negative images compared to neutral images 26 (images of nature were not used in this study). The relaxation and restorative effect of nature might help combat the rising incidence of psychological stress 27 by providing a potential resilience tool. 28 Previous analysis of the restorative effects of nature suggest that participants recover faster from induced stress (in terms of HR) when, during the recovery, they view nature through a window 29 or view projected scenes of natural environments. 30 HR recovery in the latter study was purported to occur due to, in part, an enhanced recovery of parasympathetic activity. 30 It is, however, unknown whether the benefits of nature on cardiovascular reactivity continue to occur after exposure has ceased.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "It is further unknown whether a longer exposure to nature elicits greater responses during the exposure. During nature exposure, the first 5 min elicits the greatest improvements in mood and self-esteem. 31 Physiological alterations in HRV also occur during the first 5 min of viewing slides simulating nature. 16 To date, there is no evidence to suggest that longer exposure times elicit better physiological responses and in particular greater changes in HRV during nature exposure. This time course is important to establish; nature could be potentially used prior to a stressor and thus alter physiological outcomes in recovery from a stressor without the need of exposure to nature during the recovery period; i.e., nature could improve cardiovascular reactivity following a stressor by speeding the recovery process.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The primary aim of this study was to investigate the effect that prior viewing of nature scenes had on ANS function during recovery from a stressor. The hypothesis was that viewing nature scenes (composed of trees, grass, fields) prior to a stressor will lead to higher HRV in recovery when compared to viewing scenes of built environments (composed of man-made, urban scenes lacking natural characteristics). A secondary aim was to compare ANS function during the first and second 5 min of a 10 min exposure to nature images to see if HRV changes were sustained.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "■ MATERIALS AND METHODS",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Participants and Design. Ethical approval from the University ethics committee was granted, and participants (n = 25, 7 males, 18 females) were recruited from University support staff who were independent from the research group conducting the study. Informed consent was obtained from all participants who ranged in age from 19 to 65 years (mean ± SD, 36.08 ± 10.42), with stature 169.05 ± 7.33 cm (mean ± SD) and mass 71.66 ± 13.11 kg (mean ± SD). Due to a technical problem, data were not recorded for two participants (1 female, 1 male) during the stressor segment. Therefore, they are not included in further analysis of data. The participants remaining (n = 23) were aged 36.91 ± 11.09 years (mean ± SD), with stature 168.35 ± 7.52 cm (mean ± SD) and mass 70.38 ± 12.42 kg (mean ± SD). The study was a within-subject randomized crossover design with all participants visiting the laboratory on two occasions one week apart. Visits were at the same time of day to eliminate any effect of circadian rhythm on the dependent variables. Participants were free from symptoms of disease and were not using medication that would affect the cardiovascular or ANS.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Protocol. Laboratory environmental conditions were kept consistent throughout both visits. Room temperature was set at 21 °C; artificial lighting was used, and blinds were drawn to avoid direct sunlight entering the room. Noise disturbance was kept to a minimum.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Each visit consisted of viewing one of two different groups of slides before being exposed to a mental stressor. Participants were randomly assigned an order to either view the built scenes first or the nature scenes first. On arrival, participants completed a battery of psychological questionnaires (described below). Following this, participants were told to rest for 15 min in the semisupine position, allowing HR and blood pressure (BP) measures to stabilize. The participants remained in this position for the duration of the protocol. Following the period of rest, participants viewed a set of slides (either nature or built environment scenes) for a 10 min period. Participants were then required to partake in a 5 min mental stressor. Immediately poststressor, a further 5 min of physiological data were recorded to capture recovery. After recovery, participants completed the same set of psychological questionnaires. At the next visit, a week later, participants repeated this protocol and viewed the other set of slides.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Scenes of Nature and Built Environments. The slideshows depicting scenes of nature and built environments involved still photographs representing each of the environments. The photographs were chosen from a central pool of photographs used within the research group. 15,16 The photographs (Figure 1) depicting natural environments included natural elements, e.g., trees, grass, or plant life, and were devoid of any man-made structures, e.g., buildings, vehicles, roads. In contrast, the photographs depicting built environments contained man-made structures, e.g., houses, flats, office buildings, brick walls. A critical element of the scenes of built environments was the lack of natural features. Twenty photographs were selected and collated in a Microsoft PowerPoint slideshow, with each slide being shown for 30 s. Each slideshow lasted a total of 10 min, and photographs were shown in the same order for every participant. Before viewing the slideshow, participants were given the instructions to try and imagine they were in the environment depicted on the screen. The term \"condition\" will be used from this point to describe the viewing of either the nature or built area slide sets. The two slide sets will be referred to individually as the nature condition and built condition.",
+   "page": 2
+  },
+  {
+   "label": "caption",
+   "text": "Figure 1. Examples of images used in the slideshows to depict scenes of nature environments (A and B) and scenes of built environments (C and D). Copyright Jules Pretty (Photographs A and C).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Mental Stressor. The mental stressor comprised a forward digit span test with an accompanying socio-evaluative threat and was designed specifically to elicit cardiovascular stress responses. A series of six numbers were displayed on a screen in front of the participant. Each number was shown individually for one second. After each series of six numbers, the participant had 10 s to write the numbers down in the correct order. The test is cognitively demanding 32 and was designed to cause a stress response by adding a socio-evaluative component 33 which has previously been reported to cause a stress response. 34 To ensure a socio-evaluative threat, participants were informed that they would be carefully monitored during the test by the experimenter and a buzzer would sound when an incorrect answer was given. 33 The buzzer was used twice in each session in order to achieve consistency irrespective of whether the participant had provided an incorrect answer. Participants were informed at the end of the study that this was the case. They were asked if they were aware that they had in fact got the answer correct. All participants reported that they could not be sure that they had and had assumed they had answered incorrectly.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Physiological Measures. Heart Rate. An ECG modified lead II configuration was used to record interbeat data throughout the protocol.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Blood Pressure. BP oscillations were measured continuously throughout the protocol from a finger BP cuff attached to the middle finger of the nondominant hand (Portapres, FMS, Finapres Medical Systems BV, Netherlands). Continuous recording of blood pressure in this manner allows mean blood pressure to be calculated and is advantageous over using momentary measures which are susceptible to white coat syndrome or cuff response. 35 SBP and DBP were calculated using LabChart 7 software (ADInstruments, UK) to transform the waveform data. SBP is recorded as the highest pressure and DBP as the lowest pressure during a single cardiac cycle. These values were averaged for each 5 min segment.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Respiration. Respiratory frequency and depth were measured using a respiratory strap (Pneumotrace, ADInstruments, UK) fitted around the participant's chest. Changes in electrical output reflect stretch changes in the respiratory strap. Respiratory frequency and depth were computed from the resultant changes in waveform. All data were measured at 1000 Hz and collected by a Powerlab 8SP (model ML785, ADInstruments, UK) using LabChart 7 software.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Heart Rate Variability Measures. ECG data were analyzed using Kubios HRV software. 36 Data were examined for ectopic beats, but none were found. Data were then analyzed and averaged out into 5 min segments as it is most appropriate for HRV comparison that sections are equal in duration. 22 These segments are categorized into: baseline (Base), first 5 min of viewing slides (Slides 1), second 5 min of viewing slides (Slides 2), mental stressor (Stress), and in recovery (Recv).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "In the time-domain, HR was calculated as number of beats per minute. Standard deviation of R-R intervals (SDRR) was chosen to reflect overall HRV contributed to by both sympathetic and parasympathetic systems. To reflect parasympathetic system activity alone, the root-mean-square of successive differences (RMSSD) was used. 22",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Psychological Questionnaires. Self-esteem was assessed using Rosenberg's scale. 37 Responses were coded on a 0-3 scale giving a range for total self-esteem score of 0, representing the lowest level of self-esteem, and 30, the highest level of selfesteem. Although designed as a trait measure of self-esteem, Rosenberg's scale has previously demonstrated changes as a state measure of self-esteem due to exposure to natural environments. 15,31 Mood was assessed using the Positive and Negative Affect Scale (PANAS). 38 Mood-related adjectives (e.g., enthusiastic, inspired, hostile, afraid) were rated on a scale of 1 to 5 for how well each adjective described participants' current mood (1 = very slightly or not at all, 5 = extremely). Both positive and negative scales were analyzed. Self-esteem and mood were measured at the start and end of the protocol immediately after the recovery period.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Statistical Analysis. Baseline data were compared using paired student's t tests. To test the primary hypothesis, a repeated measures ANOVA was used to identify whether recovery relative to baseline differed between conditions for RMSSD, SDRR, HR, SBP and DBP. For the secondary question, changes from baseline values were first calculated to explore if the expected short-term effect during the first 5 min of viewing is repeated in the second 5 min. Data were not normally distributed (assessed by Kolomogorov-Smirnov test for normality); therefore, the Friedman's test was performed with posthoc Wilcoxon tests to explore significant differences. Repeated measures ANOVA was also used to examine whether the stress response (HR and BP only) compared to baseline differed between conditions. To assess if breathing frequency and depth was kept constant throughout the protocol, repeated measures ANOVA was used.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "To identify whether changes in psychological measures changed from baseline to poststress and whether this differed between viewing condition, repeated measures ANOVA was used. Paired t tests were used to identify if performance in the mental stress task differed between condition and visit order. Significance was set at an alpha of 0.05, where appropriate posthoc paired t tests were used to investigate significant effects between conditions with a Bonferroni corrected alpha level. All data are normally distributed except for RMSSD (assessed by Kolomogorov-Smirnov test for normality). RMSSD went through natural log transformation before statistical analysis. Nonsignificant results for all analyses are not reported. The statistical package PASW SPSSv18 was used for all statistical analysis.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "■ RESULTS",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Baseline Measurements. Planned paired t tests on baseline data (Table 1) showed there were no differences between the viewing conditions at baseline for RMSSD, SDRR, HR, SBP, DBP, or breathing frequency or depth (p > 0.05). Therefore, any subsequent differences are likely attributed to interventions and actions within the protocol. In all analyses, there were no order effects of condition on any of the dependent variables.",
+   "page": 3
+  },
+  {
+   "label": "table",
+   "text": "Table 1. Baseline Measurements in the Nature and Built Conditions (Mean ± SD) a\nTable 1. Baseline Measurements in the Nature and Built Conditions (Mean ± SD) a\n\n|                                 |   nature - mean |   nature - SD |   built - mean |   built - SD |\n|---------------------------------|-----------------|---------------|----------------|--------------|\n| cardiovascular measures         |                 |               |                |              |\n| heart rate, bpm                 |            67.5 |           9.6 |           68.0 |          8.7 |\n| systolic blood pressure, mmHg   |           117.0 |          13.9 |          118.3 |         14.8 |\n| diastolic blood pressure, mmHg  |            59.8 |           8.6 |           60.4 |          7.6 |\n| heart rate variability measures |                 |               |                |              |\n| RMSSD, ms 2                     |            39.7 |          19.7 |           37.9 |         15.8 |\n| SDRR, ms 2                      |            48.6 |          18.5 |           43.8 |         15.2 |\n| psychological measures          |                 |               |                |              |\n| self-esteem                     |            19.4 |           5.1 |           19.8 |          4.4 |\n| negative mood                   |            12.2 |           3.9 |           12.5 |          2.6 |\n| positive mood                   |            27.7 |           6.4 |           28.2 |          7.3 |",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Table 1. Baseline Measurements in the Nature and Built Conditions (Mean ± SD) a",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "a RMSSD, root mean square of successive differences; SDRR, standard deviation of R-R intervals; self-esteem quantified using Rosenberg's self-esteem, low scores = low self-esteem, range 0-30; negative and positive mood taken from the positive and negative affect scale (PANAS), low scores = low negative or positive mood, range 0-40.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Effect of Nature Views on Recovery. For the primary research question, repeated measures ANOVA revealed an interaction effect for RMSSD between the nature condition and the built condition over time (F1, 22 = 8.72, p = 0.007, ηp 2 = 0.28). This demonstrates increased levels above baseline during recovery for the nature condition compared to recovery in the built condition (Figure 2) where levels dropped below baseline. Repeated measures ANOVA on SDRR determined a main effect of view (F1, 22 = 11, p = 0.003, ηp 2 = 0.33) and time (F1, 22 = 7.7, p = 0.011, ηp 2 = 0.26), with levels increasing during recovery irrespective of view and higher SDRR in the nature condition irrespective of time.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "During Views. For the secondary research question, exposure time was split in half to see if ANS function during the first 5 min differed to the last 5 min according to condition (Figure 3). Friedman's test for multiple comparisons identified significant differences for SDRR during views (χ 2 (3) = 8.06, p = 0.045). Posthoc Wilcoxon tests were performed with a Bonferroni correction factor of 0.013. Change in SDRR from baseline was found to be significantly greater in the nature condition (median = 1.20) compared to the built condition (median = -2.44) during the first 5 min (z = -2.56, p = 0.011).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "During Mental Stress Task. Repeated measures ANOVA revealed a main effect for time on HR (F1, 22 = 27.3, p = 0.001, ηp 2 = 0.10) describing an increase from baseline to stress period (67.8 ± 1.8 vs 73.4 ± 1.8 bpm). There was also a main effect of time on SBP (F1,22 = 34.1, p = 0.001, ηp 2 = 0.61) and DBP (F1,22 = 9.7, p = 0.005, ηp 2 = 0.31) both revealing an increase from baseline to stress period (117.6 ± 2.6 vs 128.8 ± 3.1 mmHg and 60.1 ± 1.4 vs 63.1 ± 1.5 mmHg, respectively). Change in these parameters supports the effectiveness of the mental stressor. Repeated measures ANOVA determined that time had an effect on breathing rate (F4, 84 = 6.2, p = 0.001, ηp 2 = 0.23). Pairwise comparisons revealed that only the stress period was different from baseline (18.3 ± 0.7 vs 14.3 ± 0.7, p < 0.0001). Repeated measures ANOVAs revealed no main effect for condition on HR (F1, 22 = 1.9, p = 0.187, ηp 2 = 0.08), SBP (F1, 22 = 1.5, p = 0.231, ηp 2 = 0.07), DBP (F1, 22 = 0.0003, p = 0.985, ηp 2 = 0.00001), or breathing rate (F1, 21 = 0.9, p = 0.356, ηp 2 = 0.04) suggesting that viewing condition did not influence the",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "stress responses. A paired t test showed no difference was observed in the scores for the mental task between the conditions. However, a paired t test revealed that the second visit showed a significant improvement in the population mean score from 91.1 to 97.7, (t22 = 4.12, p = 0.001) out of a possible 102.",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Figure 2. Mean (±SD) heart rate and heart rate variability recovery from stress compared to baseline: ∗, main effect for time (p < 0.05); †, interaction effect (p < 0.05); ∗∗, main effect for view (p < 0.05).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Self-Esteem and Mood. A repeated measures ANOVA determined an interaction effect on self-esteem (F1, 21 = 5.4, p = 0.03, ηp 2 = 0.21) describing an enhanced self-esteem from baseline to poststress for the nature condition (Table 2). Conversely, the built condition showed deterioration in selfesteem from baseline to poststress values. Repeated measures ANOVA revealed a main effect of time on negative mood scores (F1, 21 = 7.3, p = 0.013, ηp 2 = 0.26) describing a decrease in negative mood from baseline to poststress (Table 2). There was no detectable effect on positive mood.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "■ DISCUSSION",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The majority of research exploring the impact of nature on ANS mechanisms has included an exercise component which limits the conclusions drawn about the contribution of the \"nature\" component. 15,17,39 As exercise has such positive effects on health parameters, it is often hard to isolate the effects solely from the nature component. Therefore, this study looks at the a Self-esteem, quantified using Rosenberg's self-esteem, low scores = low self-esteem, range 0-30; both positive and negative mood quantified using positive and negative affect scale (PANAS), low scores = low positive or negative mood, range 10-50. b Significant interaction effect (p < 0.05). c Significant main effect for time, pre to post (p < 0.05).",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Figure 3. Heart rate and heart rate variability means ± SD as change from baseline for the first 5 min and last 5 min of viewing: ∗, significant difference between conditions.",
+   "page": 5
+  },
+  {
+   "label": "table",
+   "text": "Table 2. Psychological Measures at the Beginning and End of the Protocol for Both Nature and Built Conditions (Mean ± SD) a\nTable 2. Psychological Measures at the Beginning and End of the Protocol for Both Nature and Built Conditions (Mean ± SD) a\n\n|                 |   nature - pre - mean |   nature - pre - SD |   nature - post - mean |   nature - post - SD |   built - pre - mean |   built - pre - SD |   built - post - mean |   built - post - SD |\n|-----------------|-----------------------|---------------------|------------------------|----------------------|----------------------|--------------------|-----------------------|---------------------|\n| self-esteem b   |                  19.4 |                 5.1 |                   19.8 |                  5.1 |                 19.8 |                4.4 |                  19.5 |                 4.9 |\n| positive mood   |                  27.7 |                 6.4 |                   27.0 |                  7.4 |                 28.2 |                7.3 |                  27.5 |                 7.2 |\n| negative mood c |                  12.2 |                 3.9 |                   11.0 |                  1.7 |                 12.5 |                2.6 |                  11.9 |                 2.4 |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Table 2. Psychological Measures at the Beginning and End of the Protocol for Both Nature and Built Conditions (Mean ± SD) a",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "nature contribution to ANS function without complicating the effects by combining it with exercise.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The main finding of this study was that HRV as a marker of ANS function increased during stress recovery, if nature scenes were viewed prior to a stressor, compared to built scenes. This is the first study to suggest that simply viewing scenes of nature prior to a stressor enhances recovery of ANS function poststressor.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The interaction of nature and recovery from stress has been studied previously. 30,32 However, previous research has assessed the restorative effects of viewing or interacting with nature during the actual recovery period following a stressor. 29,30,32 For example, viewing video footage of nature scenes for 10 min directly after being exposed to a film of stressful images increased heart period (i.e., decreased HR), suggested to be due to enhanced parasympathetic system activity. 30 Viewing nature through a window during a 5 min rest period following cognitive tasks was also more effective at reducing HR. 29 Both authors postulate that these observations are a consequence of cognitive recovery or attention restoration occurring while nature scenes are viewed. The results of the present study suggest greater HRV during viewing nature scenes as contributed to by both sympathetic and parasympathetic systems. It is only during the recovery period that parasympathetic activity alone is greater in the nature views condition. Therefore, viewing nature scenes may encourage future healthy stress responses and recovery patterns and could act as a vital tool in preventive health.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The secondary research question relates to the duration of the nature dose. Research shows that a 5 min dose of nature offers the greatest increases in self-esteem and mood. 31 Physiologically, 5 min of viewing images of nature is known to increase HRV. 16 However, it is unknown whether an additional 5 min would enhance the initial changes that occur in the first 5 min dose. Within a laboratory setting, it appears that the second 5 min of exposure is less effective in inducing HRV changes. The strength of the current study is the use of 5 min segments for HRV analysis which is recommended in short-term analysis, i.e., less than 24 h. 22 Furthermore, the division of exposure to nature images into 5 min segments enabled the observation of increased HRV as anticipated in an initial 5 min dose, thus supporting previous work. 16 Comparisons in the current study suggest an additional 5 min of exposure to nature does not enhance the greater HRV seen during the initial 5 min dose.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "In agreement with previous research, 10,31 the current study observed improvements in self-esteem with exposure to nature. This finding suggests enhanced self-esteem associated with viewing nature shows robustness against exposure to a mild stress. In the current study, there was no change in mood associated with condition although this has been shown in previous studies. 10,31,39 The changes in mood observed in these studies were measured using the profile of mood states (POMS). 10,31,39 POMS contains 5 subscales associated with negative mood and 1 subscale for positive mood. This restricts POMS to predominantly reflect changes of negative mood rather than positive mood. In the current study, negative affect, measured using PANAS, showed negative mood improved irrespective of condition, therefore not replicating previous observations using POMS. The use of positive affect scores from PANAS was to ascertain if changes in positive mood occur that may not be so clearly identified using POMS. Positive mood did not differ between conditions nor did it change over time. In contrast, a meta-analysis of five studies did observe improvements in positive affect 8 suggesting the manipulation in the current study was not strong enough to elicit positive changes. The use of PANAS in laboratory research of this nature might not be appropriate.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Previous literature lacks discussion as to the potential mechanisms behind observed changes in physiological function while viewing nature. One potential mechanism to explain alterations in physiological measures could be attributable to the restorative properties of the nature scenes. The concept of attention restoration occurring after exposure to nature has previously been demonstrated by way of improved performance in attention related cognitive tasks. 20,32 Viewing scenes of nature for 10 min, following a period of mentally fatiguing tasks, improved performance in a backward digit-span memory task. 32 In the current study, there were no such observations of altered cognitive ability, i.e., performance in the mental task, with different viewing conditions. This may be attributable to the lack of a mentally fatiguing task prior to the intervention, but the nature scenes acted as an effective buffer to ANS function during recovery.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "To date, there are only a handful of studies that have measured or inferred changes in the ANS 14,16-18 associated with nature. We suggest that the different components of the environmental stimulus, e.g., visual, cognitive, emotional, and restorative properties, induce changes in the regulation of different areas throughout the brain thus altering ANS function. The findings of this study, alongside previous studies, 14,16-18 suggest a top-down mechanism originating in higher centers of the brain. Evidence for this was in part obtained from a study which utilized fMRI while viewing urban scenes. 40 The urban scenes caused increased activity in the amygdala compared to viewing nature scenes. 40 This action is likely to cause alterations in ANS control such as those seen in the current study, 41 through changes in parasympathetic and sympathetic outputs. Inhibition of the parasympathetic nervous system arises from the frontal cortex, and the pathways pass through the amygdala and then to the nucleus tractus solitarii and nucleus ambiguus. 41 The prefrontal cortex is prominent in threat-avoidance situations, causing inhibition on HR via the vagus nerve. 42 Therefore, during periods of threat, parasympathetic activity is decreased (increasing HR). The results of the current study suggest the absence of threat during nature viewing, without decreases in parasympathetic activity, while during built views overall variability decreased in the first 5 min. This interaction may be primarily due to alterations in both the frontal cortex and the amygdala.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Visual properties of an image may also play a role, as the composition of a picture can alter activity in the visual cortex. Images of nature are less aversive and uncomfortable when examining their spectral properties compared to built images. 43 Indeed, recent research suggests that the primitive characteristic of color, in particular the \"greenness\", of a nature image is associated with improved mood. 39 Through color perception and reduced impact on the visual system, images of nature may evoke lower activity in the amygdala and visual cortex 40 culminating in increased parasympathetic activity as seen in the current study.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "It is unknown how long the physiological changes that nature evokes are maintained, but it will be vital to explore this further, especially if nature is to be considered as a therapy. In the current study, unlike previous studies, nature exposure was experienced 10 min before the stressor, not during the stressor or immediately following the stressor. The evidence from this study suggests that there does indeed appear to be a buffering effect of nature. A stronger stimulus, i.e., within the environment itself, may prolong the buffering effect and also induce greater changes in cardiovascular measures. This may also be the case when nature is combined with exercise (\"green exercise\"). Exercising while viewing nature reduces BP in the 5 min following the exercise period in comparison to viewing built images. 15 These effects again may be even greater following \"real\" exposure to nature. Indeed, recent research suggests that adrenaline, noradrenaline, and BP still remain reduced in the evening following a daytime walk in a forest field. 18 Interestingly, forest walking increases natural killer cell activity for a period of 30 days in males and 7 days in females. 44",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "This study has some limitations that should be addressed in future research. The impact of individual beliefs on the regulation of emotions when viewing the different environments, and how this effects physiological modulations, is unknown and could pose a mediating factor to the effectiveness of viewing nature on improving stress recovery. In order to quantify individual relationships with nature, the nature relatedness scale 46 could be used to indicate experience, beliefs, and contact with nature. Complementary information could be gained by noting home postcode, and thus, the surrounding area could be assessed in terms of land usage to explore the potential impact it may have on participants' perception of nature. The present study collected postcode data but does not have a sufficient population size to draw conclusions about all potential subsets. The majority of studies to date, including the present study, use extreme examples to depict natural and urban environments in order to examine the influence of nature. Investigating a greater variety of environments (including more urban green spaces) would add population level validity to the results and account for individual landscape preferences. The restorative properties of nature (images or within the location itself) may evoke different psychological, cognitive, and physiological responses. Further studies would benefit from the inclusion of a questionnaire to assess how restorative the scenes or places are perceived to be, as suggested by Hartig, Mang, and Evans, 47 in combination with physiological and psychological responses to these different images.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The current study suggests that nature itself may evoke physiological responses, which may be in part driven by psychological reactions and restorative properties of nature. Furthermore, the increase in parasympathetic activity in the recovery from a stressor may help to counteract a buildup of psychological stress and thus reduce the impact of stress on physical and mental health. This would likely occur by nature images encouraging a healthier stress recovery pattern. 45 If nature increases autonomic recovery to stress and thus is an effective coping mechanism, this provides an argument for the need for more nearby nature. A green view through a workplace window, small pockets of greenspace in the home and workplace, and accessible local parks could be effective tools in altering ANS control of the heart. The buffering effect of nature could have particular relevance for the workplace where it may be beneficial to utilize nature during the lunch break, prior to a stressful afternoon, to help enhance recovery of autonomic function.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "■ AUTHOR INFORMATION",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Corresponding Author",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "*E-mail: dkbrow@essex.ac.uk; tel: 07938 683355; fax: 01206 872592.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Notes",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The authors declare no competing financial interest.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "■ ACKNOWLEDGMENTS",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "This work was supported by a British Heart Foundation Nonclinical PhD Studentship (FS/10/32/28204) and an ESRC research fellowship (project number RES-064-27-0019).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "■ ABBREVIATIONS",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "ANS autonomic nervous system",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "HR heart rate",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "SBP systolic blood pressure",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "DBP diastolic blood pressure",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "HRV heart rate variability",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "SDRR standard deviation of R-R intervals",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "RMSSD root-mean-square of successive differences",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "■ REFERENCES",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Li, Q. Forest Medicine; Nova Science Publishers: New York, NY, 2012.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Wilson, E. O. Biophilia: The Human bond with other species; Harvard University Press: Cambridge, Masschusetts, 1984.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Herzog, T. R.; Maguire, P.; Nebel, M. B. Assessing the restorative components of environments. J. Environ. Psychol. 2003, 23 (2), 159170.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, R.; Kaplan, S. The experience of nature: A psychological perspective; Cambridge University Press: Cambridge, 1989.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Maas, J.; Verheij, R. A.; Groenewegen, P. P.; de Vries, S.; Spreeuwenberg, P. Green space, urbanity, and health: How strong is",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "the relation? J. Epidemiol. Community Health 2006, 60 (7), 587-592.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Maas, J.; Verheij, R. A.; de Vries, S.; Spreeuwenberg, P.; Schellevis, F. G.; Groenewegen, P. P. Morbidity is related to a green living environment. J. Epidemiol. Community Health 2009, 63, 967973.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Thompson Coon, J.; Boddy, K.; Stein, K.; Whear, R.; Barton, J.; Depledge, M. H. Does participating in physical activity in outdoor natural environments have a greater effect on physical and mental wellbeing than physical activity indoors? A systematic review. Environ. Sci. Technol. 2011, 45 (5), 1761-1772.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Bowler, D. E.; Buyung-Ali, L. M.; Knight, T. M.; Pullin, A. S. A systematic review of evidence for the added benefits to health of exposure to natural environments. BMC Public Health 2010, 10, 456.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Barton, J.; Hine, R. E.; Pretty, J. The health benefits of walking in greenspaces of high natural and heritage value. J. Integr. Environ. Sci. 2009, 6 (4), 261-278.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Barton, J.; Griffin, M.; Pretty, J. Exercise, nature and socially interactive based initiatives improve mood and self-esteem in the clinical population. Perspect. Public Health 2012, 132 (2), 89-96.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Van den Berg, A.; Custers, M. Gardening promotes neuroendocrine and affective restoration from stress. J. Health Psychol. 2011, 16, 3-11.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Pretty, J.; Peacock, J.; Hine, R.; Sellens, M.; South, N.; Griffin, M. Green exercise in the UK countryside: Effects on health and psychological well-being. J. Environ. Plann. Manage. 2007, 50 (2), 211231.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Mackay, G.; Neill, J. The effect of \"green exercise\" on state anxiety and the role of exercise duration, intensity, and greenness: A quasi-experimental study. Psychol. Sport Exercise 2010, 11 (3), 238245.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Park, B.; Tsunetsugu, Y.; Kasetani, T.; Morikawa, T.; Kagawa, T.; Miyazaki, Y. Physiological effects of forest recreation in a young conifer forest in Hinokage Town, Japan. Silva Fenn 2009, 43 (2), 291301.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Pretty, J.; Peacock, J.; Sellens, M.; Griffin, M. The mental and physical health outcomes of green exercise. Int. J. Environ. Health Res. 2005, 15 (5), 319-337.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Gladwell, V. F.; Brown, D. K.; Barton, J. L.; Tarvainen, M. P.; Kuoppa, P.; Pretty, J.; Suddaby, J. M.; Sandercock, G. R. H. The effects of views of nature on autonomic control. Eur. J. Appl. Physiol. 2012, 18.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Park, B.; Tsunetsugu, Y.; Kasetani, T.; Kagawa, T.; Miyazaki, Y. The physiological effects of Shinrin-yoku (taking in the forest atmosphere or forest bathing): Evidence from field experiments in 24 forests across Japan. Environ. Health Prev. Med. 2010, 15 (1), 1826.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Li, Q.; Otsuka, T.; Kobayashi, M.; Wakayama, Y.; Inagaki, H.; Katsumata, M.; Hirata, Y.; Li, Y.; Hirata, K.; Shimizu, T.; Suzuki, H.; Kawada, T.; Kagawa, T. Acute effects of walking in forest environments on cardiovascular and metabolic parameters. Eur. J. Appl. Physiol. 2011, 111 (11), 2845-2853.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. Natural versus urban scenes some psychophysiological effects. Environ. Behav. 1981, 13 (5), 523-556.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Laumann, K.; Garling, T.; Stormark, K. Selective attention and heart rate responses to natural and urban environments. J. Environ. Psychol. 2003, 23, 125-134.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Park, B.; Tsunetsugu, Y.; Kasetani, T.; Hirano, H.; Kagawa, T.; Sato, M.; Miyazaki, Y. Physiological effects of Shinrin-yoku (taking in the atmosphere of the forest)Using salivary cortisol and cerebral activity as indicators. J. Physiol. Anthropol. 2007, 26 (2), 123-128.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "TaskForce. Heart rate variability: Standards of measurement, physiological interpretation, and clinical use. Eur. Heart J. 1996, 17, 354-381.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Tsuji, H.; Larson, M. G.; Venditti, F. J., Jr.; Manders, E. S.; Evans, J. C.; Feldman, C. L.; Levy, D. Impact of reduced heart rate variability on risk for cardiac events. The Framingham Heart Study. Circulation 1996, 94 (11), 2850-2855.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich-Lai, Y. M.; Herman, J. P. Neural regulation of endocrine and autonomic stress responses. Nat. Rev. Neurosci. 2009, 10 (6), 397409.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Lane, R. D.; McRae, K.; Reiman, E. M.; Chen, K.; Ahern, G. L.; Thayer, J. F. Neural correlates of heart rate variability during emotion. Neuroimage 2009, 44 (1), 213-222.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Brunoni, A. R.; Vanderhasselt, M.-A.; Boggio, P. S.; Fregni, F.; Dantas, E. M.; Mill, J. G.; Lotufo, P. A.; Benseñor, I. M. Polarity- and valence-dependent effects of prefrontal transcranial direct current stimulation on heart rate variability and salivary cortisol. Psychoneuroendocrino 2013, 38 (1), 58-66.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Chandola, T.; Britton, A.; Brunner, E.; Hemingway, H.; Malik, M.; Kumari, M.; Badrick, E.; Kivimaki, M.; Marmot, M. Work stress and coronary heart disease: What are the mechanisms? Eur. Heart J. 2008, 29, 640-648.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Parsons, R.; Tassinary, L. G.; Ulrich, R. S.; Hebl, M. R.; Grossman-Alexander, M. The view from the road: Implications for stress recovery and immunisation. J. Environ. Psychol. 1998, 18, 113139.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Kahn, P. H., Jr.; Friedman, B.; Gill, B.; Hagman, J.; Severson, R. L.; Freier, N. G.; Feldman, E. N.; Carrè re, S.; Stolyar, A. A plasma display window?-The shifting baseline problem in a technologically mediated natural world. J. Environ. Psychol. 2008, 28 (2), 192-199.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S.; Simons, R. F.; Fiorito, E.; Miles, M. A.; Zelson, M. Stress recovery during exposure to natural and urban environments. J. Environ. Psychol. 1991, 11, 201-230.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Barton, J.; Pretty, J. What is the best dose of nature and green exercise for improving mental health? A multi-study analysis. Environ. Sci. Technol. 2010, 44 (10), 3947-3955.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Berman, M. G.; Jonides, J.; Kaplan, S. The cognitive benefits of interacting with nature. Psychol. Sci. 2008, 19 (12), 1207-1212.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Dickerson, S.; Kemeny, M. Acute stressors and cortisol responses: A theoretical integration and synthesis of laboratory research. Psychol. Bull. 2004, 130 (3), 355-391.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Condren, R. M.; O'Neill, A.; Ryan, M. C. M.; Barrett, P.; Thakore, J. H. HPA axis response to a psychological stressor in generalised social phobia. Psychoneuroendocrino 2002, 27 (6), 693703.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Langewouters, G. J.; Settels, J. J.; Roelandt, R.; Wesseling, K. H. Why use Finapres or Portapres rather than intra-arterial or intermittent non-invasive techniques of blood pressure measurement? J. Med. Eng. Technol. 1998, 22 (1), 37-43.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Niskanen, J. P.; Tarvainen, M. P.; Ranta-Aho, P. O.; Karjalainen, P. A. Software for advanced HRV analysis. Comput. Methods Programs Biomed. 2004, 76 (1), 73-81.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Rosenberg, M. Society and the adolescent self-image; Wesleyan University Press: Middletown, CT, 1965.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Watson, D.; Clark, L.; Tellegen, A. Development and validation of brief measures of positive and negative affect: The PANAS scales. J. Pers. Soc. Psychol. 1988, 54 (6), 1063-1070.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Akers, A.; Barton, J.; Cossey, R.; Gainsford, P.; Griffin, M.; Micklewright, D. Visual color perception in green exercise: Positive effects on mood and perceived exertion. Environ. Sci. Technol. 2012, 46 (16), 8661-8666.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Kim, G. W.; Jeong, G. W.; Kim, T. H.; Baek, H. S.; Oh, S. K.; Kang, H. K.; Lee, S. G.; Kim, Y. S.; Song, J. K. Functional neuroanatomy associated with natural and urban scenic views in the human brain: 3.0T functional MR imaging. Korean J. Radiol. 2010, 11 (5), 507-513.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Thayer, J. F.; Lane, R. D. Claude Bernard and the heart-brain connection: Further elaboration of a model of neurovisceral integration. Neurosci. Biobehav. Rev. 2009, 33 (2), 81-88.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Thayer, J. F.; Brosschot, J. F. Psychosomatics and psychopathology: Looking up and down from the brain. Psychoneuroendocrino 2005, 30 (10), 1050-1058.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Fernandez, D.; Wilkins, A. J. Uncomfortable images in art and nature. Perception 2008, 37 (7), 1098-1113.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Li, Q. Effect of forest bathing trips on human immune function. Environ. Health Prev. Med. 2010, 15, 9-17.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Juster, R.; McEwen, B.; Lupien, S. Allostatic load biomarkers of chronic stress and impact on health and cognition. Neurosci. Biobehav. Rev. 2010, 35, 2-16.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Nisbert, E. K.; Zelenski, J. M.; Murphy, S. A. The Nature Relatedness Scale: Linking individuals' connection with nature to environmental concern and behavior. Environ. Behav. 2009, 41 (5), 715-740.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Hartig, T.; Mang, M.; Evans, G. W. Restorative effects of natural environment experiences. Environ. Behav. 1991, 23, 3-26.",
+   "page": 8
+  }
+ ]
+}

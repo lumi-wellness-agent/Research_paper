@@ -1,0 +1,533 @@
+{
+ "paper_id": "E20",
+ "source": "E20_2026_Scott_Ground_yourself_Using_five_senses_technique_to_cope_with_test_anxiety.pdf",
+ "pages": 6,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Contents lists available at ScienceDirect",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Teaching and Learning in Nursing",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "journal homepage: www.journals.elsevier.com/ teaching-and-learning-in-nursing",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Research",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Ground yourself: Using five senses technique to cope with test anxiety among nursing students",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Kunwal M. Scott, DNP, FNP-C, PMHNP-BC*, Kacie Duncan, PhD, RN, CCRN, Thomas P. McCoy, PhD, PStat",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "The University of Alabama, Tuscaloosa, AL 35487, USA",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A R T I C L E I N F O",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Article History: Accepted 18 September 2025",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: Anxiety management Five senses Grounding technique Nursing students Test anxiety",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A B S T R A C T",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Background: Test anxiety is common among nursing students and can hinder academic performance and well-being. Brief, evidence-based strategies are needed to support stress management.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Aim: This study evaluated the effectiveness of the Five Senses Technique (FST), a grounding exercise, in reducing test anxiety among Bachelor of Science in Nursing (BSN) students.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Methods: A one-group pretest\u0000post-test mixed-methods design was used with BSN students in their first through third semesters. One week before an exam, students attended a 40-minute educational session on test anxiety and the FST (5-4-3-2-1) technique. Anxiety was assessed with the Test Anxiety Questionnaire (TAQ) one week before and one week after the exam. Postexam focus groups provided qualitative feedback.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Results: Ninety-four students participated; 48 completed both surveys. Mean TAQ scores decreased by 4.7 points (p < 0.001), and high anxiety prevalence fell from 23% to 4% (p = 0.03). Students described FST as calming, simple, and useful for maintaining focus.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Conclusion: The FST significantly reduced test anxiety and may be a practical intervention to support resilience and academic success in nursing education.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "© 2025 Organization for Associate Degree Nursing. Published by Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Anxiety is one of the most prevalent mental health conditions in the United States, affecting approximately 40 million adults, nearly 19% of the population, each year; however, only one-third of those affected receive treatment (Anxiety and Depression Association of America, 2022). Among college students, anxiety poses a significant barrier to academic success. According to the American College Health Association's National College Health Assessment completed in Fall of 2022, 31.7% of students without a formal diagnosis and 50.3% of those with a diagnosed anxiety disorder reported that anxiety negatively impacted their academic performance (American College of Health Association, 2023). These findings highlight the urgent need for accessible and effective anxiety management strategies within higher education settings.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "A specific yet often underestimated manifestation of anxiety in higher education is test anxiety, a significant mental health concern among college students (Thiriveedi et al., 2023). Students experiencing moderate to severe test anxiety frequently report cognitive symptoms, such as negative self-talk and memory recall issues, as well as somatic symptoms, including headaches, sweaty palms, rapid heart rate, gastrointestinal discomfort, and nausea (Kaur Khaira et al.,",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "*Corresponding author.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "E-mail address: Kmscott10@ua.edu (K.M. Scott).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "2023). Among healthcare disciplines, nursing students are particularly vulnerable to test anxiety due to the academic rigor, high-stakes evaluations, and early clinical performance expectations embedded within nursing curricula. These pressures contribute to sustained stress levels, often undermining both academic performance and student self-efficacy (Stevens et al., 2019; Kaur Khaira et al., 2023). Managing test anxiety in nursing education presents a unique challenge, given the discipline's multifaceted demands. Students must concurrently master complex theoretical content, perform in simulation labs, complete clinical rotations, and meet extensive documentation and project deadlines. The overlap of these responsibilities compounds stress and often makes effective time and emotional management difficult (Kaur Khaira et al., 2023).",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Background",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Nursing students often report higher levels of anxiety than students in other disciplines due to the dual demands of mastering both clinical and academic competencies. In Malaysia, Khaira et al. (2024) assessed 421 nursing students and found that 62.5% experienced mild test anxiety, 25.4% reported moderate levels, and 2.1% reported severe anxiety. In the United States, Parrish (2022) reported that 46.7% of Bachelor of Science in Nursing (BSN) students experienced high levels of test anxiety. Similarly, a study of Indian BSN students revealed that 53.3% of first-year students reported high anxiety, 39.7% moderate anxiety, and 7.0% low anxiety (Kumar, 2022). Although prevalence rates vary across contexts, these studies collectively demonstrate that test anxiety is a significant and universal issue among nursing students. Contributing factors such as time constraints, heavy academic workload, and limited preparation opportunities consistently elevate stress levels, making test anxiety a global concern in nursing education (Hamed et al., 2025). Although most universities offer counseling services and wellness programming, many students underutilize these resources. Some underestimate their anxiety, while others feel overwhelmed by the abundance of recommended strategies. This cognitive overload, a phenomenon sometimes referred to as \"decision fatigue,\" can lead to avoidance or inconsistent application of coping techniques (Cohen et al., 2022).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "There is growing recognition of the need for simple, accessible interventions that students are more likely to use consistently. One such approach is the Five Senses Technique (FST), a mindfulnessbased grounding strategy that redirects attention from internal stress to external sensory input. The method guides individuals to identify five things they can see, four they can touch, three they can hear, two they can smell, and one they can taste. Mind\u0000body techniques like FST have been shown to reduce symptoms of acute anxiety by anchoring individuals in the present moment (Marks and Gepp, 2021; Gupta, 2024).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "While nursing students are often introduced to various stressmanagement techniques, including deep breathing, guided imagery, time management, journaling, and exercise, many struggle with implementation due to lack of clarity, limited time, or mental overload. The wide array of options, without structured guidance, can impair follow-through and reduce effectiveness (Mohamed et al., 2024; Uzzell et al., 2025). Consequently, there is a clear need to prioritize practical, low-barrier interventions like FST that students can easily incorporate into their academic routines.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Aim",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "This study aimed to evaluate the effectiveness of the FST as a brief grounding intervention for reducing test anxiety among undergraduate nursing students. It also examined students' perceptions of the technique's usefulness and the perceived connection between test anxiety and academic performance.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Quantitative Research Questions",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "Is there a difference in mean anxiety scores before and after an exam in students who utilize the Five Senses Technique?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "Does the use of the FST effectively reduce anxiety levels prior to a nursing exam?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "How impactful was the practice of FST in alleviating test anxiety among nursing students?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "How effective do nursing students believe the education session and FST practice were in managing their test anxiety?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "Was FST practiced as delivered or were there modifications made during application?",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Qualitative Research Questions",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "How do nursing students describe the emotions commonly associated with test anxiety during exams?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "What are nursing students' thoughts and perceptions regarding a test anxiety educational session?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "Inwhat ways does test anxiety influence nursing students' ability to retain and apply knowledge effectively?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "How do nursing students perceive the relationship between reduced test anxiety and improved exam performance?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "How do nursing students describe any changes in their exam performance after participating in the test anxiety educational session?",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Methods",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Study Design: We conducted a mixed-methods study consisting of a one-group quantitative pretest\u0000posttest component and a qualitative focus group component. This design allowed us to measure objective changes in anxiety scores and to explore student experiences in their own words. The study was approved by the university's Institutional Review Board (IRB).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Participants and Setting: The study took place at a public university in the Southeastern United States with an accredited undergraduate nursing program. The target population was first, second, and third semester Bachelor of Science in Nursing (BSN) students. These cohorts were selected because they represent the early stages of the nursing program, where research has shown that first-year nursing students often experience elevated levels of test anxiety (Kumar, 2022). The BSN program enrolls over 300 students across these three semesters. We invited all students in these cohorts to participate voluntarily. Our goal was to recruit approximately 100\u0000150 students for the quantitative survey portion. Ultimately, 94 students consented and completed the baseline preintervention survey. Of those, 48 students (51.1%) also completed the postintervention survey and comprised the dataset for analysis.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Eligibility and Ethical considerations: To be eligible, individuals were enrolled in the first, second, or third semester of the BSN program, must be willing to take part in the study, and provide consent. Exclusion criteria include unwillingness to participate or inability to give consent. Participation was voluntary, and individuals were informed that they could withdraw at any time. Participants identifiers were replaced with unique codes prior to data analysis to ensure confidentiality. All Data collected was confidential and accessible only to the research team.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Intervention: The intervention involved a single, 40-minute educational session delivered in a classroom setting using a PowerPoint presentation. The session began with an interactive lecture on test anxiety, covering its types, common symptoms, causes, and its impact on academic performance. This portion was intended to raise awareness, normalize the experience of test anxiety, and emphasize the importance of effective stress management for academic success (Kaur Khaira et al., 2023; Mohamed et al., 2024). Following the education session, students were introduced to the FST, as a brief, evidence-based grounding strategy to manage test anxiety. They were guided through the 5-4-3-2-1 method, which involved identifying five things they could see, four they could touch, three they could hear, two they could smell, and one they could taste. Students participated in a guided practice of the technique, with the investigator prompting each step. To enhance the exercise, students were asked to close their eyes after the initial 'seeing' step to deepen sensory engagement and foster mindfulness (Marks and Gepp, 2021; Uzzell et al., 2025). All sessions were facilitated by an instructor with expertise in mental health, using a standardized protocol to ensure consistency and fidelity in intervention delivery.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Measures",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Test Anxiety Questionnaire: Test anxiety levels were measured with the standardized Test Anxiety Questionnaire (TAQ; Nist & Diehl, 1990). The TAQ is a 10-item self-report instrument measures the frequency of test anxiety symptoms, with items such as, \"I have trouble sleeping the night before a test,\" and respondents indicate how often they experience each symptom on a 5-point Likert scale (1 = Never, 5 = Always). Total TAQ scores range from 10 to 50, with higher scores reflecting greater test anxiety. According to the developers, scores between 20 and 35 suggest a healthy and manageable level of testrelated stress, while scores above 35 indicate an unhealthy level of anxiety that may interfere with academic performance. Scores below 20 reflect little to no test anxiety. The TAQ has been employed in recent research; for example, Hyseni Duraku et al. (2023), and is recognized as a valid and efficient instrument for assessing test anxiety. In this study, participants completed the TAQ at two points: once immediately before the intervention (one week prior to a scheduled class exam, to establish baseline anxiety levels) and again one week after completing the exam, to measure postintervention anxiety.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Demographics and Background: The preintervention survey also collected demographic and background information, including age, gender, academic semester, and whether the student had any prior diagnosis of an anxiety disorder. We also asked whether students had ever received formal education about test anxiety or coping strategies before this study, as prior training might influence their baseline awareness or use of FST technique.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Additional Anxiety and FST Feedback: Quantitative RQ2 was examined through the additional feedback item: \"Was the provided education regarding FST effective in coping with test anxiety PRIOR to the scheduled exam?\" with response options of \"Yes\", \"No\" or \"Somewhat\". RQ3 was explored through the question: \"Was the provided education regarding FST effective in coping with test anxiety during the exam?\" again with \"Yes\", \"No\" or \"Somewhat\" potential responses. For RQ4, students were asked what their \"perceived current level of test anxiety strategies (based on NIH proficiency scale)\" was with the response options of: \"Fundamental Awareness (Basic Knowledge)\", \"Novice (Limited Experience)\", \"Intermediate (Practical Application)\", \"Advanced (applied theory)\", and \"Expert (recognized authority)\". For RQ5 regarding if FST was practiced as delivered, students were asked \"Were you able to complete all five steps of FST, or partial steps?\" with response choices of \"Yes\", \"No\", or \"Somewhat\".",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Data Collection",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "All quantitative data were collected via online surveys administered through Qualtrics. Participants accessed the pretest survey using a Quick Response (QR) code distributed both in person and through the course announcement in the learning management system (LMS). The pretest included the informed consent form, demographic questions, and the TAQ to assess baseline anxiety levels. This survey was completed immediately prior to the educational intervention session. The post-test survey, which included the TAQ along with additional questions assessing students' perceived anxiety levels and knowledge of coping strategies, was distributed through course announcement one week after the scheduled exam. Reminder emails through the LMS were also sent to encourage completion.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The qualitative component was a focus group conducted approximately four weeks after the exam, once all survey data had been collected. The focus group was held via Zoom and followed a semistructured format guided by open-ended questions aligned with the study's qualitative objectives. To incentivize participation, students who took part in the focus group received a $10 gift card, this incentive was reviewed and approved by the IRB. To maintain confidentiality, participants used first names only and had the option to keep their cameras off during the Zoom session; no identifying information was recorded in the transcript. The focus group discussion was audio-recorded (with permission) and transcribed verbatim. Any potentially identifying details were removed during transcription to ensure confidentiality.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Data Analysis",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Quantitative Analysis: Descriptive statistics such as mean (M), standard deviation (SD), median (Mdn), frequency (n), and percentage (%) were used to describe the study sample characteristics as well as post-FST responses. For testing differences between pre- to post-FST, paired t-tests, Wilcoxon signed-ranks testing, and Bowker's symmetry testing were performed. Sensitivity analyses for missing data was performed using multiple imputation with 200 imputations with a fully conditional specification. All analyses were performed in SAS v9.4 (SAS Institute, Cary, NC). A two-sided p-value < 0.05 was considered statistically significant.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Qualitative Analysis: Two Analysts conducted an inductive, reflexive thematic analysis of one postexam focus group (n = 2). The transcript was read repeatedly, coded line-by-line, and refined via comparison. Conceptually related codes were clustered into candidate themes, then defined and named. Rigor was established through analyst triangulation, second-reviewer audit and consensus, an audit of theme decisions, reflexive memos to enhance confirmability, and rich description to aid transferability. Given the small qualitative sample size, themes are presented as explanatory complements to the quantitative results rather than claims of saturation.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Results",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Ninety-four students completed the baseline pre-FST survey. Of these, 48 (51.1%) correspondingly responded to the post-FST followup survey and comprise the analysis dataset for the study. Those who dropped out versus stayed were not statistically significantly different in pre-FST Nist and Diehl (1990), TAQ mean test anxiety scores (p = 0.206), score category (p = 0.437), perceived current level of proficiency in managing test anxiety (p = 0.442), semester of study (p = 0.374), gender (p = 0.213), ethnicity (p = 0.619), or previous diagnosis of generalized anxiety disorder (p = 0.564). Of the 48 participants that stayed and completed post-FST follow-up, 93.8% were female and 72.9% were non-Hispanic White. Eleven (22.9%) reported having a previous diagnosis of generalized anxiety disorder.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Quantitative Analysis Results: For question 1: Is there a difference in mean anxiety scores before and after an exam in students who utilize the FST? There was an average decrease from before to after of 4.68 points (SD=5.14, median change = \u00005.5 points), which was statistically significant (p < 0.001). Results from sensitivity analyses after multiple imputation for missing data were similar (pooled md=\u00005.02, p < 0.001). Eleven of 48 (22.9%) had scores above 35 indicating unhealthy test anxiety at pretest compared to two of 48 (4.2%) post-test (p = 0.029).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "For question 2: Does the use of the FST effectively reduce anxiety levels prior to a nursing exam? Almost two-thirds (62.5%) reported \"yes\" with one-fourth (25.0%) reporting \"somewhat\". With question 3: How impactful was the practice of FST in alleviating test anxiety among nursing students? More than half (54.2%) reported FST practice was impactful in alleviating during the exam; with 27.1% saying \"somewhat\".",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "For question 4: How effective do nursing students believe the education session and FST practice were in managing their test anxiety? There was a significant improvement in perceived current level of proficiency (premean rating = 1.8 vs. postmean rating 2.8, p < 0.001). Finally, with question 5: Was FST practiced as delivered or were there modifications made during application? What factors impacted modification of FST during application? A little more than half (52.1%) reported being able to complete all five steps of FST, with another 25.0% reporting \"somewhat\" able to complete all steps.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Qualitative Analysis Results: Two students participated in the focus group, providing insight into their experiences with test anxiety and the FST. Despite the small sample, their feedback enriched the quantitative results. Four major themes emerged from the qualitative analysis:",
+   "page": 3
+  },
+  {
+   "label": "list_item",
+   "text": "\u000f Theme 1: Emotional and physical disruption of test anxiety. Based on qualitative research questions 1 and 3: Participants described test anxiety as cognitively and physically impairing, citing symptoms such as racing thoughts, nausea, and \"blanking out\" under pressure. The intense anxiety during exams was said to disrupt their focus and memory recall, hindering their ability to retrieve learned information.",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "\u000f Theme 2: Positive reception of the educational session. Based on qualitative research question 2: Students appreciated the concise and practical format of the anxiety education session. One remarked, \"It got me more calm. I didn't realize just focusing on my senses could help like that.\" Another noted, \"It was short and sweet - just enough to get my attention,\" emphasizing the value of brief, high-yield learning.",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "\u000f Theme 3: Adaptation and flexibility in FST use. Based on qualitative research questions 4 and 5: Both participants reported improved focus and reduced anxiety during the exam, though they were unsure if better scores were due to FST or other factors. One observed, \"I wasn't doubting myself or confusing myself like I usually do,\" suggesting FST helped manage cognitive overload during the test. Notably, neither student had used FST while studying (they only applied it during the exam itself), so they could not comment on its effect on study-time knowledge retention.",
+   "page": 4
+  },
+  {
+   "label": "list_item",
+   "text": "\u000f Theme 4: Individual variability and commitment. Despite the small sample, both students reported completing the full FST sequence during the exam. One explained, \"Finishing out the cycle felt like a little ritual. It gave me a sense of control.\" The other added, \"I usually get relaxed halfway through, but I complete the cycle too.\" These statements highlight the importance of consistency and internal motivation for maximizing benefits of FST.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "This study demonstrates a brief, targeted intervention, consisting of an educational session on anxiety and instruction to use the FST, can lead to meaningful short-term reductions in test anxiety among nursing students. Participants who engaged in the intervention exhibited both quantitative improvements (lower post-test anxiety scores and a sharp reduction in the proportion of students with unhealthy anxiety levels) and qualitative benefits (feeling calmer, more present, and better equipped to manage exam stress). The FST is a no-cost, accessible, and effective tool that students could independently implement, even in high-pressure testing environments. Its adaptability and ease of use make it an ideal addition to stressmanagement programming within nursing education. Moreover, integrating such mind\u0000body interventions into the academic experience not only supports immediate student performance but also promotes emotional-regulation skills transferable to clinical practice (Turner & McCarthy, 2017).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The focus group insights supported and enriched the survey findings. Students described FST as a practical, calming tool that interrupted cycles of anxiety during exams, aligning with cognitivebehavioral principles: grounding one's attention in sensory details can reduce physiological arousal and disrupt intrusive thoughts (Beck, 2021). These findings reinforce earlier research supporting the role of mind\u0000body strategies such as mindfulness and grounding in academic and clinical performance (Gupta, 2024; Aryuwat et al., 2023). Although we did not formally measure exam performance outcomes, both focus group participants felt that being calmer helped them perform better, an observation that echoes prior studies connecting lower anxiety with better test results (Khalaila, 2015). Nurse educators can leverage techniques like FST to empower students with a greater sense of control over their test anxiety, which in turn may foster resilience and academic success.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Limitations",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Several limitations should be considered when interpreting our results. First, the study used a one-group pretest\u0000posttest design with no control group, which limits our ability to attribute improvements in anxiety solely to the FST intervention. It is possible that other factors-such as increasing familiarity with the exam process or regression to the mean-contributed to the observed reductions in anxiety. Second, we experienced a »50% attrition rate from pretest to post-test. Nearly half of the initial participants did not complete the follow-up survey, which could introduce bias if, for example, the most anxious students were more likely to drop out. We note that baseline measures did not show significant differences between those who stayed versus those who dropped out, but high-anxiety students might still have been less inclined to engage with the intervention or follow-up. This attrition suggests that test-anxious students may be more difficult to retain in interventions and studies, an issue future research should address with targeted retention efforts (e.g., additional support or reminders). Third, several participants did not complete all items on the post-test survey, resulting in missing data for some TAQ scores. However, our sensitivity analysis using multiple imputation for missing values confirmed that the reduction in anxiety scores remained significant even under conservative assumptions. Fourth, the timing of our anxiety assessments (one week before and one week after the exam) may not have captured the peak anxiety that occurs immediately before an exam or the acute relief immediately after. Anxiety likely subsides naturally in the days following an exam, which could inflate the perceived effect of the intervention. Future studies might measure anxiety closer to the exam day to more directly assess intervention impact. Fifth, the sample was drawn from a single institution and was demographically homogenous (predominantly traditional college-age, female, nonHispanic White students), which may limit generalizability to more diverse nursing student populations. We had very few second- and third-semester participants, precluding any meaningful comparison of intervention effects by academic level. Sixth, we did not collect data on whether students had prior exposure to mindfulness or anxiety-management techniques, which could influence how they responded to the FST intervention. Seventh, our outcome measures focused on anxiety levels and self-rated proficiency; we did not directly quantify students' sense of control or empowerment in a pre/post format, so improvements in those areas were inferred from qualitative feedback and the increase in self-efficacy ratings rather than a dedicated control measure. Finally, the qualitative component was limited by a very small sample (n = 2), offering only a preliminary glimpse into student experiences. Despite this, the qualitative insights were consistent with the quantitative results and provided valuable context. Future research should include a larger qualitative sample to capture a broader range of student perspectives.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Implications for Nursing Education and Practice",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Despite its limitations, this study highlights the practical value of incorporating brief, low-cost strategies like FST into nursing education. Even a single, focused session on test anxiety-coupled with an easy-to-use technique-can equip students with a tangible method for self-regulation during high-stakes situations. By introducing techniques like FST early in nursing programs (for example, during orientation or in a first-year seminar) and normalizing conversations about test anxiety, educators can help students build coping skills before anxiety becomes overwhelming (Uzzell et al., 2025). When such tools are practiced regularly in low-pressure settings; for example, before lectures or exams, students are more likely to use them when stress peaks (Mohamed et al., 2024). Faculty can also play a key role in reinforcing these practices; for instance, instructors might begin exams or classes with a one-minute grounding exercise, signaling to students that it is acceptable to take a moment to center themselves. Such integration can foster a supportive learning environment and reduce the stigma around experiencing anxiety (Turner & McCarthy, 2017).",
+   "page": 4
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Test anxiety outcomes before and after Five Senses Training (FST) *.\nTable 1 Test anxiety outcomes before and after Five Senses Training (FST) *.\n\n| Outcome                                                                                                                                               | Pre-FST dropouts (n = 46)   | Pre-FST stayers (n = 48)   | Post-FST (n = 48)   | P-value   |\n|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|----------------------------|---------------------|-----------|\n| Nist & Diehl TAQ scale                                                                                                                                | 30.8 § 9.6                  | 28.7 § 9.5                 | 23.4 § 7.8          | < 0.001   |\n| Absence (10-19)                                                                                                                                       | 5 (10.9)                    | 9 (18.8)                   | 15 (31.3)           | 0.029     |\n| Healthy (20-35)                                                                                                                                       | 19 (41.3)                   | 24 (50.0)                  | 19 (39.6)           |           |\n| Unhealth (>35)                                                                                                                                        | 14 (30.4)                   | 11 (22.9)                  | 2 (4.2)             |           |\n| Missing                                                                                                                                               | 8 (17.4)                    | 4 (8.3)                    | 12 (25.0)           |           |\n| Perceived current level of proficiency in managing test anxiety (range: 1=fundamental awareness (basic knowledge) to 5=expert (recognized authority)) | 2.0 § 0.9                   | 1.8 § 0.9                  | 2.8 § 1.0           | < 0.001   |\n| FST effectively reduce anxiety levels prior to a nursing exam? <                                                                                      |                             |                            |                     |           |\n| Yes                                                                                                                                                   | -                           | -                          | 30 (62.5)           | -         |\n| Somewhat                                                                                                                                              |                             |                            | 12 (25.0)           |           |\n| No                                                                                                                                                    |                             |                            | 0                   |           |\n| Missing                                                                                                                                               |                             |                            | 6 (12.5)            |           |\n| FST effectively reduce anxiety levels during the nursing exam? <                                                                                      |                             |                            |                     |           |\n| Yes                                                                                                                                                   | -                           | -                          | 26 (54.2)           | -         |\n| Somewhat                                                                                                                                              |                             |                            | 13 (27.1)           |           |\n| No                                                                                                                                                    |                             |                            | 3 (6.3)             |           |\n| Missing                                                                                                                                               |                             |                            | 6 (12.5)            |           |\n| Able to complete five steps of FST? <                                                                                                                 |                             |                            |                     |           |\n| Yes                                                                                                                                                   | -                           | -                          | 25 (52.1)           | -         |\n| Somewhat                                                                                                                                              |                             |                            | 12 (25.0)           |           |\n| No                                                                                                                                                    |                             |                            | 5 (10.4)            |           |\n| Missing                                                                                                                                               |                             |                            | 6 (12.5)            |           |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Test anxiety outcomes before and after Five Senses Training (FST) *.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "* Note. Numbers areM§ SD or n (%). TAQ = Test Anxiety Questionnaire. P-value is for testing differences between Pre-FST stayers and Post-FST.",
+   "page": 5
+  },
+  {
+   "label": "footnote",
+   "text": "< Only asked at post-FST time-point.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Furthermore, addressing test anxiety must also be part of a broader commitment to student mental health. Chronic stress can erode performance and increase the risk of burnout and attrition (Aryuwat et al., 2023). Embedding grounding strategies like FST into the curriculum-possibly in collaboration with campus counseling services-may promote resilience and emotional well-being in the long term (Kaur Khaira et al., 2023). Notably, the skills practiced with FST have relevance beyond academia: in clinical settings, nurses often face high-pressure, anxiety-provoking scenarios. Teaching students how to manage performance anxiety now may prepare them to handle future clinical stressors with greater composure, ultimately supporting both their professional development and their ability to provide safe, compassionate patient care (Stevens et al., 2019).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Conclusion",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Test anxiety remains a persistent barrier in nursing education, impacting students' academic performance, emotional well-being, and overall confidence (Kaur Khaira et al., 2023; Stevens et al., 2019). This study demonstrates that a brief educational intervention, focused on test anxiety awareness and the 5-4-3-2-1 FST grounding technique, can lead to meaningful reductions in test anxiety among nursing students. Students who participated showed quantifiable improvements in test anxiety levels and qualitatively reported feeling calmer and more in control during exams. The FST is a simple, adaptable tool that students can use independently, making it a valuable addition to nursing programs' efforts to support student success. By proactively addressing test anxiety through evidence-based strategies like FST, nursing educators can help students reduce selfreported anxiety and strengthen coping skills. However, further research is warranted to determine whether these benefits translate to improved exam performance (Table 1).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Declaration of Competing Interest",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "CRediT authorship contribution statement",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Kunwal M. Scott: Writing \u0000 review & editing, Writing \u0000 original draft, Visualization, Validation, Supervision, Resources, Project administration, Methodology, Investigation, Conceptualization. Kacie Duncan: Validation, Project administration, Investigation. Thomas P. McCoy: Writing \u0000 review & editing, Writing \u0000 original draft, Validation, Methodology, Formal analysis, Data curation.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "American College of Health Association. (2023). American College Health Association\u0000National College Health Assessment III: Reference group executive summary Fall 2022. Silver Spring, MD: American College Health Association.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Anxiety and Depression Association of America. (). Facts & statistics. https://adaa.org/ understanding-anxiety/facts-statistics.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Aryuwat, P., Asp, M., L€ovenmark, A., Radabutr, M., & Holmgren, J. (2023). An integrative review of resilience among nursing students in the context of nursing education. Nursing Open, 10(5), 2793-2818. doi:10.1002/nop2.1559.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Beck, J. S. (2021). Cognitive behavior therapy: basics and beyond (3rd ed.). Guilford Press.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Cohen, K. A., Graham, A. K., & Lattie, E. G. (2022). Aligning students and counseling centers on student mental health needs and treatment resources. Journal of American college health: Journal of ACH, 70(3), 724-732. doi:10.1080/07448481.2020. 1762611.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Gupta, S. (2024). Feeling anxious? Try the 5-4-3-2-1 grounding technique: Use this exercise to find calm amidst chaotic thoughts. Verywell Mind. Retrieved November 6, 2024, from https://www.verywellmind.com/5-4-3-2-1-grounding-technique8639390",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Hamed, A. E. M., Hamza, M. F., El-Tawab, N. A. A., Othman, A. A., Barakat, A. M., & Atta, M. H. R. (2025). Exploring the mediation role of hardiness in the relationship between feedback sensitivity and test anxiety among nursing students: a multisite inquiry. BMC Nursing, 24(1), 421. doi:10.1186/s12912-025-02946-9.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Hyseni Duraku, Z., Konjufca, J., Hoxha, L., Blakaj, A., Bytyqi, B., Mjekiqi, E., & Bajgora, S. (2023). Reducing STEM test anxiety through classroom mindfulness",
+   "page": 5
+  },
+  {
+   "label": "list_item",
+   "text": "training for lower secondary school children: a pilot study. International Journal of Adolescence and Youth, 28(1). doi:10.1080/02673843.2023.2242478.",
+   "page": 6
+  },
+  {
+   "label": "list_item",
+   "text": "Khalaila, R. (2015). The relationship between academic self-concept, intrinsic motivation, test anxiety, and academic achievement among nursing students: mediating and moderating effects. Nurse Education Today, 35(3), 432-438. doi:10.1016/j.nedt.2014.11.001.",
+   "page": 6
+  },
+  {
+   "label": "list_item",
+   "text": "Khaira, M. K., Raja Gopal, R. L., Mohamed Saini, S., & Md Isa, Z. (2024). Prevalence of test anxiety and its determinants among nursing students in Selangor, Malaysia. Heliyon, 10,(4) e26236. doi:10.1016/j.heliyon.2024.e26236.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Kaur Khaira, M., Raja Gopal, R. L., Mohamed Saini, S., & Md Isa, Z. (2023). Interventional strategies to reduce test anxiety among nursing students: A systematic review. International Journal of Environmental Research and Public Health, 20(2), 1233. doi:10.3390/ijerph20021233.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Kumar, L., M. (2022). Exam anxiety and factors influencing exam preparation: A mixed method study. Indian Journal of Psychiatric Nursing, 19(1), 9-15. doi:10.4103/iopn. iopn_69_21.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Marks, J., & Gepp, K. (2021). Grounding exercises: using the 5 senses for anxiety relief. Psych Central. Retrieved from: https://psychcentral.com/anxiety/using-the-fivesenses-for-anxiety-relief.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Mohamed, N. A., Ali, S. O., Ehrahim, E. E. E., Ahmed, A. L., &Wahba, A. M. (2024). Predictors of academic and clinical stress among nursing students. SAGE Open Nursing, 10, 23779608241290392. doi:10.1177/23779608241290392.",
+   "page": 6
+  },
+  {
+   "label": "list_item",
+   "text": "Nist, S., & Diehl, W. (1990). Test anxiety questionnaire [Measurement instrument]. Retrieved from Central Connecticut State University website: https://www.ccsu. edu/sites/default/files/document/LESSON_5_-_TEST_ANXIETY_QUESTIONNAIRE. pdf.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Parrish, A. R. (2022). The impact of a cognitive behavioral intervention on test anxiety in a BSN program. Nursing Education Perspectives, 43(6), E97-E99. doi:10.1097/01. NEP.0000000000000989.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Stevens, R., Nussbaum, R., & Blake, T. (2019). Evaluating state anxiety levels in nursing students. Williams Honors College, Honors Research Projects, 815. Retrieved from: https://ideaexchange.uakron.edu/honors_research_projects/815/.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Thiriveedhi, S., Myla, A., Priya, C. V., Vuppuluri, K., Dulipala, P., & Vudathaneni, V. K. P. (2023). A study on the assessment of anxiety and its effects on students taking the National eligibility cum entrance test for undergraduates (NEET-UG) 2020. Cureus, 15,(8) e44240. doi:10.7759/cureus.44240.",
+   "page": 6
+  },
+  {
+   "label": "list_item",
+   "text": "Turner, K., & McCarthy, V. L. (2017). Stress and anxiety among nursing students: A review of intervention strategies in literature between 2009 and 2015. Nurse Education in Practice, 22, 21-29. doi:10.1016/j.nepr.2016.11.002.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Uzzell, J., Divin, C., & Zinn, K. (2025). Integration of student well-being in undergraduate nursing curricula: A scoping review. Worldviews on Evidence-Based Nursing, 22, (3) e70029. doi:10.1111/wvn.70029.",
+   "page": 6
+  }
+ ]
+}

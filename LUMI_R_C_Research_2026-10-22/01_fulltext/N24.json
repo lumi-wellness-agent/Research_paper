@@ -1,0 +1,1058 @@
+{
+ "paper_id": "N24",
+ "source": "N24_2024_Fan_The_effects_of_digital_nature_and_actual_nature_on_stress_reduction_A.pdf",
+ "pages": 11,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Contents lists available at ScienceDirect",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Internet Interventions",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "journal homepage: www.elsevier.com/locate/invent",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "The effects of digital nature and actual nature on stress reduction: A meta-analysis and systematic review",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Luyao Fan, Mohamad Rizal Baharum *",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Faculty of Built Environment, Universiti Malaya, Malaysia",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A R T I C L E I N F O",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: Biophilia Digital nature Stress",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Meta-analysis",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A B S T R A C T",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Objectives: The study aims to conduct a systematic literature review and meta-analysis to assess the effects of digital nature and actual nature on stress reduction.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Methods: In August 2023, Web of Science, Scopus, ProQuest, PubMed, and EBSCOhost databases were used, and ten articles were in the analysis, with a total sample size of 886 participants. Studies within- or between-subjects design conducted in either a randomized controlled trial or a quasi-experimental design were included. No re­ striction was put on the year of publication or geographical region. Conference papers and dissertations were also included whereas, book chapters were excluded. Participants included those who were exposed to at least one form of digital nature exposure, such as static images, videos, 360◦ pictures, and 360◦ videos. The risk of bias determined through Review Manager 5.4 was used to assess the quality of the studies. STATA software package version 16 was used for visual analysis of funnel plots. For the assessment of potential publication bias, Egger's test was implemented.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Results: Digital natural environments had the same level of stress recovery compared to actual environmental exposures with the same intervention content (SMD = � 0.01; 95% CI: � 0.15, 0.12). Subgroup analyses and meta-regression indicated that subjective or physiological stress measures, level of immersion, and data extraction method were not associated with pooled effect stress recovery. All subgroups showed comparable stress levels in both conditions. In addition, all included studies had different levels of risk of bias (low, moderate, and high).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Conclusions: The present study concludes that previous research has generally shown that stress levels are reduced in both digital and actual natural environments. The results of the meta-analysis support this conclusion with no significant differences between the two modes of stress recovery through nature viewing.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Digital nature (representations or simulations of natural environ­ ments) has immersive forms of output such as 360◦ photo or 360◦ video (Bertel et al., 2020) and other forms of production including nature soundscapes (Rejeh et al., 2016), cave automatic virtual environment (Annerstedt et al., 2013) and C-G virtual reality (Li et al., 2021). Numerous studies have shown the benefits that the digital nature can bring to people such as elevated physiological arousal (Browning et al., 2020a), increased motivation, improved cognitive functioning (Reece and Merchant, 2022), improved subjective vitality (Reese et al., 2022a, b), and reduced stress (Reese et al., 2021; Valtchanov et al., 2010). These benefits are particularly important because high levels of stress are associated with various negative outcomes such as cardiovascular disease, anxiety, depression, hypertension, obesity (Pogosova et al., 2021; Bouillon-Minois et al., 2021), and burnout (Jin et al., 2020). Moreover, current strategies to cope with stress include excessive caffeine intake, overeating, or the use of sedative drugs which are accompanied by many adverse contraindications and side effects such as health problems, substance dependence, and abuse (AlAteeq et al., 2021).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Even though many scholars have argued that exposure to virtual nature (simulated or computer-generated environments that mimic natural landscapes, ecosystems, or elements of nature) can be beneficial, is it possible to infer that the benefits of exposure to digital and real nature are equivalent based on the available evidence? Caution is war­ ranted (Browning et al., 2020b), partly because it is unclear whether the benefits of digital nature can be explained through attention restoration",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "* Corresponding author. E-mail address: mrizal@um.edu.my (M.R. Baharum).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received 2 April 2024; Received in revised form 17 August 2024; Accepted 10 September 2024",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "theory (Kaplan and Kaplan, 1989a, 1989b) and stress reduction theory (Ulrich, 2023) based on natural environments. Because digital nature relies heavily on visual and auditory stimuli and lacks additional sensory engagement, this may allow participants to focus more on the applica­ tion's content, which may lead to psychological improvement (Mattila et al., 2020). Also, given the relatively limited direct comparisons be­ tween digital and actual natural environments (Browning et al., 2020a), more Empirical Research is needed in the future to delve deeper into the similarities and differences between these two natural exposures, and for the time being, comparing the differences between the two continues to be a high-profile area of research. Therefore, the present study aims to critically compare the stress reduction efficacy of digital versus actual nature using meta-analytic methods to identify if digital nature can serve as a potential modality in the treatment of stress.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Interest in digital-based nature interventions has increased dramat­ ically over the last decade, and nature interventions utilizing digital technology have shown various benefits, including stress reduction (Li et al., 2023; Spano et al., 2023). A large number of results from reviews on digital nature for stress reduction show the feasibility of digital na­ ture in reducing stress (Abdullah et al., 2021; Gentile et al., 2023; Naylor et al., 2020; Riches et al., 2023; Velana et al., 2022). However, other reviews have concluded that research using digital nature techniques to explore stress has been relatively limited and that some measurements, particularly physiological indicators of stress, have not demonstrated consistent positive effects (Frost et al., 2022; Lee et al., 2022; Li et al., 2023; Spano et al., 2022,2023). Therefore, they are cautious about the potential benefits of replication in actual natural environments. Yang et al. (2021) concluded that due to telepresence during the pandemic, affective motivational states were observed. Participants reported the feeling of enjoyment and satisfaction having a 360◦ virtual tour expe­ rience (a specific type of digital experience where users can navigate and explore a location or environment virtually, usually by viewing a 360degree panoramic image or video), causing stress reduction. More­ over, the study found a moderating effect of telepresence on satisfaction with the 360◦ virtual tour experience (Yang et al., 2021). Virtual Reality (VR) has been effective in diminishing stress levels among individuals with higher levels of stress (Kim et al., 2021). In the study by Ribeiro et al. (2021), the impact of exposure to nature and mental health out­ comes were examined during the pandemic-induced lockdown in two countries, Portugal and Spain. The study showed that in Portugal, due to people using natural public spaces, observing natural landscapes, and somatization during the pandemic, lower stress levels were found. Similarly, in Spain, an increase the exposure to green spaces led to a reduction in stress. People had frequent contact with indoor plants in Spain and they had privately held green spaces in their community, helping them relieve their stress. Hence, nature has to be considered as one of the critical elements in urban planning to increase its exposure for promoting well-being. Yao et al. (2021) analyzed a dearth of formal statistical assessments concerning an interplay between direct exposure to the natural environment and stress relief for which a meta-analysis study was conducted. The results indicated that exposure to natural environments relieves stress significantly. However, the study stated the risk of bias, and residual heterogeneity as its limitations calling out the need for future research in this area (Yao et al., 2021). In the study by Riches et al. (2021), the results of the systematic analysis showed that VR was effective in providing relaxation to the general public during the lockdown by lowering their stress.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Fewer meta-analyses directly compare digital and actual nature (Browning et al., 2020b). Lahart et al. (2019) compared outdoor green exercise with indoor virtual green exercise across five studies, in which no significant differences were found in energy, calmness, tension, fa­ tigue, attention, and heart rate, but outdoor green exercise was signifi­ cantly superior to indoor green exercise on the enjoyment score. Another article explained the moderating effect of the type of exposure to nature (actual vs. digital nature) on mood effects, and the results showed that actual nature had a more significant impact on positive mood (McMahan and Estes, 2015). Browning et al. (2020b) compared the differences between digital and actual nature on positive affect (PA) and negative affect (NA) effects, showing that actual nature performed better on PA but that there was no significant difference between interventions in the two conditions on NA (Browning et al., 2020b). Reviews directly comparing digital and actual nature in terms of stress differences are still missing. To fill this gap, the primary purpose of this paper is to assess the differences in stress measures between digital and actual nature using meta-analytic methods.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The goals of this meta-analysis included a primary goal and multiple secondary goals. The primary objective was to compare the effects of digital versus actual nature on two types of stress levels: Physiological stress defined as any external or internal condition that affects the ho­ meostasis of an organism (Kagias et al., 2012) and subjective stress is defined as the perceived stress which can be measured by a question­ naire (F¨ohr, n.d.). Furthermore, the study was designed to provide new evidence on whether digital nature can be an alternative option for people to access nature. In the following, the research questions are stated:",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "Do subjective and physiological stress indicators (perceived and physiological indicators) affect the results of comparisons between the two conditions (digital nature and actual nature)?",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "Are digital natural and actual natural affected by different types of data extraction in comparing stress effect sizes? (i.e., the difference between post-intervention values and those with blank or baseline groups vs. endpoint values only)",
+   "page": 2
+  },
+  {
+   "label": "list_item",
+   "text": "Finally, are digital nature and actual nature affected by different levels of immersion, i.e., different ways of presenting digital nature, in comparing results for the stress effect?",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2. Materials and methods",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. General",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The review and meta-analysis followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, and to avoid duplication of review efforts, the review registration was completed early in the screening phase.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Inclusion criteria",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The inclusion criteria followed was PICOS framework format (Morgan et al., 2018). The scope of this meta-analysis was not limited to a specific location, so adults in various settings were included. People with audiovisual impairments were excluded since actual and digital nature both tend to produce effects through sensory engagement. Hence, this sensory limitation would alter the interpretation of the results. On the other hand, people with mental illnesses such as depression and anxiety, who did not prevent participation in the study were included. This was done because mental illness as a factor cannot interfere with the findings of the study as the experience with the digital and actual nature remains the same regardless of whether an individual is suffering from a mental illness or not. Participants were included who were exposed to at least one form of digital nature exposure, such as static images, videos, 360◦ pictures, and 360◦ videos. The environment's na­ ture or characteristics could not be inferred indirectly by relying solely on other variables or indicators, and the exposure content of the two conditions needs to be consistent. For example, if the digital natural condition was to view a summer forest landscape and the actual natural condition was to view a winter forest landscape, this would be excluded because it would be influenced by environmental preferences (Van Den Berg et al., 2003). Various subjective Perceived Stress Scale or objective physiological measures of stress, such as heart rate (Payne and Rick, 1986; Santhanagopalan et al., 2018), heart rate variability (HRV) (Aeschbacher et al., 2017; Choi et al., 2005; Lischke et al., 2018), and blood pressure (Fernandes et al., 2014) were involved while the inclu­ sion did not depend on the presence of a baseline (or blank) group. The studies within- or between-subjects design conducted in either a ran­ domized controlled trial or a quasi-experimental were included. The articles published in the English Language, conference papers were included and the book chapter was excluded.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Search strategy and study selection",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The studies were selected based on their relevance to the main dis­ ciplines i.e., Psychology, Environmental Psychology, and Architecture. Online databases such as Web of Science, Scopus, ProQuest, PubMed, and EBSCOhost were used. The search was initially conducted in November 2022, followed by a second search in August 2023. To ensure that the literature review was as comprehensive and exhaustive as possible, the second round of searches retained the strategy of the first round of searches, in addition to supplementing the reference tracking with specific vital articles and existing reviews.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The search string contained three elements:",
+   "page": 3
+  },
+  {
+   "label": "list_item",
+   "text": "Nature (e.g. \"natural environment\", \"natural elements\", \"exposure to nature\", \"green space\", \"biophilia\" defined as a hypothesis that suggests that there is an inherent genetic and biological link between humans and nature (Gaekwad et al., 2022), \"biophilic design\" defined as a design that incorporates biophilia into the built envi­ ronment (Gaekwad et al., 2022). Less frequently used words like \"biophilia\" and \"biophilic design\" were included to enhance the literature survey by incorporating researches that study the humannature connection.",
+   "page": 3
+  },
+  {
+   "label": "list_item",
+   "text": "Stress is defined as \"mental tension that occurs as a result of a difficult situation\" (WHO, 2023). (e.g. \"stress recovery\", \"Stress re­ lief\", \"Reduced Stress\" or \"mental health\" defined as the social, psychological and emotional well-being (CDC, 2023))",
+   "page": 3
+  },
+  {
+   "label": "list_item",
+   "text": "digital nature (\"virtual environment\", \"simulate nature\", \"virtual environment\", \"immersive virtual environment\", \"virtual reality\", \"static picture\" defined as pictures that do not move, \"picture\", \"photo\" or \"video\" \"360◦ picture\" is defined as an image that can be viewed from all sides, i.e. the user is able to rotate the viewpoint in the image freely).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The retrieved literature data into Zotero software, a free literature management tool was used to integrate and import the studies. The metadata included information such as article title, abstract, author name, publication date, and journal name. Subsequently, the two re­ searchers entered the literature screening phase, in which the re­ searchers independently assessed and made decisions without knowledge of each other's assessments while following predetermined inclusion and exclusion criteria.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Data extraction and coding",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "All titles and abstracts were first examined for digital natural con­ ditions and actual natural conditions interventions. The researcher (Luyao Fan) developed a standardized data extraction form in Excel based on tools recommended by the Cochrane Collaboration and inde­ pendently completed the review and coding of article metadata, extracting and collating data on the country of inclusion in the study, type of participant, method of recruitment, type of intervention (digital natural conditions vs. actual natural conditions), outcome metrics (perceived or physiological stress), baseline (or blank group), inter­ vention duration, stress induction, and other confounding variables, data situation at baseline (or blank group), intervention duration, stress induction, and other confounding variables. If the article does not contain data that can be used in the meta-analysis, the first researcher contacted its authors to obtain the required data. Finally, the second researcher (Mohamad Rizal Baharum) checked the first researcher's work, and any disagreements were resolved through phone calls, video calls and e-mail discussions. To mitigate the limitations presented by having two researchers, calibration exercises and regular consensus meetings were conducted. In case of a disagreement regardless of these measures, a third-party expert was consulted to make a decision.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.5. Data synthesis",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "To assess the literature more broadly, in addition to considering cases where both the test group (digital nature) and the control group (actual nature) had both a baseline or a blank group, the cases where only post-intervention values were available (and where the authors were unable to provide additional baseline data) were considered. The information considered in the individual studies is shown in Table 1.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Standardized Mean Difference (SMD) was used as the summary statistic for the meta-analysis as the included studies used different measures and 95% confidence intervals were also calculated for SMD, where SMD values for all effects were all calculated by the software STATA 16.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.6. Heterogeneity",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The researchers used Cochran's Q statistic and I 2 to compute the heterogeneity between the study effect sizes. The primary purpose of Cochran's Q statistic is to test whether the variability in the effect sizes is more significant than expected from the sampling error. (Huedo-Medina et al., 2006). When the p-value of the Q statistic is significant, there is significant heterogeneity among the effect sizes in the individual studies, i.e., more than the variation due to random sampling error alone. I 2 A tool to quantify the proportion of overall variability between studies (Higgins, 2003), I 2 <30% indicates that the total variability due to interstudy heterogeneity is small; 30% ≤ I 2 ≤ 60% represents moderate heterogeneity; and 60% ≤ I 2 ≤ 100% represents a significant degree of heterogeneity (Deeks et al., 2019). The random effects model was used in all meta-analyses, as it is considered a more conservative approach for cases with moderate or considerable heterogeneity (Deeks et al., 2019).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.7. Sensitivities and publication bias",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The stability of the overall estimates was tested by excluding a particular study from the sensitivity analysis. STATA version 16 for vi­ sual analysis of funnel plots and Egger, Begg regression tests to check for potential publication bias were employed. Funnel plots Egger and Begg tests used SE to measure study size for the vertical axis and SMD for the horizontal axis (Egger et al., 1997).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.8. Subgroup analysis and meta-regression",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Meta-regression analyses using the \"metareg\" command in STATA 16 to examine the effects of confounders (including stress type, data extraction method, and immersion level) on the combined stress effect sizes were conducted. In addition, subgroup analyses were used to evaluate differences in effect sizes across groups (stress type, data extraction method, and level of immersion).",
+   "page": 3
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Underlying data from various studies.\nTable 1 Underlying data from various studies.\n\n| Group                                                                         | Baseline                                    | Final                                     | Change                                    |\n|-------------------------------------------------------------------------------|---------------------------------------------|-------------------------------------------|-------------------------------------------|\n| Experimental group (Digital Nature Group) Control group (Actual nature Group) | Mean1(B), SD1 (B), n1 Mean2(B), SD2 (B), n2 | Mean1(F), SD1(F), n1 Mean2(F), SD2(F), n2 | Mean1(C), SD1(C), n1 Mean2(C), SD2(C), n2 |",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Underlying data from various studies.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.9. Risk of bias/article quality",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The quality of the included studies on six indicators using the Review Manager 5.4 tool for assessing the risk of bias was assessed i.e., random sequence generation (selection bias), allocation concealment (selection bias), blinding of participants and personnel (performance bias), blinding of outcome assessment (detection bias), incomplete outcome data (attrition bias), selective reporting (reporting bias), and other bias.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The database literature search yielded 1792 records, of which 158 were eligible for full-text review, and 3 additional records were retrieved by Reference tracking. 10 trials from 10 publications met the inclusion criteria out of which 8 employed randomized control trial methodology and only 2 employed quasi-experimental methodology. The data identification, screening, eligibility, and inclusion process is detailed in Fig. 1.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. General description of articles",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Table 2 provides a summary of metadata about the entire dataset. Of the 10 studies included, a large proportion (n = 6) utilized a betweengroups design, and the remainder utilized a Within-groups design. Similarly, more than half (n =7) of the studies reported pre-intervention (or blank-group)/post-intervention data, and the remaining 3 studies reported post-intervention data only. Most studies (n = 7) showed no stress-inducing task. However, in three of the studies, one (n = 2) or more (n = 1) stress-inducing tasks were implemented to elicit higher levels of mental fatigue in participants.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The design of the studies (between-groups vs. within-groups) and the use of stress-inducing tasks significantly influenced the findings. Studies with a between-groups design and stress-inducing tasks tended to report higher levels of mental fatigue and more pronounced stress responses compared to within-groups designs without such tasks. Furthermore, studies utilizing pre-intervention and post-intervention measurements provided a more comprehensive view of changes over time, while those with only post-intervention data were limited to capturing immediate effects.",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. The PRISMA flow diagram.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Finally, seven studies had post-experimental values as well as base­ line or blank group values (Brooks et al., 2017; Emamjomeh et al., 2020; Kahn et al., 2008; Kjellgren and Buhrkall, 2010; Nukarinen et al., 2020; Reese et al., 2022b; Yin et al., 2018). Three studies had postexperimental values only (Calogiuri et al., 2018; Gatersleben and Andrews, 2013; Markwell and Gladwin, 2020).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.1. Publication years and locations",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Studies that met the inclusion criteria were first published in 2008 (Kahn et al., 2008), and the number of papers increased steadily from 2017 onwards, with 70% of studies published after 2017 (n = 7). This suggests that the topic of whether digital nature can replicate the ben­ efits of actual nature has received increasing scholarly attention in recent years.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Ten studies were from seven different countries and regions, six of which were from Europe, including the United Kingdom of Great Britain and Northern Ireland (n = 2), Norway (n = 1), Finland (n = 1), Sweden (n = 1), and Germany (n = 1). The remaining 4 studies were all from North America, including the United States of America (n = 3) and Canada (n = 1). This shows that all 10 studies were from high-latitude countries. Hence, it is hypothesized that the reason why high-latitude countries show a strong interest in virtual nature technologies is due to the fact that high-latitude countries typically experience extreme seasonal variations (Rehdanz and Maddison, 2005), such as cold winters and short summers. Such climatic conditions can limit people's oppor­ tunities for outdoor activities. Regardless of the weather; however, digital nature technologies can provide access to the natural environ­ ment in an indoor setting.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.2. Participants",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Sample sizes ranged from 17 to 60 with a median of 27. The vast majority of the studies were conducted with students or Teaching and Administrative Staff (n = 7), and of these studies, four were conducted with undergraduate or graduate students (Brooks et al., 2017; Emam­ jomeh et al., 2020; Gatersleben and Andrews, 2013; Kahn et al., 2008). Three studies included both students and teaching and administrative staff (Calogiuri et al., 2018; Nukarinen et al., 2020; Yin et al., 2018)， the remaining 2 studies involved students and volunteers (Markwell and Gladwin, 2020; Reese et al., 2022b), and one study on stress and/or burnout syndrome (Kjellgren and Buhrkall, 2010).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Except for one study that did not specify the gender of the partici­ pants (Kahn et al., 2008), the remaining seven studies had 59.85% fe­ males, 39.41% males, and two persons of unknown gender. The average age of the participants in all the studies was 26.79 years old, with 87.77% of the participants being under 26 years old. Finally, two studies did not provide information on participant recruitment methods (Emamjomeh et al., 2020; Nukarinen et al., 2020), and eight studies explicitly outlined recruitment methods, of which, two used an exclusive pool of study participants, while their remaining six studies conducted recruitment using flyers, e-mails, webpages, and social networking sites.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.3. Outcome measures",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Physiological stress indicators are all measurements related to sym­ pathetic nerve (SNS) and parasympathetic nerve (PNS) activation and can be summarized broadly in 4 categories. Emamjomeh et al. (2020) used the SNS /PNS Index to measure. The SNS and PNS are responsible for activating the \"fight or flight\" response (Johnson, 2019). It is acti­ vated when the body perceives danger or threat, triggering a series of physiological changes such as increased heart rate, elevated blood pressure, and the release of stressors such as adrenaline chemicals, they trigger physiological changes such as increased heart rate, elevated blood pressure, and the release of stress chemicals such as adrenaline.",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Table 2",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Summary of metadata.",
+   "page": 5
+  },
+  {
+   "label": "table",
+   "text": "| Author                        | Digital nature                                                                                                                                                                       | Actual nature                                                                                                                                         | Output device   | Stress measurement tools                                                                                                                                                            | Whether stress- induced   | Sample    | Action state                                | Measurement indicators/ direction of decompression          |   Sample size (n) | Intervention time/selection method   | Study design   |\n|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------|---------------------------------------------|-------------------------------------------------------------|-------------------|--------------------------------------|----------------|\n| Yin et al., 2018              | Reproduction of physical conditions using 360◦ videos                                                                                                                                | An office with plants, bamboo floors, floor-to- ceiling windows, and exterior views of the river                                                      | HMD             | Wearable sensors                                                                                                                                                                    | No                        | Stud, TAS | Sitting                                     | HR Recovery ↓, SCL Recovery ↓ , BP Recovery ↓               |                28 | 5 min(MO)                            | RCT            |\n| Emamjomeh et al., 2020        | Replicating physical conditions using a form of 361◦ videos                                                                                                                          | A lounge area with floor to ceiling windows overlooking the plants and outside lawn.                                                                  | HMD             | Sympathetic nervous system index, parasympathetic nervous system index                                                                                                              | No                        | Stud      | Sitting                                     | SNS Recovery ↓, PNS Recovery ↑                              |                35 | 5 min (MO)                           | RCT            |\n| Calogiuri et al., 2018        | (1) Watch 360◦ videos in sitting position, the content of the videos replicates the physical conditions. (2) treadmill running state watching 360◦ videos, video content replicating | Take a walk outdoors in a natural setting to view plants, rivers, buildings, soccer fields and trails.                                                | HMD             | Perceived Restorativeness Scale, HR- monitor, Physical Activity Affect Scale (PAAS)                                                                                                 | No                        | Stud, TAS | 1. Sitting VS Walking 2. Walking VS Walking | HR ↓                                                        |                26 | 10 min(MO)                           | RCT            |\n| Brooks et al., 2017           | physical conditions 25 nature pictures (winter)                                                                                                                                      | Sit quietly on a bench near the park and watch the fall and winter scenery, which contains natural elements such as lawns, plants, rivers, and birds. | ES              | DASS-21                                                                                                                                                                             | No                        | Stud      | Sitting                                     | Perceived Stress Recovery ↓                                 |                47 | 10 min(MO)                           | RCT            |\n| Nukarinen et al., 2020        | (1):VR 3D model to see the physical conditions of the replica. (2):360◦ videos of the physical conditions of the replica.                                                            | View of the forest, including green areas, lakes/rivers                                                                                               | HMD             | Mindmedia NeXus-10 neuro- and biofeedback system, PANAS scale                                                                                                                       | No                        | Stud, TAS | Sitting                                     | HR Recovery↓, HRV RMSSD Recovery↑, EDA Recovery ↓           |                24 | 10 min(MO)                           | RCT            |\n| Kjellgren and Buhrkall, 2010  | 97 pictures of nature                                                                                                                                                                | Park benches watch the natural scenery, containing: woods, and natural elements such as lakes and rivers.                                             | ES              | VAS-scale, SE instrument                                                                                                                                                            | Yes                       | Pat       | Sitting                                     | Pulse Recovery↓, BP Recovery ↓, Perceived Stress Recovery ↓ |                18 | 30 min(MO)                           | RCT            |\n| Kahn et al., 2008             | Reproduction of physical conditions in the form of videos                                                                                                                            | Window view with fountain, plantings, grassy area                                                                                                     | ES              | Biopac MP 100 physiological system with a 2-lead configuration for collecting electrocardiogram (ECG)                                                                               | Yes                       | Stud      | Sitting                                     | HR slope ↓                                                  |                60 | Max = 5 min (AO)                     | QE             |\n| Reese et al., 2022a, 2022b    | Experience a forest walk in the form of Virtual Reality Travel                                                                                                                       | The forest next to the school, with views that include elements such as plants, trails, log cabins and staircases                                     | HMD             | Restoration outcome scale (ROS)                                                                                                                                                     | No                        | Stud, Vol | Sitting                                     | Perceived Stress Recovery ↓                                 |                50 | Mean = 6.93 min (AO)                 | RCT            |\n| Markwell and Gladwin, 2020    | Watch the forest walk in video format                                                                                                                                                | Forest walks to see natural scenery containing trees, animals and other elements                                                                      | ES              | PANAS scale, Warwick-Edinburgh mental well-being scale                                                                                                                              | No                        | Stud, Vol | Sitting VS Walking                          | Perceived Stress ↓                                          |                22 | 1 h*4(MO)                            | QE             |\n| Gatersleben and Andrews, 2013 | Watch the forest walk in video format                                                                                                                                                | A walk in the forest to see the natural scenery including trees, paths, and other elements.                                                           | PS              | Self-rating restoration scale (SRRS), Inventory of Personal Reactions (ZIPERS), Necker Cube Pattern Control Task (NCPCT), A&D UA-767 digital blood pressure and heart rate monitor. | Yes                       | Stud      | Walking                                     | HR Recovery ↓                                               |                17 | 10 min(MO)                           | RCT            |",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Thus, a higher SNS index indicates more significant stress (Emamjomeh et al., 2020). In contrast, the parasympathetic nervous system is usually active during times of physical relaxation, rest, and recovery, and acti­ vation of the PNS is associated with decreased heart rate, blood pressure, and other physiological indicators of stress. Thus, higher PNS indices indicate lower stress levels (Emamjomeh et al., 2020). Kjellgren and Buhrkall (2010) and Yin et al. (2018) used blood pressure (i.e., SBP and DBP) as the measurement. In stressful situations, an increased sympa­ thetic nervous system leads to an increase in both systolic and diastolic blood pressure.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The studies by Calogiuri et al. (2018), Gatersleben and Andrews (2013), Kahn et al. (2008), Kjellgren and Buhrkall (2010), Nukarinen et al. (2020), Yin et al. (2018) used HR/HRV as a measure (i.e., heart rate, pulse, and heart rate variability). Stress causes elevated heart rate and pulse rate (Chalmers et al., 2021), as well as an increase, decrease, or constancy in many of the measured variables associated with heart rate variability, and the HRV RMSSD we included was negatively correlated with stress (Gaekwad et al., 2023).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "One study used EDA/SCL as a measurement (electrical activity of the skin) (Nukarinen et al., 2020; Yin et al., 2018), and in the face of emotional states such as stress, anxiety, or nervousness, the sympathetic nervous system is activated, leading to the release of adrenaline, which in turn stimulates sweat gland secretion (Kjær and Lange, 2020). This causes a change in skin conductance and an increase in EDA (ˇZnidariˇc et al., 2023). Skin conductance response (SCR) and skin conductance level (SCL) are two critical indicators of electrical skin activity (EDA) (Soni and Rawal, 2020).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "In addition, four studies used perceived stress as a measure of the stress part of the DASS-21 scale (Brooks et al., 2017) the Standard Stress Scale (Reese et al., 2022b), the perceived stress scale (PSS) (Markwell and Gladwin, 2020) and the SE instrument (the part of stress) (Kjellgren and Buhrkall, 2010).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The outcome measures employed in these studies also played a crucial role in the findings. Studies that measured physiological in­ dicators such as heart rate, blood pressure, and skin conductance were able to provide objective data on stress responses, which often corre­ lated with the presence of stress-inducing tasks and the type of study design. In contrast, studies that relied on self-reported measures of perceived stress provided insight into the subjective experience of stress, which could vary depending on individual differences and contextual factors.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Finally, Stress recovery (Zijlstra et al., 2014) was used to define the recovery value of the metrics, with the post-experimental value minus the baseline or blank group value being the recovery value for that outcome measure, and the direction of decompensation for all measured quantities Table 2.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.4. Effect size and heterogeneity",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The effect sizes comparing the intervention group (Digital Nature) to the control group (actual Nature) for the 10 studies are shown in Fig. 2. SMD = � 0.13, (95% CI = � 0.48, 0.21), z = 0.77, and p = 0.443 > 0.05, indicating that there was no statistically significant difference between the intervention group (Digital Nature) and the control group (actual Nature). In other words, the effect of digital nature and actual nature on stress was consistent. After the heterogeneity test, it was found that I 2 = 82.7% ≥ 60% (high heterogeneity) and p = 0.000 < 0.05 for the Q-test, the results showed a substantial heterogeneity among the literature selected for this study. Sensitivity analysis was continued to ensure the accuracy and stability of the study.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.5. Sensitivity analysis",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The purpose of sensitivity analysis is to identify studies that can significantly impact the results of the meta-analysis (including studies that contain outliers and are at high or unclear risk of bias), thereby improving the credibility and robustness of the review. As in Fig. 3, a sensitivity analysis was performed. One comparison data was deleted from a study with a high risk of bias. After this step, the results of the remaining 9 studies are shown (Supplementary Fig. S1. Forest plot after removal) with SMD =� 0.01 (95% CI =� 0.15, 0.12). Heterogeneity was effectively reduced by removing one piece of data where there was inconsistency in action categorization, I 2 = 44.5% ≥ 30% and ≤ 60% (moderate heterogeneity).",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2. Forest plot of pooled pressure effects.",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3. Sensitivity analysis.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.6. Meta-regression analyses",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "There was insufficient evidence to support that subjective/physio­ logical indicator (p =0.623 >0.05), immersion level (p =0.260 >0.05) and data extraction methods (p = 0.813 > 0.05) affected the combined effect pressure magnitude had an effect (Table 3).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "3.1.7. Subgroup analysis",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Subgroup analyses was performed to improve our understanding of the conditions under which digital nature may or may not be as efficient as actual nature in alleviating stress. This analyses was exploratory since potential variations in the outcomes across different subgroups was not originally hypothesized. This helped in addressing several secondary objectives of this study. A random-effects meta-analysis was performed for each subgroup derived from the original (untrimmed) dataset (Table 4) to determine whether perceived or physiological stress in­ dicators affect comparisons between digital and actual nature. Furthermore, this meta-analysis was also conducted to determine whether data extraction methods and levels of immersion affect the comparison between digital and actual nature in stress reduction. The subgroup analyses for subjective/physiological indicators, immersion level, and data extraction methods all supported the meta-regression of the results.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The subjective stress group showed SMD = � 0.05, (95% CI = � 0.34, 0.24), z =0.37, p = 0.713 >0.05; I 2 =0.0% <30% (low heterogeneity) and p =0.464 >0.05 for Q-test. Physiological stress group showed SMD = 0.03, (95% CI = � 0.20, 0.27), z = 0.27, p = 0.786 > 0.05; I 2 = 51.4% ≥ 30% and ≤ 60% (medium heterogeneity) and p = 0.005 < 0.05 for Qtest. Thus, it is evident that subjective/physiological indices, which are covariates, effectively influenced the differences in heterogeneity of subgroups. In addition, the effect size of the intervention condition",
+   "page": 7
+  },
+  {
+   "label": "table",
+   "text": "Table 3 Summary meta-regression results.\nTable 3 Summary meta-regression results.\n\n| Moderator                           |   K |   P value |    SE |\n|-------------------------------------|-----|-----------|-------|\n| Subjective/physiological indicators |  10 |     0.623 | 0.279 |\n| Immersion level                     |  10 |     0.260 | 0.226 |\n| Data extraction methods             |  10 |     0.813 | 0.236 |",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Table 3 Summary meta-regression results.",
+   "page": 7
+  },
+  {
+   "label": "table",
+   "text": "Table 4 Analysis of stress in different subgroups.\nTable 4 Analysis of stress in different subgroups.\n\n| Variables                     |   K |   n | SMD    | 95%-C        | I 2   |\n|-------------------------------|-----|-----|--------|--------------|-------|\n| Subjective stress             |   4 |  92 | � 0.05 | � 0.34, 0.24 | 0.0%  |\n| Physiological stress          |   7 | 334 | 0.03   | � 0.20, 0.27 | 51.4% |\n| low immersion                 |   5 | 141 | 0.16   | � 0.22, 0.54 | 60.6% |\n| High immersion                |   5 | 285 | � 0.09 | � 0.29, 0.11 | 21.9% |\n| Baseline/blank data available |   7 | 333 | 0.01   | � 0.23, 0.24 | 46.5% |\n| Post-test data available      |   3 |  93 | 0.07   | � 0.30, 0.43 | 46.7% |",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Table 4 Analysis of stress in different subgroups.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "(digital nature) and the effect size of the control condition (actual na­ ture) were not significantly different between the two groups.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The low immersion group showed SMD = 0.16, (95% CI = � 0.22, 0.54), z = 0.83, p = 0.406 > 0.05; I 2 = 60.6% ≥ 60% (high heteroge­ neity) and p = 0.009 < 0.05 for Q-test. The high immersion group showed SMD = � 0.09, (95% CI = � 0.29, 0.11), z = 0.85, p = 0.396 > 0.05; I 2 = 21.9% < 30% (low heterogeneity) and p = 0.216 > 0.05 for the Q-test. Thus, it is evident that the level of immersion, as a covariate, effectively influences the differences in heterogeneity of subgroups. In addition, the effect size of the intervention condition (digital nature) and the effect size of the control condition (actual nature) were not signifi­ cantly different between the two groups.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Baseline/blank data available group showed SMD = � 0.01, (95% CI = � 0.23, 0.24), z = 0.05, p = 0.960 > 0.05; I 2 = 46.5% ≥ 30% and ≤ 60% (moderate heterogeneity), p = 0.016 < 0.05 for Q-test. Post-test data available only group showed SMD = 0.07 (95% CI = � 0.30, 0.43), z = 0.35, p = 0.724 > 0.05; I 2 = 46.7% ≥ 60% (high heteroge­ neity), p =0.111 >0.05 for Q test. in the case of the Q statistic and the I 2 showed different heterogeneity in the acceptance results, which we attribute to the disparity in the weighting of the number of included studies and the number of people. Finally, the effect size of the inter­ vention condition (numerical nature) and the effect size of the control condition (actual nature) were not significantly different between the two groups.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. Publication bias",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Visual inspection of the funnel plots of the pressure merger effect revealed that they were approximately symmetrical (Supplementary Fig. S2.). Subsequent continuation of Begg's test (p = 0.189 > 0.05) indicated no publication bias (Supplementary Fig. S3.), while Egger's test (p = 0.455 > 0.05) similarly found no publication bias (Supple­ mentary Fig. S4.).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "3.3. Quality of evidence",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "In the statistical process, the quality assessment was categorized, and each indicator was judged by \"low risk of bias\", \"uncertainty of bias\", and \"high risk of bias\" (e.g., Fig. 4), which were categorized into 3 grades: grade A (low risk of meeting 4 or more entries), grade B (low risk of meeting 2 or 3 entries), and grade C (low risk of meeting 1 or no entries, with the possibility of bias). Eight of the 10 included papers had an evaluation grade of A, two papers had an evaluation grade of B, and there were no papers with an evaluation grade of C.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "4.1. Findings",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Digital nature is increasingly being used as an alternative to people's exposure to nature (Lau et al., 2023). However, using digital nature as a substitute for actual nature is only a preliminary idea. The central finding of this literature review is that people's stress levels showed a striking similarity when exposed to digital nature, and all subgroups showed similar results to the pooled effect when compared to actual nature. This similarity reflects the great potential of digital nature for stress recovery.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Moreover, integrating broader environmental psychology literature contextualizes the findings within larger theoretical frameworks, such as biophilia or restorative environment theory. The biophilia hypothesis suggests an innate human affinity for nature, which might explain why digital representations of nature can reduce stress but also why they might not fully replicate the benefits of actual nature. Restorative environment theory posits that nature provides cognitive and emotional restoration, which might be partially but not completely captured by digital nature.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The integration of these theoretical frameworks deepens the analysis by providing a richer understanding of the mechanisms at play. For example, the biophilia hypothesis can help explain the inherent limitations of digital nature in replicating the full spectrum of restor­ ative benefits found in actual natural environments. Restorative envi­ ronment theory can provide insights into how digital nature might serve as a partial substitute for actual nature by focusing on the specific ele­ ments that contribute to cognitive and emotional restoration.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "By contextualizing the findings within these frameworks, the dis­ cussion addresses how digital nature might serve as a substitute for actual nature under certain conditions and what limitations it might have in fully replicating the restorative and stress-reducing effects of real natural environments.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "4.1.1. Subjective/physiological measures of impact",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The perceived stress subgroup consisted of four articles with 92 participants. The results showed that exposure to digital nature had the same stress levels as actual nature and there was no heterogeneity in this subgroup.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "However, the physiological stress subgroup, consisting of six articles with a total of 334 participants, showed that the subgroup's exposure to digital nature had the same stress levels as the actual nature. However, the heterogeneity was higher than that of the pooled effect. This suggests that different physiological responses could indicate more complex un­ derlying mechanisms. The observed heterogeneity in physiological measures might reflect individual differences in sensory processing, personal history with natural environments, or varying levels of baseline stress, which are not captured by the meta-analysis. Additionally, this heterogeneity could imply that certain physiological benefits of nature exposure are contingent on specific, yet unidentified factors. Hence, a more thorough investigation into these complex underlying mechanisms is essential to fully understand the intricacies of how digital nature af­ fects physiological stress. These intricacies might include the specific types of sensory input required for stress reduction, individual differ­ ences in responsiveness to digital versus actual nature, and the role of prior experiences with nature.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "This shows that subjective/physiological stress as a confounding variable effectively influences subgroup heterogeneity differences compared to overall heterogeneity. Here, Physiological stress within the group presented a higher degree of heterogeneity than the overall het­ erogeneity, unlike previous reviews that restricted the scope to actual natural environments. Hence, the findings remained consistent, with the numerical nature differing in the results of physiological metrics (Frost et al., 2022; Lee et al., 2022; Li et al., 2023; Spano et al., 2022,2023).",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 4. Review manager 5.4 risk of bias.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The reason for this may stem from the fact that although digital nature can provide some visual and auditory stimulation, it lacks the multisensory experience and physical interaction that actual nature provides. Numerous studies have shown that physiological recovery cannot be attributed to visual phenomena alone but relies on the com­ bined effects of multiple senses (Kaplan and Kaplan, 1989a,b). For example, existing digital nature technologies that rely on auditory and visual pathways are out of their depth when it comes to recreating the tactile experience of sunlight on the skin or stimulating the sense of smell to appreciate the scent of flowers. Although the results of the metaanalysis showed consistency between digital nature and actual in the subgroup of physiological stress, due to the small number of articles and the small total sample size, digital nature's ability to replicate the same effect concerning physiological stress is to be warranted.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "4.1.2. Immersion level impact",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The high immersion level subgroup consisted of 5 articles with a total of 285 participants. The low immersion subgroup consisted of 5 articles with a total of 141 participants. The level of immersion as a covariate effectively influenced the differences in subgroup heterogeneity. The low immersion group had a high degree of heterogeneity, whereas the high immersion group had a low degree of heterogeneity. In addition, the effect size of the intervention condition (digital nature) and the ef­ fect size of the control condition (actual nature) were not significantly different between the two groups.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "As the small number of articles included is unlikely to be represen­ tative of the entire subgroup, we reviewed the literature on immersion level as a confounding effect. Since the level of presence and immersion experienced by participants in a virtual environment affects their psy­ chological and physiological responses (Meehan et al., 2002; Mostajeran et al., 2020), much of the literature suggests that high levels of im­ mersion are more conducive to recovery than low levels of immersion. Chirico et al. (2017) conducted a study aimed at exploring the effects of VR immersive nature on physiological responses and subjective expe­ riences compared to 2D screen videos. The results unveiled that VR immersive videos evoked a greater intensity of awe as well as a sense of presence compared to traditional 2D screen videos (Chirico et al., 2017). This is due to the fact that VR enhances the perception of vastness, and the sense of physical space and engagement. Furthermore, a systematic qualitative review found that realistic 3D views significantly affected physiological relaxation more than 2D views (Abdullah et al., 2021). This can be because 3D images can lower the concentration of oxyhe­ moglobin in the right prefrontal cortex and also reduces sympathetic activity thereby causing relaxation Igarashi et al., 2014). Thus, it is evident that natural environments with high levels of immersion can effectively mimic the environmental characteristics required by actual nature for stress and emotional recovery.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "4.1.3. Data collection methods impact",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The meta-analysis found no significant difference in stress levels between the interventions in either the Baseline/blank data available group and Post-test data available group conditions. The results support the stress recovery theory and the biophilia hypothesis since stress reduction levels were similar in response to both interventions regard­ less of the type of data collection. In addition, the heterogeneity of both subgroups was moderate, so it can be concluded that the two data collection methods chosen to include more literature are desirable.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "4.2. Limitations",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "A literature search provided comprehensive and practical evidence as to whether digital nature can reproduce the stress response triggered by actual nature. The effects of subjective/physiological indicators, level of immersion, and method of data collection on stress were observed through subgroup analyses, which will inform future research exploring other differences between the two conditions. The quality of the article and data reporting was generally transparent and reproducible with the results of the OS evaluation process and meta-analysis.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "There were some limitations to this study one of which was the search methodology, where search for keywords related to stress rather than terms related to specific research variables were used. In addition, due to resource constraints, there was no specific search of the grey literature, which would have been detrimental to reducing the uncer­ tainty associated with publication bias. In addition, the authors for three additional articles did not provide the requested data implying that there may be some breadth bias as well as some methodological flaws. Although we used sensitivity analyses to improve robustness and con­ sistency, still uncertainty prevails about the overall impact of bias as well as heterogeneity. Due to the small number of included studies participants were not grouped based on intervention content (different landscape types, e.g., water features, forests, etc.), duration of inter­ vention, and sensory type, and therefore could not produce more stock and specific results. Lastly, the evaluation of publications found in the literature for systematic reviews was done by two researchers instead of three which is more appropriate.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "4.3. Recommendations for future research",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "There is a need for more studies to integrate a wider variety of physiological stress indicators (e.g., EEG, salivary cortisol, and urinary epinephrine, among others) and subjective measures to further explore the potential of digital versus actual nature in terms of recovery effects. In addition, in terms of experimental design, there is a need for greater and more randomized recruitment methods, which would improve credibility and study quality. It is recommended to adopt blinding where possible and use randomization methods to recruit participants from a wider group to reduce the possibility of selection bias. Additionally, the included interventions did not have repeated longer exposures, and it still needs to be clarified whether prolonged virtual exposure would produce positive results similar to those of actual nature.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Finally, it is encouraged for the researchers to provide richer digital technologies to delve into the effects of different levels of immersion on the reproduction of actual nature, as well as to explore in-depth and explain the mechanisms of action of digital nature on mental health benefits. One factor found in the review that requires special attention in addition to PRESENCE and immersion being associated with psycho­ logical and physiological responses is the motion sickness that accom­ panies experiences with high levels of immersion (Chattha et al., 2020). Researchers are encouraged to consider motion sickness as an inde­ pendent confounding factor when discussing the differences between digital nature and actual nature.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "5. Conclusion",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "This systematic review and meta-analysis demonstrated that expo­ sure to digital nature has the same stress levels as actual nature, vali­ dating and supporting current theories of stress recovery and the biophilic hypothesis. However, for secondary targets, various subgroup analyses revealed no significant differences in outcomes by the selected confounders. The study found the dataset to be moderately heteroge­ neous and limited by a small sample size, which adds to the challenge of presenting conclusions. There is a need for more researchers to discuss further the similarities and differences in the results of different outcome measures in alternative and actual environments. The study concluded that digital technology in the form of digital nature for recovery is promising and the potential is higher for digital nature as it is a costeffective strategy for stress management.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Funding",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Declaration of competing interest",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The author declares no competing interests.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Acknowledgments",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The author is very thankful to all the associated personnel in any reference that contributed in/for the purpose of this research.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Appendix A. Supplementary data",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Supplementary data to this article can be found online at https://doi. org/10.1016/j.invent.2024.100772.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Abdullah, S.S.S., Rambli, D.R.A., Sulaiman, S., Merienne, F., Diyana, N., and., 2021. The impact of virtual nature therapy on stress responses: a systematic qualitative review. Forests 12 (12). https://doi.org/10.3390/f12121776.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Aeschbacher, S., Schoen, T., D¨orig, L., Kreuzmann, R., Neuhauser, C., SchmidtTrucks¨ass, A., Probst-Hensch, N., Risch, M., Risch, L., Conen, D., 2017. Heart rate, heart rate variability, and inflammatory biomarkers among young and healthy adults. Ann. Med. 49 https://doi.org/10.1080/07853890.2016.1226512.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "AlAteeq, D.A., Alotaibi, R., Al Saqer, R., Alharbi, N., Alotaibi, M., Musllet, R., Alraqibah, R., 2021. Caffeine consumption, intoxication, and stress among female university students: a cross-sectional study. MECP 28, 30.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Annerstedt, M., J¨onsson, P., Wallergård, M., Johansson, G., Karlson, B., Grahn, P., Hansen, Å.M., W¨ahrborg, P., 2013. 6, inducing physiological stress recovery with sounds of nature in a virtual reality forest-results from a pilot study. Physiol. Behav. 118, 240-250. https://doi.org/10.1016/j.physbeh.2013.05.023.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Bertel, T., Yuan, M., Lindroos, R., Richardt, C., 2020. OmniPhotos: casual 360◦ VR photography. ACM Trans. Graph. 39 (6), 1-12. https://doi.org/10.1145/ 3414685.3417770.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Bouillon-Minois, J.-B., Trousselard, M., Thivel, D., Gordon, B.A., Schmidt, J., Moustafa, F., Oris, C., Dutheil, F., 2021. Ghrelin as a biomarker of stress: a systematic review and meta-analysis. Nutrients 13 (3), 784. https://doi.org/10.3390/ nu13030784.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Brooks, A.M., Ottley, K.M., Arbuthnott, K.D., Sevigny, P., 2017. Nature-related mood effects: season and type of nature contact. J. Environ. Psychol. 54, 91-102. https:// doi.org/10.1016/j.jenvp.2017.10.004.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Browning, M.H.E.M., Mimnaugh, K.J., van Riper, C.J., Laurent, H.K., LaValle, S.M., 2020a. Can simulated nature support mental health? Comparing short, single-doses of 360-degree nature videos in virtual reality with the outdoors. Front. Psychol. 10, 2667. https://doi.org/10.3389/fpsyg.2019.02667.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Browning, M.H.E.M., Shipley, N., McAnirlin, O., Becker, D., Yu, C.-P., Hartig, T., Dzhambov, A.M., 2020b. An actual natural setting improves mood better than its virtual counterpart: a meta-analysis of experimental data. Front. Psychol. 11 https:// doi.org/10.3389/fpsyg.2020.02200.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Calogiuri, G., Litleskare, S., Fagerheim, K.A., Rydgren, T.L., Brambilla, E., Thurston, M., 2018. Experiencing nature through immersive virtual environments: environmental perceptions, physical engagement, and affective responses during a simulated nature walk. Front. Psychol. 8, 14. https://doi.org/10.3389/fpsyg.2017.02321.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "CDC, 2023. About mental health. Retrieved from:, Centers for Disease Control and Prevention; U.S. Department of Health & Human Services. https://www.cdc.gov/ mentalhealth/learn/index.htm.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Chalmers, T., Hickey, B.A., Newton, P., Lin, C.T., Sibbritt, D., McLachlan, C.S., CliftonBligh, R., Morley, J., Lal, S., 2021. Stress watch: the use of heart rate and heart rate variability to detect stress: a pilot study using smartwatch wearables. Sensors 22, 151.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Chattha, U.A., Janjua, U.I., Anwar, F., Madni, T.M., Cheema, M.F., Janjua, S.I., 2020. Motion sickness in virtual reality: an empirical evaluation. IEEE Access 8, 130486-130499. https://doi.org/10.1109/ACCESS.2020.3007076.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Chirico, A., Cipresso, P., Yaden, D.B., Biassoni, F., Riva, G., Gaggioli, A., 2017. Effectiveness of immersive videos in inducing awe: an experimental study. Sci. Rep. 7, 1 https://doi.org/10.1038/s41598-017-01242-0.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Choi, J., Kim, Y.B., Kim, B.-T., Kim, Y.S., 2005. Analysis of heart rate variability in female patients with overactive bladder. Urology 65, 6. https://doi.org/10.1016/J. UROLOGY.2005.01.029.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Deeks, J.J., Higgins, J.P., Altman, D.G., on behalf of the Cochrane Statistical Methods Group, 2019. Analysing data and undertaking meta-analyses. In: Higgins, J.P.T., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M.J., Welch, V.A. (Eds.), Cochrane Handbook for Systematic Reviews of Interventions, 1st ed. Wiley, pp. 241-284. https://doi.org/10.1002/9781119536604.ch10.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Egger, M., Smith, G.D., Schneider, M., Minder, C., 1997. Bias in meta-analysis was detected by a simple, graphical test. BMJ 315, 629-634. https://doi.org/10.1136/ bmj.315.7109.629.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Emamjomeh, A., Zhu, Y., Beck, M., 2020. The potential of applying immersive virtual environment to biophilic building design: a pilot study. J. Build. Eng. 32, 101481 https://doi.org/10.1016/j.jobe.2020.101481.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Fernandes, A., Helawar, R., Lokesh, R., Tari, T., Shahapurkar, A.V., 2014. Determination of stress using blood pressure and galvanic skin response. In: 2014 International Conference on Communication and Network Technologies, pp. 165-168. https:// doi.org/10.1109/CNT.2014.7062747.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Tiina F¨ohr. n.d. Research: Is Subjective Stress Associated with Objectively Measured Stress?. Retrieved from: Firstbeat. Retrieved from: https://www.firstbeat. com/en/blog/research-is-subjective-stress/#:~:text=In%20the%20text%2C%20su bjective%20stress.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Frost, S., Kannis-Dymand, L., Schaffer, V., Miller, P., Allen, A., Stallman, H., Mason, J., Wood, A., Atkinson-Nolte, J., 2022. Virtual immersion in nature and psychological well-being: a systematic literature review. J. Environ. Psychol. 80, 101765 https:// doi.org/10.1016/j.jenvp.2022.101765.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Gaekwad, J.S., Sal Moslehian, A., Ro¨os, P.B., Walker, A., 2022. A meta-analysis of emotional evidence for the biophilia hypothesis and implications for biophilic design. Front. Psychol. 13, 750245.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Gaekwad, J.S., Sal Moslehian, A., Ro¨os, P.B., 2023. A meta-analysis of physiological stress responses to natural environments: biophilia and stress recovery theory perspectives. J. Environ. Psychol. 90, 102085 https://doi.org/10.1016/j. jenvp.2023.102085.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Gatersleben, B., Andrews, M., 2013. 10. When walking in nature is not restorative-the role of prospect and refuge. Health Place 20, 91-101. https://doi.org/10.1016/j. healthplace.2013.01.001.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Gentile, A., Ficarra, S., Thomas, E., Bianco, A., Nordstrom, A., 2023. Nature through virtual reality as a stress-reduction tool: a systematic review. Int. J. Stress. Manag. https://doi.org/10.1037/str0000300.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Higgins, J.P.T., 2003. Measuring inconsistency in meta-analyses. BMJ 327 (7414), 557-560. https://doi.org/10.1136/bmj.327.7414.557.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Huedo-Medina, T.B., S´anchez-Meca, J., Marín-Martínez, F., Botella, J., 2006. Assessing heterogeneity in meta-analysis: Q statistic or I2 index? Psychol. Methods 11 (2), 193-206. https://doi.org/10.1037/1082-989X.11.2.193.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Igarashi, M., Yamamoto, T., Lee, J., Song, C., Ikei, H., Miyazaki, Y., 2014. Effects of stimulation by three-dimensional natural images on prefrontal cortex and autonomic nerve activity: a comparison with stimulation using two-dimensional images. Cogn. Process. 15, 551-556. https://doi.org/10.1007/s10339-014-0627-z.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Jin, C.-L., Chen, T., Wu, S.-Y., Yang, Y.-L., 2020. Exploring the impact of stress on burnout: a mathematical model and empirical research. Discret. Dyn. Nat. Soc. 2020, 1-8. https://doi.org/10.1155/2020/3475324.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Johnson, J.O., 2019. Autonomic nervous system: physiology. In: Pharmacology and Physiology for Anesthesia. Elsevier, pp. 270-281.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kagias, K., Nehammer, C., Pocock, R., 2012. Neuronal responses to physiological stress. Front. Genet. 3, 222.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kahn, P.H., Friedman, B., Gill, B., Hagman, J., Severson, R.L., Freier, N.G., Feldman, E. N., Carr`ere, S., Stolyar, A., 2008. 07. Plasma display window?-the shifting baseline problem in a technologically mediated natural world. J. Environ. Psychol. 28 (2), 192-199. https://doi.org/10.1016/j.jenvp.2007.10.008.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, R., Kaplan, S., 1989a. The Experience of Nature: A Psychological Perspective. Cambridge university press.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, R., Kaplan, S., 1989b. The Experience of Nature: A Psychological Perspective. pp. xii, 340. Cambridge University Press.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kim, H., Kim, D.J., Kim, S., Chung, W.H., Park, K.A., Kim, J.D., Kim, D., Kim, M.J., Kim, K., Jeon, H.J., 2021. Effect of virtual reality on stress reduction and change of physiological parameters including heart rate variability in people with high stress: an open randomized crossover trial. Front. Psych. 12, 614539 https://doi.org/ 10.3389/fpsyt.2021.614539.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kjær, M., Lange, K., 2020. Adrenergic regulation of energy. Endocrinol. Phys. Act. Sport 153.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kjellgren, A., Buhrkall, H., 2010. 06, a comparison of the restorative effect of a natural environment with that of a simulated natural environment. J. Environ. Psychol. 30 (4), 464-472. https://doi.org/10.1016/j.jenvp.2010.01.011.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Lahart, I., Darcy, P., Gidlow, C., Calogiuri, G., 2019. The effects of green exercise on physical and mental wellbeing: a systematic review. Int. J. Environ. Res. Public Health 16 (8), 1352. https://doi.org/10.3390/ijerph16081352.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Lau, S.S.S., Leung, S.S.K., Wong, J.W.C., Lee, T.C.P., Cartwright, S.R., Wong, J.T.C., Man, J., Cheung, E., Choi, R.P.W., 2023. Brief repeated virtual nature contact for three weeks boosts university students' nature connectedness and psychological and physiological health during the COVID-19 pandemic: a pilot study. Front. Public Health 10, 1057020. https://doi.org/10.3389/fpubh.2022.1057020.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Lee, M., Kim, E., Choe, J., Choi, S., Ha, S., Kim, G., 2022. Psychological effects of green experiences in a virtual environment: a systematic review. Forests 13 (10), 10. https://doi.org/10.3390/f13101625.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Li, H., Zhang, X., Wang, H., Yang, Z., Liu, H., Cao, Y., Zhang, G., 2021. Access to nature via virtual reality: a mini-review. Front. Psychol. 12 https://doi.org/10.3389/ fpsyg.2021.725288.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Li, H., Ding, Y., Zhao, B., Xu, Y., Wei, W., 2023. Effects of immersion in a simulated natural environment on stress reduction and emotional arousal: a systematic review",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "and meta-analysis. Front. Psychol. 13, 1058177 https://doi.org/10.3389/ fpsyg.2022.1058177.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Lischke, A., Jacksteit, R., Mau-Moeller, A., Pahnke, R., Hamm, A., Weippert, M., 2018. Heart rate variability is associated with psychosocial stress in distinct social domains. J. Psychosom. Res. 106 https://doi.org/10.1016/j. jpsychores.2018.01.005.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Markwell, N., Gladwin, T.E., 2020. 09.Shinrin-yoku (Forest bathing) reduces stress and increases People's positive affect and well-being in comparison with its digital counterpart. Ecopsychology 12 (4), 247-256. https://doi.org/10.1089/ eco.2019.0071.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Mattila, O., Korhonen, A., P¨oyry, E., Hauru, K., Holopainen, J., Parvinen, P., 2020. Restoration in a virtual reality forest environment. CHB 107, 106295. https://doi. org/10.1016/j.chb.2020.106295.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Meehan, M., Insko, B., Whitton, M., Brooks, F.P., 2002. Physiological measures of presence in stressful virtual environments. ACM Trans. Graph. 21 (3), 645-652. https://doi.org/10.1145/566654.566630.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "McMahan, E.A., Estes, D., 2015. The effect of contact with natural environments on positive and negative affect: a meta-analysis. J. Posit. Psychol. 10, 507-519. https:// doi.org/10.1080/17439760.2014.994224.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Morgan, R.L., Whaley, P., Thayer, K.A., Schünemann, H.J., 2018. Identifying the PECO: a framework for formulating good questions to explore the association of environmental and other exposures with health outcomes. Environ. Int. 121 (Pt 1), 1027-1031. https://doi.org/10.1016/j.envint.2018.07.015.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Mostajeran, F., Balci, M.B., Steinicke, F., Kühn, S., Gallinat, J., 2020. The effects of virtual audience size on social anxiety during public speaking. In: 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), pp. 303-312. https://doi. org/10.1109/VR46266.2020.00050.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Naylor, M., Ridout, B., Campbell, A., 2020. A scoping review identifying the need for quality research on the use of virtual reality in workplace settings for stress management. Cyberpsychol. Behav. Soc. Netw. 2, 506-518. https://doi.org/ 10.1089/cyber.2019.0287.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Nukarinen, T., Istance, H.O., Rantala, J., M¨akel¨a, J., Korpela, K., Ronkainen, K., Surakka, V., Raisamo, R., 2020. 05,Physiological and Psychological Restoration in Matched Real and Virtual Natural Environments. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1-8. https://doi.org/ 10.1145/3334480.3382956.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Payne, R.L., Rick, J.T., 1986. Heart rate as an indicator of stress in surgeons and anaesthetists. J. Psychosom. Res. 30, 411-420. https://doi.org/10.1016/0022-3999 (86)90080-2.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Pogosova, N., Boytsov, S., De Bacquer, D., Sokolova, O., Ausheva, A., Kursakov, A., Saner, H., 2021. Factors associated with anxiety and depressive symptoms in 2775 patients with arterial hypertension and coronary heart disease: results from the COMETA multicenter study. Glob. Heart 16.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Reece, R., Merchant, S., 2022. Exploring the impacts that virtual nature exposure can have on health and well-being and the mechanisms involved: a systematic review. Open Rev. 8 https://doi.org/10.47967/TOR2022/VOL8.06.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Reese, G., Kohler, E., Menzel, C., 2021. Restore or Get Restored: The Effect of Control on Stress Reduction and Restoration in Virtual Nature Settings. Sustainability 13 (4). https://doi.org/10.3390/su13041995.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Reese, G., Mehner, M., Nelke, I., Stahlberg, J., Menzel, C., 2022a. Into the wild … or not: virtual nature experiences benefit well-being regardless of human-made structures in nature. Front. Virtual Reality 3. https://doi.org/10.3389/frvir.2022.952073.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Reese, G., Stahlberg, J., Menzel, C., 2022b. Digital shinrin-yoku: do nature experiences in virtual reality reduce stress and increase well-being as strongly as similar experiences in a physical forest? Virtual Reality 26, 1245-1255. https://doi.org/ 10.1007/s10055-022-00631-9.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Rehdanz, K., Maddison, D., 2005. Climate and happiness. Ecol. Econ. 52 https://doi.org/ 10.1016/J.ECOLECON.2004.06.015.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Rejeh, N., Heravi-Karimooi, M., Tadrisi, S.D., Jahani, A., Vaismoradi, M., Jordan, S., 2016. The impact of listening to pleasant natural sounds on anxiety and physiologic parameters in patients undergoing coronary angiography: a pragmatic quasirandomized-controlled trial. Complement. Ther. Clin. Pract. 25, 42-51. https://doi. org/10.1016/j.ctcp.2016.08.001.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Ribeiro, A.I., Triguero-Mas, M., Santos, C.J., G´omez-Nieto, A., Cole, H., Anguelovski, I., Silva, F.M., Bar´o, F., 2021. Exposure to nature and mental health outcomes during COVID-19 lockdown. A comparison between Portugal and Spain. Environ. Int. 154, 106664 https://doi.org/10.1016/j.envint.2021.106664.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Riches, S., Azevedo, L., Bird, L., Pisani, S., Valmaggia, L., 2021. Virtual reality relaxation for the general population: a systematic review. SPPE 56, 1707-1727. https://doi. org/10.1007/s00127-021-02110-z.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Riches, S., Taylor, L., Jeyarajaguru, P., Veling, W., Valmaggia, L., 2023. Virtual reality and immersive technologies to promote workplace wellbeing: a systematic review. J. Ment. Health 0, 1-21. https://doi.org/10.1080/09638237.2023.2182428.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Santhanagopalan, M., Chetty, M., Foale, C., Aryal, S., Klein, B., 2018. Relevance of frequency of heart-rate peaks as indicator of 'biological'stress level. In: Neural Information Processing: 25th International Conference, ICONIP 2018, Siem Reap, Cambodia, December 13-16, 2018, Proceedings, Part VII 25. Springer International Publishing, pp. 598-609. https://doi.org/10.1007/978-3-030-04239-4_54.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Soni, A., Rawal, K., 2020. A review on physiological signals: heart rate variability and skin conductance. In: Proceedings of First International Conference on Computing, Communications, and Cyber-Security (IC4S 2019). Springer Singapore, pp. 387-399.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Spano, G., Theodorou, A., Reese, G., Sanesi, G., Panno, A., 2022. Virtual Nature and Psychological Outcomes: A Systematic Review. https://doi.org/10.31219/osf.io/ 8ux9a.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Spano, G., Theodorou, A., Reese, G., Carrus, G., Sanesi, G., Panno, A., 2023. Virtual nature and psychological outcomes: a systematic review. J. Environ. Psychol. 102044 https://doi.org/10.1016/j.jenvp.2023.102044.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R.S., 2023. In: Marchand, D., Pol, E., Weiss, K. (Eds.), Stress Reduction Theory, 100, pp. 143-146.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Valtchanov, D., Barton, K.R., Ellard, C., 2010. Restorative effects of virtual nature settings. Cyberpsychol. Behav. Soc. Netw. 13, 503-512. https://doi.org/10.1089/ cyber.2009.0308.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Van Den Berg, A.E., Koole, S.L., Van Der Wulp, N.Y., 2003. Environmental preference and restoration: (how) are they related? J. Environ. Psychol. 23, 135-146. https:// doi.org/10.1016/S0272-4944(02)00111-1.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Velana, M., Sobieraj, S., Digutsch, J., Rinkenauer, G., 2022. The advances of immersive virtual reality interventions for the enhancement of stress management and relaxation among healthy adults: a systematic review. Appl. Sci. 12, 14 https://doi. org/10.3390/app12147309.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "World Health Organization, 2023. Stress. Retrieved from: https://www.who.int /news-room/questions-and-answers/item/stress#:~:text=What%20is%20Stress% 3F.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Yang, T., Lai, I.K.W., Fan, Z.B., Mo, Q.M., 2021. The impact of a 360 virtual tour on the reduction of psychological stress caused by COVID-19. Technol. Soc. 64, 101514.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Yao, W., Zhang, X., Gong, Q., 2021. The effect of exposure to the natural environment on stress reduction: a meta-analysis. Urban For. Urban Green. 57, 126932 https://doi. org/10.1016/j.ufug.2020.126932.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Yin, J., Zhu, S., MacNaughton, P., Allen, J.G., Spengler, J.D., 2018. Physiological and cognitive performance of exposure to biophilic indoor environment. Built Environ. 132, 255-262. https://doi.org/10.1016/j.buildenv.2018.01.006.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Zijlstra, F.R.H., Cropley, M., Rydstedt, L.W., 2014. From recovery to regulation: an attempt to reconceptualize 'recovery from work': an attempt to reconceptualise 'recovery from work'. Stress. Health 30, 244-252. https://doi.org/10.1002/ smi.2604.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "ˇZnidariˇc, M., ˇSkrinjar, D., Kapel, A., 2023. Electrodermal activity and heart rate variability for detection of peripheral abnormalities in type 2 diabetes: a review. BJBMS 23, 740.",
+   "page": 11
+  }
+ ]
+}

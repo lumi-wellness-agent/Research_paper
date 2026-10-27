@@ -1,0 +1,618 @@
+{
+ "paper_id": "N16",
+ "source": "N16_2019_Van_Hedger_Of_cricket_chirps_and_car_horns_The_effect_of_nature_sounds_on_cogniti.pdf",
+ "pages": 9,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "BRIEF REPORT",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Of cricket chirps and car horns: The effect of nature sounds on cognitive performance",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Stephen C. Van Hedger 1,2,3 & Howard C. Nusbaum 1,2 & Luke Clohisy 1 & Susanne M. Jaeggi 4,5 & Martin Buschkuehl 6 & Marc G. Berman 1,2",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Published online: 26 October 2018 # Psychonomic Society, Inc. 2018",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Attention restoration theory (ART) posits that stimuli found in nature may restore directed attention functioning by reducing demands on the endogenous attention system. In the present experiment, we assessed whether nature-related cognitive benefits extended to auditory presentations of nature, a topic that has been understudied. To assess directed attention, we created a composite measure consisting of a backward digit span task and a dual n-back task. Participants completed these cognitive measures and an affective questionnaire before and after listening to and aesthetically judging either natural or urban soundscapes (between-participants). Relative to participants who were exposed to urban soundscapes, we observed significant improvements in cognitive performance for individuals exposed to nature. Urban soundscapes did not systematically affect performance either adversely or beneficially. Natural sounds did not differentially change positive or negative affect, despite these sounds being aesthetically preferred to urban sounds. These results provide initial evidence that brief experiences with natural sounds can improve directed attention functioning in a single experimental session.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords Attention . Cognitive and attentional control . Attention restoration theory . Nature",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "The psychological benefits of interacting with nature have been discussed for well over a century (e.g., Olmsted, 1993), with research over the past few decades assessing how interactions with nature specifically may benefit cognition and cognitive development (e.g., Bratman, Hamilton, & Daily, 2012). For example, the extent of available green space has",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "Stephen C. Van Hedger svanhedg@uwo.ca",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "1 Department of Psychology, University of Chicago, Chicago, IL, USA",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "2 Center for Practical Wisdom, University of Chicago, Chicago, IL, USA",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "3 Present address: Brain and Mind Institute, Western University, London, ON, Canada",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "4 School of Education, University of California - Irvine, Irvine, CA, USA",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "5 Department of Cognitive Sciences, University of California - Irvine, Irvine, CA, USA",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "6 MIND Research Institute, Irvine, CA, USA",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "been positively associated with the development of executive functions in children, even after controlling for factors such as socioeconomic status (Dadvand et al., 2015). Even brief interventions in which participants take a walk through nature or view nature images on a computer screen have been shown to improve the functioning of directed attention relative to interventions in which participants are exposed to more urban environments (Berman, Jonides, & Kaplan, 2008).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "One prominent account of how nature may improve aspects of cognition is attention restoration theory (ART), which posits that nature environments are particularly well-suited for reducing demands on the endogenous attention system, thereby allowing subsequent restoration of attentional functioning (e.g., Kaplan, 1995). The fact that simply viewing pictures of nature environments can improve performance on tasks requiring directed attention (Berman et al., 2008) suggests that nature, in part, may improve performance through the visual features that differentiate natural and urban scenes (see Berman et al., 2014), which may engage attentional mechanisms in a manner that restores directed attention. However, the focus on visual depictions of nature in the ART literature has resulted in a relative paucity of research on other modalities, such as audition. As such, the present experiment tests whether auditory representations of nature confer similar benefits to directed-attention functioning.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Beyond ART, two broad research findings support potential cognitive benefits from experiencing nature sounds. First, prior studies have demonstrated widespread associations between noise levels and health. Noise pollution (e.g., urban environmental noises with sustained, high-amplitudes) has been associated with greater amounts of reported stress and distraction (e.g., de Paiva Vianna, Cardoso, & Rodrigues, 2015), which can lead to chronic learning and attention problems (see Hammer, Swinburn, & Neitzel, 2014). Thus, natural sounds may improve aspects of cognition relative to urban sounds because these two classes of sounds generally differ with respect to their amplitude in the real world (see McDonald et al., 1995), with nature sounds being thought to provide a quiet respite from urban environments (Mace, Bell, & Loomis, 2004). In this kind of framework, however, nature sounds may not confer any cognitive benefits relative to urban sounds when presented at the same amplitude.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "A second reason why natural sounds may improve cognitive functioning is captured by stress reduction theory (SRT; Ulrich, 1983). SRT asserts that the aesthetic and affective value of experiences with nature can lower stress levels, which may in turn benefit cognitive performance. In support of SRT, natural sounds have been shown to reduce physiological symptoms of stress and improve affect (e.g., Alvarsson, Wiens, & Nilsson, 2010; Benfield, Taff, Newman, & Smyth, 2014; Ulrich et al., 1991), and, moreover, certain classes of natural sounds (birdsong) are perceived to both lower stress and restore attention (e.g., Ratcliffe, Gatersleben, & Sowden, 2013). Thus, nature-related benefits to cognitive functioning are compatible with both ART and SRT, though under SRT one would expect cognitive benefits to be a consequence of affective changes.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "However, prior research has not found convincing evidence for the benefits of natural sounds on the functioning of directed attention. Emfield and Neider (2014) assessed how nature interventions improved performance on directed attention tasks. The authors found an improvement from pre- to post-intervention (i.e., a practice effect), but no nature-related performance advantage relative to urban stimuli. However, the underlying research question was not about natural sounds specifically, and as such natural (vs. urban) sounds were not considered independently in any analysis. More recently, Abbott, Taff, Newman, Benfield, and Mowen (2016) assessed how natural sounds influenced backward digit span (BDS) performance, ultimately finding no difference between natural and urban sound conditions. However, in this design, all participants viewed a video of Yosemite National Park concurrent with the sounds, and Burban^ sounds actually consisted of natural sounds (birdsong) that were periodically interrupted by manmade sound objects, making it difficult to draw strong conclusions about the effects of natural and urban sounds on cognitive performance.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Aims and hypotheses",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The present experiment provides a more direct test of whether randomly assigning participants to hear nature versus urban soundscapes improves the functioning of directed attention. In line with previous work from the visual domain (e.g., Berman et al., 2008; Berto, 2005; Bourrier, Berman, & Enns, 2018), the primary hypothesis was that brief experiences with nature sounds, relative to urban sounds, will result in performance improvements on cognitive tasks requiring directed attention.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "To address whether any nature-related cognitive improvements could be explained by affective changes, which would be predicted under SRT, participants provided aesthetic ratings of the sounds they heard as well as rated their positive and negative affect before and after the sound intervention. Aesthetic judgments have been interpreted as an affective response in the context of SRT (Ulrich, 1983), and previous investigations of nature-related cognitive benefits in vision have examined how aesthetic ratings of experienced nature relate to cognitive improvements (Berman et al., 2008).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Given that prior research has established that nature stimuli are aesthetically preferred to urban stimuli (e.g., Kaplan, Kaplan, &Wendt, 1972; Kardan et al., 2015) and that experiences with nature can improve positive affect and reduce negative affect (e.g., Benfield et al., 2014; Bratman, Daily, Levy, & Gross, 2015), we hypothesized that, relative to urban sounds, nature sounds will: (1) be aesthetically preferred, (2) increase positive affect, and (3) decrease negative affect. Importantly, however, under SRT these aesthetic and affective changes should significantly relate to any observed cognitive improvements. Thus, there are two overarching aims of this work. The first aim is to assess whether nature sounds can improve aspects of cognitive performance. The second aim is to ground any observed nature-related cognitive benefits in the context of either ART or SRT.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Method",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Participants and design",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Sixty-five individuals participated in the experiment. Two were excluded due to task non-compliance (i.e., failing to perform one of the tasks as indicated by the instructions), leaving 63 analyzable participants (M = 20.9 years, SD = 3.87 years, range = 18-44 years, 35 female, 25 male, three non-binary/ prefer not to answer). Participants were recruited from the University of Chicago campus and surrounding community via the use of an online system (Sona Systems), in which participants read a short description of the experiment and then signed up for one of several pre-specified time slots posted by the experimenter. The experiment was advertised in this online system as a study on perception and memory (i.e., there was no explicit mention of nature or urban stimuli); all participants were debriefed and informed of the experiment's hypotheses after participation. There were 31 participants who heard natural sounds and 32 participants who heard urban sounds. All participants provided informed consent and were treated in accordance with the NIH guidelines for interacting with human participants. Participants were compensated with either $10 or 1 h of course credit for experimental participation.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The experiment adopted a 2 (time: pre-intervention, postintervention) x 2 (soundscape: natural, urban) mixed factorial design, with time as the within-participant factor and soundscape as the randomly-assigned, between-participant factor.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Materials",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The 40 natural and 40 urban soundscapes, which are available on the Open Science Framework (https://osf.io/kjuzr/), were originally selected from an online video-sharing website for another research project currently in progress (Van Hedger et al., 2018). The number of total soundscapes was influenced by conceptually similar work in the visual domain (e.g., Berman et al., 2008 used 50 natural and 50 urban images). The natural soundscapes primarily contained sounds of birdsong, moving water (e.g., rainfall, ocean waves), insects (e.g., crickets), and wind. The urban soundscapes primarily contained sounds of traffic, café ambiance (with unintelligible speech), and machinery (e.g., the Bhum^ of an air conditioner). Moreover, each soundscape was not necessarily limited to a single sound-producing object (e.g., a single nature soundscape could contain ocean waves and birdcalls). Each soundscape was 20 s in duration with a 500-ms linear fade in and fade out. Additionally, we normalized the average loudness of the soundscapes by matching root-mean-square (RMS) amplitude and presented the files at a comfortable listening level of approximately 70 dB SPL (e.g., Dobie & Van Hemel, 2004). To verify that the selected soundscapes represented natural and urban categories, a separate group of participants (n = 50) rated 5-s versions of each soundscape on a 7-point scale (where 1 corresponded to Bvery urban^ and 7 corresponded to Bvery natural^). In this prior testing, ratings for the natural and urban soundscapes were completely non-overlapping (i.e., the lowestrated natural soundscape was rated higher than the highest-rated urban soundscape). The data from this prior study are available on Open Science Framework (https://osf.io/g9rz4/).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Measures",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "All measures used in the experiment are available on the Open Science Framework (https://osf.io/r8yv6/).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Affective The Positive and Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988) required participants to rate the extent to which they had felt 10 positive and",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "10 negative adjectives over the past few hours. Participants made their ratings on a 5-point scale and the 20 terms were presented in a random order. The internal consistency of the positive affect (PA) and negative affect (NA) subscales, assessed through Cronbach's alpha, was high for both administrations (NA pre-intervention: α = .86; NA post-intervention: α = .90; PA pre-intervention: α = .88; PA post-intervention: α = .91). The PANAS was presented with E-Prime 2.0 (Psychology Software Tools: Sharpsburg, PA, USA).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The aesthetic ratings were collected during the presentation of the soundscapes. After each sound, participants provided an aesthetic rating, operationalized as a Blike-dislike^ affective response (e.g., see Zajonc, 1980), on a 3-point scale (with 1 corresponding to Bdislike,^ 2 corresponding to Bneutral,^ and 3 corresponding to Blike^). Responses were averaged across the 40 sounds to create a mean aesthetic variable for each participant.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Cognitive Directed attention was operationalized through the construction of a composite cognitive measure, consisting of both the dual n-back (DNB) task and the BDS task. The BDS has been a common assessment of directed attention within the ART literature (e.g., Berman, Jonides, & Kaplan, 2008; Emfield & Neider, 2014); thus, the selection of BDS was largely motivated by these prior reports. DNB has not been previously administered in the context of ART, yet it was selected because it also places demands on directed attention (see Lilienthal, Tamez, Shelton, Myerson, & Hale, 2013) and shares variance with BDS (see Redick & Lindsey, 2013) - ostensibly because both tasks place demands on directed attention. As such, a composite measure of BDS and DNB should better reflect directed attention functioning by reducing task-specific variance. It should also be noted that the use of a composite measure is in line with prior ART experiments (e.g., Cimprich & Ronis, 2003; Tennessen & Cimprich, 1995).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The BDS consisted of 14 trials, similar to Berman et al. (2008, 2012) and Emfield and Neider (2014). The task was non-adaptive, in that the digit span was not increased or decreased based on participant performance. Participants completed two trials for each digit span length (beginning with three and ending with nine). On each trial, each digit was separately presented for 1,000 ms, presented in either the auditory or the visual modality (counterbalanced across participants). Participants typed their response in a designated text box and were not time limited. Performance was operationalized as the total number of correct trials out of 14. The BDS was presented with E-Prime 2.0.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The DNB consisted of both a 2-back block of trials and 3-back block of trials. On each trial, a spoken letter and blue square were simultaneously presented. The square could appear in eight locations around a center fixation cross, and there were eight possible letters. Participants pressed designated keys (BA^ or BL^) if the spoken letter or current location of the square matched the letter or square location n trials previously (i.e., either 2- or 3-back). If both the letter and the square matched, participants pressed both keys. No keys had to be pressed for non-matching trials. There were practice runs of 10 trials (excluding the first n presentations) for both the 2-back and 3-back levels, during which participants received feedback but data was not recorded. Each level (2- and 3back) was divided into two separate blocks of 20 trials (excluding the first n trials). Participants always completed the 2-back blocks before the 3-back blocks. There was a fixed ratio of trial types (50%: no match, 20%: auditory match, 20%: visual match, 10%: both auditory and visual match), which were pseudo-randomly presented during each run. For each participant, we calculated a single d' score (e.g., Macmillan & Creelman, 2005), aggregated across the 2- and 3-back. The DNB was accessed through the Millisecond Test Library and was presented with Inquisit 4.0 (Millisecond Software: Seattle, WA, USA).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Procedure",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "After providing written consent, participants completed the PANAS, BDS, and DNB in this order. These pre-intervention assessments took approximately 20 minutes to complete. Participants then heard 40 natural or urban soundscapes, depending on the condition to which they were randomly assigned. This portion of the experiment took approximately 15 min to complete. Following the natural or urban sound exposure, participant retook the PANAS, BDS, and DNB in this order. Finally, participants filled out a brief questionnaire, which collected basic demographic information as well as required participants to write down their thoughts as to the purpose of the study, as well as whether they had participated in any similar study.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "A subset of participants (17 of 63) correctly identified the general purpose of the study, in that they guessed that the soundscapes might influence their attention or memory (Natural Condition: 10, Urban Condition: 7). As such, all analyses reported in the paper are performed with all 63 participants (BFull^) as well as just the 46 participants who were naïve to the purpose of the experiment (BNaïve^).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Calculation of composite cognitive measure",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "To create a composite measure from the BDS and DNB tasks, we converted participants' scores for each task (number of correct trials for BDS and d' for DNB) to z scores; i.e., (raw score - mean) / standard deviation. Each participant's BDS and DNB z score was then averaged together, separated by time (pre- and post-intervention). Further details on how the composite measure was calculated can be accessed on the Open Science Framework (https://osf.io/e2dfm/).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Statistical analyses and power",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "All analyses were calculated using JASP 0.8.2 (JASP Team, 2018). We report Bayes factors (BF) in the assessment of evidence for or against a given hypothesis. The BF is a ratio that contrasts the likelihood of the data arising from the null hypothesis compared to the alternative hypothesis (e.g., see Jarosz & Wiley, 2014). As such, one advantage of a BF over a p-value is that it quantifies the relative evidence in favor of either the null or the alternative hypothesis. In the context of ANOVA models, the BF represents the evidence for including a given effect, which is calculated by comparing all models with this effect to all models without this effect. In the context of t-tests, the BF represents the evidence for the alternative versus the null hypothesis. As recommended by Wagenmakers et al. (2017), the default priors in JASP were used, which imply equal probabilities for the null and alternative hypotheses. Finally, for purposes of interpretability, each analysis also reports test statistics and p-values from traditional null hypothesis significance testing.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "We additionally calculated a priori power in G*Power (Faul, Erdfelder, Buchner, & Lang, 2009) based on the experimental design and assumptions of small (d = 0.2), medium (d = 0.5), and large (d = 0.8) effect sizes (Cohen, 1988). In these analyses, to achieve a statistical power of 0.8, the present experiment would need a sample size of 620 to detect a small effect, a sample size of 102 to detect a medium effect, and a sample size of 42 to detect a large effect. The effect size at which the present sample size would reach 0.8 power corresponds to d = 0.63, which is between a medium and a large effect.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Results",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "All reported analyses and associated data files can be accessed on the Open Science Framework (https://osf.io/a862f/). The analyses are based on summary statistics; however, the raw (trial-by-trial) data for each task are also available on the Open Science Framework (https://osf.io/43dhv/).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Affective measures",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Aesthetic ratings",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Natural soundscapes were aesthetically preferred over urban soundscapes (Full: t (61) = 5.61, p < .001, d = 1.41, BF = 2.41e4; Naïve: t (44) = 4.65, p < .001, d = 1.38, BF = 610.2). For all 63 participants, the mean rating of natural soundscapes was 2.31 (SD = 0.37) and the mean rating of urban soundscapes was 1.84 (SD = 0.28). For the subset of 46 naïve participants, the mean rating of natural soundscapes was 2.23 (SD = 0.41) and the mean rating of urban soundscapes was 1.82 (SD = 0.29).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "PANAS",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "We analyzed changes in the PANAS using a 2 (time: pre-, post-) × 2 (soundscape: nature, urban) mixed factorial ANOVA and Bayesian equivalent. For positive affect (PA), there was a significant main effect of time (Full: F (1, 61) = 10.62, p = .002, d = 0.41, BF = 17.12; Naïve: F (1, 44) = 9.26, p = .004, d = 0.45, BF = 9.327), characterized by overall lower scores post-intervention compared to pre-intervention. There was a marginal main effect of soundscape type when considering all participants - with natural soundscape participants exhibiting lower scores than urban soundscape participants - though this effect was not significant when limited to the naïve participants (Full: F (1, 61) = 3.28, p = .075, d = 0.46, BF = 1.22; Naïve: F (1, 44) = 2.32, p = .135, d = 0.45, BF = 0.93). The interaction between time and soundscape type was not significant (Full: F (1, 61) = 0.22, p = .644, d = 0.12, BF = 0.27; Naïve: F (1, 44) = 0.13, p = .718, d = 0.11, BF = 0.29).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "For negative affect (NA), there was also a main effect of time (Full: F (1, 61) = 9.73, p = .003, d = 0.39, BF = 9.87; Naïve: F (1, 44) = 9.74, p = .003, d = 0.44, BF = 8.36), characterized by overall lower scores post-intervention compared to pre-intervention. However, the main effect of soundscape type (Full: F (1, 61) = 0.39, p = .536, d = 0.16, BF = 0.52; Naïve: F (1, 44) = 0.77, p = .386, d = 0.26, BF = 0.61), in addition to the interaction between time and soundscape type (Full: F (1, 61) = 2.50, p = .119, d = 0.40, BF = 0.71; Naïve: F (1, 44) = 1.45, p = .235, d = 0.36, BF = 0.50), was not significant for either the full or the naïve group of participants.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Cognitive measure",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "We analyzed changes in the composite cognitive measure using a 2 (time: pre-, post-) × 2 (soundscape: nature, urban) mixed factorial ANOVA and Bayesian equivalent. In this analysis, the main effect of time was significant (Full: F (1, 61) = 12.91, p < .001, d = 0.42, BF = 20.857; Naïve: F (1, 44) = 8.42, p = .006, d = 0.37, BF = 3.13), with participants displaying higher post-intervention compared to preintervention scores, i.e., a learning effect. The main effect of soundscape type was not significant, and the Bayes factor was inconclusive (Full: F (1, 61) = 3.08, p = .084, d = 0.44, BF = 1.127; Naïve: F (1, 44) = 1.94, p = .171, d = 0.41, BF = 0.89). Critically, there was a significant interaction between time and soundscape type (Full: F (1, 61) = 7.92, p = .007, d = 0.71, BF = 6.651; Naïve: F (1, 44) = 6.58, p = .014, d = 0.76, BF = 3.08), plotted in Fig. 1. This interaction was characterized by a greater improvement in the natural sound condition compared to the urban sound condition, and the effect size of the interaction can be interpreted as medium to large (Cohen, 1988).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Follow-up analyses demonstrated that the interaction between time and soundscape was best conceptualized as a nature-related benefit to performance. Performance on the cognitive measure did not significantly differ between participants in the natural and urban soundscape conditions during pre-intervention (Full: t (61) = 0.74, p = .462, d = 0.19, BF = 0.324; Naïve: t (44) = .61, p = .545, d = 0.18, BF = 0.341); by post-intervention, however, participants assigned to natural soundscapes were significantly outperforming participants assigned to urban soundscapes",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "(Full: t (61) = 2.59, p = .006, d = 0.65, BF = 8.054; Naïve: t (44) = 2.13, p = .020, d = 0.63, BF = 3.395). Within participants, the cognitive improvement from pre- to post-intervention was significant and positive for natural sounds (Full: t (30) = 4.56, p < .001, d = 0.82, BF = 311.1; Naïve: t (20) = 4.64, p < .001, d = 1.01, BF = 182.3) and not significant for urban sounds (Full: t (31) = 0.55, p = .587, d = 0.10, BF = 0.217; Naïve: t (24) = 0.26, p = .796, d = 0.05, BF = 0.22).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Relationship between affective and cognitive measures",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "For our affective measures, we did not find evidence that listening to natural versus urban soundscapes differentially influenced participants' positive or negative affect, measured by the PANAS, even though natural sounds were more preferred aesthetically to urban sounds. However, these analyses by themselves do not answer whether the affective measures relate to the observed improvement in cognitive performance. To assess this question, we correlated cognitive improvement (post- minus pre-intervention score) with changes in the PANAS (both positive and negative affect), as well as with aesthetic ratings.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The relationship between changes in positive affect and cognitive improvement was not significant (Full: r (61) = .14, p = .276, d = 0.28, BF = 0.28; Naïve: r (44) = .06, p = .703, d = 0.12, BF = 0.20). The relationship between changes in negative affect and cognitive improvement was also not significant (Full: r (61) = .15, p = .231, d = 0.30, BF = 0.32; Naïve: r (44) = .11, p = .455, d = 0.22, BF = 0.24). Finally, the relationship between aesthetic ratings and cognitive improvement was also not significant (Full: r (61) = .18, p = .168, d = 0.37, BF = 0.40; Naïve: r (44) = .22, p = .147, d = 0.45 BF = 0.51).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "For completeness, the means, standard deviations, and effect sizes of changes from pre- to post-intervention for each of the measures (separated by full and naïve participant groups) are provided in Table 1.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "The present results demonstrate that brief experiences with natural sounds can produce benefits to performance on cognitively demanding tasks. This nature-related cognitive improvement - which represents a medium-to-large effect size - cannot be attributed to differences in mean amplitude between natural and urban sounds - which is a critical factor in real-world health outcomes of living in urban versus natural spaces (Hammer et al., 2014) - given that both classes of sounds were normalized to the same amplitude and presented at a comfortable listening volume to participants. The observed cognitive benefits also were not significantly related to any of our affective measures, suggesting that cognitive benefits from nature are not necessarily driven by affective responses to nature.",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1 Composite cognitive measure, plotted as a function of time (pre-intervention, post-intervention) and soundscape type (natural, urban). Error bars represent ± 1 standard error of the mean",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "How can the present results be reconciled with prior investigations of nature-related cognitive benefits (e.g., Emfield & Neider, 2014), which have claimed null effects of natural interventions, including natural sounds? Beyond the surface-level details in soundscape selection and the duration of the intervention, Emfield and Neider compared cognitive performance before and after participants experienced one of seven environment types. Six conditions were crossed in a 2 (environment: nature, urban) × 3 (modality: sounds, images, combined sounds and images) manner, while the seventh condition was a control. As such, the experiment did not focus on whether natural sounds specifically led to cognitive improvements relative to urban sounds (as these represented just two of the seven conditions and were never considered independently). Descriptively, the relative pre-post BDS improvement was highest when comparing nature and urban",
+   "page": 6
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Pre- and post-intervention scores for the computerized tasks\nTable 1 Pre- and post-intervention scores for the computerized tasks\n\n|                | Pre- Natural   | Post-        |   ES | Pre- Urban   | Post-        |   ES |\n|----------------|----------------|--------------|------|--------------|--------------|------|\n| Full (n = 63)  |                |              |      |              |              |      |\n| PANAS PA       | 2.83 (0.57)    | 2.62 (0.73)  | 0.45 | 3.18 (0.84)  | 2.90 (0.80)  | 0.40 |\n| PANAS NA       | 1.91 (0.67)    | 1.67 (0.70)  | 0.70 | 1.73 (0.63)  | 1.65 (0.63)  | 0.17 |\n| BDS            | 9.74 (2.31)    | 10.61 (2.33) | 0.45 | 9.00 (2.60)  | 8.94 (2.54)  | 0.03 |\n| DNB            | 1.49 (0.60)    | 1.77 (0.63)  | 0.67 | 1.49 (0.52)  | 1.56 (0.48)  | 0.17 |\n| Composite      | -0.04 (0.83)   | 0.38 (0.81)  | 0.82 | -0.19 (0.79) | -0.14 (0.79) | 0.01 |\n| Naïve (n = 46) |                |              |      |              |              |      |\n| PANAS PA       | 2.86 (0.54)    | 2.56 (0.71)  | 0.58 | 3.15 (0.88)  | 2.91 (0.85)  | 0.36 |\n| PANAS NA       | 1.97 (0.65)    | 1.71 (0.72)  | 0.84 | 1.74 (0.64)  | 1.62 (0.63)  | 0.24 |\n| BDS            | 9.62 (2.33)    | 10.52 (2.80) | 0.49 | 8.76 (2.77)  | 8.52 (2.65)  | 0.12 |\n| DNB            | 1.42 (0.62)    | 1.68 (0.61)  | 0.75 | 1.44 (0.53)  | 1.52 (0.49)  | 0.19 |\n| Composite      | -0.02 (0.87)   | 0.37 (0.88)  | 1.01 | -0.16 (0.81) | -0.14 (0.78) | 0.05 |",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Pre- and post-intervention scores for the computerized tasks",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Note: Values in parentheses represent standard deviations. The effect size (ES; Cohen's d) reflects the difference between pre- and post-intervention scores",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "sounds (Emfield & Neider, 2014; Table 3), suggesting that the present results may be more consistent with prior investigations than initially presumed. Additionally, despite their design, Emfield and Neider did not specify factors related to environment or modality in their analyses, which may have reduced the sensitivity to detect nature-related improvements. Indeed, all three nature conditions showed greater BDS improvements compared to the urban conditions (Emfield & Neider, 2014; Table 3), raising the possibility that a model incorporating environment as a factor may have detected a time-by-modality interaction.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Although previous research has shown that interacting with nature has been shown to increase positive affect and decrease negative affect (e.g., McMahan & Estes, 2015), the present experiment did not demonstrate that experiencing natural versus urban soundscapes differentially influenced affect. This null effect was unlikely due to the in-lab administration of sounds in the present experiment, as previous work in this domain has found that nature sounds can facilitate mood recovery even when briefly administered in a laboratory setting (Benfield et al., 2014). However, there are two likely explanations for the discrepancy in these findings. First, unlike the experiment reported by Benfield and colleagues, the present experiment did not include an affective manipulation to decrease positive affect and increase negative affect; thus, participants' affective state in the present experiment may not have been as sensitive to the soundscape manipulation because there was no need to Brecover^ from an induced, unpleasant affective state. Related to this point, it is possible that an additional administration of the PANAS immediately after the cognitive tasks may have proven to be more sensitive, as the demanding nature of the cognitive tasks may have decreased positive affect and increased negative affect, which in turn may have allowed a nature-related change in affect to manifest. Second, the PANAS instructions in the present experiment asked participants to make their judgments based on how they felt Bover the past few hours.^ This language may have created some confusion during the post-intervention administration, as a Bfew hours^ would have encompassed a timespan that was much wider than the duration between PANAS administrations. Thus, the null PANAS findings can be likely explained by these particular choices in methodology rather than actual evidence for the absence of an effect.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Constraints on generality",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The present results demonstrate an improvement in directed attention after hearing natural sounds compared to urban sounds, yet it is important to consider the potential constraints on how these results may generalize to different populations, testing environments, and procedures (see Simons, Shoda, & Lindsay, 2017).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "ART suggests that nature can restore directed attention functioning through soft fascination (i.e., a soft capturing of involuntary attention), as this kind of state is thought to allow directed attention mechanisms a chance to rest and replenish (Kaplan, 1995). The theory does not outline broad constraints with respect to particular populations; thus, we would expect our results to generalize beyond the present sample in terms of age (e.g., generalizing to children and elderly adults) and geographic location. In conceptual support of this generalization, research has associated greenspace with academic performance in children living in Barcelona, Spain (Dadvand et al., 2015), as well as improved concentration among elderly individuals in Lund, Sweden (Ottosson & Grahn, 2005).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "However, ART clearly outlines that soft fascination is a necessary, but not sufficient, condition for restoration. In addition to soft fascination, Kaplan (1995) proposes three additional considerations that may influence the degree to which a natural environment would facilitate attention restoration. First, an environment must promote the sense of Bbeing away,^ which represents a conceptual (not necessarily physical) transformation. Thus, nature sounds may provide particular restorative benefits in contexts such as the present experiment (i.e., following difficult cognitive tasks) as they represent a conceptual shift in which the listener can simply listen without having to remember explicitly. Second, the environment must have extent, meaning that it must be sufficiently rich and engaging. While the presentation of nature in the present experiment was constrained, the use of headphones and relatively long (20-s) sound clips may have contributed to the nature sound's extent, facilitating restoration. Third, there needs to be compatibility between the environment and the individual's goals and desires, meaning an individual should not have to second guess or closely monitor their own behavior in the context of the environment. In this sense, providing aesthetic judgments of the sounds in the present experiment may have facilitated restoration, as such a task would keep listeners engaged but in a manner that is compatible with contemplation and reflection. We have no reason to believe that the results depend on other characteristics of the participants, materials, or context.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Conclusion",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The present experiment furthers the understanding of ART through demonstrating that natural sounds, which have been previously shown to be perceived as restorative (e.g., Jahncke, Eriksson, & Naula, 2015; Ratcliffe et al., 2013), can improve directed attention in a similar manner to natural images (e.g., Berman et al., 2008). Furthermore, despite finding a clear aesthetic preference for natural sounds, aesthetic ratings were not significantly related to the observed cognitive benefits, which would have been consistent with SRT. These results further extend single-session, experimental tests of ART to a composite measure of directed attention that is more robust against task-specific strategies, which may ultimately provide a more accurate assessment of how nature may improve directed attention more generally.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Funding Sources This work was supported by a grant from the TKF Foundation to Marc G. Berman, two grants from the John Templeton Foundation (the University of Chicago Center for Practical Wisdom) to Howard Nusbaum (PI) and Marc G. Berman (co-PI) and the Virtue, Happiness, and Meaning of Life Scholars Group. This work was also supported by grant from the National Science Foundation (BCS1632445) to Marc G. Berman, as well as an internal grant from the University of Chicago to Marc G. Berman.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Compliance with ethical standards",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Dedication The authors would like to dedicate this paper to Stephen Kaplan (1936-2018).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Declaration of Competing Interests Martin Buschkuehl is employed at the MIND Research Institute, whose interest is related to this work and Susanne M. Jaeggi has an indirect financial interest in the MIND Research Institute. All other authors report no conflict of interest.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Abbott, L. C., Taff, D., Newman, P., Benfield, J. A., & Mowen, A. J. (2016). The influence of natural sounds on attention restoration. Journal of Park and Recreation Administration, 34(3), 5-15. https://doi.org/10.18666/JPRA-2016-V34-I3-6893",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Alvarsson, J. J., Wiens, S., & Nilsson, M. E. (2010). Stress recovery during exposure to nature sound and environmental noise. International Journal of Environmental Research and Public Health, 7(3), 1036-1046. https://doi.org/10.3390/ijerph7031036",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Benfield, J. A., Taff, B. D., Newman, P., & Smyth, J. (2014). Natural Sound Facilitates Mood Recovery. Ecopsychology, 6(3), 183-188. https://doi.org/10.1089/eco.2014.0028",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Berman, M. G., Hout, M. C., Kardan, O., Hunter, M. R., Yourganov, G., Henderson, J. M., … Jonides, J. (2014). The perception of naturalness correlates with low-level visual Features of environmental scenes. PLoS ONE, 9(12). https://doi.org/10.1371/ journal.pone.0114572",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Berman, M. G., Jonides, J., & Kaplan, S. (2008). The Cognitive Benefits of Interacting With Nature. Psychological Science, 19(12), 12071212. https://doi.org/10.1111/j.1467-9280.2008.02225.x",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Berman, M. G., Kross, E., Krpan, K. M., Askren, M. K., Burson, A., Deldin, P. J., … Jonides, J. (2012). Interacting with nature improves cognition and affect for individuals with depression. Journal of Affective Disorders, 140(3), 300-305. https://doi.org/10.1016/j.jad. 2012.03.012.Interacting",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Berto, R. (2005). Exposure to restorative environments helps restore attentional capacity. Journal of Environmental Psychology, 25(3), 249-259. https://doi.org/10.1016/j.jenvp.2005.07.001",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Bourrier, S. C., Berman, M. G., & Enns, J. T. (2018). Cognitive Strategies and Natural Environments Interact in Influencing Executive Function. Frontiers in Psychology, 9, 1248. https://doi.org/10. 3389/FPSYG.2018.01248",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Bratman, G. N., Daily, G. C., Levy, B. J., & Gross, J. J. (2015). The benefits of nature experience: Improved affect and cognition. Landscape and Urban Planning, 138, 41-50. https://doi.org/10. 1016/j.landurbplan.2015.02.005",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Bratman, G. N., Hamilton, J. P., & Daily, G. C. (2012). The impacts of nature experience on human cognitive function and mental health. Annals of the New York Academy of Sciences, 1249(1), 118-136. https://doi.org/10.1111/j.1749-6632.2011.06400.x",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Cimprich, B., & Ronis, D. L. (2003). An environmental intervention to restore attention in women with newly diagnosed breast cancer. Cancer Nursing, 26(4), 284-292; quiz 293-294. https://doi.org/10. 1097/00002820-200308000-00005",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, J. (1988). Statistical power analysis for the behavioral sciences (Rev). Hillsdale: Erlbaum.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Dadvand, P., Nieuwenhuijsen, M. J., Esnaola, M., Forns, J., Basagaña, X., Alvarez-Pedrerol, M., … Sunyer, J. (2015). Green spaces and cognitive development in primary schoolchildren. Proceedings of the National Academy of Sciences of the United States of America, 112(26), 7937-7942. https://doi.org/10.1073/pnas.1503402112",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "de Paiva Vianna, K. M., Cardoso, M. R. A., & Rodrigues, R. M. C. (2015). Noise pollution and annoyance: An urban soundscapes study. Noise & Health, 17(76), 125-133. https://doi.org/10.4103/ 1463-1741.155833",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Dobie, R. A., & Van Hemel, S. (2004). Basics of sounds, the ear, and hearing. In R. A. Dobie & S. Van Hemel (Eds.), Hearing Loss: Determining Eligibility for Social Security Benefits (pp. 42-63). Washington D.C.: National Academic Press.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Emfield, A. G., & Neider, M. B. (2014). Evaluating visual and auditory contributions to the cognitive restoration effect. Frontiers in Psychology, 5 VN-re, 548. https://doi.org/10.3389/fpsyg.2014. 00548",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Faul, F., Erdfelder, E., Buchner, A., & Lang, A. G. (2009). Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses. Behavior Research Methods, 41(4), 1149-1160. https://doi.org/10.3758/BRM.41.4.1149",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Hammer, M. S., Swinburn, T. K., & Neitzel, R. L. (2014). Environmental noise pollution in the United States: Developing an effective public health response. Environmental Health Perspectives, 122(2), 115119. https://doi.org/10.1289/ehp.1307272",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Jahncke, H., Eriksson, K., & Naula, S. (2015). The effects of auditive and visual settings on perceived restoration likelihood. Noise and Health, 17(74), 1. https://doi.org/10.4103/1463-1741.149559",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Jarosz, A. F., & Wiley, J. (2014). What Are the Odds? A Practical Guide to Computing and Reporting Bayes Factors. The Journal of Problem Solving, 7(1), 2-9. https://doi.org/10.7771/1932-6246.1167",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of Environmental Psychology, 15(3), 169182. https://doi.org/10.1016/0272-4944(95)90001-2",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Kaplan, S., Kaplan, R., & Wendt, J. S. (1972). Rated preference and complexity for natural and urban visual material. Perception & Psychophysics, 12(4), 354-356.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Kardan, O., Demiralp, E., Hout, M. C., Hunter, M. R., Karimi, H., Hanayik, T., …Berman, M. G. (2015). Is the preference of natural versus man-made scenes driven by bottom-up processing of the visual features of nature? Frontiers in Psychology, 6, 1-13. https:// doi.org/10.3389/fpsyg.2015.00471",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Lilienthal, L., Tamez, E., Shelton, J. T., Myerson, J., & Hale, S. (2013). Dual n-back training increases the capacity of the focus of attention. Psychonomic Bulletin & Review, 20(1), 135-141. https://doi.org/10. 3758/s13423-012-0335-6",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Mace, B. L., Bell, P. A., & Loomis, R. J. (2004). Visibility and natural quiet in national parks and wilderness areas: Psychological considerations. Environment and Behavior, 36(1), 5-31. https://doi.org/10. 1177/0013916503254747",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Macmillan, N. A., & Creelman, C. D. (2005). Detection theory: A user's guide (2nd). Mahwah: Lawrence Erlbaum Associates.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "McMahan, E. A., & Estes, D. (2015). The effect of contact with natural environments on positive and negative affect: A meta-analysis. The Journal of Positive Psychology, 9760, 1-13. https://doi.org/10.1080/ 17439760.2014.994224",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Olmsted, F. L. (1993). Yosemite and the Mariposa grove: a preliminary report, 1865. California: Yosemite Association.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ottosson, J., & Grahn, P. (2005). A comparison of leisure time spent in a garden with leisure time spent indoors: On measures of restoration in residents in geriatric care. Landscape Research, 30(1), 23-55.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ratcliffe, E., Gatersleben, B., & Sowden, P. T. (2013). Bird sounds and their contributions to perceived attention restoration and stress recovery. Journal of Environmental Psychology, 36, 221-228. https:// doi.org/10.1016/j.jenvp.2013.08.004",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Redick, T. S., & Lindsey, D. R. B. (2013). Complex span and n-back measures of working memory: a meta-analysis. Psychonomic Bulletin & Review, 20(6), 1102-1113. https://doi.org/10.3758/ s13423-013-0453-9",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Simons, D. J., Shoda, Y., & Lindsay, D. S. (2017). Constraints on Generality (COG): A Proposed Addition to All Empirical Papers. Perspectives on Psychological Science, 12(6), 1123-1128. https:// doi.org/10.1177/1745691617708630",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Tennessen, C. M., & Cimprich, B. (1995). Views To Nature: Effects on Attention. Journal of Environmental Psychology, 15, 77-85.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S. (1983). Aesthetic and affective response to natural environment. Human Behavior & Environment: Advances in Theory & Research, 6, 85-125.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ulrich, R. S., Simons, R. F., Losito, B. D., Fiorito, E., Miles, M. A., & Zelson, M. (1991). Stress Recovery During Exposure To Natural and Urban Environments. Journal of Environmental Psychology, 11, 201-230.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Van Hedger, S. C., Nusbaum, H. C., Huang, A., Heald, S. L. M., Kotabe, H. P., & Berman, M. G. (2018). The aesthetic preference for nature sounds depends on sound object recognition. PsyArXiv. https://doi. org/10.31234/osf.io/nsqvy",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Wagenmakers, E. J., Love, J., Marsman, M., Jamil, T., Ly, A., Verhagen, J., …Morey, R. D. (2017). Bayesian inference for psychology. Part II: Example applications with JASP. Psychonomic Bulletin and Review, 1-19. https://doi.org/10.3758/s13423-017-1323-7",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and Validation of Brief Measures of Positive and Negative Affect: The PANAS Scales. Journal of Personality and Social Psychology, 54(6), 1063-1070. https://doi.org/10.1037/0022-3514.54.6.1063",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Zajonc, R. B. (1980). Feeling and thinking: Preferences need no inferences. American Psychologist, 35(2), 151-175.",
+   "page": 9
+  }
+ ]
+}

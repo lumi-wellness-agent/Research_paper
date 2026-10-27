@@ -1,0 +1,1338 @@
+{
+ "paper_id": "P16",
+ "source": "P16_Structured_Respiration_Practices.pdf",
+ "pages": 15,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Graphical abstract",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Highlights",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "d Daily 5-minute breathwork and mindfulness meditation improve mood and reduce anxiety",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "d Breathwork improves mood and physiological arousal more than mindfulness meditation",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "d Cyclic sighing is most effective at improving mood and reducing respiratory rate",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Authors",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Melis Yilmaz Balban, Eric Neri, Manuela M. Kogon, ..., Jamie M. Zeitzer, David Spiegel, Andrew D. Huberman",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Correspondence",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "dspiegel@stanford.edu (D.S.), adh1@stanford.edu (A.D.H.)",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "In brief",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "In a remotely conducted randomized controlled trial, Yilmaz Balban et al. study the psychophysiological effects of controlled breathwork compared with mindfulness meditation. Breathwork produces greater improvement in mood and reduction in respiratory rate, while both result in reduction in negative emotion including state anxiety.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Report",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Brief structured respiration practices enhance mood and reduce physiological arousal",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Melis Yilmaz Balban, 1 Eric Neri, 2 Manuela M. Kogon, 2,3 Lara Weed, 4 Bita Nouriani, 2 Booil Jo, 2 Gary Holl, 1 Jamie M. Zeitzer, 2,5 David Spiegel, 2,6, * and Andrew D. Huberman 1,7,8,9, *",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "1 Department of Neurobiology, School of Medicine, Stanford University, Stanford, CA 94305, USA",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "2 Department of Psychiatry & Behavioral Sciences, School of Medicine, Stanford University, Stanford, CA 94305, USA",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "3 Stanford Center for Integrative Medicine, Stanford Health Care, Palo Alto, CA 94304, USA",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "4 Department of Bioengineering, School of Engineering and School of Medicine, Stanford University, Stanford, CA 94305, USA",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "5 Mental Illness Research Education and Clinical Center, VA Palo Alto Health Care Service, Palo Alto, CA 94304, USA",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "6 Center for Stress and Health, School of Medicine, Stanford University, Stanford, CA 94305, USA",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "7 Department of Ophthalmology, School of Medicine, Stanford University, Stanford, CA 94305, USA",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "8 BioX, School of Medicine, Stanford University, Stanford, CA 94305, USA",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "9 Lead contact",
+   "page": 2
+  },
+  {
+   "label": "footnote",
+   "text": "*Correspondence: dspiegel@stanford.edu (D.S.), adh1@stanford.edu (A.D.H.)",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "https://doi.org/10.1016/j.xcrm.2022.100895",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "SUMMARY",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Controlled breathwork practices have emerged as potential tools for stress management and well-being. Here, we report a remote, randomized, controlled study (NCT05304000) of three different daily 5-min breathwork exercises compared with an equivalent period of mindfulness meditation over 1 month. The breathing conditions are (1) cyclic sighing, which emphasizes prolonged exhalations; (2) box breathing, which is equal duration of inhalations, breath retentions, and exhalations; and (3) cyclic hyperventilation with retention, with longer inhalations and shorter exhalations. The primary endpoints are improvement in mood and anxiety as well as reduced physiological arousal (respiratory rate, heart rate, and heart rate variability). Using a mixedeffects model, we show that breathwork, especially the exhale-focused cyclic sighing, produces greater improvement in mood (p < 0.05) and reduction in respiratory rate (p < 0.05) compared with mindfulness meditation. Daily 5-min cyclic sighing has promise as an effective stress management exercise.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "INTRODUCTION",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Breathing is a life-sustaining bodily function, facilitating oxygenation and carbon dioxide disposal, but scientific studies on its significance for the mind-body connection have been limited. Embedded in ancient practices for centuries, breathwork has emerged as an intervention due to its reported health benefits. The COVID-19 pandemic highlighted the importance of simple, fast-acting, and cost-effective techniques to address widespread physical and mental health challenges and limited access to health care. While the neurobiology of breath has been studied both in animals and humans, 1 little comparative data exist on the effects of different breathing techniques or the amount of breathing exercise that must be performed to produce those effects.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The pattern and depth of breathing have direct physiological impact on oxygenation level, heart rate, ventilation, and blood pressure. 2 Slow breathing at a rate of six breaths per minute reduces chemoreceptor reflex response to hypercapnia and hypoxia compared with spontaneous respiration at 15 breaths per minute. 3 Impairment of baroreceptor reflex sensitivity plays a role in the etiology of hypertension, and how we breathe has numerous other major health implications. Heart rate and blood pressure decrease with slow breath in patients with essential hypertension compared with higher-frequency breathing. 4 Breathing training has also been shown to improve quality of life for asthmatics and to decrease use of bronchodilators. 5 Furthermore, there is evidence that nasal breathing affects the CNS differently than mouth breathing. While nasal breathing synchronizes electrical activity in the olfactory cortex as well as amygdala and hippocampus, mouth breathing does not, 6 which has implications for stress management and treatment of anxiety. Moreover, the mere act of inhaling has been shown to increase alertness levels and learning in humans. 7",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "It is also clear that different emotional and cognitive states alter the depth and frequency of breathing, 8-12 which likewise impacts emotional state, in part by regulation of carbon dioxide levels. 13-17 There is growing evidence that brain-body states, ranging from sleep to stress to physical activity to meditation, can help people buffer and better manage stressors. A review of Yogic breathing practices reported increased feelings of peacefulness, improved reaction time and problem solving, decreased anxiety, and reduction of mind wandering and intrusive thoughts. 18,19",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "A central theme of many Yogic and meditative practices is the inclusion of deliberate patterns of breathing. Despite the mounting evidence in favor of the benefits of these practices for overall health and wellbeing, 20 it is not well understood how different types of breathing per se impact mood and physiology, and how those effects compare with the brief practice of mindfulness meditation. This common practice with proven mental health benefits 21-24 involves passive observation of breath and is typically practiced daily for 20-min (or more) sessions. 22",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "There are several ways in which voluntary controlled breathing exercises differ from the practice of mindfulness meditation. Controlled breathing directly influences respiratory rate, which can cause more immediate physiological and psychological calming effects by increasing vagal tone during slow expiration. While mindfulness meditation might decrease sympathetic tone in the long run, 25 that is not its primary purpose or an expected acute effect. Mindfulness meditation involves bringing attention to the breath for the purpose of increasing awareness of the present moment. Thus, we hypothesized that direct modulation of the physiological state provided by controlled breathing could produce more potent and acute mental and physical relaxation. Additionally, interventions that act faster acutely encourage adherence because people feel better during the intervention. Thus, we hypothesized that breathwork might provide longer lasting benefits than mindfulness meditation due to improvements in daily mood and better adherence. Finally, breathwork exercises provide a sense of direct control over one's physiology as opposed to passively attending to the presence of one's breath during mindfulness meditation. This enhanced sense of control could reduce anxiety quickly as perceived loss of control is a hallmark of anxiety. 26,27 Thus, our primary hypothesis for this study was that voluntarily controlled breathing exercises would have differential effects on mood and physiology compared with mindfulness meditation, which involves passive observation of the breath. Accordingly, we hypothesized that all three breathing interventions would be more effective in reducing anxiety and regulating physiology than mindfulness meditation.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "One of the main differentiators of common breathing techniques is the emphasis on relative duration and intensity of inhales versus exhales. ''Sighing,'' characterized by deep breaths followed by extended, relatively longer exhales, has been associated with psychological relief, shifts in autonomic states, and resetting of respiratory rate. 8,28-30 ''Box breathing'' or ''tactical breathing,'' on the other hand, is characterized by equal inhale and hold and exhale ratios and has been used by members of the military for stress regulation and performance improvement. 30-32 ''Hyperventilation with retention'' is characterized by an emphasis on inhalations of longer duration and relatively greater intensity than exhales. 33 The type of breathing associated with hyperventilation has been linked with chronic anxiety and even panic when it emerges reflexively but has also been shown to have therapeutic effects when done deliberately in a controlled way. 34 There is still limited understanding of how specific breathing mechanics (i.e., inhale-exhale ratios) influence autonomic activity and wellness. 8,35",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Inhales increase heart rate and exhales decrease heart rate via respiratory sinus arrhythmia 36 -a normal phenomenon that relates to the effects of breathing on intrathoracic pressure, diaphragmatic movement, heart volume/blood flow rates, and compensatory shifts in vagal activation. 37 We sought to explore Report how inhale-emphasized (longer inhales) versus exhale-emphasized (longer exhales) versus balanced inhale-exhale breathing impact physiology and subjective measures of anxiety. We also sought to compare these with mindfulness meditation, which emphasizes passive observation of natural breathing with no active control. Finally, we sought to determine if as little as 5 min per day of deliberate breathing practice can cause significant shifts in autonomic tone and well-being.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Secondarily, we wanted to investigate if breathing practices with different inhale-exhale ratios have differential effects on physiology and psychological measures. We hypothesized that breathing practices that place emphasis on the exhale versus the inhale portion of each breath would be more effective in reducing anxiety and improving well-being. Accordingly, we hypothesized that cyclic sighing would have more beneficial psychological and physiological effects than cyclic hyperventilation or box breathing.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "In this study, we tested these two hypotheses by comparing mindfulness meditation with the breathwork groups, first combining all breathwork participants and then separately by subgroup if there was a main effect, on measures of mood, anxiety, resting heart rate, heart rate variability, respiration rate, and sleep (Figures 1A and 1B). Our understanding of the effects of breathing on the brain and body ought to allow specific science-supported breath practices to be designed in order to improve stress tolerance and sleep, enhance energy, focus, and creativity, and regulate emotional and cognitive states.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "RESULTS",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Subject participation",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Of 140 potential participants who consented, 114 were invited to participate in the study. The primary reasons for attrition at this stage were due to pandemic-related reasons or loss of contact with the participants. See Figure S1 for a detailed participant flow diagram. The general ease of following instructions and performing the interventions and subjective experience of the interventions were assessed by an optional debriefing questionnaire at the end of the study. We found that 90% of the participants reported positive experiences during the exercises (Table S2), while 10% reported negative experiences related to the exercises. In addition, 96% of the participants found video instructions ''very easy'' or ''somewhat easy'' and 74% found the interventions ''very easy'' or ''somewhat easy.'' More details of the results of the debriefing survey are presented in Table S2. Participants in the mindfulness meditation group spent on average 6.16 ± 6.62 (mean over 28 days ± SD) minutes while breathwork groups spent on average 5.76 ± 5.32 (mean over 28 days ± SD) minutes on the intervention. On average, mindfulness meditation participants completed 17.71 ± 9.25 of the 28 days, and breathwork participants completed 19.61 ± 7.73 of the 28 days. There were no differences between the groups on the daily time spent or number of days spent on the interventions.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Both mindfulness meditation and breathwork groups showed significant reductions in state anxiety and negative affect and increases in positive affect.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "We compared positive affect (positive and negative affect schedule [PANAS], range 10-50), negative affect (PANAS, range Report",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Figure 1. Study design",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "(A) Chart describing study design and the mindfulness meditation and three breathing exercises tested. n = number of participants enrolled in each group. Upward arrows indicate the inhales, downward arrows indicate the exhales, and horizontal arrows indicate breath holds. The corresponding numbers indicate the approximate ratios in time of the inhales, holds, and exhales. See also Figure S1 and Tables S1 and S2.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "(B) Timeline describing the study. Baseline measurements were collected between day \u00002 and 0. Baseline measurements were STAI trait anxiety and PROMIS sleep-related daytime disturbance scores. The same measures were collected at the end of the study between days 29 and 31 (post-study measures). Daily measures included ones collected before and after the exercises, including measures of state anxiety, positive affect (PANAS) and negative affect (PANAS), as well as daily average data from the WHOOP strap including resting heart rate (RHR), respiration rate, heart rate variability (HRV; root mean square of successive differences between normal heartbeats [RMSSD]), sleep efficiency, hours of sleep, and sleep score.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "10-50), and state anxiety (State-Trait Anxiety Inventory [STAI], range 20-80) scores on each participant before and after each breathwork protocol daily. Mindfulness meditation and breathwork groups both experienced an increase in daily positive affect (Figures 2A and S2A-S2D). The average daily change per person in positive affect was 1.22 ± 2.34 for mindfulness meditation (p = 0.06) and 1.91 ± 3.38 for breathwork groups combined (p < 0.0001, 1.89 ± 3.76 for cyclic sighing [p = 0.025], 1.84 ± 3.24 for box breathing [p = 0.026], and 1.97 ± 3.21 for cyclic hyperventilation with retention [p = 0.003], where p values are based on a paired Wilcoxon test for before and after comparisons).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Both mindfulness meditation and breathwork groups had significant reductions in negative affect after the protocol compared with before (Figures 2B and S2E-S2H). The average daily change per person in negative affect was \u00001.62 ± 1.91 for mindfulness meditation and \u00000.98 ± 1.39 for breathwork groups combined (\u00001.48 ± 1.69 for cyclic sighing, \u00000.83 ± 1.09 for box breathing, and \u00000.62 ± 1.14 for cyclic hyperventilation with retention [p < 0.0001 for all groups based on a paired Wilcoxon test]).",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Similar to positive and negative affect, participants in both mindfulness meditation and breathwork groups had a significant reduction in state anxiety after the exercise compared with before the exercise when averaged across the 28 days (Figures 2C and S2I-S2L). The average daily change per person in state anxiety was \u00003.95 ± 4.16 for mindfulness meditation and \u00003.03 ± 3.83 for all breathwork groups combined (\u00003.85 ± 4.88 for cyclic sighing, \u00003.75 ± 2.83 for box breathing, and \u00001.81 ± 2.97 for cyclic hyperventilation with retention [p < 0.0001 for all groups based on a paired Wilcoxon test]). As expected, there were no significant changes in trait anxiety in any of the groups, nor were there differences in trait anxiety change between the groups (Figure S4).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "Breathwork, specifically cyclic sighing, is more effective in increasing positive affect than is mindfulness meditation",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "We then examined if breathwork was more effective than mindfulness meditation in reducing anxiety and improving mood. To address this, we constructed a linear mixed-effects model with protocol type and ''number of days on protocol'' as the fixed OPEN ACCESS",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Report",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "D",
+   "page": 5
+  },
+  {
+   "label": "table",
+   "text": "Figure 2. Effects of breathing exercises on daily pre- to post-change in subjective measures of anxiety and mood\nFigure 2. Effects of breathing exercises on daily pre- to post-change in subjective measures of anxiety and mood",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Figure 2. Effects of breathing exercises on daily pre- to post-change in subjective measures of anxiety and mood",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "(A-C) Line plot showing the average daily change in PANAS positive affect (A), PANAS negative affect (B), and STAI state anxiety (C) on days 1-28 in the mindfulness meditation and breathwork groups (average rate of attrition = 2.5 participants/day for breathwork, 0.7 participants/day for mindfulness meditation, error bars = SEM).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "(D) Linear mixed-effects model to compare the daily psychological measures between the two types of protocols and estimate the effect of adherence to the protocol. Significant values are indicated in bold. (* = p < 0.05).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "See also Figures S2 and S4 and Table S2.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "effect and participants as the random effect predictors (Figure 2D). This model was used to assess the effect of protocol and effect of adherence on the daily changes in positive affect, negative affect, or state anxiety. The ''day on protocol'' term reflected for each day the number of days the subject had followed the protocol up to that day (see STAR Methods for more details). This term was added to account for the within-participant variance in the daily changes in mood and anxiety over time. There were no differences between the two groups in state anxiety and negative affect changes (Figures 2B-2D). However, the breathwork group had a notably higher increase in daily positive affect (Figures 2A and 2D). The breathwork group also had a significant interaction with the number of days on protocol, such that the daily positive affect increase was larger the more days subjects had been on the protocol (Figures 2A and 2D), suggesting an effect of adherence over time on the daily positive affect benefits.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "On the basis of the increase in daily positive affect associated with breathwork, we then asked whether one or more of the specific breathwork groups accounted for the improvement compared with mindfulness meditation throughout the study. To address this, we compared each specific breathwork group with the mindfulness meditation group using the same mixed-effects modeling method. We found that the cyclic sighing group had a significantly higher increase in positive affect than those in the mindfulness meditation group (Figures 3, S2A, and S2B). The other two breathwork groups were also higher than mindfulness meditation; however, this difference was not significant (Figures 3, S2A, S2C, and S2D). Cyclic sighing also had a significant interaction with cumulative days on protocol compared with mindfulness meditation, suggesting that subjects benefited more from the exercise the more days they did it, an effect not observed in the other groups (Figure 3B).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Overall, breathwork was more effective than mindfulness meditation in improving positive affect, an effect that got larger with more adherence to the protocol. Participants in the exhale-emphasized cylic sighing group had the highest increase in positive affect throughout the course of the 1-month study.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Report",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "B",
+   "page": 6
+  },
+  {
+   "label": "table",
+   "text": "",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Breathwork produces a significantly greater reduction in respiratory rate compared with mindfulness meditation",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "To evaluate the change in physiological metrics, slopes of daily heart rate variability, resting heart rate, and respiratory rate over the period of the study were calculated for each participant and compared between mindfulness meditation and breathwork groups. The breathwork group had a significantly higher reduction in respiratory rate than the mindfulness meditation group (Figure 4A; p < 0.05). We then compared individual breathwork groups with mindfulness meditation and found that the reduction in respiratory rate in cyclic sighing was significantly different from mindfulness meditation (Figure 4B; p < 0.05). Interestingly, change in respiratory rate was negatively correlated with change in daily positive affect (Figure S5; r = - 0.24, p < 0.05), suggesting that participants who showed the highest reduction in respiratory rate also showed the highest daily increase in positive affect over the course of the study (Figure S5). No significant changes were found in heart rate variability or resting heart rate over the course of the study in either of the groups (Figures 4C and 4D). As a secondary analysis, we compared each breathwork group with mindfulness meditation and found no differences in changes in resting heart rate or heart rate variability between any of the breathwork groups and mindfulness meditation (data not shown).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Figure 3. Effects of breathing exercises on daily positive affect",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "(A) Line plot showing the average change in PANAS positive affect on days 1-28 in the mindfulness meditation and three individual breathwork groups (average rate of attrition = 0.7 participants/ day for mindfulness meditation, 0.9 participants/ day for cyclic sighing, 0.6 participants/day for box breathing, and 1.1 participants/day for cyclic hyperventilation, error bars = SEM).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "(B) Linear mixed-effects model to predict the positive affect change and with four different groups and adherence (number of days on protocol) as fixed effects. Significant values are indicated in bold. (* = p < 0.05, ** = p < 0.01).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "See also Figure S2.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "No changes in sleep were observed in any of the groups",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "We compared the changes in the sleep measures we received from WHOOP. Specifically, we looked at ''hours of sleep'', ''sleep efficiency,'' and ''sleep score.'' There were no significant changes in these measures in either of the groups as well as between the groups (Figures S3A-S3C). To investigate daytime sleepiness, we compared the 8-item PROMIS sleep-related daytime disturbance score (T-score) at baseline and after the 28 days of exercise. There were no differences in the PROMIS sleep score in either of the",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "groups, and there was no significant difference between the groups (Figure S3D).",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "DISCUSSION",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "We conducted a randomized controlled study to compare the psychophysiological effects of 5-min daily practice of three different breathing exercises and mindfulness meditation over 1 month. We assessed group differences in acute effects by using a linear mixed-effects modeling approach that took into account multiple measurements from each participant and the effect of adherence. We also looked at baseline and post-study measurements of sleep-related daytime disturbances, trait anxiety, and slopes of physiological measures throughout the study. We found differential effects of these exercises on both daily acute measures and physiological measures over the course of the study.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "While all four groups showed significant daily improvement in positive affect and reduction in state anxiety and negative affect, there were significant differences between mindfulness meditation and breathwork in positive affect (Figures 2 and 3). Our daily monitoring and mixed-effects modeling approach allowed us to measure impacts throughout the study and revealed that the positive affect benefits of the breathwork exercises increased with more practice over time (Figure 2). Specifically, the cyclic sighing group showed more increase in positive affect toward",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "C",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Heart Rate Variability",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Meditation",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Figure 4. Changes in physiological measures over time",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Slope of respiratory rate (A), HRV (C), and RHR (D) over the course of the study in mindfulness meditation (n = 22) and all breathwork (n = 78) groups. Slope of respiratory rate in individual breathwork groups (cyclic sighing: n = 27, box breathing: n = 19, cyclic hyperventilation: n = 32) compared with mindfulness meditation (B). Each dot represents a participant (Mann-Whitney U test for comparison between two groups, Kruskal-Wallis test with Bonferroni-Holm correction for multi-group comparison, B). Upper and lower box edges represent 75th and 25th percentiles, respectively. The whiskers represent the largest and smallest data point that is less than 1.5 times the box length.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "See also Figures S3 and S5.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "the end of the study in a way that was significantly different than that for those randomized to mindfulness meditation, who had the least increase in positive affect (Figure 3). Overall, breathwork practices, particularly cyclic sighing, were more effective than mindful meditation in increasing positive affect, supporting our hypothesis that intentional control over breath with specific breathing patterns produces more benefit to mood than passive attention to one's breath, as in mindfulness meditation practice.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The breathwork group also showed significant physiological changes over time such that change in respiratory rate was significantly lower for the cyclic sighing group than mindfulness Meditation Report",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "D",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "meditation group (Figure 4). These physiological changes were associated with changes in positive affect over the course of the study. This result also supports our hypothesis that intentional control of breath is more effective in lowering sympathetic tone compared with mindfulness meditation practice.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Contemplative practices including meditation and other mindbody techniques have been shown to yield a wide range of benefits on cardiopulmonary health, immune and physical functions, and mental health. 38 While both meditative practice and controlled breathwork practices show similar benefits, our data reveal they seem to be largest in cyclic sighing, which differed",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Report",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "from the other groups in two main ways: (1) extended exhalation and (2) the double inhale, which increases the depth of inhalation. Cyclic sighing produced the highest daily improvement in positive affect as well as the highest reduction of respiratory rate, both significantly different from mindfulness meditation. The physiological and psychological effects of cyclic sighing appear to last over time.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "What are possible mechanisms through which voluntary breathing can influence physiology and mood differently than mindfulness meditation? One way is through modulating vagal function. The impact of different breathing techniques on heart physiology has been well established, and there is evidence that heart rate variability is a reflection of vagal function. 39 While we did not observe significant differences in heart rate variability across conditions in this study, it is reasonable to assume that the effect of deliberate breathing practices on brain function are, at least in part, mediated by vagus nerve pathways. Since heart and lung function are closely synchronized 40 and cardiac vagal control has been conceptualized as a marker of emotional control, 41 breath can directly influence the central autonomic network (CAN) and thus can explain the impact of breath on mood and sleep. In future studies, we plan to explore the specific brain regions activated by particular patterns of breathing and correlate those with vagal recordings and heart rate variability (HRV).",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Furthermore, breath can also enhance interoceptive processes. Interoception, the sensing and processing of visceral stimuli through the ascending branch of the brain-body axis resulting in the conscious perception of bodily processes, plays a role in emotional experience, self-regulation, decision-making, and consciousness. The perception of our internal physical processes has the potential to amplify or modulate stress. 42 Early recognition of one's own stress response, including increased heart rate, muscle tension, gastrointestinal discomfort, and sweating, can have the effect of transducing environmental discomfort into a physiological language that intensifies it. In other words, the more aware people are of their internal state, the more prone they can be to negatively interpreting subtle shifts in their physiology toward promoting sympathetic (higher-arousal) states. However, the same increase in interoceptive awareness can also provide a perceptual window into one's ability to reduce physiological signs of stress, thereby providing a heightened sense of control and ability to regulate stress. 43 The literature on how mind-body practices influence interoception is complex. Mindfulness meditation interventions have been shown to be effective in improving interoceptive awareness in clinical populations that involve somatic symptoms such as post-traumatic stress disorder (PTSD) and substance use disorders (SUDs). 44-47 A meta-analysis of the effects of mindfulness training on body awareness has found a small, but significant, positive relationship between mindfulness and body awareness. 48 However, several studies have not found that interoception is improved in long-term meditators. 49,50 How voluntary breathwork practices influence interoceptive processes and how that compares with mindfulness meditation is not well studied, and we aim to explore this in future studies.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Controlled breathing can also directly influence the cortical structures regulating emotion and mood and arousal. Breathlessness and anticipation of breathlessness are both perceived as threatening and activate the limbic structures involved in emotion generation while inactivating cortical structures involved in emotional regulation such as the prefrontal cortex. 51-53 People with high anxiety and panic disorder have less tolerance for breathlessness and have heightened activity in the anterior insula, a region central to interoception of visceral signals and central to the salience network. 42,54 Thus, controlled breathing can potentially act in the opposite way and reduce anxiety by decreasing anterior insula activity. Breathing rhythms have been shown to directly modulate behavioral and physiological arousal in mice through the activity of the locus coeruleus, where experimentally induced slow breathing patterns have been associated with calm behaviors. 14 Thus, slowing down the breathing rhythm with sighs can signal higher-order brain structures associated with behavioral arousal and promote a sense of calm. Nasal breathing, such as in the cyclic sighing intervention, has also been shown to entrain high-frequency oscillations in the amygdala and hippocampus, two nodes involved in emotional processing. 6 More research into how breathing influences brain networks involved in emotional regulation and influence mood is needed in humans.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Finally, voluntary breathing exercises can also enhance the general sense of control over one's internal state, contributing to the increase in positive affect observed. 55 This is different from mindfulness meditation, where the practitioner does not exert control over the breath rhythm. Diminished perceived sense of control has been linked to high anxiety and high anterior insula activity. 27,56 Respiration is at the cusp of this control mechanism because it is a necessary physiological system that functions without conscious thought but can be easily controlled with a modicum of attention. Indeed, breathing itself is a mechanism by which changes in heart rate occur and may be controlled to adjust the state of mind (Cicero et al., 37 our data in the present study). Thus, managed breathing is a tool to enhance the domain of psychophysiological regulation.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Since interoceptive awareness, however, is ambiguous and plays a role in some mental disorders with a physical component such as panic disorders, somatoform disorders, eating disorders, and PTSD, 57 being able to take conscious control over mechanics of breathing might be beneficial in such populations. Selecting patient populations with interoceptive psychopathology to help modify the interface between autonomic systems and the CNS through breath has beneficial potential in such populations. Including interoceptive measures in future studies can furthermore help discern what populations can most benefit from different breathing techniques. 48",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Our study monitored subjects daily and collected daily physiological data remotely, a capability that was forced by the COVID restrictions but was enabled by the wearable technology that the WHOOP strap offered. The use of wearables enabled us to assess the changes longitudinally as opposed to just in two time points before and after the study and revealed differences in groups over time that would not be otherwise possible. 58 It also allowed us to include a geographically diverse participant pool. A limitation of this remote study was having less control over some variables that may influence the results such as knowing how exactly the subjects practiced the exercises or controlling exactly how long they practiced. We advise future remote studies to take such variables into consideration. Overall, the study showed that remote administration of interventions is effective and that physiological monitoring is possible. Our results also support the importance of the discipline of daily practice to see substantial effects. Altogether, our study paves the way for deeper in-lab and remote mechanistic explorations to understand the differential impacts that distinct breathing techniques can have on mood and respiratory function.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Limitations of the study",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "This study was originally intended as an exploratory study in preparation for a larger clinical trial and thus was not pre-registered as a clinical trial. We wanted to test out the feasibility of delivering interventions and conducting data collection 100% remotely during the COVID pandemic. We also were unsure about whether or not we would obtain adequate adherence to the protocol as the pandemic unfolded. At the same time, given the widespread stress the pandemic was causing, we felt it important to proceed with what could be characterized as a phase 1/2 toxicity/initial efficacy trial were the intervention a drug or device. As it turned out, we obtained interesting preliminary results demonstrating positive effects of breathwork, and adherence itself influenced the outcome. We registered the trial retrospectively (ClinicalTrials.gov: NCT05304000) and are now planning a larger confirmatory trial that will be pre-registered.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "The remote nature of the study limited the monitoring of how closely participants followed the instructions on a daily basis. In addition, we had to rely on the completion of daily surveys to assess adherence. Adherence can be better monitored and enforced in future studies by implementing automatic time stamping when participants start and end their exercise. In addition, the findings of this study are limited to 4 weeks with no additional follow up. Future studies should investigate how long lasting the effects are and what the minimum effective daily dose and minimum amount of adherence are, particularly with respect to the physiological outcomes. Finally, sample size in each group was relatively small, limiting the statistical power to compare individual breathwork groups with each other. However, the study was sufficiently powered to compare the combined effects of breathwork practice to the mindfulness meditation practice.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "STAR+METHODS",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Detailed methods are provided in the online version of this paper and include the following:",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "d KEY RESOURCES TABLE",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "d RESOURCE AVAILABILITY",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Lead contact",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Materials availability",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Data and code availability",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "d EXPERIMENTAL MODEL AND SUBJECT DETAILS",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Participants",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "d METHOD DETAILS",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Description of breathing protocols",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Psychological measures",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Physiological measures",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Nighttime sleep",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "d QUANTIFICATION AND STATISTICAL ANALYSIS",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Daily subjective measures (STAI and PANAS)",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "B Baseline and follow-up measures (STAI trait anxiety, PROMIS sleep-related daytime disturbance)",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "d ADDITIONAL RESOURCES",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "SUPPLEMENTAL INFORMATION",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Supplemental information can be found online at https://doi.org/10.1016/j. xcrm.2022.100895.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "ACKNOWLEDGMENTS",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "This work was supported by generous support from Victor and Winnie Koo and Tianren Culture and a Stanford School of Medicine Discovery Innovation Award (A.D.H.). We also thank WHOOP for generously donating the wrist straps used in the study. WHOOP was not involved in the design or analysis of this study.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "AUTHOR CONTRIBUTIONS",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "M.Y.B., J.M.Z., D.S., and A.D.H. designed research; M.Y.B., E.N., B.N., and G.H. performed research; M.Y.B., L.W., E.N., B.N., B.J., and M.M.K. analyzed data; and M.Y.B., M.M.K., L.W., J.M.Z., D.S., and A.D.H. wrote the paper.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "DECLARATION OF INTERESTS",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "A.D.H. became an advisor to WHOOP in June of 2022.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "INCLUSION AND DIVERSITY",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We support inclusive, diverse, and equitable conduct of research.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Received: April 2, 2022",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Revised: September 6, 2022",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Accepted: December 15, 2022",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Published: January 10, 2023",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "REFERENCES",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Lavretsky, H., and Feldman PhD, J.L. (2021). Precision medicine for breath-focused mind-body therapies for stress and anxiety: are we ready yet? Glob. Adv. Health Med. 10, 2164956120986129. https://doi.org/10. 1177/2164956120986129.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Russo, M.A., Santarelli, D.M., and O'Rourke, D. (2017). The physiological effects of slow breathing in the healthy human. Breathe 13, 298-309. https://doi.org/10.1183/20734735.009817.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Bernardi, L., Gabutti, A., Porta, C., and Spicuzza, L. (2001). Slow breathing reduces chemoreflex response to hypoxia and hypercapnia, and increases baroreflex sensitivity. J. Hypertens. 19, 2221-2229. https://doi. org/10.1097/00004872-200112000-00016.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Li, C., Chang, Q., Zhang, J., and Chai, W. (2018). Effects of slow breathing rate on heart rate variability and arterial baroreflex sensitivity in essential hypertension. Medicine (Baltim.) 97, e0639. https://doi.org/10.1097/MD. 0000000000010639.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Burgess, J., Ekanayake, B., Lowe, A., Dunt, D., Thien, F., and Dharmage, S.C. (2011). Systematic review of the effectiveness of breathing retraining in asthma management. Expert Rev. Respir. Med. 5, 789-807. https://doi. org/10.1586/ers.11.69.",
+   "page": 9
+  },
+  {
+   "label": "list_item",
+   "text": "Zelano, C., Jiang, H., Zhou, G., Arora, N., Schuele, S., Rosenow, J., and Gottfried, J.A. (2016). Nasal respiration entrains human limbic oscillations and modulates cognitive function. J. Neurosci. 36, 12448-12467. https:// doi.org/10.1523/JNEUROSCI.2586-16.2016.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Report",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Report",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Perl, O., Ravia, A., Rubinson, M., Eisen, A., Soroka, T., Mor, N., Secundo, L., and Sobel, N. (2019). Human non-olfactory cognition phase-locked with inhalation. Nat. Hum. Behav. 3, 501-512. https://doi.org/10.1038/ s41562-019-0556-z.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Boiten, F.A., Frijda, N.H., and Wientjes, C.J. (1994). Emotions and respiratory patterns: review and critical analysis. Int. J. Psychophysiol. 17, 103-128. https://doi.org/10.1016/0167-8760(94)90027-2.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Boiten, F.A. (1998). The effects of emotional behaviour on components of the respiratory cycle. Biol. Psychol. 49, 29-51. https://doi.org/10.1016/ s0301-0511(98)00025-8.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Guyon, A.J.A.A., Cannavo` , R., Studer, R.K., Hildebrandt, H., Danuser, B., Vlemincx, E., and Gomez, P. (2020). Respiratory variability, sighing, anxiety, and breathing symptoms in low- and high-anxious music students before and after performing. Front. Psychol. 11, 303. https://doi.org/10. 3389/fpsyg.2020.00303.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Yilmaz Balban, M., Cafaro, E., Saue-Fletcher, L., Washington, M.J., Bijanzadeh, M., Lee, A.M., Chang, E.F., and Huberman, A.D. (2021). Human responses to visually evoked threat. Curr. Biol. 31, 601-612.e3. https://doi. org/10.1016/j.cub.2020.11.035.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Salay, L.D., Ishiko, N., and Huberman, A.D. (2018). A midline thalamic circuit determines reactions to visual threat. Nature 557, 183-189. https:// doi.org/10.1038/s41586-018-0078-2.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Khalsa, S.S., Feinstein, J.S., Li, W., Feusner, J.D., Adolphs, R., and Hurlemann, R. (2016). Panic anxiety in humans with bilateral amygdala lesions: pharmacological induction via cardiorespiratory interoceptive pathways. J. Neurosci. 36, 3559-3566. https://doi.org/10.1523/JNEUROSCI.410915.2016.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Yackle, K., Schwarz, L.A., Kam, K., Sorokin, J.M., Huguenard, J.R., Feldman, J.L., Luo, L., and Krasnow, M.A. (2017). Breathing control center neurons that promote arousal in mice. Science 355, 1411-1415. https:// doi.org/10.1126/science.aai7984.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Gorman, J.M., Kent, J., Martinez, J., Browne, S., Coplan, J., and Papp, L.A. (2001). Physiological changes during carbon dioxide inhalation in patients with panic disorder, major depression, and premenstrual dysphoric disorder: evidence for a central fear mechanism. Arch. Gen. Psychiatry 58, 125-131. https://doi.org/10.1001/archpsyc.58.2.125.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Feinstein, J.S., Buzza, C., Hurlemann, R., Follmer, R.L., Dahdaleh, N.S., Coryell, W.H., Welsh, M.J., Tranel, D., and Wemmie, J.A. (2013). Fear and panic in humans with bilateral amygdala damage. Nat. Neurosci. 16, 270-272. https://doi.org/10.1038/nn.3323.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Philippot, P., Chapelle, G., and Blairy, S. (2002). Respiratory feedback in the generation of emotion. Cognit. Emot. 16, 605-627. https://doi.org/ 10.1080/02699930143000392.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Campanelli, S., Tort, A.B.L., and Lob~ao-Soares, B. (2020). Pranayamas and their neurophysiological effects. Int. J. Yoga 13, 183-192. https:// doi.org/10.4103/ijoy.IJOY_91_19.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Brown, R.P., and Gerbarg, P.L. (2009). Yoga breathing, meditation, and longevity. Ann. N. Y. Acad. Sci. 1172, 54-62. https://doi.org/10.1111/j. 1749-6632.2009.04394.x.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Chen, T.L., Chang, S.C., Hsieh, H.F., Huang, C.Y., Chuang, J.H., and Wang, H.H. (2020). Effects of mindfulness-based stress reduction on sleep quality and mental health for insomnia patients: a meta-analysis. J. Psychosom. Res. 135, 110144. https://doi.org/10.1016/j.jpsychores. 2020.110144.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Zhu, J.L., Sch€ulke, R., Vatansever, D., Xi, D., Yan, J., Zhao, H., Xie, X., Feng, J., Chen, M.Y., Sahakian, B.J., and Wang, S. (2021). Mindfulness practice for protecting mental health during the COVID-19 pandemic. Transl. Psychiatry 11, 329. https://doi.org/10.1038/s41398-021-01459-8.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Creswell, J.D. (2017). Mindfulness interventions. Annu. Rev. Psychol. 68, 491-516. https://doi.org/10.1146/annurev-psych-042716-051139.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kabat Zinn, J. (2003). Mindfulness-based interventions in context: past, present, and future. Clin. Psychol. Sci. Pract. 10, 144-156. https://doi. org/10.1093/clipsy.bpg016.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Brewer, J.A., Davis, J.H., and Goldstein, J. (2013). Why is it so hard to pay attention, or is it? Mindfulness, the factors of awakening and rewardbased learning. Mindfulness 4, 75-80. https://doi.org/10.1007/s12671012-0164-8.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Wielgosz, J., Schuyler, B.S., Lutz, A., and Davidson, R.J. (2016). Longterm mindfulness training is associated with reliable differences in resting respiration rate. Sci. Rep. 6, 27533. https://doi.org/10.1038/srep27533.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Brown, T.A., White, K.S., Forsyth, J.P., and Barlow, D.H. (2004). The structure of perceived emotional control: psychometric properties of a revised anxiety control questionnaire. Behav. Ther. 35, 75-99. https://doi.org/10. 1016/S0005-7894(04)80005-4.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Alvarez, R.P., Kirlic, N., Misaki, M., Bodurka, J., Rhudy, J.L., Paulus, M.P., and Drevets, W.C. (2015). Increased anterior insula activity in anxious individuals is linked to diminished perceived control. Transl. Psychiatry 5, e591. https://doi.org/10.1038/tp.2015.84.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Vlemincx, E., Van Diest, I., and Van den Bergh, O. (2016). A sigh of relief or a sigh to relieve: the psychological and physiological relief effect of deep breaths. Physiol. Behav. 165, 127-135. https://doi.org/10.1016/j.physbeh.2016.07.004.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ramirez, J.-M. (2014). The integrative role of the sigh in psychology, physiology, pathology, and neurobiology. In In Progress in Brain Research (Elsevier), pp. 91-129. https://doi.org/10.1016/B978-0-444-63274-6.00006-0.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Del Negro, C.A., Funk, G.D., and Feldman, J.L. (2018). Breathing matters. Nat. Rev. Neurosci. 19, 351-367. https://doi.org/10.1038/s41583-0180003-6.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Ro¨ ttger, S., Theobald, D.A., Abendroth, J., and Jacobsen, T. (2021). The effectiveness of combat tactical breathing as compared with prolonged exhalation. Appl. Psychophysiol. Biofeedback 46, 19-28. https://doi.org/ 10.1007/s10484-020-09485-w.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Bouchard, S., Bernier, F., Boivin, E´ ., Morin, B., and Robillard, G. (2012). Using biofeedback while immersed in a stressful videogame increases the effectiveness of stress management skills in soldiers. PLoS One 7, e36169. https://doi.org/10.1371/journal.pone.0036169.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Kox, M., van Eijk, L.T., Zwaag, J., van den Wildenberg, J., Sweep, F.C.G.J., van der Hoeven, J.G., and Pickkers, P. (2014). Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans. Proc. Natl. Acad. Sci. USA. 111, 7379-7384. https://doi.org/10.1073/pnas.1322174111.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Meuret, A.E., Ritz, T., Wilhelm, F.H., and Roth, W.T. (2005). Voluntary hyperventilation in the treatment of panic disorder-functions of hyperventilation, their implications for breathing training, and recommendations for standardization. Clin. Psychol. Rev. 25, 285-306. https://doi.org/10. 1016/j.cpr.2005.01.002.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "De Couck, M., Caers, R., Musch, L., Fliegauf, J., Giangreco, A., and Gidron, Y. (2019). How breathing can help you make better decisions: two studies on the effects of breathing patterns on heart rate variability and decision-making in business cases. Int. J. Psychophysiol. 139, 1-9. https:// doi.org/10.1016/j.ijpsycho.2019.02.011.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Fanning, J., Silfer, J.L., Liu, H., Gauvin, L., Heilman, K.J., Porges, S.W., and Rejeski, W.J. (2020). Relationships between respiratory sinus arrhythmia and stress in college students. J. Behav. Med. 43, 308-317. https://doi.org/10.1007/s10865-019-00103-7.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Cicero, G., Mazziotti, S., Blandino, A., Granata, F., and Gaeta, M. (2020). Magnetic resonance imaging of the diaphragm: from normal to pathologic findings. J. Clin. Imaging Sci. 10, 1. https://doi.org/10.25259/JCIS_138 _2019.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Schuman-Olivier, Z., Trombka, M., Lovas, D.A., Brewer, J.A., Vago, D.R., Gawande, R., Dunne, J.P., Lazar, S.W., Loucks, E.B., and Fulwiler, C. (2020). Mindfulness and behavior change. Harv. Rev. Psychiatry 28, 371-394. https://doi.org/10.1097/HRP.0000000000000277.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Gerritsen, R.J.S., and Band, G.P.H. (2018). Breath of life: the respiratory vagal stimulation model of contemplative activity. Front. Hum. Neurosci. 12, 397. https://doi.org/10.3389/fnhum.2018.00397.",
+   "page": 10
+  },
+  {
+   "label": "list_item",
+   "text": "Scha¨ fer, C., Rosenblum, M.G., Kurths, J., and Abel, H.H. (1998). Heartbeat synchronized with ventilation. Nature 392, 239-240. https://doi.org/10. 1038/32567.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Balzarotti, S., Biassoni, F., Colombo, B., and Ciceri, M.R. (2017). Cardiac vagal control as a marker of emotion regulation in healthy adults: a review. Biol. Psychol. 130, 54-66. https://doi.org/10.1016/j.biopsycho.2017.10.008.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Harrison, O.K., Ko¨ chli, L., Marino, S., Luechinger, R., Hennel, F., Brand, K., Hess, A.J., Fra¨ ssle, S., Iglesias, S., Vinckier, F., et al. (2021). Interoception of breathing and its relationship with anxiety. Neuron 109, 4080-4093.e8. https://doi.org/10.1016/j.neuron.2021.09.045.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Hanley, A.W., Mehling, W.E., and Garland, E.L. (2017). Holding the body in mind: interoceptive awareness, dispositional mindfulness and psychological well-being. J. Psychosom. Res. 99, 13-20. https://doi.org/10.1016/j. jpsychores.2017.05.014.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Price, C.J., and Hooven, C. (2018). Interoceptive awareness skills for emotion regulation: theory and approach of mindful awareness in bodyoriented therapy (MABT). Front. Psychol. 9, 798. https://doi.org/10.3389/ fpsyg.2018.00798.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Price, C.J., Thompson, E.A., Crowell, S., and Pike, K. (2019). Longitudinal effects of interoceptive awareness training through mindful awareness in body-oriented therapy (MABT) as an adjunct to women's substance use disorder treatment: a randomized controlled trial. Drug Alcohol Depend. 198, 140-149. https://doi.org/10.1016/j.drugalcdep.2019.02.012.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Price, C.J., McBride, B., Hyerle, L., and Kivlahan, D.R. (2007). Mindful awareness in body-oriented therapy for female veterans with post-traumatic stress disorder taking prescription analgesics for chronic pain: a feasibility study. Altern. Ther. Health Med. 13, 32-40.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Mehling, W.E., Chesney, M.A., Metzler, T.J., Goldstein, L.A., Maguen, S., Geronimo, C., Agcaoili, G., Barnes, D.E., Hlavin, J.A., and Neylan, T.C. (2018). A 12-week integrative exercise program improves self-reported mindfulness and interoceptive awareness in war veterans with posttraumatic stress symptoms. J. Clin. Psychol. 74, 554-565. https://doi.org/ 10.1002/jclp.22549.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Treves, I.N., Tello, L.Y., Davidson, R.J., and Goldberg, S.B. (2019). The relationship between mindfulness and objective measures of body awareness: a meta-analysis. Sci. Rep. 9, 17386. https://doi.org/10.1038/ s41598-019-53978-6.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Khalsa, S.S., Rudrauf, D., Hassanpour, M.S., Davidson, R.J., and Tranel, D. (2020). The practice of meditation is not associated with improved interoceptive awareness of the heartbeat. Psychophysiology 57, e13479. https://doi.org/10.1111/psyp.13479.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Melloni, M., Seden˜ o, L., Couto, B., Reynoso, M., Gelormini, C., Favaloro, R., Canales-Johnson, A., Sigman, M., Manes, F., and Ibanez, A. (2013). Preliminary evidence about the effects of meditation on interoceptive sensitivity and social cognition. Behav. Brain Funct. 9, 47. https://doi. org/10.1186/1744-9081-9-47.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Report",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Banzett, R.B., Mulnier, H.E., Murphy, K., Rosen, S.D., Wise, R.J., and Adams, L. (2000). Breathlessness in humans activates insular cortex. Neuroreport 11, 2117-2120. https://doi.org/10.1097/00001756-20000714000012.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Faull, O.K., Jenkinson, M., Ezra, M., and Pattinson, K.T. (2016). Conditioned respiratory threat in the subdivisions of the human periaqueductal gray. Elife 5, e12047. https://doi.org/10.7554/eLife.12047.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Faull, O.K., and Pattinson, K.T. (2017). The cortical connectivity of the periaqueductal gray and the conditioned response to the threat of breathlessness. Elife 6, e21749. https://doi.org/10.7554/eLife.21749.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Alius, M.G., Pane´ -Farre´ , C.A., Von Leupoldt, A., and Hamm, A.O. (2013). Induction of dyspnea evokes increased anxiety and maladaptive breathing in individuals with high anxiety sensitivity and suffocation fear. Psychophysiology 50, 488-497. https://doi.org/10.1111/psyp.12028.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Schulkin, J., and Sterling, P. (2019). Allostasis: a brain-centered, predictive mode of physiological regulation. Trends Neurosci. 42, 740-752. https:// doi.org/10.1016/j.tins.2019.07.010.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Gallagher, M.W., Naragon-Gainey, K., and Brown, T.A. (2014). Perceived control is a transdiagnostic predictor of cognitive-behavior therapy outcome for anxiety disorders. Cognit. Ther. Res. 38, 10-22. https://doi. org/10.1007/s10608-013-9587-3.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Khalsa, S.S., Adolphs, R., Cameron, O.G., Critchley, H.D., Davenport, P.W., Feinstein, J.S., Feusner, J.D., Garfinkel, S.N., Lane, R.D., Mehling, W.E., et al. (2018). Interoception and mental health: a roadmap. Biol. Psychiatry. Cogn. Neurosci. Neuroimaging 3, 501-513. https://doi.org/10. 1016/j.bpsc.2017.12.004.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Smith, E.N., Santoro, E., Moraveji, N., Susi, M., and Crum, A.J. (2020). Integrating wearables in stress management interventions: promising evidence from a randomized trial. Int. J. Stress Manag. 27, 172-182. https:// doi.org/10.1037/str0000137.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Yu, L., Buysse, D.J., Germain, A., Moul, D.E., Stover, A., Dodds, N.E., Johnston, K.L., and Pilkonis, P.A. (2011). Development of short forms from the PROMIS sleep disturbance and Sleep-Related Impairment item banks. Behav. Sleep Med. 10, 6-24. https://doi.org/10.1080/15402002. 2012.636266.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Spielberger, C.D., Gorsuch, R.L., and Lushene, R.E. (1970). STAI Manual for the State-Trait Anxiety Inventory (Palo Alto: Consulting Psychologists Press).",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Watson, D., Clark, L.A., and Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: the PANAS scales. J. Pers. Soc. Psychol. 54, 1063-1070. https://doi.org/10.1037//00223514.54.6.1063.",
+   "page": 11
+  },
+  {
+   "label": "list_item",
+   "text": "Crawford, J.R., and Henry, J.D. (2004). The positive and negative affect schedule (PANAS): construct validity, measurement properties and normative data in a large non-clinical sample. Br. J. Clin. Psychol. 43, 245-265. https://doi.org/10.1348/0144665031752934.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Report",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "STAR+METHODS",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "KEY RESOURCES TABLE",
+   "page": 12
+  },
+  {
+   "label": "table",
+   "text": "| REAGENT or RESOURCE            | SOURCE                   | IDENTIFIER                                  |\n|--------------------------------|--------------------------|---------------------------------------------|\n| Raw data                       | This paper               | https://doi.org/10.5061/dryad.mpg4f4r0v     |\n| MATLAB                         | Mathworks (Natick, MA)   | MATLAB_R2020b                               |\n| R Studio                       | Rstudio.com (Boston, MA) | RStudio 1.2.1335, © 2009-2018 RStudio, Inc. |\n| Custom data processing scripts | This paper               | https://doi.org/10.5281/zenodo.7433173      |",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "RESOURCE AVAILABILITY",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Lead contact",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Andrew D. Huberman (adh1@stanford.edu).",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Materials availability",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "This study did not generate new unique reagents.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Data and code availability",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "De-identified raw human physiology and survey data have been deposited at Dryad repository (https://datadryad.org/) and are publicly available as of the date of publication. Accession numbers are listed in the key resources table.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "All original code has been deposited at Zenodo and is publicly available as of the date of publication. DOIs are listed in the key resources table.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "EXPERIMENTAL MODEL AND SUBJECT DETAILS",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "Participants",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "The 108 participants included females and males 18 and older (refer to Table S1 for details on demographics) who could read and understand English well enough to consent, complete measures and follow instructions. For health and safety reasons, we excluded those with self-reported moderate to severe psychiatric or medical conditions that could be exacerbated by study participation, such as heart disease, glaucoma, history of seizures, pregnancy, psychosis, suicidality, bipolar disorder, or substance use disorders. Excluded also were those with vision or hearing impairment severe enough to interfere with study participation, such as reading study material and watching and listening to the instruction videos for the interventions.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Participant recruitment began on June 2, 2020, during the COVID-19 pandemic, and data collection ended on September 17, 2020. All recruitment and study participation were conducted remotely. Most of the participants were recruited from an undergraduate psychology class at Stanford University, and a few by word of mouth. See Figure S1 for a detailed consort diagram. This study was approved by the Stanford Institutional Review Board and conformed to HIPAA regulations.All procedures have been approved under the Stanford IRB protocol #41398. The trial was retrospectively registered to clinicaltrials.gov.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "METHOD DETAILS",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "This study employed a repeated-measures, randomized controlled design. All phases of the study were conducted online (screening, consenting/enrollment, interventions, and assessments). Data were collected using the secure Stanford REDCap platform (http:// redcap.stanford.edu), developed and operated by the Stanford Medicine Research IT team. Members of the research team were available through e-mail and telephone.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "A WHOOP strap (WHOOP Inc., Boston, MA) was mailed to eligible study participants after e-signing of the study consent form. This device uses a wrist-worn LED photoplethysmograph to monitor HR, and from which HRV can be calculated, and a tri-axial accelerometer to monitor movement, data from which can be used to impute sleep vs. wake. Participants had sufficient time between receiving the device and the start of data collection to learn how to operate the strap. In addition to the continuous acquisition of Report WHOOP data, we also assessed participants' anxiety and mood daily prior to and immediately after the exercises via Redcap surveys. Participants had access to their own WHOOP data through the commercial app; the study team had access to daily data and raw data for all participants, downloaded directly from WHOOP. Participants logged in to the WHOOP mobile application using deidentified e-mail addresses provided by the study team. The identities of the participants were thus masked from WHOOP unless participants voluntarily used their personal emails.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "From the 108 subjects enrolled, 24 were randomized into the Mindfulness Meditation control condition and 84 were randomized to the treatment conditions (30 Cyclic Sighing, 21 Box Breathing, 33 Cyclic Hyperventilation with Retention). The initial randomization consisted of a permuted block randomization design with a block size of eight. Therefore, group sizes should have been balanced for every eight participants. During the course of mailing the WHOOP straps to the participants, it became evident that there were some participants who were from the same household. To assure fidelity to treatment type, eight households were randomized to the same condition, seven households with two participants and one household with three. This accounts for the imbalanced group sizes.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Both prior to and after the 28-day intervention, participants completed two brief questionnaires to assess the impact of the intervention on the daytime sequelae of sleep and anxiety: PROMIS Sleep Related Impairment - Short Form 8a 59 and the State-Trait Anxiety Questionnaire. 60 Participants also completed a debriefing questionnaire at the end of the study. In lieu of direct remuneration, participants who completed study participation were gifted the WHOOP Strap (approximately $350 in value) and a waived 6-month (included study participation time) subscription fee ($180 in value).",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "During the 28-day intervention period, participants did their assigned 5-min exercise and completed two questionnaires before and after, the State Anxiety Inventory 60 and the Positive and Negative Affect Schedule (PANAS). 61 Participants received invitations to instructional videos (pre-recorded by Andrew D. Huberman) on the breathing exercises 3-5 days prior to the start of the study as well as daily text messages that reminded them to complete their exercises and pre-and-post-practice assessments. They were asked to complete the exercises only once a day. See Supplementary text for detailed instructions for each protocol.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Description of breathing protocols",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "A) Mindful Meditation",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Participants were informed they should sit down in a chair or, if they preferred, to lie down, and then to set a timer for 5 min. Then they were told to close their eyes and to start breathing while focusing their mental attention on their forehead region between their two eyes. They were told that if their focus drifted from that location to re-recenter their attention by focusing back first on their breath and then on the forehead region between their eyes. They were told that as thoughts arise, to recognize that as normal, refocus their attention back to their forehead region and to continue the practice until time has elapsed.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "B) Cyclic Sighing",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to set a timer for 5 min. Then they were told to inhale slowly, and that once their lungs were expanded, to inhale again once more to maximally fill their lungs - even if the second inhale was shorter in duration and smaller in volume than the first, and then to slowly and fully exhale all their breath. They were told to repeat this pattern of breathing for 5 min. They were also informed that ideally, both inhales would be performed via their nose and the exhale would be performed via their mouth, but that if they preferred, they were welcome to do the breathing entirely through their nose. They were also informed that it is normal for the second inhale to be briefer than the first.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Then they were told to return to breathing normally.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "C) Box Breathing",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to get a timer with a seconds counter that they could watch.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Then they were told to take the ''CO2 tolerance test'' as follows.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Take 4 breaths. An inhale followed an exhale = 1 breath. Ideally these are all done via the nose.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Then take a maximally deep breath and once your lungs are full, exhale as slowly as possible through your nose or mouth.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Time how long it takes (in sec) to empty your lungs; this will be your C02 discard duration.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Do not hold your breath with lungs empty. Once your lungs are empty simply record your 'discard duration.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Use your discard duration to determine how long your inhales, exhales, and breath holds should be for the box breathing protocol using this table:",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "$ 0-20 s C02 discard time = your inhales, exhales, and breath holds should be 3 - 4s.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "$ 25-45 s C02 discard time = your inhales, exhales, and breath holds should be 5 - 6s.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "50 - 75 + sec C02 discard time = your inhales, exhales, and breath holds should be 8-10 s.",
+   "page": 13
+  },
+  {
+   "label": "section_header",
+   "text": "Report",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to set a timer for 5 min. They were told to then inhale (for the duration determined by the C02 discard rate lookup table), then to hold their breath for the equivalent duration, then to exhale for the same duration and then to hold their breath for again, the same duration (e.g. inhale 4 s, hold 4 s, exhale 4 s, hold 4 s) and to repeat this pattern for the entire 5 min. They were told that if at any point they had to strain to reach these times, they should simply reduce the duration of inhales, exhales, and breath holds. We asked participants to perform all breathing through their nose, if possible, but that if they felt the need to switch to breathing through their mouth, to do so.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Then they were told to return to breathing normally.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Cyclic Hyperventilation with Retention",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to set a timer for 5 min. Then they were told to inhale deeply (ideally through their nose but if that is not possible, to inhale through their mouth) and then exhale by passively letting the air \"fall out from the mouth\". We informed them that for sake of this protocol, that pattern of a deep inhale through the nose and passively letting the air \"fall out from the mouth'' = 1 breath.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Then they were instructed to perform 30 breaths (in and out) in this manner, and after those 30 breaths, to exhale all their air via their mouth and to calmly wait with lungs empty for 15 s.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "We called this cycle of 30 breaths in and out, followed by a lung-emptying exhale and 15 s breath retention (hold) with lungs empty, ''Round 1''.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Then they were instructed to perform this for a ''Round 2'' as well:",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "30 breaths in-and-out = 1 breath (deep inhale through nose, then ''passively exhale'' - let air fall out from the mouth\".",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Then after 30 breaths, to exhale all their air and hold to calmly wait with lungs empty for 15 s before repeating.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Then they were instructed to perform this for a ''Round 3'':",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "30 breaths in and out = 1 breath (deep inhale through nose, let air \"fall out from the mouth\").",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Then after 30 breaths, to exhale all their air and hold to calmly wait with lungs empty for 15 s.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Then they were told to return to breathing normally.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Psychological measures",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "PROMIS Short Form v1.0 - Sleep-Related Impairment 8a form: This measure contains eight items asking about the raters' self-reported perceptions on sleep-related daytime impairments during the past seven days, with a Likert-type scale (1-5 = Not at all to Very much, 59 ). Data were scored using a T-score transformation according to standard instructions (https://www.healthmeasures.net/ promis-scoring-manuals).",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Positive and Negative Affect Schedule (PANAS): This is an adjective list of emotions with a Likert-type scale (1-5 = slightly to extremely) and instructions to rate feelings in the moment. 61 The positive and negative affect measures have been shown to be highly internally consistent, largely uncorrelated, and stable at appropriate levels over a two-month time period. 62 Normative data and factorial and external evidence of convergent and discriminant validity for the scales are robust. Sums of the positive and negative items were used as scores for current 'positive' and 'negative' affect.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "State Trait Anxiety Inventory (STAI): The STAI is composed of two parts, each with 20 items, that measure state and trait anxiety. The state anxiety form contains questions about how the rater feels at the moment, such as ''I feel calm'', ''I feel upset'', with a Likerttype scale (1-5 = Not at all to Very much so). The trait anxiety form contains questions about how the rater generally feels, such as ''I feel secure'', ''I feel inadequate'', with a Likert-type scale (1-5 = Almost never to Almost always). 60 The sums of these two parts were used as scores for 'state' and 'trait' anxiety.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Debrief Survey: The de novo survey is composed of 11 items regarding participants' perspectives on the quality of the interventions and their experience with the interventions. For four of the items, participants rate their response on a Likert scale and seven of the items are open-ended measures.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Physiological measures",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Daily resting heart rate (RHR), respiratory rate (RR), and Heart Rate Variability (HRV, root-mean-square of successive differences between normal heartbeats, RMSSD) summaries were obtained from WHOOP. WHOOP calculates resting heart rate and heart rate variability during deep sleep through their proprietary algorithms (https://support.whoop.com/hc/en-us/articles/360019622593What-is-Heart-Rate-Variability-HRV-). These values were used to calculate the physiological effects of the exercises over the course of 28 days. Changes in these metrics were calculated as the slope of the linear regression line fit to the daily values obtained throughout the study. Differences between groups were calculated with non-parametric Mann-Whitney U test (for two group comparison) and Kruskal-Wallis test with Bonfferini-Holm correction (for multi-group comparisons).",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "Nighttime sleep",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Daily ''Hours of Sleep'', ''Sleep Efficiency'' and ''Sleep Score'' measures were obtained from WHOOP and were analyzed the same way as the daily HRV, RHR and RR measures.",
+   "page": 14
+  },
+  {
+   "label": "section_header",
+   "text": "QUANTIFICATION AND STATISTICAL ANALYSIS",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Daily subjective measures (STAI and PANAS)",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Changes in STAI state anxiety and PANAS positive and negative affect scores were calculated by subtracting the pre-condition score from the post-condition score daily for each participant. Participants were assumed to have completed the breathing protocol if they had filled out the pre- and post-measures for a particular day. Average daily change scores were calculated by averaging the daily changes in state anxiety and PANAS scores of each participant over the number of days they followed the protocol, then averaging this across all subjects within a group. For each group, average daily post-scores per person were compared to average daily prescores with a paired Wilcoxon test to assess if there was a significant change between pre- and post-conditions. A mixed-effects modeling approach was used to compare changes across groups (Figure 2). Daily change between pre and post protocol for each subject was used as the main unit for modeling. All variables were centered by subtracting the mean before feeding into the model. The cumulative day variable was centered at day 28. Data processing was performed in R and linear mixed-effects modeling was conducted using the ''fitlme'' function in MATLAB.",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "Baseline and follow-up measures (STAI trait anxiety, PROMIS sleep-related daytime disturbance)",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Changes in both trait anxiety and sleep-related daytime disturbance were calculated by subtracting the pre-score from the postscore and compared across groups with unpaired Wilcoxon test. Pre-scores were also compared to post-scores within each group with a paired Wilcoxon test.",
+   "page": 15
+  },
+  {
+   "label": "section_header",
+   "text": "ADDITIONAL RESOURCES",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "This trial was retrospectively registered (NCT05304000).",
+   "page": 15
+  }
+ ]
+}

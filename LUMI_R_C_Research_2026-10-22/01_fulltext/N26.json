@@ -1,0 +1,828 @@
+{
+ "paper_id": "N26",
+ "source": "N26_2025_Bolzenk_tter_Impact_of_a_Momentary_Mindfulness_Intervention_on_Rumination_Negative.pdf",
+ "pages": 13,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "RESEARCH",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Impact of a Momentary Mindfulness Intervention on Rumination, Negative Affect, and their Dynamics in Daily Life",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Teresa Bolzenkötter 1,3 · Andreas B. Neubauer 2 · Peter Koval 3",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Received: 19 March 2024 / Accepted: 24 December 2024 / Published online: 24 January 2025 © The Author(s) 2025",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Rumination and negative affect are mutually reinforcing experiences. Their dynamic relation can confer vulnerability to psychopathology. Cultivating mindfulness has been proposed to buffer against such downward spirals of negativity. However, it remains unclear whether practicing mindfulness in daily life causally impacts rumination, negative affect, and their dynamics. We investigated this using a micro-randomized intensive longitudinal trial. Participants (N = 91) were prompted eight times per day for 10 days using a smartphone app. At each prompt, participants were randomized to complete a brief mindfulness intervention or an active-control task and then reported levels of rumination and negative affect. Results of dynamic structural equation models showed that the mindfulness intervention led to lower levels of rumination and negative affect but that it had no reliable impact on their dynamics. Thus, cultivating mindfulness in daily life may be a promising approach for decreasing rumination and negative affect but not their dynamical relation.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords Mindfulness · Rumination · Negative affect · Micro-randomized trial · Ambulatory assessment",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Rumination is a common form of repetitive negative thinking involving persistent distressing thoughts (Martin & Tesser, 2006; Nolen-Hoeksema et al., 2008). Not only is rumination unpleasant, it is theorized to serve as a transdiagnostic risk factor for mental disorders, such as depression (Ehring & Watkins, 2008; Kircanski et al., 2015; McEvoy et al., 2013). One key mechanism through which rumination may confer vulnerability to psychopathology is via its dynamical association with negative affect (NA). That is, rumination increases unpleasant feelings (e.g., sadness, anxiety, anger) which, in turn, predict more ruminative thinking (e.g., Blanke et al., 2022; Moberly & Watkins, 2008), leading to a mutually reinforcing cycle (Garland et al., 2010; Selby et al., 2016). From a dynamical systems perspective, stronger reciprocal associations among rumination and NA may amplify the impact of stressors, such that even relatively mild events can have considerable and persistent psychological effects, potentially hastening an individual's transition into psychopathology (e.g., Wichers et al., 2015). Consistent with this, Stefanovic et al. (2021) found that individuals who showed a stronger association between rumination and NA in daily life were at higher risk of developing depressive symptoms over the following three months. Moreover, rumination and NA each have their own temporal persistence, or inertia, independent of their reciprocal associations (Bean et al., 2020; Blanke et al., 2022). Higher inertia of rumination (Bean et al., 2020, 2021) and NA (Houben et al., 2015) have also both been linked with psychopathology. Thus, the mutually and self-reinforcing dynamics of rumination and NA may have important mental health implications, making them an important target for interventions.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Handling Editor: Joseph Mikels",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "Peter Koval p.koval@unimelb.edu.au",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "1 Freie Universität Berlin, Berlin, Germany",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "2 RWTH Aachen University, Aachen, Germany",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "3 University of Melbourne, Melbourne, Australia",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness-based interventions, which typically involve the cultivation of purposeful, curious, non-judgmental, or non-reactive momentary awareness (Kabat-Zinn & Hanh, 2009; Van Dam et al., 2018), are promising candidates for reducing rumination and negative affect and for interrupting the reinforcing dynamics among rumination and NA. Mindfulness is thought to exert its beneficial effects by cultivating non-judgmental awareness of one's cognitive and affective experiences (Segal et al., 2002). This, in turn, is theorized to reduce the likelihood of automatic and potentially detrimental reactions to one's experiences, such as rumination, which is known to prolong and intensify negative affect (Segal et al., 2002). Thus, by helping to decouple negative feelings/thoughts from perseverative meta-cognitions (e.g., thinking \"why do I always react this way?\"), mindfulness may reduce the reciprocal relation between negative affect and rumination.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Evidence that mindfulness may reduce rumination, NA, and their reciprocal association, has been observed both in the lab and in daily life. For example, a meta-analysis of lab experiments showed that inducing state mindfulness reliably reduced rumination and NA (Leyland et al., 2019). Wellcontrolled lab experiments permit strong causal inferences about the effects of mindfulness on cognitive and affective processes. However, experiments often lack ecological validity, making it unclear whether effects observed in the lab generalize to daily life.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Ambulatory assessment, including the experience sampling method (ESM), allows researchers to investigate how mindfulness influences spontaneous thoughts and feelings in daily life. Previous ESM studies have found that mindfulness was associated with lower levels of rumination and NA, either by measuring natural fluctuations in state mindfulness (Blanke et al., 2018, 2020; Brown & Ryan, 2003), or randomizing individuals to a mindfulness versus control intervention (Bolzenkötter et al., 2024; Rowland et al., 2020). Moreover, a few studies suggest that mindfulness might also moderate the temporal dynamics of these experiences. For example, Blanke et al. (2020) reported that the within-person association between rumination and NA was attenuated at times when people reported higher levels of mindfulness in daily life. Other studies have also linked trait mindfulness with lower inertia of NA (Keng & Tong, 2016; Rowland et al., 2020). In sum, a handful of ESM studies have demonstrated that mindfulness may influence levels and temporal dynamics of rumination and NA in daily life.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "However, there is still a dearth of studies experimentally manipulating mindfulness and assessing its effects on immediate experiences and their dynamics in daily life. It thus remains unclear whether cultivating mindful states could lead to less unpleasant thoughts and feelings in the moment and/or interrupt their mutually and self-reinforcing dynamics. Importantly, no previous studies have investigated the within-person causal effects of mindfulness on rumination and NA in daily life.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The within-person effect of an intervention represents the degree to which an individual reports more or less of an outcome on occasions when they are (vs. are not) exposed to that intervention. From a theoretical perspective, withinperson effects directly operationalize how psychological processes are hypothesized to unfold over time, within individuals, following changes to a person's internal/external environment (Bolger & Laurenceau, 2013). In contrast, between-person effects in traditional randomized controlled trials (RCTs) compare an outcome among different individuals randomized to a treatment vs. a control condition. Although traditional RCT designs can be used to estimate the average (within-person) causal effect of an intervention across individuals, this only applies \"in aggregate\" or under the (rather unrealistic) assumption that the causal effect is identical for all individuals (Rohrer & Murayama, 2023). Importantly, within-person effects are not necessarily identical to between-person effects (Molenaar, 2004) and the extent to which a within-person effect will translate into a corresponding between-person effect depends on various factors that need to be empirically investigated (Neubauer et al., 2024).",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "The Present Study",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "We aimed to fill this gap by investigating the within-person causal effects of a brief momentary mindfulness intervention on rumination, NA, and their dynamics in daily life. We analyzed data from the Momentary Mindfulness and Everyday Emotion (MMEE) study, in which participants were randomized to complete either a mindfulness intervention or an active-control task eight times per day for 10 days, using a smartphone app. Unlike a traditional RCT, where participants are randomized to an intervention or control group, the MMEE study adopted a micro-randomized design, in which each participant received both intervention and control at different occasions (Klasnja et al., 2015; Qian et al., 2022). In such designs, each person serves as their own control, allowing us to estimate within-person causal effects of mindfulness on psychological experience. Immediately after completing the mindfulness intervention or active-control task, participants reported their levels of rumination and NA. Drawing on the literature reviewed above, we hypothesized that, relative to the active-control task, completing the mindfulness intervention would lead to (i) lower levels of rumination (H1) and NA (H2); (ii) weaker within-person effects of rumination on NA (H3) and NA on rumination (H4); and (iii) weaker temporal persistence (i.e., inertia) of rumination (H5) and NA (H6).",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Method",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The MMEE study was approved by the University of Melbourne Human Research Ethics Committee (No. HREC No. 2056669.2). Participants completed the study in five batches (approximately 20-30 people per batch) between June 11th and August 22nd, 2020. Thus, data collection took place during the COVID-19 pandemic, when rumination and negative affect may have been particularly prevalent. All participants gave informed consent and were reimbursed up to £75.50, with reimbursement partly tied to ESM compliance (for details, see https://osf.io/cdaxb).",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Participants",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Our final sample comprised 91 Australian residents, whose mean age was 29.2 years (SD = 8.99) and of whom 51.6% were female (46.2% male, 2.2% other). Our sample can be considered a convenience sample: participants were recruited via the online research platform Prolific (www. prolific.co) and enrolled in a study investigating how brief mindfulness training impacts everyday emotions. To be eligible, participants were required to (1) be aged at least 18 years; (2) be fluent in English; (3) have a smartphone running Android or iOS; (4) have normal or corrected-tonormal vision; (5) have no hearing loss/difficulties; and (6) have no untreated mental health conditions impacting their daily functioning. See Supplemental Material for divergence of this inclusion criteria from the original pre-registration as well as for additional demographic characteristics.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "After initially recruiting 146 participants, 28 participants did not commence the ESM phase (due to technical reasons or voluntarily withdrawal). Additionally, 21 participants whose compliance with the ESM protocol or the intervention was low were excluded during data collection (for detailed exclusion criteria, see https://osf.io/cdaxb). Finally, after inspecting the data, we excluded six more participants with low intervention compliance who had not been previously excluded during data collection. We report supplemental analyses using all available data, including from these six participants, which support identical conclusions. We retained data from two additional participants with low ESM compliance who were not excluded during data collection. Flow of participants is included in Figure S1 in the Supplemental Material.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Sample Size and Power",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Based on Schultzberg and Muthen's (2018) guidelines for power in DSEM, we originally aimed to recruit a sample of N = 150 participants sampled at T = 80 occasions to obtain a sufficiently large sample even after participant attrition, exclusions, and missing data. Due to time and funding constraints, we stopped data collection after recruiting 146 participants. After exclusions and attrition (described above), our final sample size comprised N = 91 participants each with approximately T = 63 complete ESM surveys. Given that this is likely underpowered for detecting between-person and/or cross-level interaction effects (Schultzberg & Muthén, 2018), we decided to focus exclusively on withinperson effects in the current report. Schultzberg and Muthen's (2018) findings indicate that within-person parameters can be estimated with low relative bias and good coverage with N and T between 50 and 75, which our final sample fulfills. Finally, we ran a power analysis using Murayama et al.'s (2022) online multilevel power calculator to estimate whether our final sample was sufficient to detect within-person interaction effects of similar magnitude as reported by Blanke et al. (2020). This analysis indicated that a Level-2 sample of N = 90 would be sufficient to yield 80% power of detecting a within-person effect equivalent to the smallest significant interaction effect observed by Blanke et al. (2020) (i.e., Study 1: rumination x mindful-attention predicting NA: Est. = -.05, SE = .02, t = -2.5, Level-2 N = 70). Thus, our final sample size (N = 91) was adequately powered to detect within-person effects of similar magnitude as those reported by Blanke et al. (2020).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Experimental Design",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "This study adopted a novel cross-classified experimental design, whereby the mindfulness intervention was randomized at each occasion (within persons), whereas the probability of receiving the intervention (vs. active-control task) was randomly assigned between persons and between occasions. We adopted this design to allow estimation of within-person, between-person, and between-occasion causal effects. However, as preliminary analyses indicated negligible between-occasion variance in our outcomes (see Supplemental Material), we opted to estimate two-level (rather than cross-classified) models. Moreover, as discussed above, given our final sample comprised N = 91 participants, we were likely underpowered to detect between-person effects and thus our analyses focus exclusively on withinperson effects. However, our analytic approach (detailed below) accounts for between-person differences by modeling random effects for all within-person parameters. For more detail about the study design and a discussion of statistical approaches for estimating causal effects using this design, please see Neubauer et al. (2024).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Materials and Procedure",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Baseline Session",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Two days prior to the ESM phase, participants completed an online baseline session, during which they provided informed consent, reported basic demographic information (e.g., age, gender, education, ethnicity), and their previous meditation experience and practice frequency (see Table 1). Our sample can be considered relatively young and highly educated. Additionally, they completed several validated retrospective questionnaires that were not analyzed as part of this study (see https://osf.io/cdaxb).",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Demographic information as well as experience and current practice of meditation",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "ESM Phase",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "One day prior to the ESM phase (i.e., day after baseline), participants installed the ESM smartphone app, SEMA3 (O'Brien et al., 2024), and watched videos with detailed instructions about how to use SEMA3, and explaining the content of the ESM survey as well as the mindfulness intervention and active-control tasks. That evening, participants received two practice ESM surveys, which were excluded from analyses.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The ESM phase began the next day. Over the following 10 days, participants received eight ESM surveys per day scheduled between 9:00 a.m. and 8:40 p.m. following a stratified random-interval scheme (approximately one survey every 90 min). ESM surveys expired after 40 min to ensure no overlap between successive surveys (see https:// osf.io/cdaxb for more detail on the ESM protocol).",
+   "page": 4
+  },
+  {
+   "label": "table",
+   "text": "| Age in years (M, SD)              |                                                  | 29.2 (8.99)   |\n|-----------------------------------|--------------------------------------------------|---------------|\n| Gender (n, %)                     |                                                  |               |\n|                                   | female                                           | 47 (51.6)     |\n|                                   | male                                             | 42 (46.2)     |\n|                                   | other                                            | 2 (2.2)       |\n| Ethnicity (n, %)                  |                                                  |               |\n|                                   | Caucasian                                        | 60 (65.9)     |\n|                                   | Asian                                            | 25 (27.5)     |\n|                                   | Aboriginal or Torres Strait Islander             | 0 (0)         |\n|                                   | African or African American                      | 1 (1.1)       |\n|                                   | Middle Eastern                                   | 1 (1.1)       |\n|                                   | Hispanic                                         | 0 (0)         |\n|                                   | other                                            | 4 (4.4)       |\n| Education (n, %)                  |                                                  |               |\n|                                   | did not complete high school                     | 0 (0)         |\n|                                   | high school                                      | 19 (20.9)     |\n|                                   | trade, technical or vocational training          | 11 (12.1)     |\n|                                   | bachelor degree                                  | 43 (47.3)     |\n|                                   | postgraduate degree                              | 18 (19.8)     |\n| Experience with meditation (n, %) |                                                  |               |\n|                                   | I have practiced meditation for a year or longer | 2 (2.2)       |\n|                                   | I have practiced meditation for 1-12 months      | 4 (4.4)       |\n|                                   | I have practiced meditation for 1-4 weeks        | 6 (6.6)       |\n|                                   | I have tried meditation a few times              | 56 (61.5)     |\n|                                   | I have no previous experience with meditation    | 23 (25.3)     |\n| Practicing meditation (n, %)      |                                                  |               |\n|                                   | no                                               | 70 (76.9)     |\n|                                   | yes, occasionally                                | 16 (17.6)     |\n|                                   | yes, weekly                                      | 3 (3.3)       |\n|                                   | yes, daily or more                               | 2 (2.2)       |",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "M mean, SD standard deviation, n number of participants, % percent of participants",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness Intervention and Active-Control Task At each ESM survey, participants were randomly assigned to complete either a mindfulness intervention or an active-control task, which each involved listening to a short audio track hosted on Soundcloud.com. For the mindfulness intervention (https://soundcloud.com/momentary-mindfulness/ task-one), we used a freely available recording of Williams and Penman's (2011) \"Three Minute Breathing Space\", an audio-guided mindfulness meditation exercise lasting 3 min and 22 s. The exercise invited participants to attend to their thoughts and feelings, and especially to the sensation of their breathing, with openness and curiosity. The active-control task (https://soundcloud.com/momentary-mindfulness/tasktwo) was an audio clip containing neutral background sound (ambient recordings of public places, such as cafes), which we edited to be approximately equivalent to the mindfulness intervention in terms of duration and audio profile",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "(i.e., volume, number of silences, etc.). We included the active-control task to determine if any observed effects of the mindfulness intervention were simply due to the possible distracting effects of interrupting current thoughts/activities by listening to a short audio clip. After completing their assigned task, participants were asked to return to SEMA3 and complete several ESM items assessing momentary experiences of negative affect and rumination; these allowed us to investigate the acute impact of each brief mindfulness intervention.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "ESM Items ESM surveys included a total of 15 items, all rated on slider scales from 0 (not at all) to 100 (very much). Below, we describe the eight ESM items relevant to the current study (see https://osf.io/cdaxb for details of other ESM items). The first three ESM items assessed rumination and mindfulness experiences during the intervention (or activecontrol) task. These items were presented in a random order at each ESM survey.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Rumination We assessed state rumination using the item \"Over the last few minutes, did you find yourself getting stuck on your feelings and problems?\" This item is similar to Kircanski et al.'s (2015) measure of state rumination. Our item differs from Kircanski et al.'s in terms of the timeframe (\"over the last few minutes\") as well as the phrase \"getting stuck on\", which we included to capture the core ruminative feature of uncontrollability (Rosenkranz et al., 2020).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness We assessed state mindfulness with two items adapted from the Toronto Mindfulness Scale (Lau et al., 2006) designed to capture the core mindfulness components of curiosity (\"Over the last few minutes, were you curious about each thought/feeling that you had?\") and decentering (\"Over the last few minutes, did you try to accept each thought/feeling you had, whether it was pleasant or unpleasant?\"). For our manipulation check (see below), we combined the two mindfulness items into a state mindfulness composite (r Within = .29; r Between = .71).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Negative Affect After completing the above rumination and mindfulness items, participants rated their momentary positive and negative feelings in response to the item \"Right now, how [adjective] do you feel?\" including five adjectives selected to capture high- and low-activation NA, as conceptualized in affective circumplex models (Yik et al., 2011): \"sad\", \"stressed\", \"anxious\", \"angry\", and \"depressed\". We averaged each participant's responses to the five negative items at each ESM survey to form an NA scale (ω Within = .79; ω Between = .94).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Data Preparation",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "We prepared data using R version 4.0.5 (R Core Team, 2021). A technical error occurred on Day 1 of the ESM phase for the first batch of participants making these data unusable; we therefore removed these surveys prior to running analyses. Additionally, we considered ESM items completed in less than 750ms as potentially reflecting careless responding (McCabe et al., 2012) and replaced these with missing values. This affected 113 (.19%) of the 57,432 completed ESM items.",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Data Analyses",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "We analyzed data using dynamic structural equation modeling (DSEM; Asparouhov et al., 2018) implemented in Mplus 8.9 (Muthén & Muthén, 1998-2017). DSEM combines structural equation modeling with multilevel timeseries modeling, making it ideally suited for analysis of intensive longitudinal data (Hamaker et al., 2023). DSEM has several benefits over standard multilevel regression as illustrated by McNeish and Hamaker (2020).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "DSEM uses latent centering to decompose observed variables into between- and within-person components. The between-person component represents trait-like mean levels of observed variables, whereas the within-person component represents dynamic deviations of observed variables around their stable mean levels. The latter were of primary interest to us as our hypotheses concerned within-person dynamic effects. Consequently, we describe only the within-person parts of our DSEM models in detail below. We include full model diagrams depicting latent variable decomposition and within-, and between-person models in the Supplemental Material (see Figures S2-S10).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "We ran two-level models to account for ESM surveys as nested within persons. All within-person parameters were modeled as random effects that could vary between persons. At the between-person level, all random effects were allowed to freely correlate (i.e., we estimated an unstructured covariance matrix). We used Bayesian estimation with Mplus's default uninformative priors and we checked model convergence using posterior scale reduction (PSR) values < 1.05 after 5000 iterations with a thinning factor of 10. When a model did not converge, we re-ran the model with double the iterations and again checked convergence. When a model converged, we also re-ran the model with double the iterations to check that convergence was stable. We report the results of all final models (i.e., with double the number of iterations required to achieve convergence). We considered effects as meaningfully different from zero (i.e., \"significant\") when their 95% credible interval did not include zero. We estimated three models to test our hypotheses. Following Hamaker et al. (2023), we label (cross)-regressive effects of one variable predicting another as Beta ( u1D6FD ), auto-regressive effects of a variable predicting itself as Phi ( u1D719 ), and residual variances as Psi ( u1D713 ). All models were pre-registered prior to conducting analyses (see https://osf.io/jz6bm).",
+   "page": 5
+  },
+  {
+   "label": "section_header",
+   "text": "Model 1: Effect of the Mindfulness Intervention on Rumination and NA Levels",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Model 1 tested the hypotheses that the mindfulness intervention would predict lower levels of rumination (H1) and NA (H2) relative to the active-control task. As shown in Fig. 1, rumination ( RU w t ) and NA ( NA w t ) at occasion t were regressed onto a binary mindfulness intervention variable ( MI w t ; where 1 = mindfulness intervention and 0 = control task delivered at occasion t). The slopes u1D6FDMIRU and u1D6FDMINA represent causal effects of the mindfulness intervention on rumination and NA and therefore tested H1 and H2, respectively (see red shaded parameters in Fig. 1). We also controlled for the autoregressive effects of rumination ( u1D719RURU ) and NA ( u1D719NANA ) by predicting levels of rumination and NA at occasion t by their respective levels at the previous occasion t-1. Lastly, Model 1 included random residual variances for rumination ( u1D713RU ) and NA ( u1D713NA ) reflecting unexplained variance in each outcome after accounting for all predictors.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "Model 2: Effect of the Mindfulness Intervention on the Cross-Regressive Effect of Rumination on NA",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Model 2 tested the hypothesis that the mindfulness intervention would predict a weaker cross-regressive effect of rumination on NA relative to the active control task (H3). As shown in Fig. 2, NA ( NA w t ) at occasion t was regressed onto rumination at occasion t ( RU w t ), the mindfulness intervention at occasion t ( MI w t ), and their product ( MI t ∗ RU w t ) representing the interaction between the mindfulness intervention and rumination. The slope u1D6FDMI∗RUNA represents the causal effect of the mindfulness intervention on the crossregressive effect of rumination on NA and therefore tested H3 (see red shaded parameter in Fig. 2). Note that although NA is predicted by rumination measured at the same occasion (t), we consider rumination to be conceptually lagged because participants reported their rumination \"over the last few minutes\". In contrast, participants reported their NA \"right now\" at each occasion t. Therefore, following Hamaker et al. (2023), we modelled how rumination predicted NA using a so-called lag-0 cross-regressive effect, rather than a lag-1 effect. A recent simulation study suggests that this approach is a valid way of modelling causal effects among conceptually lagged and momentary variables (Luo & Hu, 2023). As in the previous model, we included autoregressive effects and residual variances for rumination and NA.",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1 Within-person model investigating the effect of the mindfulness intervention on levels of rumination and NA. Note. The filled circles indicate that the parameters are random. RU = rumination, NA = negative affect, MI = mindfulness intervention, w = withinperson component of DSEM model, u1D719RURU = autoregressive effect",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "of rumination, u1D719NANA = autoregressive effect of NA, u1D6FDMIRU = effect of mindfulness intervention at t on rumination at t, u1D6FDMINA = effect of mindfulness intervention at t on NA at t,u1D713RU = residual variance of rumination,u1D713NA = residual variance of NA. H1 = hypothesis 1, H2 = hypothesis 2",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2 Within-Person model investigating the effect of the mindfulness intervention on the cross-regressive effect of rumination on NA. Note. The filled circles indicate that the parameters are random. RU = rumination, NA = negative affect, MI = mindfulness intervention, w = within-person component of DSEM model, u1D719RURU = autoregressive effect of rumination, u1D719NANA = autoregressive effect of NA,",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "u1D6FDRUNA = cross-regressive effect of rumination at t on NA at t, u1D6FDMINA = effect of mindfulness intervention at t on NA at t, u1D6FDMI∗RUNA = effect of the mindfulness intervention at t on the cross-regressive effect of rumination at t on NA at t, u1D713RU = residual variance of rumination,u1D713NA = residual variance of NA",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Model 3: Effect of the Mindfulness Intervention on the Cross-Regressive Effect of NA on Rumination and on the Autoregressive Effects of Rumination and NA",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Model 3 tested the hypothesis that, relative to the activecontrol task, the mindfulness intervention would weaken the cross-regressive effect of NA on rumination (H4), as well as the temporal persistence of rumination (H5) and NA (H6). As shown in Fig. 3, we regressed rumination at occasion t ( RU pmc t ) onto NA at the previous occasion t-1 ( NA pmc t-1 ), the mindfulness intervention at occasion t ( MI pmc t ) and their product ( MI t ∗ NA pmc t-1 ). The slope u1D6FDMI∗NARU represents the effect of the mindfulness intervention on the cross-regressive effect of NA on rumination and therefore tested H4 (see red shaded parameter in Fig. 3).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "As in the previous models, we included autoregressive effects and residual variances for rumination and NA. Finally, to test hypotheses H5 and H6, we included interactions between the mindfulness intervention at occasion t and lagged rumination ( MI pmc t ∗ RU pmc t-1 ) and NA ( MI pmc t ∗ NA pmc t-1 ). Thus, the slopes u1D6FDMI∗RURU and u1D6FDMI∗NANA represent effects of the mindfulness intervention on the autoregressive effects of rumination and NA (testing H5 and H6, respectively; see red shaded parameters in Fig. 3). Because latent centering is currently not possible when modelling within level interactions that include lagged variables, we entered observed mean-centered predictors in Model 3, represented as rectangles in Fig. 3 (see Supplemental Material for more details).",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Results",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "For all analyses, we report unstandardized fixed effects (medians of the posterior distribution for each parameter) and their 95% credible intervals. For our main analyses we also report within-person standardized parameter estimates in Tables S2-S4 in the Supplemental Material.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Preliminary Analyses",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Descriptive Statistics",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Participants answered an average of 79.2% (SD = 13.5, range = 33.3-98.8) of all delivered ESM surveys, yielding a total of 5,691 completed ESM surveys. On average, participants were randomized to complete the mindfulness intervention (vs. active-control task) on 49.8% (SD = 15, range = 17.6-87.2) of all completed ESM surveys. Participants spent the required three minutes listening to the audio tasks on 90.7% (SD = 9.67, range = 62.0-100) of completed surveys, on average. We checked this compliance with the audio tasks by inspecting the reaction time to the item during which participants were supposed to complete the audio task. Preliminary null models indicated that, on average, participants reported moderate levels of rumination and state mindfulness, but relatively low levels of NA across the ESM phase (see Table 2). All ESM measures showed substantial variation within and between persons, with ICCs between .48 and .67.",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3 Within-Person model investigating the effect of the mindfulness intervention on the cross-regressive effect of NA on rumination and the autoregressive effects of rumination and NA. Note. The filled circles indicate that the parameters are random. RU = rumination, NA = negative affect, MI = mindfulness intervention, w = within-person component of DSEM model, pmc = observed person-mean centered, u1D719RURU = autoregressive effect of rumination, u1D719NANA = autoregressive effect of NA, u1D719NARU = cross-regressive effect of NA at t-1",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "on rumination at t, u1D6FDMIRU = effect of mindfulness intervention at t on rumination at t, u1D6FDMINA = effect of mindfulness intervention at t on NA at t, u1D6FDMI∗NARU = effect of the mindfulness intervention on the crossregressive effect of NA at t-1 on rumination at t, u1D6FDMI∗RURU = effect of the mindfulness intervention at t on the autoregressive effect of rumination, u1D6FDMI∗NANA = effect of the mindfulness intervention at t on the autoregressive effect of NA, u1D713RU = residual variance of rumination, u1D713NA = residual variance of NA",
+   "page": 8
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 Descriptive statistics for ESM measures",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Manipulation Check",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "We tested whether the mindfulness intervention induced higher levels of state mindfulness by regressing state mindfulness at each occasion t onto the mindfulness intervention variable at each occasion t (see Supplemental Material for detailed model and results). This analysis indicated that the mindfulness intervention was successful in inducing increases in state mindfulness: On average, participants reported significantly higher mindfulness after completing the mindfulness intervention versus the activecontrol task (b = 3.38, 95% CI = [2.39, 4.36]). Neubauer",
+   "page": 8
+  },
+  {
+   "label": "table",
+   "text": "|                   | M                    | SD W                 | SD B                 | ICC            |\n|-------------------|----------------------|----------------------|----------------------|----------------|\n| Rumination        | 36.06 [32.55, 39.95] | 18.59 [18.26, 18.93] | 17.89 [15.21, 20.67] | .48 [.41, .56] |\n| Negative Affect   | 17.04                | 10.34 [10.18, 10.53] | 14.69 [12.49, 16.94] | .67 [.60,      |\n|                   | [14.22, 20.32]       | 13.35                | 17.39                | .73]           |\n| State mindfulness | 52.02                |                      |                      | .63            |\n|                   | [48.58, 55.77]       | [13.11, 13,60]       | [14.97, 20.19]       | [.56, .70]     |",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Descriptive statistics are based on null models estimated in Mplus. M mean, SD W within-person standard deviation, SD B between-person standard deviation, ICC intraclass correlation, which represents the ratio of between-person to total variation for each measure. Values in square brackets are 95% Bayesian credibility intervals",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "et al. (2024) provide additional findings on the effects of the intervention on state mindfulness. For instance, they report that the extent to which participants' state mindfulness increased via each intervention was unrelated to how often they received the intervention.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Main Analyses",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Model 1",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Results of Model 1 (see Table 3) showed that the average effect of the mindfulness intervention on rumination was CI credible interval, RU rumination, NA negative affect, MI mindfulness intervention, u1D719RURU autoregressive effect of rumination, u1D719NANA autoregressive effect of NA, u1D6FDMIRU effect of mindfulness intervention at t on rumination at t; u1D6FDMINA effect of mindfulness intervention at t on NA at t, u1D713RU log transformed residual variance of rumination,u1D713NA log transformed residual variance of NA",
+   "page": 8
+  },
+  {
+   "label": "table",
+   "text": "Table 3 Unstandardized fixed effects (median) from model 1\nTable 3 Unstandardized fixed effects (median) from model 1\n\n| Parameters                          | Estimate                            |   95% CI - Lower |   Upper |\n|-------------------------------------|-------------------------------------|------------------|---------|\n| RU intercept                        | 36.016                              |           32.308 |  39.777 |\n| NA intercept                        | 15.875                              |           13.481 |  18.201 |\n| Autoregressive effects              |                                     |                  |         |\n| u1D719RURU                          | 0.204                               |            0.152 |   0.256 |\n| u1D719NANA                          | 0.375                               |            0.317 |   0.432 |\n| Effects of mindfulness intervention | Effects of mindfulness intervention |                  |         |\n| u1D6FDMIRU                          | -2.713                              |           -3.986 |  -1.455 |\n| u1D6FDMINA                          | -1.203                              |           -1.725 |  -0.696 |\n| Log residual variances              | Log residual variances              |                  |         |\n| u1D713RU                            | 5.407                               |            5.243 |   5.568 |\n| u1D713NA                            | 3.886                               |            3.653 |   4.112 |",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Table 3 Unstandardized fixed effects (median) from model 1",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "significantly negative (see u1D6FDMIRU slope). Thus, consistent with H1, participants reported levels of rumination that were approximately 2.7 points lower (on a 0-100 scale) after completing the mindfulness intervention as compared with the active-control task. Similarly, consistent with H2, the effect of the mindfulness intervention on NA was significantly negative (see u1D6FDMINA slope), implying that participants reported levels of NA that were approximately 1.2 points lower after completing the mindfulness intervention as compared with the active-control task.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Model 2",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Results of Model 2 (see Table 4) showed that the mindfulness intervention did not significantly moderate the crossregressive effect of rumination on NA (see u1D6FDMI∗RUNA slope). Thus, contrary to H3, the mindfulness intervention did not weaken the effect of rumination on NA. In fact, contrary to our hypothesis, the standardized estimate of u1D6FD MI*RUNA was significant and positive (Est. = 0.082, 95% CI = [0.026, 0.143]), suggesting that the mindfulness intervention may have strengthened the effect of rumination on NA (see Table S3 in the Supplemental Material for full standardized model results). As we discuss further below, we urge caution in interpreting this effect given the discrepancy between its raw and standardized estimates.",
+   "page": 9
+  },
+  {
+   "label": "table",
+   "text": "Table 4 Unstandardized fixed effects (median) from model 2\nTable 4 Unstandardized fixed effects (median) from model 2\n\n| Parameters                           | Estimate                             | 95% CI - Lower   |   Upper |\n|--------------------------------------|--------------------------------------|------------------|---------|\n| RU intercept                         | 35.962                               | 32.318           |  39.545 |\n| NA intercept                         | 15.971                               | 13.526           |  18.327 |\n| Autoregressive effects               |                                      |                  |         |\n| u1D719RURU                           | 0.206                                | 0.151            |   0.260 |\n| u1D719NANA                           | 0.317                                | 0.259            |   0.374 |\n| Cross-regressive effects             |                                      |                  |         |\n| u1D6FDRUNA                           | 0.159                                | 0.117            |   0.201 |\n| (Interaction) Effects of mindfulness | (Interaction) Effects of mindfulness | intervention     |         |\n| u1D6FDMINA                           | -1.200                               | -1.834           |   -.588 |\n| u1D6FDMI∗RUNA                        | 0.027                                | -0.011           |   0.065 |\n| Log residual variances               |                                      |                  |         |\n| u1D713RU                             | 5.559                                | 5.405            |   5.710 |\n| u1D713NA                             | 3.738                                | 3.511            |   3.970 |",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Table 4 Unstandardized fixed effects (median) from model 2",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "CI credible interval, RU rumination, NA negative affect, MI mindfulness intervention, u1D719RURU autoregressive effect of rumination, u1D719NANA autoregressive effect of NA, u1D6FDRUNA cross-regressive effect of rumination at t on NA at t, u1D6FDMINA effect of mindfulness intervention at t on NA at t, u1D6FDMI∗RUNA effect of the mindfulness intervention at t on the cross-regressive effect of rumination at t on NA at t, u1D713RU log transformed residual variance of rumination, u1D713NA log transformed residual variance of NA",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Model 3",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Results of Model 3 (see Table 5) showed that the mindfulness intervention did not significantly moderate the crossregressive effect of NA on rumination (see u1D6FDMI∗NARU slope). Thus, contrary to H4, previous NA was not less strongly associated with rumination when the mindfulness intervention was completed as compared to the active-control task. Similarly, the mindfulness intervention did not significantly moderate the autoregressive effects of rumination or NA (see u1D6FDMI∗RURU and u1D6FDMI∗NANA slopes, respectively). Thus, contrary to H5 and H6, rumination and NA were not less persistent when the mindfulness intervention was completed as compared to the active-control task.",
+   "page": 9
+  },
+  {
+   "label": "section_header",
+   "text": "Supplemental Analyses",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "We ran a series of additional analyses designed to test the robustness of our main findings, by (1) varying our approach of dealing with intervention non-compliance, (2) varying our approach of dealing with unequal time intervals, and (3) including random residual covariances among outcome variables. Models with these alternative specifications resulted in very similar findings supporting the same conclusions as CI credible interval, RU rumination, NA negative affect, MI mindfulness intervention, u1D719RURU autoregressive effect of rumination, u1D719NANA autoregressive effect of NA, u1D719NARU cross-regressive effect of NA at t-1 on rumination at t, u1D6FDMIRU effect of mindfulness intervention at t on rumination at t, u1D6FDMINA effect of mindfulness intervention at t on NA at t, u1D6FDMI∗NARU effect of the mindfulness intervention at t on the cross-regressive effect of NA at t-1on rumination at t, u1D6FDMI∗RURU effect of the mindfulness intervention at t on the autoregressive effect of rumination,u1D6FDMI∗NANA effect of the mindfulness intervention at t on the autoregressive effect of NA, u1D713RU log transformed residual variance of rumination, u1D713NA log transformed residual variance of NA",
+   "page": 9
+  },
+  {
+   "label": "table",
+   "text": "Table 5 Unstandardized fixed effects (median) of model 3\nTable 5 Unstandardized fixed effects (median) of model 3\n\n| Parameters                                        | Estimate                                          | 95% CI - Lower                                    |   Upper |\n|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------|\n| RU intercept                                      | 36.009                                            | 31.704                                            |  40.503 |\n| NA intercept                                      | 17.003                                            | 13.462                                            |  20.557 |\n| Autoregressive effects                            |                                                   |                                                   |         |\n| u1D719RURU                                        | 0.156                                             | 0.100                                             |   0.210 |\n| u1D719NANA                                        | 0.338                                             | 0.276                                             |   0.397 |\n| Cross-regressive effects                          |                                                   |                                                   |         |\n| u1D719NARU                                        | 0.159                                             | 0.117                                             |   0.201 |\n| (Interaction) Effects of mindfulness intervention | (Interaction) Effects of mindfulness intervention | (Interaction) Effects of mindfulness intervention |         |\n| u1D6FDMIRU                                        | -4.181                                            | -6.713                                            |  -1.713 |\n| u1D6FDMINA                                        | -1.518                                            | -2.491                                            |  -0.629 |\n| u1D6FDMI∗NARU                                     | 0.041                                             | -0.142                                            |   0.230 |\n| u1D6FDMI∗RURU                                     | 0.014                                             | -0.085                                            |   0.114 |\n| u1D6FDMI∗NANA                                     | 0.010                                             | -0.081                                            |   0.103 |\n| Log residual variances                            |                                                   |                                                   |         |\n| u1D713RU                                          | 5.451                                             | 5.255                                             |   5.638 |\n| u1D713NA                                          | 3.942                                             | 3.660                                             |   4.205 |",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "Table 5 Unstandardized fixed effects (median) of model 3",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "our main analyses. Further details and model results from these additional analyses are provided in the Supplemental Material (see Table S5-S7).",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Mindfulness interventions are often promoted as helpful in alleviating psychological distress and interrupting mutually and self-reinforcing dynamic associations among negative thoughts and feelings. However, previous studies were not able to test the within-person causal effect of engaging in brief mindfulness exercises in daily life on rumination, NA, and their dynamics. We investigated this possibility using a micro-randomized trial, in which participants received a mindfulness intervention and an active-control task at random moments in their daily lives and then reported their experiences of rumination and NA.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Results of our first model revealed that the mindfulness intervention predicted lower levels of rumination and NA, consistent with our hypotheses and with results of previous observational ESM studies (Blanke et al., 2018,",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "2020; Brown & Ryan, 2003). Due to random assignment of the mindfulness intervention (vs. active-control task) at each occasion, our findings extend upon previous research by providing the first evidence of a within-person causal effect of mindfulness on rumination and NA in daily life. Previous studies have combined experimental designs with ESM to study the causal impact of mindfulness on daily life psychological experience (e.g., Bolzenkötter et al., 2024; Rowland et al., 2020). However, these studies randomized individuals, not measurement occasions, to a mindfulness (vs. control) intervention. Results of previous ESM studies therefore represent between-person effects of mindfulness, which cannot necessarily be generalized to the within-person level (Molenaar, 2004; Neubauer et al., 2024).",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "However, contrary to our hypotheses, we found no consistent evidence that the mindfulness intervention influenced the temporal dynamics of rumination and NA. Specifically, results of our second model were inconsistent with our prediction that mindfulness would weaken the cross-regressive effect of rumination on NA. This also diverges from the results of Blanke et al.'s (2020) observational ESM study. In fact, standardized estimates from our second model suggest that the mindfulness intervention may have strengthened the cross-regressive effect of rumination on NA. To understand this unexpected finding, consider that the standardized results are based on within-person standardized variables, which explicitly remove between-person differences in means and variances. This suggests that between-person differences in variability of rumination and/or NA may have reduced the reliability of the unstandardized interaction effect, which was also positive but had a 95% CI that crossed zero (compare Rowland et al., 2020 for a similar divergent finding between standardized and non-standardized results). In sum, although we urge caution in interpreting the positive standardized interaction effect, we can be relatively confident that our results do not support the prediction that inducing mindfulness weakens the effect of rumination on NA.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Finally, results of our third model were inconsistent with our hypotheses that the mindfulness intervention would weaken the effect of NA on subsequent rumination, as well as the inertia of rumination and NA. Note, however, that unlike the first two models, here we estimated lagged effects across successive ESM surveys. Thus, our findings suggest that the mindfulness intervention did not impact how much previous experiences of NA predicted themselves or rumination across a time interval of roughly 90 min. This may be explained by the relatively long timespan between consecutive measurement occasions surveys combined with the brevity of the mindfulness intervention. We note, however, that our findings are consistent with Rowland et al. (2020), who found no within-person moderating effect of momentary mindfulness on NA inertia.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Limitations and Future Directions",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Our study has limitations that may be addressed by future research. First, participants completed both the mindfulness intervention and control tasks in our study. This may have induced a demand effect whereby participants expected the mindfulness intervention to be more effective. This is less of an issue in between-person experimental designs, where participants are randomized to either a treatment or control condition. Future studies using within-person designs could mitigate this concern by attempting to equalize participants' expectations about the effectiveness of the mindfulness and control interventions.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Second, we compared a brief mindfulness intervention with a control task comprising neutral background noise. Thus, our findings might not generalize to other forms of mindfulness practice or to other control tasks. For example, Bolzenkötter et al. (2024) found that a detached mindfulness intervention and a guided-imagery control task - matched with the mindfulness task on all features except mindfulness-specific content -had comparable effects on rumination and NA in daily life. This challenges the specific role of mindfulness as the mechanism of action, leaving open the possibility that mindfulness-unspecific factors (e.g., expected benefits, distraction) may have accounted for the observed reductions in rumination and NA. In contrast, in the current study, the mindfulness intervention resulted in significantly lower rumination and NA than the control task. Yet, because our two tasks differed on several mindfulnessunspecific dimensions (e.g., no verbal instruction in the control task), we cannot be sure which ingredient(s) of the mindfulness intervention were responsible for the salutary effects we observed.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Thirdly, future studies may also explore the effects of a longer mindfulness intervention or use a denser ESM design with shorter time intervals between measurement occasions. Such designs could reveal more fleeting effects of mindfulness on the dynamics of psychological experience, which did not emerge in the current study.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Lastly, other characteristics of our study may limit the generalizability of our findings. Data were collected during the COVID-19 pandemic and our sample can be considered relatively young and highly educated. Future research is needed to determine whether our findings generalize to non-pandemic times and among other, more diverse samples. Additionally, completing the mindfulness intervention and answering ESM surveys might have been more feasible for participants with greater time flexibility (e.g., working or studying from home). Therefore, our findings may not generalize to individuals in less flexible employment or whose life circumstances prevent them from engaging in a brief (mindfulness) exercise several times each day. Finally, our study investigated the immediate effect of one specific brief audio-guided mindfulness intervention. The effects of this intervention may not generalize to more comprehensive mindfulness-based treatment programs, which typically include a variety of different interventions/exercises administered over several weeks. Research on the efficacy of such comprehensive mindfulness programs typically focuses on assessing change in outcomes over longer timescales (i.e., pre- to post-treatment) rather than on the short-term effects of completing a single intervention or exercise.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Conclusion",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "This is the first study to experimentally manipulate participants' state mindfulness in daily life and investigate the within-person impact on levels and temporal dynamics of rumination and NA. Our results suggest that inducing state mindfulness via a brief exercise leads to less rumination and NA in the immediate short-term. Increasing peoples' mindfulness in daily life may therefore have short-term benefits for mental well-being. Our results further suggest that moments of higher state mindfulness do not reliably lead to weaker mutually and self-reinforcing dynamics among rumination and NA. Thus, brief mindfulness practices appear insufficient to disrupt the dynamical relations between rumination and NA.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Acknowledgements We would like to acknowledge Yixia Zheng, Lachlan Anthony, and Tammy Mun Ee Lim for their assistance with design, preparation of materials, and data collection for this study.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Funding Open Access funding enabled and organized by CAUL and its Member Institutions.",
+   "page": 11
+  },
+  {
+   "label": "section_header",
+   "text": "Additional Information",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Funding This work was supported by a Discovery Early Career Researcher Award (DE190100203) from the Australian Research Council awarded to Peter Koval, a grant from the German Research Foundation (DFG; NE 2480/1-1) awarded to Andreas B. Neubauer, and a scholarship by Evangelisches Studienwerk Villigst awarded to Teresa Bolzenkötter.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Conflicts of Interest The authors declare no competing interests.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Data Availability All data, analysis code, and research materials are publicly available at https://osf.io/y3gnt/ (see folder \"Momentary Mindfulness and Rumination\").",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Code Availability Code is available at https://osf.io/y3gnt/ (see folder \"Momentary Mindfulness and Rumination\").",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Author's Contributions TB: Methodology, Formal Analysis, Writing - Original Draft, Writing - Review & Editing; ABN: Methodology, Formal Analysis, Writing - Review & Editing; PK: Conceptualization, Methodology, Investigation, Supervision, Formal Analysis, Writing - Review & Editing.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Ethical Approval The study was approved by the University of Melbourne Human Research Ethics Committee (No. HREC No. 2056669.2).",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Consent to Participate Informed consent was obtained from all individual participants included in the study.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Consent for Publication Not applicable.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Supplementary Information The online version contains supplementary material available at https://doi.org/10.1007/s42761-024-00291-9.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Asparouhov, T., Hamaker, E. L., & Muthén, B. (2018). Dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 25(3), 359-388. https://doi.org/10.1080/10705 511.2017.1406803",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Bean, C. A. L., Heggeness, L. F., Kalmbach, D. A., & Ciesla, J. A. (2020). Ruminative inertia and its association with current severity and lifetime course of depression. Clinical Psychological Science, 8(6), 1007-1016. https://doi.org/10.1177/2167702620 949174",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Bean, C. A. L., Heggeness, L. F., & Ciesla, J. A. (2021). Ruminative inertia, emotion regulation, and depression: A daily-diary study. Behavior Therapy, 52(6), 1477-1488. https://doi.org/10.1016/j. beth.2021.04.004",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Blanke, E. S., Riediger, M., & Brose, A. (2018). Pathways to happiness are multidirectional: Associations between state mindfulness and everyday affective experience. Emotion, 18(2), 202-211. https:// doi.org/10.1037/emo0000323",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Blanke, E. S., Schmidt, M. J., Riediger, M., & Brose, A. (2020). Thinking mindfully: How mindfulness relates to rumination and reflection in daily life. Emotion, 20(8), 1369-1381. https://doi.org/10. 1037/emo0000659",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Blanke, E. S., Neubauer, A. B., Houben, M., Erbas, Y., & Brose, A. (2022). Why do my thoughts feel so bad? Getting at the reciprocal effects of rumination and negative affect using dynamic structural equation modeling. Emotion, 22, 1773-1786. https://doi.org/10. 1037/emo0000946",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Bolger, N., & Laurenceau, J.-P. (2013). Intensive Longitudinal Methods: An Introduction to Diary and Experience Sampling Research. Guilford Press.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Bolzenkötter, T., Bürkner, P.-C., Zetsche, U., & Schulze, L. (2024). Assessing the immediate effects of detached mindfulness on repetitive negative thinking and affect in daily life: A randomized controlled trial. Mindfulness, 15, 1136-1148. https://doi.org/10. 1007/s12671-024-02350-5",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Brown, K. W., & Ryan, R. M. (2003). The benefits of being present: Mindfulness and its role in psychological well-being. Journal of Personality and Social Psychology, 84(4), 822-848. https://doi. org/10.1037/0022-3514.84.4.822",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Ehring, T., & Watkins, E. R. (2008). Repetitive negative thinking as a transdiagnostic process. International Journal of Cognitive Therapy, 1(3), 192-205. https://doi.org/10.1521/ijct.2008.1.3.192",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Garland, E. L., Fredrickson, B., Kring, A. M., Johnson, D. P., Meyer, P. S., & Penn, D. L. (2010). Upward spirals of positive emotions counter downward spirals of negativity: Insights from the Broaden-and-Build Theory and affective neuroscience on the treatment of emotion dysfunctions and deficits in psychopathology. Clinical Psychology Review, 30(7), 849-864. https://doi.org/ 10.1016/j.cpr.2010.03.002",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Hamaker, E. L., Asparouhov, T., & Muthén, B. (2023). Dynamic structural equation modeling as a combination of time series modeling, multilevel modeling, and structural equation modeling. In R. H. Hoyle (Ed.), The handbook of structural equation modeling (2nd Edition). Guilford Press.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Houben, M., Van Den Noortgate, W., & Kuppens, P. (2015). The relation between short-term emotion dynamics and psychological well-being: A meta-analysis. Psychological Bulletin, 141(4), 901-930. https://doi.org/10.1037/a0038822",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Kabat-Zinn, J., & Hanh, T. N. (2009). Full catastrophe living: Using the wisdom of your body and mind to face stress, pain, and illness. Random House Publishing Group.",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Keng, S.-L., & Tong, E. M. W. (2016). Riding the tide of emotions with mindfulness: Mindfulness, affect dynamics, and the mediating role of coping. Emotion, 16(5), 706-718. https://doi.org/10. 1037/emo0000165",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Kircanski, K., Thompson, R. J., Sorenson, J., Sherdell, L., & Gotlib, I. H. (2015). Rumination and worry in daily life: Examining the naturalistic validity of theoretical constructs. Clinical Psychological Science, 3(6), 926-939. https://doi.org/10.1177/2167702614 566603",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Klasnja, P., Hekler, E. B., Shiffman, S., Boruvka, A., Almirall, D., Tewari, A., & Murphy, S. A. (2015). Microrandomized trials: An experimental design for developing just-in-time adaptive interventions. Health Psychology, 34(Suppl), 1220-1228. https://doi.org/ 10.1037/hea0000305",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Lau, M. A., Bishop, S. R., Segal, Z. V., Buis, T., Anderson, N. D., Carlson, L., Shapiro, S., Carmody, J., Abbey, S., & Devins, G. (2006). The toronto mindfulness scale: Development and validation. Journal of Clinical Psychology, 62(12), 1445-1467. https:// doi.org/10.1002/jclp.20326",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Leyland, A., Rowse, G., & Emerson, L.-M. (2019). Experimental effects of mindfulness inductions on self-regulation: Systematic review and meta-analysis. Emotion, 19(1), 108-122. https://doi. org/10.1037/emo0000425",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Luo, X., & Hu, Y. (2023). Temporal misalignment in intensive longitudinal data: Consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 0(0), 1-14. https://doi.org/10.1080/10705 511.2023.2207749",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Martin, L. L., & Tesser, A. (2006). Extending the goal progress theory of rumination: Goal reevaluation and growth. In L. J. Sanna & E. C. Chang (Eds.), Judgments Over Time: The Interplay of",
+   "page": 12
+  },
+  {
+   "label": "list_item",
+   "text": "Thoughts, Feelings, and Behaviors. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195177664.003.0009",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "McCabe, K. O., Mack, L., & Fleeson, W. (2012). A guide for data cleaning in experience sampling studies. In Handbook of research methods for studying daily life (pp. 321-338). The Guilford Press.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "McEvoy, P. M., Watson, H., Watkins, E. R., & Nathan, P. (2013). The relationship between worry, rumination, and comorbidity: Evidence for repetitive negative thinking as a transdiagnostic construct. Journal of Affective Disorders, 151(1), 313-320. https:// doi.org/10.1016/j.jad.2013.06.014",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "McNeish, D., & Hamaker, E. L. (2020). A primer on two-level dynamic structural equation models for intensive longitudinal data in Mplus. Psychological Methods, 25(5), 610-635. https://doi.org/ 10.1037/met0000250",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Moberly, N. J., & Watkins, E. R. (2008). Ruminative self-focus and negative affect: An experience sampling study. Journal of Abnormal Psychology, 117(2), 314-323. https://doi.org/10.1037/0021843X.117.2.314",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Molenaar, P. C. M. (2004). A manifesto on psychology as idiographic science: Bringing the person back into scientific psychology, this time forever. Measurement: Interdisciplinary Research and Perspectives, 2(4), 201-218. https://doi.org/10.1207/s15366359m ea0204_1",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Murayama, K., Usami, S., & Sakaki, M. (2022). Summary-statisticsbased power analysis: A new and practical method to determine sample size for mixed-effects modeling. Psychological Methods, 27(6), 1014-1038. https://doi.org/10.1037/met0000330",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Muthén, L. K., & Muthén, B. O. (1998-2017). Mplus User's Guide. Eighth Edition. Muthén & Muthén.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Neubauer, A. B., Koval, P., Zyphur, M., & Hamaker, E. (2024). Experiments in daily life: When causal within-person effects do (not) translate into between-person differences. PsyArXiv.https://osf. io/mj9cq. Accessed 7 July 2024",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Nolen-Hoeksema, S., Wisco, B. E., & Lyubomirsky, S. (2008). Rethinking rumination. Perspectives on Psychological Science, 3(5), 400-424. https://doi.org/10.1111/j.1745-6924.2008.00088.x",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "O'Brien, S. T., Dozo, N., Hinton, J. D. X., Moeck, E. K., Susanto, R., Jayaputera, G. T., Sinnott, R. O., Vu, D., Alvarez-Jimenez, M., Gleeson, J., & Koval, P. (2024). SEMA3: A free smartphone platform for daily life surveys. Behavior Research Methods, 56(7), 7691-7706. https://doi.org/10.3758/s13428-024-02445-w",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Qian, T., Walton, A. E., Collins, L. M., Klasnja, P., Lanza, S. T., Nahum-Shani, I., Rabbi, M., Russell, M. A., Walton, M. A., Yoo, H., & Murphy, S. A. (2022). The microrandomized trial for developing digital interventions: Experimental design and data analysis considerations. Psychological Methods, 27(5), 874-894. https:// doi.org/10.1037/met0000283",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "R Core Team. (2021). R: A language and environment for statistical computing. R foundation for statistical computing [Computer software]. https://www.R-project.org/",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Rohrer, J. M., & Murayama, K. (2023). These are not the effects you are looking for: Causality and the within-/between-persons distinction in longitudinal data analysis. Advances in Methods and Practices in Psychological Science, 6(1). https://doi.org/10.1177/ 25152459221140842",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Rosenkranz, T., Takano, K., Watkins, E. R., & Ehring, T. (2020). Assessing repetitive negative thinking in daily life: Development of an ecological momentary assessment paradigm. PLoS ONE, 15(4), e0231783. https://doi.org/10.1371/journal.pone.0231783",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Rowland, Z., Wenzel, M., & Kubiak, T. (2020). A mind full of happiness: How mindfulness shapes affect dynamics in daily life. Emotion, 20(3), 436-451. https://doi.org/10.1037/emo0000562",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Schultzberg, M., & Muthén, B. (2018). Number of subjects and time points needed for multilevel time-series analysis: A simulation study of dynamic structural equation modeling. Structural Equation Modeling: A Multidisciplinary Journal, 25(4), 495-515. https://doi.org/10.1080/10705511.2017.1392862",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-Based Cognitive Therapy for Depression (1st ed.). Guilford Publications.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Selby, E. A., Kranzler, A., Panza, E., & Fehling, K. B. (2016). Bidirectional-compounding effects of rumination and negative emotion in predicting impulsive behavior: Implications for emotional cascades. Journal of Personality, 84(2), 139-153. https://doi.org/ 10.1111/jopy.12147",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Stefanovic, M., Rosenkranz, T., Ehring, T., Watkins, E. R., & Takano, K. (2021). Is a high association between repetitive negative thinking and negative affect predictive of depressive symptoms? A clustering approach for experience-sampling data. Clinical Psychological Science, 10(1), 1-16. https://doi.org/10.1177/21677 026211009495",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Van Dam, N. T., van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Olendzki, A., Meissner, T., Lazar, S. W., Kerr, C. E., Gorchov, J., Fox, K. C. R., Field, B. A., Britton, W. B., Brefczynski-Lewis, J. A., & Meyer, D. E. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. Perspectives on Psychological Science, 13(1), 36-61. https:// doi.org/10.1177/1745691617709589",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Wichers, M., Wigman, J. T. W., & Myin-Germeys, I. (2015). Microlevel affect dynamics in psychopathology viewed from complex dynamical system theory. Emotion Review, 7(4), 362-367. https:// doi.org/10.1177/1754073915590623",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Williams, P. M., & Penman, D. D. (2011). Mindfulness: A practical guide to finding peace in a frantic world (1st ed.). Piatkus.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Yik, M., Russell, J. A., & Steiger, J. H. (2011). A 12-point circumplex structure of core affect. Emotion, 11(4), 705-731. https://doi.org/ 10.1037/a0023980",
+   "page": 13
+  }
+ ]
+}

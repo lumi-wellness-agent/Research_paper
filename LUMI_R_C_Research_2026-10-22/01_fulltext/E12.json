@@ -1,0 +1,758 @@
+{
+ "paper_id": "E12",
+ "source": "E12_2019_Tagalidou_The_effects_of_three_positive_psychology_interventions_using_online_di.pdf",
+ "pages": 8,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "text",
+   "text": "Contents lists available at ScienceDirect",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Internet Interventions",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "journal homepage: www.elsevier.com/locate/invent",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "The effects of three positive psychology interventions using online diaries: A randomized-placebo controlled trial",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Nektaria Tagalidou a,⁎ , Jessica Baier a , Anton-Rupert Laireiter a,b",
+   "page": 1
+  },
+  {
+   "label": "list_item",
+   "text": "a Department of Psychology, University of Salzburg, Hellbrunner Straße 34, 5020 Salzburg, Austria",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "b Faculty of Psychology, University of Vienna, Liebiggasse 5, 1010 Vienna, Austria",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "A R T I C L E I N F O",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Keywords: Humor Positive psychology intervention Online Linear mixed model Randomized controlled trial",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "A B S T R A C T",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Three positive psychology interventions (coping humor, three funny things, three good things) were compared with a placebo control condition (early memories) in a randomized placebo-controlled online trial. A total of 182 healthy participants participated in a one week web-based diary study and completed evaluation measures at pre, post, and one month follow-up. They were recruited via e-mail and have been primarily students. Primary outcomes have been happiness and depressive symptoms, secondary outcomes coping humor, cheerfulness (and its subscales), and subjective perceived change. The intention-to-treat analysis (ITT) using linear mixed models could not replicate the positive effects of past research. When compared to the control condition, only the coping humor intervention influenced primary outcomes (r =0.24-0.29). Three funny things and three good things had no effects at all. Secondary outcomes showed only isolated effects, so that no uniform effect pattern was found for the interventions. Reasons for the small effects, such as motivation and psychosocial status of the participants, as well as recommendations for future studies are discussed.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1. Introduction",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Positive Psychology is dedicated to the exploration of human flourishing (Seligman, 2011). Several positive psychology interventions (PPI) have been developed to promote mental health and well-being by now. Indeed, meta-analyses have found small to medium effects of PPIs in increasing well-being while reducing depressive symptoms, especially in samples with psychosocial or other mental health related problems (Bolier et al., 2013; Sin and Lyubomirsky, 2009). Based on the positive effects of already established PPIs (Seligman et al., 2005), new approaches are continuously being developed. In addition, researchers are testing PPIs in different samples (e.g. in clinical or non-clinical, young people or seniors) in order to gain a holistic picture of the possible applications of PPIs.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "A promising approach in the area of PPIs is the use of humor. Positive psychology classifies humor as a character strength (Peterson and Seligman, 2004) that is positively associated with well-being and life satisfaction (Buschor et al., 2013; Martínez-Martí and Ruch, 2014). Being humorous is seen as a personality trait that is defined as a general joyful and cheerful perspective on life (Peterson and Seligman, 2004).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Humor contributes to the experience of positive emotions, such as amusement (Herring et al., 2011), which play an important role in health, resilience and human flourishing (Fredrickson, 2004;",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "⁎ Corresponding author.",
+   "page": 1
+  },
+  {
+   "label": "footnote",
+   "text": "E-mail addresses: nektaria.tagalidou@iao.fraunhofer.de (N. Tagalidou), anton.laireiter@sbg.ac.at (A.-R. Laireiter).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Fredrickson and Joiner, 2002). In addition, humor not only promotes positive emotions, but can also regulate negative emotions. Reappraising negative situations in a humorous way helps to change perspective and regulates negative affectivity. The emotional regulation function of humor has proven to be an important personal resource as it helps to cope better with stress and even trauma in non-clinical and clinical samples (Boerner et al., 2017; Fritz et al., 2017; Kuiper, 2012; Kugler and Kuhbandner, 2015; Labott and Martin, 1987; Martin and Lefcourt, 1983; Samson and Gross, 2012; Strick et al., 2009; Sliter et al., 2014).",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Due to its positive effects (experiencing positive emotions, regulating negative emotions), humor has positive influences on various aspects of life, e.g. physical/mental health, social interactions or cognitive processes (Martin, 2007; Ruch and Hofmann, 2017). Therefore, it is not surprising that research focuses on the promotion of humor by implementing different forms of humor PPIs.",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "1.1. Humor interventions",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Most humor interventions were conducted within groups as manualized humor trainings (Ruch and Hofmann, 2017), with the 7 Humor Habits Program (McGhee, 2010) being the best known and most commonly used program. The training has proven its efficacy in numerous non-clinical and clinical studies that have shown increases in mental health-related constructs such as well-being, cheerfulness, or stress management while reduction in psychopathology such as depression, anxiety, or perceived stress with small to medium effects (Ruch and McGhee, 2014; Ruch and Hofmann, 2017). Although humor training is a popular humor intervention, it does cause some difficulties. First, training usually takes weeks and is therefore relatively time-consuming. In addition, the training is tied to a specific place and discriminates against people in rural areas.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Recently, new and promising forms of humor interventions have emerged that overcome the above-mentioned shortcomings and already show small effects in their implementation: Self-managed web-based humor interventions have several advantages. They are both locationand time-independent and can be carried out autonomously. One of the best rated web-based humor interventions is the three funny things based on the well-known PPI by Seligman et al. (2005) three good things. The big difference, however, is to write down three funny things instead of three good things that happened during the day. Studies already suggest changes in happiness and depressive symptoms from the three funny things intervention, which remain stable until a six-month followup (Gander et al., 2013; Proyer et al., 2014; Wellenzohn et al., 2016a, b). However, the effect sizes are still predominantly small. Based on these new results Wellenzohn et al. (2016a) developed further humorous web-based interventions such as applying humor, collecting funny things or solving stressful situations in a humorous way. They all showed a small effect in promoting happiness and reducing depressive symptoms.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In summary, it can be said that there are some recent studies that have developed web-based humor interventions. Most of them used the three funny things intervention, while other forms of humor interventions were only tested in one study. Further research is definitely needed to evaluate and replicate the results and draw informed conclusions about the potential impact of web-based humor interventions. This study attempts to close this gap by examining two humorous PPIs and one classic PPI and trying to replicate earlier results. However, it takes a more conservative statistical and methodological approach. We want to test whether the interventions can improve not only oftenstudied well-being outcomes (happiness and depression), but also basic humor-related constructs (since two interventions focus on humor). Furthermore, we will distinguish between completers and non-completers in order to consider this difference in the statistical analyses. This difference has not been considered until now.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2. Methods",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.1. Experimental conditions and research question",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The present study attempts to examine the effects of two web-based humor interventions and a classic PPI in a healthy sample. Since the humor interventions are relatively new, we want to test the efficacy in a healthy sample before continuing to implement the interventions in more impaired groups.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "We have selected two humor interventions fromWellenzohn et al.'s (2016a) study and will investigate them in depth. Both interventions include humor theory, but have different working mechanisms as they apply them. The first is three funny things where people have to record three funny things that happened during the day and how they felt in those situations for seven consecutive days in a diary. The intervention focuses on savoring funny situations and positive emotions. As already mentioned, experiencing positive emotions has a positive influence on people's health and well-being (Fredrickson, 2004; Fredrickson and Joiner, 2002).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The second intervention is coping humor, which is based on Wellenzohn's solving stressful situations in a humorous way, and was modified by own considerations. In its original form, people have to think about a stress situation during the day on seven consecutive days and find out how it was (or could have been) solved in a humorous way.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In our study the participants had to actively and immediately cope every stress situation they experienced during the day with humor. To be able to do so, they received helpful instructions on techniques with coping humor and their application in daily life. In the evening, as they filled out the diary, they had to describe one of these situations of the day and explain how they used humor to feel better. The aim of the intervention is to train people to actively use humor to deal with everyday stress. Earlier studies found that humorous coping reduces negative emotions and supports the reappraisal of stress situations as less harmful (Samson et al., 2014; Samson and Gross, 2012).",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In summary, although both interventions focus on humor and positive emotions in everyday life, they differ greatly in their basic mechanisms. The first deals with the production and recall of humorous things and positive emotions in general, while the second deals with stressful experiences and an active production of humor in order to deal with these and the associated negative emotions in a beneficial way.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In addition to the two humor-based interventions, we also included the three good things intervention (Seligman et al., 2005) in the design of the study. As already mentioned, the intervention has already shown positive effects in several studies with healthy participants. We want to find out how the two humor-based interventions can be equal or more effective compared to this intervention. Finally, a placebo control condition was included (early memories; Seligman et al., 2005), in which people had to write down three neutral memories of their past. This control condition is often used by PPI researchers (Gander et al., 2013; Proyer et al., 2014; Wellenzohn et al., 2016a, b; Seligman et al., 2005), so we decided to include it in our design. We do not expect any changes in participation in this intervention, as the memory of neutral memories should not influence any psychological construct investigated in this study.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "In summary, our study focuses on three objectives: 1) to test whether both humor-based interventions are superior in their results to the placebo control condition, 2) to investigate whether the two humorbased interventions show the same efficacy as the three good things intervention, and 3) to test whether the three good things intervention is superior to the placebo control condition.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Primary outcomes of the study are happiness and depressive symptoms. Since two interventions focus on humor, we have added the humor-related constructs coping humor (i.e., the ability to respond with humor to stress) and cheerfulness as secondary outcomes. In addition, we also added subjective perceived change in participants as secondary outcome.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.2. Design",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The design of the study was a randomized placebo-controlled trial. Participants were randomly assigned to one of the four groups based on an automated algorithm of the online platform on which the study was conducted. Outcome measures were applied at pre-intervention, postintervention, and at a one-month follow-up resulting in a 4 (groups)×3 (time) mixed design. The study's protocol was approved by the ethics commission of the University of Salzburg (01/2017) and the study was active from March 2017 to June 2017.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "2.3. Participants",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Based on the calculations of G*Power 3.1 (Faul et al., 2007) a minimum sample size of 124 is required to detect a medium effect f=0.25 (β=0.80, α level=0.05) between an experimental condition (three funny things, three good things, coping humor) and the placebo control (early memories). A small effect f=0.10 (β=0.80, α level=0.05) is found in a sample of at least 732. Since most studies on PPIs, especially humor PPIs, show small to medium effects, we have tried to recruit as many people as possible to detect small effects. However, our final sample size (completing baseline measures and therefore entering analysis) was 182. The study was mainly advertised and carried out at the University of Salzburg. Persons who fulfilled the following inclusion criteria were invited to participate: legal age, no current psychotherapeutic treatment and no use of psychotropic drugs or illegal drugs in the last six months.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "As a reward for their participation, psychology students received additional credits for their studies and participants who did not require additional credits could take part in a competition for Amazon vouchers (value: 5×10 €).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.4. Procedure",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The study was advertised by e-mail to all students of the University of Salzburg. If someone wanted to participate in the study, they could click on the link provided and read the general information as well as the informed consent of the study. After approval, the participants were automatically directed to the inclusion criteria query. Participants had to indicate whether they were over 18 years old, in psychotherapy or currently taking psychotropic drugs/illegal drugs. If one or more criteria were met, they were excluded from the study and automatically directed to the last page of the survey. If they met the inclusion criteria, they were forwarded to the pre-intervention measures that were completed prior to grouping. Once the questionnaires had been completed, the persons were randomly assigned to one of the four intervention groups and given appropriate guidance on their intervention. However, the participants could not start their tasks immediately after the instructions, but were forced to start with a one-day delay in order to be able to carry out their task properly on the first day (cope with humor, being receptive to three funny/good things).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Starting on the second day of the study, the participants returned to the online platform every evening for seven consecutive days and filled in their diaries. The study leader sent daily reminders to all participants to complete the diary and checked each diary entry for timely submission. Participants could submit their daily diary entry by the next day at 12 noon. If a participant did not submit their diary entry in time, the study director assessed it as missing. Participants who missed more than two entries were classified as non-completers. Only participants who completed five or more entries in the prescribed time were classified as completers. One week after the last diary entry, participants received the post-intervention measures. Finally, one month later, the respondents received follow-up measures and were able to collect their additional credits or participate in the voucher competition.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.5. Instruments",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The evaluation was based on questionnaires completed online three times (pre, post, and one month follow-up) (IBM Corp, 2016). The outcomes were divided into primary and secondary ones.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.5.1. Primary outcomes",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Since the PPI studies focus primarily on happiness and depressive symptoms (Bolier et al., 2013; Sin and Lyubomirsky, 2009), these outcomes were also selected as primary ones in this study.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Happiness was measured using the German version (Gander et al., 2013) of the established Authentic Happiness Inventory (AHI), which contains 24 items on the level of happiness experienced last week. These have to be rated, adjusted to each item, on a five-point Likertscale from 1 (e.g. \"I felt like a loser\") to 5 (e.g. \"I felt exceptionally successful\"). The internal consistency (Cronbach's alpha) in our study was α=0.90 (pre-intervention).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "To assess depressive symptoms in the past week, the short form of the Center for Epidemiological Studies Depression Scale Revised (CESD-R) was chosen. The German version was developed by Hautzinger et al. (2012) and consists of 15 items with a four-point Likert-scale (ranging from zero to three). Internal consistency in our study was α=0.82 (pre-intervention).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.5.2. Secondary outcomes",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "In order to shed more light on the efficacy of the interventions, we have added further outcomes, namely humor-related constructs and subjective perceived change. Coping humor was measured using the Coping Humor Scale (CHS), which measures the amount of humor used to deal with difficult life events (Martin and Lefcourt, 1983). We translated and back-translated the items into German and received help from native speakers. Seven items with a four-point Likert-scale (ranging from one to four) showed an internal consistency of α=0.71 (preintervention).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The amount of cheerfulness, seriousness, and bad mood was measured by the German version of the State-Trait-Cheerfulness Inventory (STCI) in the state version (Ruch et al., 1996; Ruch et al., 1997). The questionnaire consists of 30 items with a four-point Likert-scale (ranging from one to four) and internal consistencies for the three scales (pre-intervention) were α=0.94 (cheerfulness), α=0.77 (seriousness), and α=0.94 (bad mood).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Finally, we wanted to evaluate the subjective perceived change of the participants and used the Bochum Change Questionnaire 2000 (BCQ2000), which is a German instrument for measuring the subjective perceived change in psychotherapy (Willutzki et al., 2013). The questionnaire consists of 26 items, which are answered on a continuum of one to seven (seven-point Likert-scale). Each item starts with the same instruction \"Compared to the time before psychotherapy … \" and ends with an individual answer (from 1 e.g. \"I feel more insecure\" to 7 \"I feel more secure\"). However, since the study evaluated an online intervention rather than psychotherapy, we changed the initial instruction to \"Compared to the time before the intervention… \". As the BCQ-2000 is a questionnaire for directly perceived change, it was handed out only at post and follow-up. The internal consistency of the questionnaire (with the adapted instruction) was α=0.94 (post-intervention).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "2.6. Statistical analyses",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "All analyses were calculated using IBM SPSS Statistics 24 (IBM Corp, Armonk, NY, USA). Demographic characteristics between completer and non-completer were compared with the Chi-square test for categorical data and the independent samples t-test for continuous data. Baseline differences in outcomes were calculated using independent samples t-tests with Bonferroni correction (for completer vs. non-completer) and a one-way ANOVA (for the four intervention groups). Primary and secondary outcomes were analyzed according to the intention-to-treat principle (ITT). However, missing data from non-completers were not imputed; instead, linear mixed models (LMM) with restricted maximum likelihood estimation (REML) and unstructured covariance type were calculated, since LMMs can overcome the problem of missing data without imputation techniques (Gueorguieva and Krystal, 2004).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Each condition (coping humor, three funny, and three good things) was compared with the placebo control condition (early memories). Main effects of group and time and group by time interactions were considered in the analysis. In addition, post-hoc tests with Bonferroni correction at post and follow-up between the respective conditions were calculated. Effect sizes of main effects and interactions (η 2 p) and posthoc tests (r) were calculated using the formula of Field (2005). Levels of η 2 p are categorized as small (≤0.06), medium (≤0.14), and large (>0.14) and levels of r as small (≥0.10), medium (≥0.30), and large (≥0.50) based on Cohen (1988).",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "3. Results",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "3.1. Sample characteristics",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Of the 285 people, who clicked on the link and read the invitation text, 182 (63.9%) agreed to informed consent and completed pre-intervention measures (final sample for ITT analysis). The participants were rather young with an age between 18 and 61 years (M=24.91; SD=8.22) and predominantly female (n=155, 85.2%). The majority had German citizenship (n=132, 72.5%) and studied (n=145, 79.7%). 1 The total sample size of completers was smaller. A total of 106 persons completed all follow-up measures (58.2%). The dropout rate was 41.8% overall, ranging between 34.6% and 48.6% for the conditions, and did not differ between the conditions (χ 2 (3, N=182)=2.43, p=.488). For a detailed flow of the study, see Fig. 1.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Completers did not differ from non-completers in their baseline scores of happiness (t(180)=0.35, p=.727), depressive symptoms (t(180)=-0.64, p=.525), coping humor (t(180)=-0.36, p=.718), cheerfulness (t(180)=0.90, p=.369), seriousness (t(180)=-1.12, p=.265), and bad mood (t(180)=-2.06, p=.041). Furthermore, they did not differ in sex (χ 2 (1, N=182)=0.09, p=.759) and nationality (χ 2 (1, N=182)=0.24, p=.627). However, they differed in age (t(180)=-2.08, p=.039) and studies (χ 2 (1, N=182)=4.30, p=.038) with completers being younger and more often students (n=90) compared to non-completers (n=55). Table 1 summarizes demographics for completers and non-completers.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Lastly, participants of the four conditions (ITT sample) did not differ in their baseline scores of happiness (F(3,178)=0.97, p=.411), depressive symptoms (F(3,178)=1.98, p=.119), coping humor (F(3,178)=0.26, p=.853), cheerfulness (F(3,178)=0.64, p=.591), seriousness (F(3,178)=2.37, p=.072), and bad mood (F(3,178)=0.18, p=.911). Observed means and observed standard deviations of the four conditions can be found in Table 2.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3.2. Primary outcomes",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "As can be seen in Table 3, the interventions did not produce much efficacy. There have been found main effects of time in happiness and depressive symptoms for nearly all interventions indicating changes of outcomes in all groups (three PPI as well as early memories). Although there have been found also group by time interactions for all interventions in happiness and the three funny things intervention in depressive symptoms, post-hoc tests with Bonferroni correction did not reveal significant differences between the experimental and control conditions - except for coping humor. For coping humor, an improvement in happiness with small effect size was found at follow-up (t=2.25, p=.028, r=0.29). Furthermore, there have been a difference in depressive symptoms with small effect size at post and a trend with small effect size at follow-up (post: t=-2.01, p=.049, r=0.25; follow-up: t=-1.80, p=.077, r=0.24). Three funny things and three good things did not significant differences compared to the control condition.",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "3.3. Secondary outcomes",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Again, the interventions did not reveal a consistent pattern of efficacy.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Coping humor could not be changed significantly by any intervention, when compared to the control condition. For the other outcomes there were found primarily main effects of time showing changes irrespective of the intervention. Group by time interactions were found for three funny things (in cheerfulness: F(2, 60.35)=3.04, p=.055, η 2 p =0.09; bad mood: F(2, 60.86)=7.35, p=.001, η 2 p =0.19; subjective perceived change: F(1, 53.71)=6.81, p=.012, η 2 p =0.11) and three good things (in bad mood: F(2, 67.73)=3.89, p=.025, η 2 p =0.10; subjective perceived change: F(1, 58.63)=3.87, p=.054, η 2 p =0.06). Regarding post-hoc tests, there were found only occasional effects: three funny things at follow-up in cheerfulness with medium effect size (t=2.55, p=.014, r=0.32) and coping humor at post in seriousness with medium effect size (t=-2.77, p=.008, r=0.38).",
+   "page": 4
+  },
+  {
+   "label": "footnote",
+   "text": "1 The overrepresentation of German students in the sample is a local phenomenon in Salzburg and does not indicate recruiting problems. Many students, especially psychology students, come from Germany to study in Austria and are therefore overrepresented.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Interestingly, for subjective perceived change three funny things and three good things show an identical pattern. At post intervention, there were no differences with the control condition. However, at follow-up, the experimental conditions showed better outcomes compared to the control condition. The effect sizes were small (subjective perceived change: r=0.26).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "4. Discussion",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The results of the present study could not replicate the results of existing research with web-based humor interventions (Gander et al., 2013; Proyer et al., 2014; Wellenzohn et al., 2016a, b). Although previous studies showed encouraging results, the efficacy in this study was generally small. In summary, it can be said that the main effects of time for almost all outcomes indicate changes, regardless of treatment. This assumption is supported by the fact that post hoc tests do not show many significant differences in post and follow-up: In primary outcomes, coping humor was the most effective intervention that improves happiness and reduces depressive symptoms. As far as the secondary results are concerned, no uniform pattern of effects can be found since only occasional effects were observed. In the following we would like to discuss the results and explain why they differ so much from other studies in this field. In addition, we will present ideas on how to conduct future studies.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Happiness and depressive symptoms could not be improved by the already widely studied interventions three funny things and three good things. This is surprising, as both interventions have already shown sustained efficacy in short and long-term comparison to placebo control condition (Gander et al., 2013; Proyer et al., 2014; Seligman et al., 2005; Wellenzohn et al., 2016a, b). One aspect that can explain the different results is that the previous studies mainly used completer analysis (participants filled in all post- and follow-up measures). Dropouts were not considered in the analysis. In our study, intention-totreat (ITT) was used to include all participants in the analysis who completed pre-intervention measures and were randomized to an intervention (independent of dropout). By including completers and noncompleters in the analysis, a more realistic and unbiased effect of the intervention can be estimated (Gupta, 2011), as interventions in real life always suffer from discontinuation and non-compliance. Since the dropout rates in this and other web-based PPI studies are relatively high, it would be necessary to integrate them into the analysis in order to achieve a more conservative effect of the interventions. In summary, due to our stricter and more conservative analytical approach, the results of our study cannot be directly compared with the results of other PPI studies that have performed completer analyses.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Another important aspect to explain the small effects in the primary outcomes is that the participants in our study did not show high levels of depressive symptoms. The mean of 11.26 (SD=5.98) is clearly below the cut-off score of 17, which indicates the possibility of having a (at least mild) depressive episode in CES-D (Hautzinger et al., 2012). As stated by Sin and Lyubomirsky (2009) and Bolier et al. (2013), the efficacy of PPIs is higher when participants have psychosocial problems or even depressive symptoms. Depressive symptoms in our sample were relatively small, which may also explain the small impact of the interventions.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "In addition to psychosocial problems and depression, another moderator of efficacy is worth a look. Sin and Lyubomirsky (2009) found in their meta-analysis that participants who decided to participate independently benefited more from PPIs than participants who did not decide to participate independently. In our study, a large part of the sample (n=95, 52.2%) were students who received additional credits for their participation and thus primarily had an external incentive - an extrinsic motivation - to participate in the study. This conclusion can be confirmed by the sample characteristics, where the completers were significantly more students than the non-completers. Most of the studies published in the literature included participants interested in PPIs and positive psychology in general. They were, it can be concluded, intrinsically motivated to apply the respective PPIs and probably expected big changes or had much hope of moving in the desired direction. Many studies in psychotherapy have shown that expectation and hope are important non-specific factors in psychological interventions and have a strong impact on outcomes (Wampold and Imel, 2015). This moderator should not be underestimated, and future studies should consider less interested and motivated samples and compare them with highly motivated participants. In this way, the effects of interest and motivation as moderators of the efficacy of PPIs can be investigated and Notes.",
+   "page": 4
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. Flowchart of the study.",
+   "page": 5
+  },
+  {
+   "label": "table",
+   "text": "Table 1 Demographic characteristics of the sample (N=182).\nTable 1 Demographic characteristics of the sample (N=182).\n\n|                                 | Completer (n=106) M (SD) or n (%)   | Non-completer (n=76) M (SD) or n (%)   | Statistics                  |\n|---------------------------------|-------------------------------------|----------------------------------------|-----------------------------|\n| Age, M (SD)                     | 23.85 (7.81)                        | 26.39 (8.58)                           | t(180)=-2.08, p=.039        |\n| Gender, n (%)                   |                                     |                                        |                             |\n| Female                          | 91 (85.8%)                          | 64 (84.2%)                             | χ 2 (1, N=182)=0.09, p=.759 |\n| Male                            | 15 (14.2%)                          | 12 (15.2%)                             |                             |\n| Nationality, n (%)              |                                     |                                        |                             |\n| Austrian                        | 26 (24.5%)                          | 20 (26.3%)                             | χ 2 (1, N=182)=5.94, p=.051 |\n| German                          | 80 (75.5%)                          | 52 (68.4%)                             |                             |\n| Other (Italian, Dutch, missing) | -                                   | 4 (5.3%)                               |                             |\n| Studies, n (%)                  |                                     |                                        |                             |\n| Yes                             | 90 (84.9%)                          | 55 (72.4%)                             | χ 2 (1, N=182)=4.30, p=.038 |\n| No                              | 16 (15.1%)                          | 21 (27.6%)                             |                             |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Table 1 Demographic characteristics of the sample (N=182).",
+   "page": 5
+  },
+  {
+   "label": "table",
+   "text": "Table 2 Observed means (OM) and observed standard deviations (OSD) for the four conditions (N=182).\nTable 2 Observed means (OM) and observed standard deviations (OSD) for the four conditions (N=182).\n\n|                                          |   n | Pre - OM (OSD)        | Post - OM (OSD)   | Follow-up - OM (OSD)   |\n|------------------------------------------|-----|-----------------------|-------------------|------------------------|\n| Happiness (AHI) a                        |     |                       |                   |                        |\n| Coping humor                             |  35 | 75.80                 | 79.95 (8.18)      | 79.78 (8.33)           |\n| Three funny things                       |  46 | (11.23) 74.67         | 75.41 (13.21)     | 76.89 (12.57)          |\n| Three good things                        |  52 | (10.23) 72.23 (11.38) | 73.21 (9.45)      | 72.85 (10.32)          |\n| Early memories                           |  49 | 74.65 (8.62)          | 75.59 (8.55)      | 71.77 (9.97)           |\n| Depression (CESD-R) a                    |     |                       |                   |                        |\n| Coping humor                             |  35 | 9.34 (4.46)           | 6.60 (3.56)       | 6.89 (4.65)            |\n| Three funny things                       |  46 | 11.22 (5.73)          | 11.52 (9.34)      | 7.89 (7.69)            |\n| Three good things                        |  52 | 12.50 (6.53)          | 8.97 (4.59)       | 10.26 (6.62)           |\n| Early memories                           |  49 | 11.35 (6.37)          | 10.04 (4.88)      | 10.81 (6.35)           |\n| Coping humor (CHS)                       |     |                       |                   |                        |\n| Coping humor                             |  35 | 2.81 (0.54)           | 2.97 (0.49)       | 2.93 (0.43)            |\n| Three funny things                       |  46 | 2.81 (0.56)           | 2.70 (0.59)       | 2.75 (0.56)            |\n| Three good things                        |  52 | 2.73 (0.53)           | 2.62 (0.55)       | 2.55 (0.54)            |\n| Early memories                           |  49 | 2.78 (0.52)           | 2.81 (0.54)       | 2.81 (0.56)            |\n| Cheerfulness (STCI-S)                    |     |                       |                   |                        |\n| Coping humor                             |  35 | 2.39 (0.72)           | 2.74 (0.63)       | 2.29 (0.60)            |\n| Three funny things                       |  46 | 2.46 (0.66)           | 2.52 (0.77)       | 2.53 (0.60)            |\n| Three good things                        |  52 | 2.27 (0.69)           | 2.35 (0.69)       | 2.31 (0.71)            |\n| Early memories                           |  49 | 2.38 (0.73)           | 2.61 (0.57)       | 2.18 (0.63)            |\n| Seriousness (STCI-S)                     |     |                       |                   |                        |\n| Coping humor                             |  35 | 2.38 (0.40)           | 2.01 (0.45)       | 2.32 (0.66)            |\n| Three funny things                       |  46 | 2.59 (0.56)           | 2.36 (0.68)       | 2.46 (0.70)            |\n| Three good things                        |  52 | 2.66 (0.50)           | 2.51 (0.46)       | 2.49 (0.57)            |\n| Early memories                           |  49 | 2.57 (0.46)           | 2.39 (0.49)       | 2.57 (0.61)            |\n| Bad mood (STCI-S)                        |     |                       |                   |                        |\n| Coping humor                             |  35 | 1.45 (0.59)           | 1.12 (0.21)       | 1.43 (0.59)            |\n| Three funny things                       |  46 | 1.54 (0.62)           | 1.58 (0.78)       | 1.37 (0.50)            |\n| Three good things                        |  52 | 1.54 (0.65)           | 1.49 (0.58)       | 1.54 (0.62)            |\n| Early memories                           |  49 | 1.53 (0.62)           | 1.24 (0.37)       | 1.86 (0.85)            |\n| Subjective perceived change (BCQ-2000) a |     |                       |                   |                        |\n| Coping humor                             |  20 |                       | 118.30 (13.34)    | 115.89 (18.59)         |\n| Three funny things                       |  29 | -                     | 113.00 (20.10)    | 116.29 (18.14)         |\n| Three good things                        |  34 | -                     | 118.94 (16.16)    | 115.91 (16.84)         |\n| Early memories                           |  27 | -                     | 119.11 (12.92)    | 105.65 (22.17)         |",
+   "page": 6
+  },
+  {
+   "label": "caption",
+   "text": "Table 2 Observed means (OM) and observed standard deviations (OSD) for the four conditions (N=182).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "a =sum scores.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "thus shed light on the basic working mechanisms of these interventions.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "As a final point of discussion it should be mentioned that the participants of our study had to make their daily entries into a file on the online platform and these entries were checked daily by the responsible investigator. Only if participants showed adherence to the protocol they were labelled as completers. The control of entries in online PPI studies is relatively new, as most prior studies did not control adherence with the intervention. Control of adherence has several advantages: First, it shows whether and how participants really participate in the intervention and how they feel committed to the protocol. Secondly, the content of the diary entries can be qualitatively analyzed and provides important information about the situations and emotions that people experience during their diary week. Third, the daily memories of filling out the diary can lead to greater engagement in the intervention and encourage compliance. Although there are several advantages, disadvantages should not be underestimated (Gunthert and Wenze, 2012): A major problem could be that participants may experience dissatisfaction, not commitment, caused by the obligation to write diary entries repeatedly (Scollon et al., 2003). In addition, participants may feel compelled to report something at the end of the day and thus change their behavior to at least report something (Barta and Tennen, 2008). Third, knowing entries are controlled can lead to mistrust and reduction in openness and, in the worst case, to simulated entries that have nothing to do with daily experience. Finally, the control of the entries requires consistent observation and is time-consuming. But although there are certain disadvantages in monitoring adherence to the protocol, we encourage researchers to monitor diary entries in future studies to get a more detailed picture of compliance with intervention and the quality of diary entries in PPIs. This will improve the methodological quality of the studies.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "As already mentioned, three funny things and three good things did not show the expected efficacy. Reasons for the small effects are mentioned above. However, coping humor increased happiness and decreased depressive symptoms. The results of our study show that promoting a humorous reappraisal has stronger effects on well-being, positive emotions and mental health than savoring positive emotions (three fun/ good things). These results are not surprising as the ability to use humor to cope with stress has been widely studied and the results of this study are consistent with encouraging findings from the past. The studies show that reappraising negative situations is a change of perspective that reduces negative affect and increases positive affect in the short term (Samson et al., 2014; Samson and Gross, 2012). In addition, humor trainings that explicitly focus on promoting coping humor also show positive long-term effects on various mental health outcomes such as depressive symptoms, well-being or affect (Ruch and Hofmann, 2017).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Although effects were found in our intervention, they are small and do not surpass the effects of established humor training (Ruch and Hofmann, 2017). One possible explanation could be that the intervention is significantly shorter (one week) than humor training (at least seven weeks) and that time can be an important element for efficacy. Since the ability to use coping humor needs to be learned, people may need more time to intensively develop this personal resource. It would be interesting to conduct additional studies with different intervention times and to see how much time it takes to apply coping humor regularly in life. Ultimately, this study and earlier studies suggest that coping humor is a remarkable construct, so the intervention should be further explored.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Going further, as recommended by Wellenzohn et al. (2016a), our study not only investigated the effects of PPIs on happiness and depressive symptoms, but also considered additional outcomes, especially humor-related, that are of particular interest for humor PPIs.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The ability to cope stress with humor could not be improved by any intervention. Although the intervention coping humor was specifically aimed at coping humor skills, no specific effects were found for this intervention. These results are unexpected and can be explained by the coping humor measurement tool. The Coping Humor Scale (CHS) measures humor as a trait (Martin and Lefcourt, 1983). There is no state measure to assess this construct. However, all other results have been measured using change-sensitive (state) questionnaires, which are better suited for intervention studies. Therefore, it appears necessary to develop a state form of CHS that is more susceptible to interventional changes. Another reason for the small effects might be the short intervention time. A longer intervention, in which the participants can train humor in detail, could be helpful to better promote the reappraisal technique.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Regarding the emotional component of humorous behavior (Ruch, 2012), there was no uniform pattern of effect for cheerfulness and its subscales. Although some effects were found, the results should not be overestimated. We did not expect these inconsistent results because the interventions three funny things and coping humor explicitly focused on humor and cheerfulness. These small effects can best be explained for the reasons given above: ITT analysis, relatively healthy sample, Notes: AHI: Authentic Happiness Inventory, CESD-R: Center for Epidemiological Studies Depression Scale Revised, CHS: Coping Humor Scale; STCI-S: state part of the State-Trait-Cheerfulness Inventory; BCQ-2000: Bochum Change Questionnaire 2000.",
+   "page": 6
+  },
+  {
+   "label": "table",
+   "text": "Table 3 Main effects of group and time, group by time interactions and post-hoc tests for the four conditions with their respective effect sizes (N=182).\nTable 3 Main effects of group and time, group by time interactions and post-hoc tests for the four conditions with their respective effect sizes (N=182).\n\n|                                        | Group - F   | Group - η 2 p   | Time - F   | Time - η 2 p   | Group by time - F   | Group by time - η 2 p   | Post - t   | Post - r   | Follow-up - t   | Follow-up - r   |\n|----------------------------------------|-------------|-----------------|------------|----------------|---------------------|-------------------------|------------|------------|-----------------|-----------------|\n| Happiness (AHI)                        |             |                 |            |                |                     |                         |            |            |                 |                 |\n| Using humor to cope with stress        | 2.12        | -               | 3.87 ⁎     | 0.15           | 2.93 †              | 0.10                    | 0.95       | -          | 2.25 ⁎          | 0.29            |\n| Three funny things                     | 0.02        | -               | 1.06       | -              | 4.96 ⁎              | 0.16                    | 0.89       | -          | 1.18            | -               |\n| Three good things                      | 0.31        | -               | 4.32 ⁎     | 0.13           | 2.67 †              | 0.08                    | -1.08      | -          | 0.58            | -               |\n| Depression (CESD-R)                    |             |                 |            |                |                     |                         |            |            |                 |                 |\n| Using humor to cope with stress        | 4.85 ⁎      | 0.06            | 4.59 ⁎     | 0.15           | 0.15                | -                       | -2.01 ⁎    | 0.25       | -1.80 †         | 0.24            |\n| Three funny things                     | 0.00        | -               | 3.05 †     | 0.10           | 2.66 †              | 0.09                    | 1.26       | -          | -1.32           | -               |\n| Three good things                      | 0.00        | -               | 7.97 ⁎⁎⁎   | 0.19           | 1.16                | -                       | -0.66      | -          | -0.13           | -               |\n| Coping humor (CHS)                     |             |                 |            |                |                     |                         |            |            |                 |                 |\n| Using humor to cope with stress        | 0.94        | -               | 1.88       | -              | 0.80                | -                       | 1.23       | -          | 1.01            | -               |\n| Three funny things                     | 0.00        | -               | 0.08       | -              | 0.67                | -                       | -0.50      | -          | 0.15            | -               |\n| Three good things                      | 1.80        | -               | 1.09       | -              | 1.27                | -                       | -1.37      | -          | -1.63           | -               |\n| Cheerfulness (STCI-S)                  |             |                 |            |                |                     |                         |            |            |                 |                 |\n| Using humor to cope with stress        | 0.37        | -               | 9.74 ⁎⁎⁎   | 0.28           | 0.29                | -                       | 0.80       | -          | 0.49            | -               |\n| Three funny things                     | 1.58        | -               | 2.49 †     | 0.08           | 3.04 †              | 0.09                    | -0.22      | -          | 2.55 ⁎          | 0.32            |\n| Three good things                      | 0.13        | -               | 4.67 ⁎     | 0.12           | 2.35                | -                       | -1.22      | -          | 0.99            | -               |\n| Seriousness (STCI-S)                   |             |                 |            |                |                     |                         |            |            |                 |                 |\n| Using humor to cope with stress        | 6.08 ⁎      | 0.10            | 7.53 ⁎⁎⁎   | 0.24           | 0.84                | -                       | -2.77 ⁎⁎   | 0.38       | -1.80           | -               |\n| Three funny things                     | 0.16        | -               | 3.64 ⁎     | 0.11           | 0.60                | -                       | -0.16      | -          | -0.80           | -               |\n| Three good things                      | 0.14        | -               | 3.40 ⁎     | 0.10           | 1.31                | -                       | 0.92       | -          | -0.66           | -               |\n| Bad mood (STCI-S)                      |             |                 |            |                |                     |                         |            |            |                 |                 |\n| Using humor to cope with stress        | 2.73        | -               | 13.14 ⁎⁎⁎  | 0.34           | 0.73                | -                       | -1.10      | -          | -1.56           | -               |\n| Three funny things                     | 0.64        | -               | 1.77       | -              | 7.35 ⁎⁎⁎            | 0.19                    | 1.77 †     | 0.22       | -3.04 ⁎⁎        | 0.38            |\n| Three good things                      | 0.04        | -               | 5.63 ⁎⁎    | 0.14           | 3.89 ⁎              | 0.10                    | 1.95 †     | 0.24       | -1.72 †         | 0.22            |\n| Subjective perceived change (BCQ-2000) |             |                 |            |                |                     |                         |            |            |                 |                 |\n| Using humor to cope with stress        | 1.33        | -               | 5.34 ⁎     | 0.11           | 2.41                | -                       | -0.21      | -          | 1.56            | -               |\n| Three funny things                     | 0.33        | -               | 2.51       | -              | 6.81 ⁎              | 0.11                    | -1.34      | -          | 1.93 †          | 0.26            |\n| Three good things                      | 1.92        | -               | 9.74 ⁎⁎    | 0.14           | 3.87 †              | 0.06                    | -0.04      | -          | 2.02 ⁎          | 0.26            |",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Table 3 Main effects of group and time, group by time interactions and post-hoc tests for the four conditions with their respective effect sizes (N=182).",
+   "page": 7
+  },
+  {
+   "label": "footnote",
+   "text": "† p≤.10.",
+   "page": 7
+  },
+  {
+   "label": "footnote",
+   "text": "⁎ p < .05.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "⁎⁎ p < .01.",
+   "page": 7
+  },
+  {
+   "label": "footnote",
+   "text": "⁎⁎⁎ p≤.001.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "primarily extrinsic motivation of participants. In addition, it is possible that the interventions were too little intense and low-threshold to promote cheerfulness. A more intensive intervention, such as humor training, could have been more effective to increase cheerfulness.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Finally, we also wanted to evaluate the subjective perceived change through the interventions. The results show a delayed improvement compared to the control group for three funny and three good things; coping humor showed no significant changes. Since this was the first time that subjective perceived change was evaluated in studies with PPIs, conclusions are difficult to draw. Further studies are needed to explain the effects in a substantiated way. However, the delayed improvement in perceived change may indicate that PPIs have positive effects that unfold after some time and not immediately after treatment, as participants remain receptive to the learned intervention and benefit from it in daily life. This assumption has already been tested in longterm studies and the results confirm this thought as the effects remain stable over six months (Gander et al., 2012; Proyer et al., 2014; Wellenzohn et al., 2016a).",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "In summary, our interventions could not replicate the promising results of other studies with humor-based PPIs and PPIs in general (Gander et al., 2012; Proyer et al., 2014; Seligman et al., 2005; Wellenzohn et al., 2016b). The effects were smaller and often did not exceed the placebo control condition. Newly added outcomes could not be improved as originally assumed. Possible reasons for the different results were described and let the small effects appear in a different light. Further studies are essential to get a better overview of the effects of PPIs and the underlying working mechanisms.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "4.1. Limitations",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "In general, the study included a rather small sample size. To detect small effects, a much larger sample would have to be recruited. However, due to time and resource constraints, this was not possible in our study, but it would have been better for the interpretation of the results (and the detection of smaller effects) to attract more participants for each condition. Second, due to the large number of students, the study treated a fairly homogeneous and well educated sample. Third, the Coping Humor Scale (CHS), as already mentioned, is a trait and not a change-sensitive state questionnaire. Change-sensitive instruments would be better suited for intervention studies. In addition, the BCQ2000 is a retrospective questionnaire of perceived change, which may be based on retrospective bias. However, studies show that the questionnaire is reliable and can therefore be an efficient tool for investigating subjective perceived change (Ülsmann and Fydrich, 2013). Nevertheless, if perceived change is to be thoroughly investigated, additional measurement tools should be used to minimise retrospective bias. Third, longer follow-up periods could provide important information on longer intervention effects. Finally, some results show no normal distribution. Especially bad mood violates the assumption in any condition and should therefore be interpreted with caution.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "4.2. Implications for the practice",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "First, the results of the study show the need for further research. Although our effects have been small, previous studies show the efficacy of (humorous) PPIs. Replicative studies must bring clarity to the discrete results.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "In addition, the monitoring of diary entries is important in order to adequately evaluate the interventions. Previous studies did not evaluate the response rate of the entries and assumed general compliance of the participants. Monitoring the entries is more time-consuming, but the benefits outweigh the effort.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Finally, if we assume that online humor PPIs make a lasting contribution to improving mental health and well-being, then the many applications should be taken into account (clinical settings, prevention services, etc.). Online PPIs are a cost-effective and uncomplicated way of preventing mental stress. In addition, it helps people to perceive the positive aspects of their lives better and thus promotes joie de vivre.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "5. Conclusions",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The results do not show a clear pattern of efficacy for a PPI. In contrast to other studies, the promising results could not be replicated. Coping humor showed the best effects on primary outcomes compared to other interventions. In the secondary outcomes, three funny and three good things led to some expected changes that should not be overestimated. Several reasons are discussed why the results of this study differ so much from those of others. Ultimately, the results show the need for more differentiated research in order to develop basic working mechanisms of PPIs.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Funding",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "Conflict of interest",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Declarations of interest: none.",
+   "page": 8
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Barta, W., Tennen, H., 2008. An idiographic-nomothetic approach to personality and psychological influences on health risk behavior. In: Reimann, B.P. (Ed.), Focus on Personality and Social Psychological Research. Nova Science, Hauppauge, NY, pp. 13-60.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Boerner, M., Joseph, S., Murphy, D., 2017. The association between sense of humor and trauma-related mental health outcomes: two exploratory studies. J. Loss Trauma 22 (5), 440-452. https://doi.org/10.1080/15325024.2017.1310504.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Bolier, L., Haverman, M., Westerhof, G.J., Riper, H., Smit, F., Bohlmeijer, E., 2013. Positive psychology interventions: a meta-analysis of randomized controlled studies. BMC Public Health 13 (1), 119. https://doi.org/10.1186/1471-2458-13-119.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Buschor, C., Proyer, R.T., Ruch, W., 2013. Self- and peer-rated character strengths: how do they relate to satisfaction with life and orientations to happiness? J. Posit. Psychol. 8 (2), 116-127. https://doi.org/10.1080/17439760.2012.758305.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Cohen, J., 1988. Statistical Power Analysis for the Behavioral Sciences, 2nd ed. Erlbaum, Hillsdale, NY.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Faul, F., Erdfelder, E., Lang, A.-G., Buchner, A., 2007. G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behav. Res. Methods 39, 175-191. https://doi.org/10.3758/bf03193146.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Field, A., 2005. Discovering Statistics Using SPSS. SAGE, London.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B., 2004. The broaden-and-build theory of positive emotions. Philos. Trans. R. Soc. Lond. B Biol. Sci. 359 (1449), 1367-1377. https://doi.org/10.1098/rstb. 2004.1512.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Fredrickson, B.L., Joiner, T., 2002. Positive emotions trigger upward spirals toward emotional well-being. Psychol. Sci. 13 (2), 172-175. https://doi.org/10.1111/14679280.00431.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Fritz, H.L., Russek, L.N., Dillon, M.M., 2017. Humor use moderates the relation of stressful life events with psychological distress. Personal. Soc. Psychol. Bull. 43 (6), 845-859. https://doi.org/10.1177/0146167217699583.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Gander, F., Proyer, R.T., Ruch, W., Wyss, T., 2012. Strength-based positive interventions: further evidence for their potential in enhancing well-being and alleviating depression. J. Happiness Stud. 14 (4), 1241-1259. https://doi.org/10.1007/s10902-0129380-0.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Gueorguieva, R., Krystal, J.H., 2004. Move over ANOVA: Progress in analyzing repeatedmeasures data and its reflection in papers published in the archives of general psychiatry. Arch. Gen. Psychiatry 61 (3), 310-317. https://doi.org/10.1001/archpsyc. 61.3.310.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Gunthert, K.C., Wenze, S.J., 2012. Daily diary methods. In: Mehl, M.R., Conner, T.S. (Eds.), Handbook of Research Methods for Studying Daily Life. Guilford Press, New York, NY, pp. 144-159.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Gupta, S.K., 2011. Intention-to-treat concept: a review. Perspect. Clin. Res. 2 (3), 109-112. https://doi.org/10.4103/2229-3485.83221.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Hautzinger, M., Bailer, M., Hofmeister, D., Keller, F., 2012. Allgemeine Depressionsskala (ADS). Center for Epidemiological Studies Depression Scale Revised (CESD-R). Hogrefe, Göttingen.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Herring, D.R., Burleson, M.H., Roberts, N.A., Devine, M.J., 2011. Coherent with laughter: subjective experience, behavior, and physiological responses during amusement and joy. Int. J. Psychophysiol. 79 (2), 211-218. https://doi.org/10.1016/j.ijpsycho.2010. 10.007.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "IBM Corp, 2016. Released. IBM SPSS Statistics for Windows, Version 24.0. IBM Corp, Armonk, NY.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Kugler, L., Kuhbandner, C., 2015. That's not funny! - but it should be: effects of humorous emotion regulation on emotional experience and memory. Front. Psychol. 6 (1296), 1296. https://doi.org/10.3389/fpsyg.2015.01296.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Kuiper, N.A., 2012. Humor and resiliency: towards a process model of coping and growth. Eur. J. Psychol. 8 (3). https://doi.org/10.5964/ejop.v8i3.464.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Labott, S.M., Martin, R.B., 1987. The stress-moderating effects of weeping and humor. J. Hum. Stress. 13 (4), 159-164. https://doi.org/10.1080/0097840X.1987.9936809.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Martin, R.A., 2007. The Psychology of Humor: An Integrative Approach. Elsevier Academic Press, Burlington, MA.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Martin, R.A., Lefcourt, H.M., 1983. Sense of humor as a moderator of the relation between stressors and moods. J. Pers. Soc. Psychol. 45 (6), 1313-1324. https://doi.org/10. 1037/0022-3514.45.6.1313.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Martínez-Martí, M.L., Ruch, W., 2014. Character strengths and well-being across the life span: data from a representative sample of German-speaking adults living in",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Switzerland. Front. Psychol. 5 (1253). https://doi.org/10.3389/fpsyg.2014.01253. McGhee, P.E., 2010. Humor as Survival Training for a Stressed out World: The 7 Humor Habits Program. Author House, Bloomington, IN.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Peterson, C., Seligman, M.E., 2004. Character Strengths and Virtues: A Handbook and Classification. Oxford University Press, Oxford.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Proyer, R.T., Gander, F., Wellenzohn, S., Ruch, W., 2014. Positive psychology interventions in people aged 50-79 years: long-term effects of placebo-controlled online interventions on well-being and depression. Aging Ment. Health 18 (8), 997-1005. https://doi.org/10.1080/13607863.2014.899978.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ruch, W., 2012. Humor und Charakter [humor and character]. In: Wild, B. (Ed.), Humor in Psychiatrie Und Psychotherapie [Humor in Psychiatry and Psychotherapy]. Schattauer, Stuttgart, pp. 8-27.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ruch, W., Hofmann, J., 2017. Fostering humour. In: Proctor, C. (Ed.), Positive Psychology Interventions in Practice. Springer, Cham, pp. 65-80. https://doi.org/10.1007/9783-319-51787-2_5.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ruch, W., McGhee, P.E., 2014. Humor intervention programs. In: Parks, A.C., Schueller, S. (Eds.), The Wiley Blackwell Handbook of Positive Psychological Interventions, 1st ed. John Wiley & Sons, West Sussex, pp. 179-193.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ruch, W., Köhler, G., van Thriel, C., 1996. Assessing the \"humorous temperament\": construction of the facet and standard trait forms of the state-trait-cheerfulness-inventory - STCI. Humor 9 (3/4), 303-340. https://doi.org/10.1515/humr.1996.9.3-4. 303.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ruch, W., Köhler, G., van Thriel, C., 1997. To be in good or bad humour: construction of the state form of the state-trait-cheerfulness-inventory-STCI. Personal. Individ. Differ. 22 (4), 477-491. https://doi.org/10.1016/S0191-8869(96)00231-0.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Samson, A.C., Gross, J.J., 2012. Humour as emotion regulation: the differential consequences of negative versus positive humour. Cognit. Emot. 26 (2), 375-384. https://doi.org/10.1080/02699931.2011.585069.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Samson, A.C., Glassco, A.L., Lee, I.A., Gross, J.J., 2014. Humorous coping and serious reappraisal: short-term and longer-term effects. Eur. J. Psychol. 10 (3), 571-581. https://doi.org/10.5964/ejop.v10i3.730.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Scollon, N.C., Prieto, C.-K., Diener, E., 2003. Experience sampling: promises and pitfalls, strength and weaknesses. In: Diener, E. (Ed.), Assessing Well-Being: The Collected Works of Ed Diener. Springer Netherlands, Dordrecht, pp. 157-180.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Seligman, M., 2011. Flourish. Free Press, New York, NY.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Seligman, M.E.P., Steen, T.A., Park, N., Peterson, C., 2005. Positive psychology progress: empirical validation of interventions. Am. Psychol. 60 (5), 410-421. https://doi.org/ 10.1037/0003-066X.60.5.410.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Sin, N.L., Lyubomirsky, S., 2009. Enhancing well-being and alleviating depressive symptoms with positive psychology interventions: a practice-friendly meta-analysis. J. Clin. Psychol. 65 (5), 467-487. https://doi.org/10.1002/jclp.20593.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Sliter, M., Kale, A., Yuan, Z., 2014. Is humor the best medicine? The buffering effect of coping humor on traumatic stressors in firefighters. J. Organ. Behav. 35 (2), 257-272. https://doi.org/10.1002/job.1868.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Strick, M., Holland, R.W., van Baaren, R.B., van Knippenberg, A., 2009. Finding comfort in a joke: consolatory effects of humor through cognitive distraction. Emotion 9 (4), 574-578. https://doi.org/10.1037/a0015951.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ülsmann, D., Fydrich, T., 2013. Es ging mir schlechter, als ich dachte! [I was doing worse than I thought]!. Zeitschrift für Klinische Psychologie und Psychotherapie [Journal of clinical psychology and psychothreapy] 42 (2), 87-95. https://doi.org/10.1026/ 1616- 3443/a000195.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Wampold, B.E., Imel, Z.E., 2015. The Great Psychotherapy Debate: The Evidence for What Makes Psychotherapy Work. Routledge, New York.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Wellenzohn, S., Proyer, R.T., Ruch, W., 2016a. Humor-based online positive psychology interventions: a randomized placebo-controlled long-term trial. J. Posit. Psychol. 11 (6), 584-594. https://doi.org/10.1080/17439760.2015.1137624.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Wellenzohn, S., Proyer, R.T., Ruch, W., 2016b. How do positive psychology interventions work? A short-term placebo-controlled humor-based study on the role of the time focus. Personal. Individ. Differ. 96, 1-6. https://doi.org/10.1016/j.paid.2016.02. 056.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Willutzki, U., Ülsmann, D., Schulte, D., Veith, A., 2013. Direkte Veränderungsmessung in der Psychotherapie. [Direct measurements of change on psychotherapy]. Z. Klin. Psychol. Psychother. 42 (4), 256-268. https://doi.org/10.1026/1616-3443/ a000224.",
+   "page": 8
+  }
+ ]
+}

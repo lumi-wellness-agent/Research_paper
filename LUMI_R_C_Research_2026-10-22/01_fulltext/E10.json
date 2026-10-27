@@ -1,0 +1,473 @@
+{
+ "paper_id": "E10",
+ "source": "E10_2007_Lieberman_Putting_Feelings_Into_Words_Affect_Labeling_Disrupts_Amygdala_Activity_i.pdf",
+ "pages": 8,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "section_header",
+   "text": "Research Article",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Putting Feelings Into Words",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Matthew D. Lieberman, Naomi I. Eisenberger, Molly J. Crockett, Sabrina M. Tom, Jennifer H. Pfeifer, and Baldwin M. Way",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "University of California, Los Angeles",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "ABSTRACT-Putting feelings into words (affect labeling) has long been thought to help manage negative emotional experiences; however, the mechanisms by which affect labeling produces this benefit remain largely unknown. Recent neuroimaging studies suggest a possible neurocognitive pathway for this process, but methodological limitations of previous studies have prevented strong inferences from being drawn. A functional magnetic resonance imaging study of affect labeling was conducted to remedy these limitations. The results indicated that affect labeling, relative to other forms of encoding, diminished the response of the amygdala and other limbic regions to negative emotional images. Additionally, affect labeling produced increased activity in a single brain region, right ventrolateral prefrontal cortex (RVLPFC). Finally, RVLPFC and amygdala activity during affect labeling were inversely correlated, a relationship that was mediated by activity in medial prefrontal cortex (MPFC). These results suggest that affect labeling may diminish emotional reactivity along a pathway from RVLPFC to MPFC to the amygdala.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Putting feelings into words has long been thought to be one of the best ways to manage negative emotional experiences. Talk therapies have been formally practiced for more than a century and, although varying in structure and content, are commonly based on the assumption that talking about one's feelings and problems is an effective method for minimizing the impact of negative emotional events on current experience. More recently, psychologists have discovered that merely putting pen to paper to express one's emotional ailments has benefits for mental and",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Address correspondence to Matthew Lieberman, Department of Psychology, Franz Hall, University of California, Los Angeles, Los Angeles, CA 90095-1563, e-mail: lieber@ucla.edu.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "physical health (Hemenover, 2003; Pennebaker, 1997). Although conventional wisdom and scientific evidence indicate that putting one's feelings into words can attenuate negative emotional experiences (Wilson & Schooler, 1991), the mechanisms by which these benefits arise remain largely unknown.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Recent neuroimaging research has begun to offer insight into a possible neurocognitive mechanism by which putting feelings into words may alleviate negative emotional responses. A number of studies of affect labeling have demonstrated that linguistic processing of the emotional aspects of an emotional image produces less amygdala activity than perceptual processing of the emotional aspects of the same image (Hariri, Bookheimer, & Mazziotta, 2000; Lieberman, Hariri, Jarcho, Eisenberger, & Bookheimer, 2005). Additionally, these studies have demonstrated greater activity during linguistic processing than during nonlinguistic processing of emotion in right ventrolateral prefrontal cortex (RVLPFC), a region associated with the symbolic processing of emotional information (Cunningham, Johnson, Gatenby, Gore, & Banaji, 2003; Nomura et al., 2003) and with top-down inhibitory processes (Aron, Robbins, & Poldrack, 2004). Finally, the magnitude of RVLPFC activity during affect labeling has been inversely correlated with the magnitude of amygdala activity during affect labeling in these studies. Together, these results suggest that putting feelings into words may activate RVLPFC, which in turn may dampen the response of the amygdala, thus helping to alleviate emotional distress.",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "In studies of affect labeling, an emotionally evocative image is usually shown along with two options for categorizing the image. The images in Figures 1a and 1b provide examples of typical affect-label and affect-match trials, respectively. During affectlabel trials (i.e., linguistic processing of affect), a pair of affective labels is presented at the bottom of the screen, and the subject chooses the label that best characterizes the emotion displayed by the target face at the top of the screen. During affect-match trials (i.e., nonlinguistic processing of affect), a pair of faces is presented at the bottom of the screen, and the subject chooses the face that is displaying the same emotion as the target face at the top of the screen.",
+   "page": 1
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 1. A sample display from each of the six types of experimental trials.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Although findings from studies using this paradigm (Hariri et al., 2000; Lieberman et al., 2005) offer a potential mechanism by which putting feelings into words alleviates emotional distress, this research has not addressed a number of issues regarding the interpretation of the results, and it has not answered outstanding questions about the putative mechanisms producing these results. First, the stimulus displays differ in the two conditions. During affect-match trials, two or three negative emotional images are shown, whereas during affect-label trials, only a single negative emotional image is shown, along with two labels. It is possible that the previous results were due to the variation in the number of emotional images in each trial. Second, if there is a dampening effect of affect labeling, this could be a result of general effects of labeling and cognitive processing, rather than a result of affect labeling per se. Third, although there are some direct anatomical connections from RVLPFC to the amygdala (Carmichael & Price, 1995; Ghashghaei & Barbas, 2002), these connections are relatively sparse, and thus it is unclear whether these connections could support the proposed effects of RVLPFC on the amygdala. It has been suggested (Phelps, Delgado, Nearing, & LeDoux, 2004) that lateral prefrontal regions may be able to regulate amygdala activity through their projections to medial prefrontal cortex (MPFC), as MPFC has dense projections to the amygdala (Ghashghaei & Barbas, 2002) and has been shown to inhibit amygdala responses (Quirk, Likhtik, Pelletier, & Pare, 2003;",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Taylor, Phan, Decker, & Liberzon, 2003). However, the possibility that MPFC mediates the effect of RVLPFC on the amygdala during affect labeling has not been examined.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "The current functional magnetic resonance imaging (fMRI) study was conducted in order to remedy each of the limitations of previous affect-labeling studies, to allow more firm conclusions about whether affect labeling produces diminished responses in the amygdala as a function of increased activity in RVLPFC. We created a new experimental paradigm that added control conditions to the existing paradigm. First, we added an observe condition (see Fig. 1c), in which a single negative emotional face was presented alone and subjects were instructed to attend to the image but given no particular processing goal. A comparison of the affect-match and observe conditions indicates whether affect-match trials increase the amygdala's response because of the number of emotional images presented, and the comparison of the affect-label and observe conditions indicates whether affect-label trials produce less amygdala activity than passive viewing of a single emotional image.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Second, gender-label and gender-match conditions were added to serve as controls for the affect-label and affect-match conditions, respectively. Gender-label trials (see Fig. 1d) are similar to affect-label trials in that in both conditions, a label from the bottom pair of words is chosen to characterize the target image; however, on gender-label trials, a gender-appropriate name, rather than an affect label, is chosen. A comparison of the affect-label and gender-label conditions indicates whether there is any dampening of amygdala activity due to affect labeling, over and above any dampening effects of labeling in general.",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Subjects",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Subjects were 30 (18 female; ages 18-36) right-handed, native English speakers with no history of neurological problems. They gave informed consent following the guidelines of the University of California, Los Angeles, Institutional Review Board.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Experimental Paradigm",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Subjects viewed target faces displaying emotional expressions or shapes and were asked to perform one of six tasks (see Fig. 1) in each block of 10 trials. In the observe task, subjects observed a single emotionally evocative face without making a response. During the affect-labeling task, subjects chose the correct affect label (e.g., ''scared,'' ''angry,'' ''happy,'' ''surprised'') from a pair of words shown at the bottom of the screen. During the genderlabeling task, subjects chose the gender-appropriate name from a pair of names shown at the bottom of the screen. During the affect-matching task, subjects chose the face from the pair at the bottom of the screen that expressed the same emotion as the target face at the top of the screen. During the gender-matching task, subjects chose the face from the pair at the bottom of the screen that was the same gender as the target face at the top of the screen. Finally, during the shape-matching task, subjects chose from the pair of shapes at the bottom of the screen the one that was the same as the target shape at the top of the screen.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "On 80% of the trials in each condition with face stimuli, the target face depicted a negative emotional expression (fear or anger); 20% of the trials depicted a positive emotional expression (happiness or surprise). Half of the target faces in each condition were male, and half were female. The face stimuli were selected from a standardized set of images (Tottenham, Borscheid, Ellersten, Markus, & Nelson, 2002). The gendered names were matched to the affect labels in multiple ways: There were the same number of names and affect labels, they were matched for word length, and for each affect label, there was a name that began with the same letter.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Each block began with a 3-s instruction cue indicating the task (observe, affect labeling, gender labeling, affect matching, gender matching, shape matching), followed by 10 trials of that task, randomly selected from a pool of trials, each 5 s in length.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "M.D. Lieberman et al.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Also, unlike the comparison between the affect-label and affectmatch conditions, this comparison involves two conditions in which there is only a single emotionally evocative image. Gender-match trials (see Fig. 1e) are visually identical to affectmatch trials; however, subjects are instructed to choose the face from the pair at the bottom of the screen that is the same gender as the target at the top of the screen. A comparison of the affectmatch and gender-match conditions indicates whether the process of affect matching amplifies the amygdala's response, over and above any effects of the stimulus display.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "METHOD",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Thus, the blocks were 50 s long. Blocks were separated from one another by a fixation crosshair, which remained on the screen for 10 s. Subjects completed two functional runs, with each block type appearing once per run in a counterbalanced order. Subjects responded via button box and were told to respond as soon as they were sure of the correct answer. The stimuli remained on the screen for the entire 5-s trial.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "Image Acquisition",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Data were acquired on a Siemens Allegra 3-T head-only scanner. Head movements were restrained with foam padding and surgical tape placed across each subject's forehead. For each subject, a high-resolution structural T2-weighted echo-planar imaging volume (spin-echo; repetition time 5 5,000 ms; echo time 5 33 ms; matrix size 5 128 - 128; 36 axial slices 3 mm thick with a 1-mm skip between slices; field of view 5 20 cm) was acquired coplanar with the functional scans. Two functional scans were acquired (echo-planar T2 n -weighted gradient-echo, repetition time 5 3,000 ms, echo time 5 25 ms, flip angle 5 901, matrix size 5 64 - 64, 36 axial slices 3 mm thick with a 1-mm skip between slices, field of view 5 20 cm), each lasting 6 min 18 s. During each functional scan, 126 volumes were collected.",
+   "page": 3
+  },
+  {
+   "label": "section_header",
+   "text": "fMRI Analyses",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "The imaging data were analyzed using statistical parametric mapping (SPM99; Wellcome Department of Cognitive Neurology, Institute of Neurology, London, United Kingdom). Images for each subject were realigned to correct for head motion, normalized into a standard stereotactic space as defined by the Montreal Neurological Institute (MNI), and smoothed with an 8-mm Gaussian kernel, full width at half maximum. For each subject, task conditions were modeled as epochs. Planned comparisons were computed for each subject using the general linear model, with a canonical hemodynamic response function. The resulting contrast images were entered into second-level analyses using a random effects model to allow for inferences at the group level. The correction for multiple comparisons in whole-brain analyses was carried out using an uncorrected p value of .005 combined with a cluster-size threshold of 10 voxels (Forman et al., 1995). All coordinates are reported in MNI coordinate space.",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "A region-of-interest (ROI) analysis was performed on the amygdala. The observe condition, compared with crosshair fixation, was used as a localizer to identify any clusters of voxels in the amygdala that were sensitive to passive viewing of emotionally evocative stimuli. The average activity across the one identified cluster was computed for each matching and labeling condition relative to shape-match trials, using MarsBaR (Brett, Anton, Valabregue, & Poline, 2002). A p value of .05 was used for ROI analyses.",
+   "page": 3
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 2. Parameter estimates of activity during five conditions (relative to activity in the shape-match control condition) in an amygdala region of interest (ROI). The ROI was identified by comparing activity in the observe condition and activity in the shape-match condition. The illustration on the left shows an axial slice indicating the extent of the ROI.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Between-subjects patterns of regional correlation were computed for amygdala activity during the affect-label condition relative to the gender-label condition. For this analysis, parameter estimates of differences in signal intensity (i.e., beta values) were extracted from the amygdala ROI from the comparison of the affect-label and gender-label conditions. These parameter estimates were entered into a whole-brain regression analysis to identify whether any brain regions produced a correlated pattern of activity during affect labeling compared with gender labeling (for more information, see Lieberman et al., 2005).",
+   "page": 4
+  },
+  {
+   "label": "section_header",
+   "text": "RESULTS",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The ROI analysis, described in the Method section, identified a single cluster in the left amygdala that was sensitive to passive viewing of a single emotionally evocative image (MNI coordinates: \u000022, \u00008, \u000020; 127 voxels), t(29) 5 4.30, prep > .99, d 5 1.60. There were no sex differences in amygdala activity in this or any other analyses in this study. This same cluster was identified as showing greater activation in the observe condition than in the shape-match condition (MNI coordinates: \u000022, \u00008, \u000020), t(29) 5 5.52, prep > .99, d 5 2.05.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "For the amygdala ROI, we computed parameter estimates of activity to compare each experimental condition with the shapematch condition. Each of the four label and match conditions produced increased activity in the amygdala ROI relative to the shape-match condition: affect-label, t(29) 5 2.48, prep 5 .96, d 5 0.92; affect-match, t(29) 5 4.0, prep > .99, d 5 1.49; genderlabel, t(29) 5 5.0, prep > .99, d 5 1.86; and gender-match, t(29) 5 3.05, prep 5 .98, d 5 1.13. As displayed in Figure 2, there was also less amygdala activity during affect labeling than in the other three conditions (contrast of affect-label condition vs. combination of affect-match, gender-match, and gender-label conditions), t(29) 5 2.34, prep 5 .95, d 5 0.87.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Specific conditions were compared with one another to address concerns regarding the interpretation of previous affectlabeling studies. The first issue that we examined was whether the difference in the number of emotionally evocative images present during the affect-match and affect-label conditions contributed to differences in amygdala activity. Whereas the affect-label condition produced significantly less amygdala activity than the observe condition, t(29) 5 3.28, prep 5 .99, d 5 1.22, the affect-match condition and observe condition did not produce reliably different amygdala activity, t < 1, d 5 0.19. The results of the comparison between the affect-match and observe conditions indicate that the number of emotional images did not drive the amygdala effects in previous affect-labeling studies. Similarly, the activity in the amygdala ROI did not differ between the affect-match and gender-match conditions, t(29) 5 1.05, prep 5 .76, d 5 0.40, indicating that explicit attention to the affect-relevant perceptual features did not amplify amygdala responses during affect matching. As in prior work (Hariri et al., 2000), affect labeling also produced less amygdala activity than affect matching, t(29) 5 2.20, prep 5 .94, d 5 0.82. 1",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "The second issue that we examined was whether diminished amygdala activity previously reported for the affect-label condition was a result of affect labeling per se or could be attributed to labeling processes more generally. To examine this issue, we compared the affect-label condition with the gender-label condition, as both of these conditions required labeling and the displays in both conditions present subjects with a single emotional target face. Significantly less activity was present in",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "1 The effects reported in these ROI analyses were replicated in whole-brain analyses: Direct comparison of the affect-match condition with the observe condition and of the affect-match condition with the gender-match condition did not yield a significant difference in amygdala activity, whereas comparison of the affect-label condition with the observe condition and of the affect-label condition with the affect-match condition did show a significant difference in amygdala activity.",
+   "page": 4
+  },
+  {
+   "label": "table",
+   "text": "TABLE 1 Brain Regions Differentially Active During Affect Labeling Versus Gender Labeling\nTABLE 1 Brain Regions Differentially Active During Affect Labeling Versus Gender Labeling\n\n| Region                                                              | BA                                                                  | Talairach coordinates - x                                           | Talairach coordinates - y                                           | Talairach coordinates - z                                           | Size - (voxels)                                                     | t                                                                   |\n|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|\n| Greater activity during gender labeling than during affect labeling | Greater activity during gender labeling than during affect labeling | Greater activity during gender labeling than during affect labeling | Greater activity during gender labeling than during affect labeling | Greater activity during gender labeling than during affect labeling | Greater activity during gender labeling than during affect labeling | Greater activity during gender labeling than during affect labeling |\n| Amygdala                                                            | -                                                                   | \u000024                                                                 | 0                                                                   | \u000024                                                                 | 56                                                                  | 3.39                                                                |\n| Ventromedial PFC                                                    | 11                                                                  | 4                                                                   | 48                                                                  | \u000016                                                                 | 37                                                                  | 4.15                                                                |\n| Ventral striatum                                                    | -                                                                   | 6                                                                   | 8                                                                   | \u00004                                                                  | 102                                                                 | 4.62                                                                |\n| Subgenual ACC                                                       | 25                                                                  | 6                                                                   | 26                                                                  | \u00008                                                                  | 176                                                                 | 4.70                                                                |\n| Dorsal ACC                                                          | 24                                                                  | 2                                                                   | 18                                                                  | 32                                                                  | 16                                                                  | 3.12                                                                |\n| Posterior insula                                                    | -                                                                   | 44                                                                  | \u000014                                                                 | 2                                                                   | 255                                                                 | 7.44                                                                |\n|                                                                     | -                                                                   | \u000040                                                                 | \u000012                                                                 | 8                                                                   | 240                                                                 | 5.34                                                                |\n| Posterior cingulate                                                 | 31                                                                  | \u00008                                                                  | \u000064                                                                 | 26                                                                  | 257                                                                 | 5.35                                                                |\n| Superior temporal sulcus                                            | 22                                                                  | 66                                                                  | \u000042                                                                 | 14                                                                  | 98                                                                  | 4.84                                                                |\n|                                                                     | 22                                                                  | \u000056                                                                 | \u000022                                                                 | 12                                                                  | 254                                                                 | 4.86                                                                |\n| Temporal pole                                                       | 38/21                                                               | 40                                                                  | 6                                                                   | \u000018                                                                 | 56                                                                  | 3.87                                                                |\n|                                                                     | 38/21                                                               | \u000040                                                                 | 8                                                                   | \u000014                                                                 | 113                                                                 | 3.56                                                                |\n| Periaqueductal gray                                                 | -                                                                   | 6                                                                   | \u000026                                                                 | \u00002                                                                  | 47                                                                  | 4.21                                                                |\n| Cerebellum                                                          | -                                                                   | 10                                                                  | \u000054                                                                 | \u000014                                                                 | 250                                                                 | 5.10                                                                |\n| Greater activity during affect labeling than during gender labeling | Greater activity during affect labeling than during gender labeling | Greater activity during affect labeling than during gender labeling | Greater activity during affect labeling than during gender labeling | Greater activity during affect labeling than during gender labeling | Greater activity during affect labeling than during gender labeling | Greater activity during affect labeling than during gender labeling |\n| RVLPFC                                                              | 47                                                                  | 54                                                                  | 24                                                                  | \u000010                                                                 | 44                                                                  | 3.37                                                                |\n|                                                                     | 47                                                                  | 48                                                                  | 46                                                                  | \u00006                                                                  | 18                                                                  | 3.28                                                                |\n|                                                                     | 45                                                                  | 56                                                                  | 18                                                                  | 8                                                                   | 12                                                                  | 3.02                                                                |",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "TABLE 1 Brain Regions Differentially Active During Affect Labeling Versus Gender Labeling",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Note. N 5 30. BA 5 Brodmann's area; PFC 5 prefrontal cortex; ACC 5 anterior cingulate cortex; RVLPFC 5 right ventrolateral prefrontal cortex.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "the amygdala ROI in the affect-label condition than in the gender-label condition, t(29) 5 2.14, prep 5 .93, d 5 0.79. Because subjects were faster to respond during gender-label trials than during affect-label trials, t(29) 5 3.20, prep 5 .99, d 5 1.19, it is possible that task difficulty contributed to differences in amygdala activity. We therefore conducted an analysis of covariance (ANCOVA) controlling for subjects' mean reaction time differences across the two labeling conditions. After controlling for this measure of task difficulty, the amygdala was still significantly less active in the affect-label condition than in the gender-label condition, t(29) 5 2.07, prep 5 .92, d 5 0.77. These results indicate that even relative to a condition controlling for the effects of stimulus display and labeling effects in general, affect labeling is associated with dampened amygdala activity during encoding of an emotionally evocative image.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Because the gender-label condition provides the best control for the effects of affect labeling, we examined the gender-label and affect-label conditions further in whole-brain analyses. As Table 1 shows, several limbic regions were less active during affect labeling than during gender labeling. These regions included the amygdala, ventromedial prefrontal cortex, subgenual cingulate, insula, posterior cingulate, dorsal anterior cingulate, and ventral striatum. In contrast, the only region of the brain that was more active during the affect-label condition than during the gender-label condition was RVLPFC. Three clusters of activity were observed in RVLPFC in this contrast, two in Brodmann's area (BA) 47 and one in BA45 (see Fig. 3 and Table 1). The activations reported in Table 1 were not correlated with reaction time differences between the affect-label and genderlabel condition and remained significant after controlling for reaction time differences in an ANCOVA.",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 3. Illustration of a canonical brain showing two clusters in right ventrolateral prefrontal cortex (RVLPFC) where activity was greater during affect labeling than during gender labeling.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Given that the amygdala was less active during affect labeling than during gender labeling, we conducted a regression analysis to examine neural activity that correlated negatively with the difference in amygdala activity between affect labeling and gender labeling. This analysis identified candidate regions that might be involved in the disruptive effects of affect labeling on amygdala responses to emotional images. We found that individuals who tended to show a greater reduction in amygdala activity during affect labeling, compared with gender labeling, also showed a greater increase in the same comparison in two regions of the brain: RVLPFC (46, 24, \u000010; r 5 \u0000.51, prep 5 .99; see Fig. 4) and MPFC (14, 48, \u00002; r 5 \u0000.55, prep 5 .99).",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "An inverse correlation between RVLPFC and amygdala activation has been observed in affect-labeling studies previously (Hariri et al., 2000; Lieberman et al., 2005); however, it has been unclear how RVLPFC affects amygdala activity given the sparse connections from RVLFPC to the amygdala (Carmichael & Price, 1995; Ghashghaei & Barbas, 2002). As noted earlier, it has been suggested that MPFC might mediate the effects of RVLPFC on the amygdala.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "To examine this possibility, we tested whether MPFC activity mediated the direct relationship between RVLPFC and amygdala activity. The prerequisite for mediation, that each of the three variables possesses significant zero-order correlations with the other two, was met, as RVLPFC and MPFC activity were correlated (r 5 .66, prep > .99; the other correlations were reported earlier). The mediation analysis indicated that the direct path relating RVLPFC activity to amygdala activity (b 5 \u0000.71, prep > .99) was significantly mediated by MPFC activity (distributionof-products test: ZaZb 5 10.55, prep > .99; MacKinnon, Lockwood, Hoffman, West, & Sheets, 2002). After controlling for MPFC activity, the remaining path from RVLPFC to the amygdala was no longer significant (b 5 \u0000.34, prep 5 .57).",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Fig. 4. Correlation between right ventrolateral prefrontal cortex (RVLPFC) and amygdala activity. Each plotted point represents the parameter estimates for a single subject's activity in RVLPFC and the amygdala during affect labeling, relative to gender labeling. The view of the glass brain on the left shows all brain regions (RVLPFC and medial prefrontal cortex) for which activity was inversely correlated with amygdala activity during affect labeling, relative to gender labeling.",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "DISCUSSION",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The results of this study provide the first clear demonstration that affect labeling disrupts the affective responses in the limbic system that would otherwise occur in the presence of negative emotional images. Each of the issues that have limited the inferences that could be drawn from previous studies of affect labeling (Hariri et al., 2000; Lieberman et al., 2005) was addressed in the current study. First, it has been suggested that the observed differences in amygdala activity between the affectlabel and affect-match conditions could have been due to the facilitating effect of affect matching rather than the inhibitory effect of affect labeling. In the present study, affect matching produced amygdala activity of a magnitude similar to that found during passive observation of a single negative emotional image; thus, the effects of affect labeling cannot be reinterpreted in terms of increased amygdala activity due to affect matching. Second, this study also demonstrated that affect labeling, compared with the closely matched control of gender labeling, produced diminished activity in the amygdala, as well as in a number of other limbic regions. Given that gender labeling is a tighter control for affect labeling than affect matching is, these results further solidify the conclusion that affect labeling has a dampening effect on amygdala activity.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Additionally, this study provides clear evidence that affect labeling increases activity in RVLPFC. RVLPFC was the only region in the entire brain that was more active during affect labeling than during gender labeling. Furthermore, RVLPFC was one of only two regions for which activity during affect labeling, relative to gender labeling, was inversely correlated with amygdala activity. This result suggests that RVLPFC activity during affect labeling may be involved in disrupting the amygdala's response to emotionally evocative images. The other region of the brain displaying an inverse correlation with amygdala activity was MPFC, which was found to statistically mediate the relationship between RVLPFC and amygdala activity.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "These data thus suggest that one route by which putting feelings into words may regulate negative affect is by increasing activity in RVLPFC, which in turn dampens activity in the amygdala by way of intermediate connections through MPFC. Future investigations of this pathway could parametrically vary features of affect labeling. For instance, valence, vividness, arousal, and abstractness of affect labels may each have different consequences for the extent to which RVLPFC is activated and affects limbic regions. Additionally, future work could examine the effects of this neurocognitive pathway on physical health by mapping out the relation of activity in the RVLPFCMPFC-amygdala pathway to physiological responses in the autonomic, neuroendocrine, and immune systems that may more directly contribute to physical health. Along these lines, we have recently observed diminished skin conductance responses during affect labeling compared with affect matching (Crockett, Lieberman, & Tabibnia, 2006).",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "The MPFC mediation of RVLPFC effects on amygdala activation is particularly interesting given that MPFC has dense anatomical projections to the amygdala and has been implicated in extinction-related control of amygdala activity in both rodents and humans (Phelps et al., 2004; Quirk et al., 2003; see also Heinz et al., 2005). The current data suggest that although many",
+   "page": 6
+  },
+  {
+   "label": "section_header",
+   "text": "M.D. Lieberman et al.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "animals may recruit MPFC during exposure-related extinction learning, humans may be able to tap into this MPFC mechanism through affect labeling and thereby enhance exposure-related effects. For instance, in an exposure analogue paradigm, Tabibnia, Lieberman, and Craske (2006) observed that an exposure condition pairing initial exposures to a threatening image with negative words led to smaller physiological responses to the image when it was presented again a week later, as compared with an initial exposure condition that did not include negative words. In a second study, Tabibnia et al. found that RVLPFC activity during affect labeling predicted the magnitude of the long-term reductions in physiological responses to the images and that this relationship was mediated by activity in MPFC. Thus, the connection between RVLPFC and MPFC may represent a mechanism by which language and other symbolic processes can tap into a more basic mechanism of limbic control and provide therapeutic benefits.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Although the current research establishes that affective labeling, rather than labeling in general, is associated with diminished limbic responses, it is unclear whether the linguistic component of affective labeling is critical. It may be the case that symbolic processing of affect drives the RVLPFC activity and that affect labeling is merely a very common way to symbolically process affect (Fodor, 1975). Although it may be appealing to invoke effort to account for RVLPFC activity more generally (Duncan &Owen, 2000), the fact that the difference in RVLPFC activity during affect labeling compared with gender labeling was not correlated with reaction time differences between the two conditions is evidence against the idea that effort accounts for this particular effect in RVLPFC.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "The similarity between our research and emotion-reappraisal studies is worthy of note. Reappraisal is a technique by which individuals reframe the meaning of an event and thereby change its emotional significance and impact (Gross, 1998). A number of such studies have obtained results paralleling those of affectlabeling studies, demonstrating reappraisal-related increases in prefrontal activity along with corresponding reductions in limbic activity and emotional distress (Ochsner & Gross, 2005). The prefrontal activations have been widely distributed across prefrontal cortex; however, a number of these studies have found RVLPFC activity during reappraisal (Beauregard, Levesque, & Bourgouin, 2001; Kalisch et al., 2005; Levesque et al., 2003; Phan et al., 2005; Ochsner et al., 2004; Schaefer et al., 2003). Thus, it is possible that reappraisal and affect labeling rely on some of the same neural machinery, as reappraisal typically engages propositional thought about emotional stimuli. Nevertheless, the two tasks differ in that reappraisal involves intentional attempts to regulate emotion, whereas affect labeling does not, and reappraisal can involve far more complex mental operations than have been examined in affect-labeling research. Future research examining reappraisal and affect labeling in the same individuals would help to clarify the relationship between these processes.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "In summary, this study provides the first unambiguous evidence that affect labeling, compared with other ways of encoding, produces diminished responses to negative emotional images in the amygdala and other limbic regions. Affect labeling was also shown to be associated with increased activity in one region of the brain, RVLPFC, and the magnitude of RVLPFC activity was inversely correlated with the magnitude of amygdala activity during affect labeling, which suggests that RVLPFC may functionally inhibit the amygdala. Finally, this inverse relationship between RVLPFC and amygdala activity was mediated by changes in MPFC activity, a result that provides a neuroanatomically plausible route for these inhibitory effects to occur. These findings begin to shed light on how putting negative feelings into words can help regulate negative experience, a process that may ultimately contribute to better mental and physical health.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Acknowledgments-We thank the UCLA Brain Mapping Medical Organization, the Ahmanson Foundation, the PiersonLovelace Foundation, and the Tamkin Foundation for support. We also thank the UCLA Social Cognitive Neuroscience lab for comments on this manuscript.",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "REFERENCES",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Aron, A.R., Robbins, T.W., & Poldrack, R.A. (2004). Inhibition and the right inferior frontal cortex. Trends in Cognitive Sciences, 8, 170-177.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Beauregard, M., Levesque, J., & Bourgouin, P. (2001). Neural correlates of conscious self-regulation of emotion. Journal of Neuroscience, 21, 6993-7000.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Brett, M., Anton, J., Valabregue, R., & Poline, J. (2002, August). Region of interest analysis using an SPM toolbox. Paper presented at the 8th International Conference on Functional Mapping of the Human Brain, Sendai, Japan.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Carmichael, S.T., & Price, J.L. (1995). Limbic connections of the orbital and medial prefrontal cortex in the macaque monkey. Journal of Comparative Neurology, 363, 615-641.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Crockett, M.J., Lieberman, M.D., & Tabibnia, G. (2006). Affect labeling attenuates skin conductance responses to emotionally evocative faces in neurotics. Manuscript submitted for publication.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Cunningham, W.A., Johnson, M.K., Gatenby, J.C., Gore, J.C., & Banaji, M.R. (2003). Neural components of social evaluation. Journal of Personality and Social Psychology, 363, 615-641.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Duncan, J., & Owen, A.M. (2000). Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends in Neuroscience, 23, 475-483.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Fodor, J.A. (1975). The language of thought. New York: Crowell.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Forman, S.D., Cohen, J.D., Fizgerald, M., Eddy, W.F., Mintun, M.A., & Noll, D.C. (1995). Improved assessment of significant activation in functional magnetic resonance imaging (fMRI): Use of clustersize threshold. Magnetic Resonance in Medicine, 33, 636-647.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Ghashghaei, H.T., & Barbas, H. (2002). Pathways for emotion: Interactions of prefrontal and anterior temporal pathways in the amygdala of the rhesus monkey. Neuroscience, 115, 1261-1279.",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "Gross, J.J. (1998). Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and",
+   "page": 7
+  },
+  {
+   "label": "list_item",
+   "text": "physiology. Journal of Personality and Social Psychology, 74, 227-237.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Hariri, A.R., Bookheimer, S.Y., & Mazziotta, J.C. (2000). Modulating emotional response: Effects of a neocortical network on the limbic system. NeuroReport, 11, 43-48.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Heinz, A., Braus, D.F., Smolka, M.N., Wrase, J., Puls, I., Hermann, D., et al. (2005). Amygdala-prefrontal coupling depends on a genetic variation of the serotonin transporter. Nature Neuroscience, 8, 20-21.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Hemenover, S.H. (2003). The good, the bad, and the healthy: Impacts of emotional disclosure of trauma on resilient self-concept and psychological distress. Personality and Social Psychology Bulletin, 29, 1236-1244.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Kalisch, R., Wiech, K., Critchley, H.D., Seymour, B., O'Doherty, J.P., Oakley, D.A., et al. (2005). Anxiety reduction through detachment: Subjective, physiological, and neural effects. Journal of Cognitive Neuroscience, 17, 874-883.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Levesque, J., Eugene, F., Joanette, Y., Paquette, V., Mensour, B., Beaudoin, G., et al. (2003). Neural circuitry underlying voluntary suppression of sadness. Biological Psychiatry, 53, 502-510.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Lieberman, M.D., Hariri, A., Jarcho, J.J., Eisenberger, N.I., & Bookheimer, S.Y. (2005). An fMRI investigation of race-related amygdala activity in African-American and Caucasian-American individuals. Nature Neuroscience, 8, 720-722.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "MacKinnon, D.P., Lockwood, C.M., Hoffman, J.M., West, S.G., & Sheets, V.A. (2002). Comparison of methods to test mediation and other intervening variable effects. Psychological Methods, 7, 83-104.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Nomura, M., Iidaka, T., Kakehi, K., Tsukiura, T., Hasegawa, T., Maeda, Y., & Matsue, Y. (2003). Frontal lobe networks for effective processing of ambiguously expressed emotions in humans. Neuroscience Letters, 348, 113-116.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ochsner, K.N., & Gross, J.J. (2005). The cognitive control of emotion. Trends in Cognitive Sciences, 9, 242-249.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Ochsner, K.N., Ray, R.D., Cooper, J.C., Robertson, E.R., Chopra, S., Gabrieli, J.D., & Gross, J.J. (2004). For better or for worse: Neural systems supporting the cognitive down- and up-regulation of negative emotion. NeuroImage, 23, 483-499.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Pennebaker, J.W. (1997). Writing about emotional experiences as a therapeutic process. Psychological Science, 8, 162-166.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Phan, K.L., Fitzgerald, D.A., Nathan, P.J., Moore, G.L., Uhde, T.W., & Tancer, M.E. (2005). Neural substrates for voluntary suppression of negative affect: A functional magnetic resonance imaging study. Biological Psychiatry, 57, 210-219.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Phelps, E.A., Delgado, M.R., Nearing, K.I., & LeDoux, J.E. (2004). Extinction learning in humans: Role of the amygdala and vmPFC. Neuron, 43, 897-905.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Quirk, G.J., Likhtik, E., Pelletier, J.G., & Pare, D. (2003). Stimulation of medial prefrontal cortex decreases the responsiveness of central amygdala output neurons. Journal of Neuroscience, 23, 8800-8807.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Schaefer, A., Collette, F., Philippot, P., Van der Linden, M., Laureys, S., Delfiore, G., et al. (2003). Neural correlates of ''hot'' and ''cold'' emotional processing: A multilevel approach to the functional anatomy of emotion. NeuroImage, 18, 938-949.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Tabibnia, G., Lieberman, M.D., & Craske, M.G. (2006). The lasting effect of words on feelings: Psychophysiology and fMRI investigations of long-term habituation to aversive stimuli after repeated exposure with and without words. Unpublished manuscript, University of California, Los Angeles.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Taylor, S.F., Phan, K.L., Decker, L.R., & Liberzon, I. (2003). Subjective rating of emotionally salient stimuli modulates neural activity. NeuroImage, 18, 650-659.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Tottenham, N., Borscheid, A., Ellersten, K., Markus, D.J., & Nelson, C.A. (2002, April). Categorization of facial expressions in children and adults: Establishing a larger stimulus set. Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.",
+   "page": 8
+  },
+  {
+   "label": "list_item",
+   "text": "Wilson, T.D., & Schooler, J.W. (1991). Thinking too much: Introspection can reduce the quality of preferences and decisions. Journal of Personality and Social Psychology, 60, 331-339.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "(RECEIVED 5/5/06; REVISION ACCEPTED 6/19/06; FINAL MATERIALS RECEIVED 6/30/06)",
+   "page": 8
+  }
+ ]
+}

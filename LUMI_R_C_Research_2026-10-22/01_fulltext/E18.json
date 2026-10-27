@@ -1,0 +1,398 @@
+{
+ "paper_id": "E18",
+ "source": "E18_2021_Keenan_Three_good_things_in_nature_a_nature_based_positive_psychological_inte.pdf",
+ "pages": 20,
+ "tool": "docling",
+ "items": [
+  {
+   "label": "table",
+   "text": "| Journal:            | Journal of Public Mental Health                            |\n|---------------------|------------------------------------------------------------|\n| Manuscript ID       | JPMH-02-2021-0029.R3                                       |\n| of Manuscript Type: | Original Research Paper                                    |\n| Keywords:           | Depression, Anxiety, Three Good Things, Nature, Well-Being |",
+   "page": 1
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Three Good Things in Nature: A Nature-Based Positive Psychological Intervention to Improve Mood and Well-Being for Depression and Anxiety Three Good Things in Nature: A Nature-Based Positive Psychological Intervention to Improve Mood and Well-Being for Depression and Anxiety",
+   "page": 1
+  },
+  {
+   "label": "section_header",
+   "text": "Abstract",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Keywords:",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Purpose: Visiting and connecting with nature through psychological interventions improves well-being within the general population. However, few such interventions have been conducted in clinically relevant populations. Design: An experimental design utilising a noticing Three Good Things in Nature (TGTiN) task during a nature based or urban (control) walk was conducted with nature connectedness, well-being, positive and negative affect measured at baseline, post and six-week follow-up. Individuals living with depression and/or anxiety (n = 50; 39 having a diagnosis) were randomly allocated to 30 minutes walking in nature or urban environments for five consecutive days. Findings: An ANCOVA, with age as co-variate, showed a significant effect of time by condition on all variables: nature connectedness ηp 2 = .34; positive affect ηp 2 = .42; negative affect ηp 2 = .66; well-being ηp 2 = .29. Post-hoc tests indicated a significant increase in nature connectedness and positive affect in the nature versus an urban walk at post and follow-up. Negative affect decreased in the nature walk at post intervention while well-being was significantly greater in the nature walk at follow-up. Originality: The TGTiN intervention effectively improves positive affect, and well-being in clinically relevant populations, although replication with a larger sample is warranted.",
+   "page": 2
+  },
+  {
+   "label": "text",
+   "text": "Depression, Anxiety, Nature, Well-being, Three Good Things",
+   "page": 2
+  },
+  {
+   "label": "section_header",
+   "text": "Introduction",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Current estimates suggest 50 percent of the global population reside in urban environments, rising to 70 percent by 2050 (Dye, 2008). Urban environments are correlated with increased mental illness including depression and usage of psychotropic medication (McKenzie, Murray and Booth, 2013). Bratman et al. (2015) propose a reduction in nature experiences may be partly responsible, with greenspaces associated with lower mental distress and better well-being (Logan and Selhub, 2012). Depression affects 350 million people worldwide and alongside anxiety, is related to wider health issues (WHO, 2004). While medication prescriptions are commonplace, a shortage of trained professionals makes accessing psychological therapies difficult (Grandes, et al., 2011).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Improvements in well-being through nature could be attributed solely to increased physical activity (Logan and Selhub, 2012), however, the mediating role of nature connectedness (NCx) on exposure to nature and mental well-being shows our relationship is important (Pritchard et al., 2020). Evidence indicates NCx and simple activities are the main significant factors in predicting good mental well-being (Richardson et al., 2021) over and above nature exposure and socio-demographics while also being linked to psychological healing (Pattel, 2007). Further, NCx has been linked to reduced trait and state anxiety",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health The cost implications are severe, with the annual treatment of mental health costing €8.2 billion in the Republic of Ireland (Jones, 2019). Greenspace interventions offer a potential solution providing savings to society due to their cost effectiveness (Lovell, 2016). Access to greenspace has been linked to positive mental health (Lovell, 2016) and improved mood (Richardson et al., 2021). Outdoor walking increases happiness and positive affect (PA) with decreased negative affect (NA) (Brooks, et al., 2017) and reduced indicators of depression and anxiety (Bratman et al., 2015), with these benefits found in nature-based therapeutic interventions (Song et al., 2016).",
+   "page": 3
+  },
+  {
+   "label": "text",
+   "text": "(Martyn and Brymer, 2014). Nature-based interventions have aided in recovery from stressrelated mental disorders through facilitation of self as part of nature and improved psychological factors (Pálsdóttir, Grahn and Persson, 2014), with reduced self-reported healthcare service attendance (Wahrborg, Pettersson, and Grahnet al.,, 20132014); suggesting nature could be utilised to improve these outcomes through established psychological interventions.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health The Three Good Things (TGT) intervention facilitates gratitude to reduce negative emotions while prolonging feelings of pleasure (Bryant, 2003). TGT asks individuals to think and write down TGT they have experienced, that increases well-being. and There is reduceds depression up to six-months later (Seligman et al., 2005). When adapted to Three Good Things in Nature (TGTiN), NCx (Richardson and Sheffield, 2017), well-being and mental health are improved (McEwan et al., 2019). Here, the environment informs thoughts and feelings (Atchley, Strayer and Atchly, 2012) where NCx provides a more developed understanding of 'self' as part of nature and the good things it contains (McEwan et al., 2019). Further, the benefits of 'being' in nature extend beyond the encounter which has implications for prevention care, especially important given its use within clinical settings would be cost effective (Lovell, 2016). However, little is known about nature's effect on clinically relevant states including depression and anxiety (Brooks et al., 2017) therefore adapting and testing the effectiveness of a TGTiN intervention with this population is required. Given its previous efficacy in improving mood wellbeing, and affect involved in the symptomology of anxiety and depression (McEwan et al., 2019), TGTiN was tested experimentally with the following hypotheses:",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "H 1 : There will be a significant increase in NCx scores from pre to post and follow-up after walking and noting three good things in nature when compared to the control group.",
+   "page": 4
+  },
+  {
+   "label": "text",
+   "text": "H 2 : There will be a significant increase in well-being scores from pre to post and follow-up in both conditions (due to the previously evidenced benefits of TGT interventions), with the nature condition showing the biggest improvement.",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health H 3 : There will be a significant increase in positive affect scores from pre to post and follow-up in both conditions (due to the previously evidenced benefits of TGT interventions), with the nature condition showing the biggest improvement. H 4 : There will be a significant decrease in negative affect scores from pre to post and followup in both conditions (due to the previously evidenced benefits of TGT and TGTiN interventions), with the nature condition showing the biggest improvement. Method Design An experimental design randomly assigned participants to an experimental group (walking in nature) or a control (walking in an urban area). Measures were taken at baseline, post and six-week follow-up. Participants and Procedure Participants were recruited through the Cavan, Monaghan, Donegal and Sligo Leitrim Mental Health Service User Engagement Fora, consumer panels, and those involved in the Cooperation and Working Together (CAWT) Recovery College. Invitations were also circulated via social media, notice boards and GP surgeries. Potential participants were forwarded all study information outlining the aim of investigating the impact of walking in nature on those with experiences of depression and/or anxiety thereby reaching those interested in walking activities. Thirty-nine participants had a formal diagnosis of depression and/or anxiety, the others indicated that they experienced symptoms of depression and/or anxiety but had not received a formal diagnosis. Further, 16 of the participants were",
+   "page": 5
+  },
+  {
+   "label": "caption",
+   "text": "Page 4 of 18",
+   "page": 5
+  },
+  {
+   "label": "text",
+   "text": "accessing community mental health services under the care of a psychiatrist with 10 also receiving interventions from Occupational Therapy and recovery education. Of the remaining participants, 20 had accessed mental health services and had been discharged but wished to access well-being support. Fourteen were accessing primary care support such as their GP and community-based supports such as men's sheds, crafts workshops, and education through the Recovery College. Fifteen participants indicated that they were taking medication for depression and/or anxiety.",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health The sample comprised 30 females (males = 20), age ranging from 19 to 62 years (mean = 40.34 years, 12.65 SD). Ten participants had lived with depression, 17 with anxiety and 23 with both (see table 1 for diagnosis percentages). Forty-nine participants were in recovery as defined by the Recovery Model (Davidson, 2005) whereby participants gain resilience and control over challenges through a strengths-based approach. Sixteen of the participants accessed community mental health support. The groups participated in a walk guided by the researcher and at least 3 volunteers/colleagues, in groups of a maximum of ten. Both conditions received the same briefing about the study and walked together in groups with social interaction comparable between the two. Group membership was randomised with severity of diagnosis not a deciding factor. The nature guided walks took place in a forest park/natural area for a total of thirty-minutes for five consecutive days. The nature walks were slightly different each day and undertaken in lakeside, beach, mountain, forest and bog areas. The urban walks were of identical duration and followed different routes each day through housing estates, town centres, a town park and main roads; the level of nature in the urban walks was much less than those in nature. Following the study, participants were asked if they continued to walk in nature following their completion of the post and follow-up surveys. Those previously accessing other support continued to do so but also walked in",
+   "page": 6
+  },
+  {
+   "label": "text",
+   "text": "nature and completed the TGTiN. This was the same for those in the TGT group who continued to utilise other support while walking and still noting three good things.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Materials The Warwick Edinburgh Mental Well-being Scale (WEMWBS) (Tennant et al., 2007) measures hedonic (positive emotion) and eudemonic (self-awareness) well-being. Responses are rated on experiences over the past two-weeks on a 5-point scale from 1 (none of the time) to 5 (all of the time), scores ranging from 14 to 70 with higher scores indicating higher wellbeing. The Positive and Negative Affect Schedule (PANAS) (Watson, Clark, and Tellegen, 1988) consists of two 10-item mood scales that measure PA (e.g., alert, enthusiastic) and NA (e.g., anger, nervousness) dimensions of affect. Participants indicated their mood during the past seven days from 1 (almost never) to 7 (almost all the time) with a sum obtained for both forms of affect. Cronbach's alphas ranged from 0.82 to 0.91 across measurements for both dimensions. The state Connectedness to Nature Scale (CNS) (Mayer and Frantz, 2004) measured participants' nature connection. The 13-item state scale uses a 5-point Likert Scale ranging from 1 (disagree strongly) to 5 (agree strongly) on statements such as \"I often feel a sense of oneness with the natural world around me\". A mean score is obtained with a higher score indicating a higher level of NCx. The authors report good item and scale characteristics (Cronbach's Alpha = .85, Guttman's split half reliability = .84) with high internal consistency and test-retest reliability.",
+   "page": 7
+  },
+  {
+   "label": "text",
+   "text": "Demographic information was obtained. with pParticipants were provided with a notebook to record their TGTiN each day. The lead author made adherence checks to ensure participants were fully engaged.",
+   "page": 7
+  },
+  {
+   "label": "caption",
+   "text": "Page 6 of 18",
+   "page": 7
+  },
+  {
+   "label": "section_header",
+   "text": "Ethics",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "The study was approved by De Montfort University's Ethics Committee. Further, the Head of Mental Health Services endorsed the study prior to a presentation to the Executive Clinical Directors and the Area Mental Health Management Teams, including service user, family member and carer representatives with approval received.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Analytic Strategy",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Comparisons at baseline were conducted using Fisher's Exact Test, for proportions, and Analysis of Variance (ANOVA), for continuous variables. Then Multiple Analysis of Variance (MANOVA) was used to examine changes in all outcome measures over time in the two groups. Follow-up analyses were conducted by ANOVA (or Analysis of Co-Variance (ANCOVA) if there were baseline differences) and t-tests. Finally, ANCOVA was used to examine if group differences in well-being over time were explained by changes in CNS (calculated as difference between post and pre-intervention scores). IBM SPSS version 25.0 was used for analyses using an alpha value of .05. Results Table 1 provides the frequencies for age, gender, diagnosis, diagnosis duration and number of walks in nature per week prior to participation. Similar proportions of men and women were recruited in the urban and rural conditions; Fisher's Exact Test, p=.77. However, there were differences in age between conditions, F(1,48) = 14.94, p=.001; urban participants (x=46.44, SD=12.50 years) were older than rural participants (x=34.24, SD=9.63 years). Accordingly, age was included as a co-variate in all subsequent analyses.",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Insert table I here Changes over time",
+   "page": 8
+  },
+  {
+   "label": "text",
+   "text": "Data was checked for normality with all variables indicating a normal distribution (Field, 2014). Box's tests of equality of covariance were performed for the MANCOVA and ANCOVAs, which were non-significant, indicating the covariance across group was normally distributed. MANCOVA was used to examine group differences (nature; urban) in changes over time (3 time points) of the outcome measures (NCx, PA, NA, WEMWBS), with age as a co-variate. It revealed significant multivariate effects of time (F(8,40) = 26.46, p < .001, ηp 2 = .84) and condition (F(4,44) = 45.84, p < .001, ηp 2 = .81), and a significant multivariate time x condition interaction (F(8,140) = 30.90, p = .01, ηp 2 = .86). Age was not a significant co-variate (p>.1).",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Insert table II here",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Univariate ANCOVAs revealed time x condition interactions for all outcome measures: NCx (F(2,94) = 23.73, p < .001, ηp 2 = .34); PA (F(2,94) = 34.42, p < .001, ηp 2 = .42); NA (F(2,94) = 90.54, p < .001, ηp 2 = .66); and WEMWBS (F(2,94) = 19.46, p < .001, ηp 2 = .29). Age was not a significant co-variate in ANCOVAs. Table 2 provides means and standard deviations (baseline. Post and follow-up) for WEMWBS, CNS, PA and NA by condition, along with t-test results. There were no differences in any measure at baseline, all t<1. WEMWBS scores were greater in the rural condition at follow-up but not postintervention. CNS scores were higher in the rural group than the urban group at postintervention and follow-up. PA scores were also higher in the rural group than the urban group at post-intervention and follow-up. At post-intervention, NA scores were lower in the rural group than the urban group, where at follow-up NA scores were higher in the rural group than the urban group.",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "Finally, ANCOVA examined if group differences in well-being over time remained after statistical adjusting for changes in CNS by including them as a co-variate. Changes in CNS were a significant co-variate (F(2,94) = 5.46, p < .01, ηp 2 = .10, with the time x group",
+   "page": 9
+  },
+  {
+   "label": "caption",
+   "text": "Page 8 of 18",
+   "page": 9
+  },
+  {
+   "label": "text",
+   "text": "interaction increasing (F(2,94) = 32.33, p < .001, ηp 2 = .41); there were group differences in WEMWBS scores at follow-up but not at pre or post intervention.",
+   "page": 10
+  },
+  {
+   "label": "section_header",
+   "text": "Discussion",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health The results indicate NCx and PA significantly increased at post and follow-up in the TGTiN condition but did not significantly increase in the control. While there was a significant decrease in NA at post in this the TGTiN condition, this increased unexpectedly at follow-up when compared to the control (although still below baseline). Further, while wellbeing was not significantly different from baseline to post, the TGTiN condition showed significantly higher well-being at follow-up when compared to the control. The larger, significant increase in NCx and PA at both post and follow-up in the nature walk compared to the control supported H 1 and partially supported H 3 , respectively. While well-being scores did differ at post, only scores at follow-up were significantly different in favour of the nature walk when compared to the control, partially supporting H 2 . The larger decrease of NA at post in the nature walk partially supported H 4 given the unexpected increase (although still below baseline and non-significantly) at follow-up. No significant change in NA was found in the control.",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "The results support the TGTiN intervention as benefitting well-being and PA (McEwan et al. 2019). Given the significant differences found for PA at post and follow-up, and for well-being at follow-up only, practitioners interested in improving these outcomes in clients could utilise TGTiN given this and previous results (Richardson and Sheffield, 2017). While well-being (Richardson et al., 2021) and mental health (Martyn and Brymer, 2014) benefits have been evidenced in the general population, this study extends the importance of nature to a clinically relevant population (Brooks et al., 2017). Previous nature-based interventions have aided recovery from stress related disorders while providing psychological improvements (Pálsdóttir, et al., 2014). With such interventions linked to reductions in",
+   "page": 10
+  },
+  {
+   "label": "caption",
+   "text": "Page 9 of 18",
+   "page": 10
+  },
+  {
+   "label": "text",
+   "text": "healthcare service attendance (Wahrborg et al., 20132014), the TGTiN intervention could improve outcomes and reduce service use. Further, TGTiN could be promoted as an additional well-being intervention for those receiving treatment for low-level depression and/or anxiety, complementing existing interventions while acting in a preventative capacity against developing more severe forms of these conditions. Therefore, the development and use of nature-based activities shows promise, warranting further study. This is pertinent given the financial (Jones, 2019) and personnel pressures (Grandes, et al., 2011) associated with mental health provision, with nature offering a cost-effective method for reducing them (Lovell, 2016).",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "The increase in NCx and well-being within the intervention group indirectly supports previous links between the two constructs (Richardson et al., 2021). While NCx change was a significant covariate, only condition explained well-being change. While it is possible that higher NCx increased the sensation of a meaningful existence and therefore higher well-being as found in other work (Prtichard et al., 2020), the benefit was likely derived from the TGTiN intervention. Further study using a mixed-methods design would be useful to understand the effectiveness and role NCx has on well-being through noticing TGTiN within this population.",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Atchley, et al. (2012) suggest the environment informs thoughts and feelings, thereby affecting PA and NA with NCx, leading to increased feelings of self as part of nature that improve well-being (Pritchard et al., 2020). The significant increase in PA and well-being for the intervention group indicates writing in nature using a Positive Psychological Intervention (PPI) may have created that sense of self and awareness. However, the use of a PPI could be utilised further than just developing thinking about self by facilitating in-depth knowledge of emerging feelings and their origins. While knowledge about feelings are is beneficial, the slight but non-significant increase in NA for the intervention group at follow-up should be considered and managed in clinical settings if TGTiN is utilised.",
+   "page": 11
+  },
+  {
+   "label": "caption",
+   "text": "Page 10 of 18",
+   "page": 11
+  },
+  {
+   "label": "text",
+   "text": "This approach could also provide additional insight from restricted (such as inpatient settings) or open (rehabilitation and recovery units) mental health settings. Exploring healthcare worker and patient experiences within such settings would be useful, especially where minimal access to nature is possible, to ascertain the effectiveness of TGTiN in different clinical environments. Further control would also be useful to discount the possibility that concurrent treatment was affecting the improvements found in this study particularly at follow-up, while also providing insight on how TGTiN could compliment other forms of treatment.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "This study highlighted walking in and writing about TGTiN can improve well-being for individuals with depression and/or anxiety that can be utilised to inform the development of preventative and management interventions for that client group. It demonstrated that a simple intervention such as TGTiN can create a space for reflection and positive thinking, connecting people with nature and offering positive avenues for good mental health through a potentially cost-effective intervention.",
+   "page": 12
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health The study utilised a rigorous approach to data collection to investigate the TGTiN intervention within a clinically relevant population. While the inclusion of individuals with diagnoses of depression and/or anxiety addressed a knowledge gap, identifying effective nature-based interventions for specific diagnoses would be fruitful. Despite this study sampling 39 clinically relevant participants in TGTiN, the small sample-size necessitates further work to investigate clinical applications. While participant allocation was impartially randomised, further work investigating the TGTiN intervention should utilise an impartial walk leader (or participants directed via pre-made instruction) to discount researcher effects. Alternatively, a Randomised Control Trial would be ideal. Further, severity of depression and/or anxiety could be investigated to determine the effectiveness of TGTiN across the range of experiences of such conditions.",
+   "page": 12
+  },
+  {
+   "label": "caption",
+   "text": "Page 11 of 18",
+   "page": 12
+  },
+  {
+   "label": "section_header",
+   "text": "References",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Atchley, R.A., Strayer, D.L., and Atchley, P. (2012) Creativity in the wild: Improving creative reasoning through immersion in natural settings. PloS one, 7(12), e51474.",
+   "page": 13
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Bratman, G.N., Hamilton, J.P., Hahn, K.S., Daily, G.C., and Gross, J.J. (2015) Nature experience reduces rumination and subgenual prefrontal cortex activation. Proceedings of the National Academy of Sciences, 112(28), pp.8567-8572. Brooks, A. M., Ottley, K. M., Arbuthnott, K. D. and Sevingny, P. (2017) Nature-related mood effects: Season and type of nature contact. Journal of Environmental Psychology, 54, pp. 91-102. https://doi.org/10.1016/j.jenvp.2017.10.004. Bryant, F. (2003) Savoring beliefs inventory (SBI): A scale for measuring beliefs about savouring. Journal of Mental Health, 12(2), pp.175-196. Davidson L. (2005) Recovery, self-management and the expert patient: Changing the culture of mental health from a UK Perspective. J Ment Health 14, pp.25-35. Dye, C. (2008) Health and urban living. Science 319, pp.766-769. Field, A. (2014) Discovering Statistics in Psychology, 4 th Edn.UK: Sage Publications. Grandes, G., Montoya, I., Arietaleanizbeaskoa, M.S., Arce, V., Sanchez, A., and MAS Group. (2011) The burden of mental disorders in primary care. European Psychiatry, 26(7), pp.28-435.",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Jones, B. (2019). \"Mental health issues cost State €8.2bn each year, says Harris\" Newspaper, 29th August 2019, available at: https://www.irishtimes.com/news/health/mentalhealth-issues-cost-state-8-2bn-each-year-says-harris-1.4001595 accessed 10/02/2021",
+   "page": 13
+  },
+  {
+   "label": "list_item",
+   "text": "Logan, A. C. and Selhub, E. M. (2012) Vis Medicatrix naturae: does nature \"minister to the mind\"? BioPsychoSocial Medicine, 6(1), pp.11. doi:10.1186/1751-0759-6-11",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Lovell, R. (2016) Links between natural environments and mental health: evidence briefing (EIN018). Natural England. Available at http:// publications.naturalengland.org.uk/publication/5748047200387072?c ategory=6159558569361408",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Pálsdóttir, A. M., Persson, D., Persson, B., Grahn, P., Arbetsterapi och aktivitetsvetenskap, Medicinska fakulteten, . . . Lund University. (2014) The journey of recovery and empowerment embraced by nature - clients' perspectives on nature-based rehabilitation in relation to the role of the natural environment. International Journal of Environmental Research and Public Health, 11(7), pp.7094-7115.",
+   "page": 14
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Martyn, P. and Brymer, E. (2014) The relationship between nature relatedness and anxiety. Journal of Health Psychology, Advance online publication, pp.1-10. doi: 10.1177/1359105314555169 Mayer, F.S. and Frantz, C.M. (2004) The connectedness to nature scale: A measure of individuals' feeling in community with nature. Journal of environmental psychology, 24(4), pp.503-515. McEwan, K., Richardson, M., Sheffield, D., Ferguson, F. J., and Brindley, P. (2019) A smartphone app for improving mental health through connecting with urban nature. International journal of environmental research and public health, 16(18), 3373. McKenzie, K., Murray, A. and Booth, T. (2013) Do urban environments increase the risk of anxiety, depression and psychosis? An epidemiological study. Journal of Affective Disorders, 150(3), pp.1019-1024.",
+   "page": 14
+  },
+  {
+   "label": "list_item",
+   "text": "Pattel, N., (2007) Aboriginal families, cultural context and therapy. Counselling, Psychotherapy, and Health, 3(1), pp.1-24",
+   "page": 15
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Pritchard, A., Richardson, M., Sheffield, D., and McEwan, K. (2020) The relationship between nature connectedness and eudaimonic well-being: A meta-analysis. Journal of Happiness Studies, 21, pp.1145- 1167. https://doi.org/10.1007/s10902-019-001186 Richardson, M., Passmore, H-A., Lumber, R., Thomas, R. and Hunt, A. (2021) Moments, not minutes: The nature-well-being relationship. International Journal of Wellbeing, 11(1), pp.8-33. Doi: https://doi.org/10.5502/ijw.v11i1.1267 Richardson, M., and Sheffield, D. (2017) Three good things in nature: Noticing nearby nature brings sustained increases in connection with nature. Psyecology, 8(1), pp.132. Seligman, M.E.P., Steen, T.A., Park, N. and Peterson, C. (2005) Positive psychology progress. Empirical validation of interventions. American Psychologist, 60, pp.410421. Song, C., Ikei, H. and Miyazaki, Y., (2016) Physiological effects of nature therapy: A review of the research in Japan. International journal of environmental research and public health, 13(8), pp.781 Tennant, R., Hiller, L., Fishwick, R., Platt, S., Joseph, S., Weich, S., . . . Stewart-Brown, S. (2007) The Warwick-Edinburgh Mental Well-Being Scale (WEMWBS): Development and UK validation. Health and Quality of Life Outcomes, 5(1), pp.63-",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "63.",
+   "page": 15
+  },
+  {
+   "label": "list_item",
+   "text": "Währborg, P., Petersson, I.F. and Grahn, P., (2014) Nature-assisted rehabilitation for reactions to severe stress and/or depression in a rehabilitation garden: Long-term follow-up including comparisons with a matched population-based reference cohort. Journal of rehabilitation medicine, 46(3), pp.271-276.",
+   "page": 16
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Watson, D., Clark, L.A. and Tellegen, A. (1988) Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology, 54(6), pp.1063-1070. World Health Organisation, (2004) Promoting Mental Health concepts, emerging evidence, practice, WHO, Geneva, Austria",
+   "page": 16
+  },
+  {
+   "label": "table",
+   "text": "Table I: Frequency scores for Number of Walks per Week in Nature (During the Past Month), Age, Illness Type, Number of Walks per Week, Type of Walk, Type of Illness, and Duration of Illness (N=50)\nTable I: Frequency scores for Number of Walks per Week in Nature (During the Past Month), Age, Illness Type, Number of Walks per Week, Type of Walk, Type of Illness, and Duration of Illness (N=50)\n\n| Number of walks p/week - in nature (%)   | Number of walks p/week - in nature (%)   | Age (%) - in nature (%)   | Age (%) - in nature (%)   | Illness Type (%) - in nature (%)   | Duration of illness (%) - in nature (%)   | Duration of illness (%) - in nature (%)   |\n|------------------------------------------|------------------------------------------|---------------------------|---------------------------|------------------------------------|-------------------------------------------|-------------------------------------------|\n| once a week                              | 22                                       | 19-25                     | 6                         | anxiety 10                         | less than a year                          | 5                                         |\n| twice a week                             | 16                                       | of 26-35                  | 8                         | depression 17                      | 1-2 years                                 | 5                                         |\n| three times a                            | 4                                        | 36-45                     | 11                        | both 23                            | 3-5 years                                 | 16                                        |\n| Public week                              | Public week                              | Public week               | Public week               | Public week                        | Public week                               | Public week                               |\n| every day                                | 4                                        | 46-55                     | 14                        |                                    | 6-10 years                                | 6                                         |\n| not at all                               | 3                                        | 56-65                     | 10                        | Mental                             | more than 10 years                        | 18                                        |\n| n/a                                      | 1                                        | 65+                       | 1                         |                                    |                                           |                                           |",
+   "page": 17
+  },
+  {
+   "label": "caption",
+   "text": "Table I: Frequency scores for Number of Walks per Week in Nature (During the Past Month), Age, Illness Type, Number of Walks per Week, Type of Walk, Type of Illness, and Duration of Illness (N=50)",
+   "page": 17
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Page 17 of 18",
+   "page": 17
+  },
+  {
+   "label": "table",
+   "text": "Table II: Means and Standard Deviations for Well-Being, CNS, Positive and Negative Affect for the Urban and Nature Walking Activity at Baseline, Post and Follow-up (N=50).\nTable II: Means and Standard Deviations for Well-Being, CNS, Positive and Negative Affect for the Urban and Nature Walking Activity at Baseline, Post and Follow-up (N=50).\n\n| Measure           | Urban              | Condition - Nature   | Total              | t-test   |\n|-------------------|--------------------|----------------------|--------------------|----------|\n| Well-Being        | 43.96 (SD = 12.50) | 44.80 (SD = 11.77)   | 44.38              | .25      |\n| Baseline          |                    |                      | (SD = 12.03)       |          |\n| Well-Being Post   | 49.80 (SD = 10.65) | 53.32                | 51.56              | 1.24     |\n| Journal           | of                 | (SD = 9.35)          | (SD = 10.08)       |          |\n| Well-Being Follow | 42.68 (SD = 3.65)  | 63.44 (SD = 3.65)    | 53.06              | 13.31*   |\n|                   |                    |                      | (SD = 11.82)       |          |\n| CNS Baseline      | 3.20 (SD = .24)    | 3.12 (SD = .33)      | 3.16               | -.95     |\n|                   | Public             |                      | (SD = .29)         |          |\n| CNS Post          | 3.40 (SD = .25)    | 3.86 (SD = .28)      | 3.63               | 6.18*    |\n|                   |                    | Mental               | (SD = .35)         |          |\n| CNS Follow        | 3.34 (SD = .34)    | 4.05 (SD = .21)      | 3.69               | 8.84*    |\n|                   |                    |                      | (SD = .45)         |          |\n| Positive Affect   | 15.12 (SD = 2.05)  | 15.68 (SD = 2.23)    | 15.40              | .93      |\n| Baseline          |                    |                      | (SD = 2.14)        |          |\n| Positive Affect   | 17.88 (SD = 4.28)  | 30.40 (SD = 4.01)    | 24.14              | 10.68*   |\n| Post              |                    |                      | Health (SD = 7.54) |          |\n| Positive Affect   | 28.04 (SD = 3.01)  | 36.88 (SD = 2.14)    | 32.46              | 11.96*   |\n| Follow            |                    |                      | (SD = 5.26)        |          |\n| Negative Affect   | 43.76 (SD = 4.49)  | 42.60 (SD = 4.37)    | 43.18              | -.93     |\n| Baseline          |                    |                      | (SD = 4.42)        |          |",
+   "page": 18
+  },
+  {
+   "label": "caption",
+   "text": "Table II: Means and Standard Deviations for Well-Being, CNS, Positive and Negative Affect for the Urban and Nature Walking Activity at Baseline, Post and Follow-up (N=50).",
+   "page": 18
+  },
+  {
+   "label": "table",
+   "text": "| Negative Affect   | 40.24 (SD = 5.95)   | 29.68 (SD = 5.66)   | 34.96       | -6.43*   |\n|-------------------|---------------------|---------------------|-------------|----------|\n| Post              |                     |                     | (SD = 7.84) |          |\n| Negative Affect   | 20.84 (SD = 4.03)   | 36.60 (SD = 1.68)   | 28.72       | 18.01*   |\n| Follow            |                     |                     | (SD = 8.53) |          |",
+   "page": 19
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health * p<.05",
+   "page": 19
+  },
+  {
+   "label": "section_header",
+   "text": "Glossary of terms",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Analysis of Variance (ANOVA)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Analysis of Co-Variance (ANCOVA)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Multiple Analysis of Variance (MANOVA)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Multiple Analysis of Co-Variance (MANCOVA)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Nature Connectedness (NCx)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Negative Affect (NA)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Positive Affect (PA)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Positive Psychological Intervention (PPI)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "The Connectedness to Nature Scale (CNS)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "The Positive and Negative Affect Schedule (PANAS)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Three Good Things (TGT)",
+   "page": 20
+  },
+  {
+   "label": "text",
+   "text": "Journal of Public Mental Health Cooperation and Working Together (CAWT) The Warwick Edinburgh Mental Well-being Scale (WEMWBS) Three Good Things in Nature (TGTiN)",
+   "page": 20
+  }
+ ]
+}
